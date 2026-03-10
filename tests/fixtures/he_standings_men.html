@@ -1,0 +1,1349 @@
+<!DOCTYPE html>
+<html class="wide wow-animation" lang="en">
+  <head>
+    <!-- Site Title-->
+    <title>2025-26 Hockey East Men's Standings - Hockey East Association</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+     
+	<meta property="og:type" content="website" />
+            
+    <meta property="og:image" content="/img/logo_men.jpg" />
+    
+    <meta property="twitter:image" content="/img/logo_men.jpg" />
+    
+    <meta property="og:description" content="Hockey East Standings" />
+
+    <meta property="og:url" content="https://hockeyeastonline.com/men/standings/index.php" />
+
+    <meta property="og:title" content="2025-26 Hockey East Men's Standings - Hockey East Association" />
+	
+	<!-- Place favicon.ico in the root directory -->
+	 
+    <link rel="icon" type="/image/png" sizes="16x16" href="/images/favicon.png">
+	
+    <!-- Stylesheets-->
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,200;0,300;0,500;0,600;1,300&amp;display=swap">
+    <link rel="stylesheet" href="/css23/bootstrap.css">
+    <link rel="stylesheet" href="/css23/style.css">
+	<link rel="stylesheet" href="/css23/shared.css">
+	<link rel="stylesheet" href="/css23/stats.css">
+	<link rel="stylesheet" href="/css23/chn.css">
+	
+	
+	<!-- our project just needs Font Awesome Solid + Brands -->
+  <link href="/fa23/css/fontawesome.css" rel="stylesheet">
+  <link href="/fa23/css/brands.css" rel="stylesheet">
+  <link href="/fa23/css/solid.css" rel="stylesheet">
+	
+	
+	<style>
+	
+
+table.data tbody tr:nth-child(2n) td {
+    background: #efefef;
+}
+
+ 
+.data {
+	max-width: 100%;
+}
+
+table.data {
+    min-width: 100%;
+	border: 1px solid #000
+}
+table.data td {
+    font-size: 20px;
+    padding: 10px 10px;
+    font-family: "Open Sans", sans-serif;
+	border-bottom: 1px solid #aaa;
+	color: #000000;
+	
+}
+
+
+table.data th {
+    font-size: 20px;
+    padding: 10px 10px;
+    font-family: "Open Sans", sans-serif;
+	background-color: #003882;
+	color: #fff;
+	border: 1px solid #003882;
+}
+
+
+
+table.h2h {
+    min-width: 100%;
+    border: 1px solid #000;
+}
+
+table.h2h td {
+    font-size: 20px;
+    padding: 10px 10px;
+    font-family: "Open Sans", sans-serif;
+	border-bottom: 1px solid #aaa;
+	color: #000000;
+ 
+}
+table.h2h th {
+    font-size: 20px;
+    padding: 10px 10px;
+    font-family: "Open Sans", sans-serif;
+	background-color: #003882;
+	color: #fff;
+	border: 1px solid #003882;
+}
+
+
+#standings h2 {
+	font: 600 26px/28px "Open Sans", sans-serif;
+    color: #151515;
+    text-transform: uppercase;
+    padding: 2px 14px 8px 14px;
+    text-transform: uppercase;
+	text-align: center;
+}
+
+ 
+
+@media (max-width: 639px) {
+
+td.nomobile, th.nomobile {
+    display: none;
+}
+#standings h2 {
+    display: none;
+}
+table.h2h {
+    display: none;
+}
+}
+
+
+
+    
+ 
+ 
+@media (max-width: 1100px) {
+	
+table.data th {
+    font-size: 18px;
+    padding: 10px 10px;
+}
+
+
+table.data td {
+    font-size: 18px;
+    padding: 10px 10px;
+	
+}
+table.h2h th {
+    font-size: 18px;
+    padding: 10px 10px;
+}
+
+
+table.h2h td {
+    font-size: 18px;
+    padding: 10px 10px;
+	
+}
+}
+
+ 
+@media (max-width: 899px) {
+table.data th {
+    font-size: 16px;
+    padding: 10px 6px;
+}
+
+
+table.data td {
+    font-size: 17px;
+    padding: 10px 6px;
+	color: #131313;
+	
+}
+table.h2h th {
+    font-size: 12px;
+    padding: 10px 6px;
+}
+
+
+table.h2h td {
+    font-size: 12px;
+    padding: 10px 6px;
+	color: #131313;
+	
+}
+.pagetitlelogo {
+  width: 45px;
+}
+}
+
+@media (max-width: 767px) {
+table.data th {
+    font-size: 14px;
+    padding: 10px 4px;
+	font-weight: bold;
+}
+
+
+table.data td {
+    font-size: 14px;
+    padding: 10px 6px;
+	font-weight: bold;
+	
+}
+table.h2h th {
+    font-size: 14px;
+    padding: 10px 6px;
+}
+
+
+table.h2h td {
+    font-size: 14px;
+    padding: 10px 6px;
+	
+}
+
+
+}
+
+ 
+ 
+table.data td:nth-child(2) {
+    text-align: left;
+}
+
+table.data th:nth-child(n+2) {
+    text-align: center;
+}
+
+table.data td:nth-child(n+3) {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+table.h2h tbody tr:nth-child(2n) td {
+    background: #efefef;
+}
+
+
+ 
+table.h2h td:nth-child(n+2) {
+    text-align: center;
+	padding-left: 30px;
+}
+
+table.h2h th:nth-child(n+2) {
+    text-align: center;
+	padding-left: 30px;
+}
+ 
+ 
+@media (max-width: 1100px) {
+	
+table.h2h td:nth-child(n+2) {
+	padding-left: 20px;
+}
+table.h2h th:nth-child(n+2) {
+	padding-left: 20px;
+}
+}
+
+
+
+
+
+.describe {
+    font: 400 16px/24px "Open Sans", sans-serif;
+    color: #000000;
+}
+table.hth td {
+    padding: 10px;
+    border-bottom: 1px solid #666;
+}
+
+
+table.describe {
+    width: 100%;
+    border: 1px solid #333;
+    background-color: #ddd;
+}
+
+table.describe td {
+    padding: 10px;
+    border-bottom: 1px solid #666;
+}
+
+
+
+.stand13 {
+    font: 400 16px/24px "Open Sans", sans-serif;
+    color: #000000;
+}
+
+
+ 
+.pagetitlelogo {
+  margin-right: 10px;
+  width: 102px;
+}
+ 
+</style>
+	
+	
+  </head>
+  <body>
+    <div id="page-loader">
+      <div class="cssload-container">
+        <div class="cssload-speeding-wheel"></div>
+      </div>
+    </div>
+    <!-- Page-->
+    <div class="page">
+      <!-- Page header-->
+
+       <header class="page-header">
+        <!-- RD Navbar-->
+        <div class="rd-navbar-wrap">
+          <nav class="rd-navbar rd-navbar-default novi-bg novi-bg-img" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-sm-device-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-device-layout="rd-navbar-fixed" data-xl-device-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-stick-up-clone="false" data-sm-stick-up="true" data-md-stick-up="true" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true" data-lg-stick-up-offset="120px" data-xl-stick-up-offset="35px" data-xxl-stick-up-offset="35px">
+            <!-- RD Navbar Top Panel-->
+            <div class="rd-navbar-top-panel rd-navbar-search-wrap">
+              <div class="rd-navbar-top-panel__main">
+                <div class="rd-navbar-top-panel__toggle rd-navbar-fixed__element-1 rd-navbar-static--hidden" data-rd-navbar-toggle=".rd-navbar-top-panel__main"><span></span></div>
+                <div class="rd-navbar-top-panel__content">
+                  <div class="rd-navbar-top-panel__left">
+                    <p>&nbsp;</p>
+                  </div>
+                  <div class="rd-navbar-top-panel__right">
+                    <ul class="rd-navbar-items-list">
+                      <li>
+                        <ul class="list-inline-sm">
+                          <li><a class="icon novi-icon icon-sm icon-primary fa-brands fa-facebook" href="https://www.facebook.com/HockeyEast"></a></li>
+                          <li><a class="icon novi-icon icon-sm icon-primary fa-brands fa-x-twitter" href="http://twitter.com/hockey_east"></a></li>
+                          <li><a class="icon novi-icon icon-sm icon-primary fa-brands fa-instagram" href="https://www.instagram.com/hockey_east/"></a></li>
+						  <li><a class="icon novi-icon icon-sm icon-primary fa-brands fa-threads" href="https://www.threads.net/@hockey_east"></a></li>
+                          <li><a class="icon novi-icon icon-sm icon-primary fa-brands fa-youtube" href="http://www.youtube.com/user/hockeyeastonline"></a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="rd-navbar-inner">
+              <!-- RD Navbar Panel-->
+              <div class="rd-navbar-panel">
+                <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+                <!-- RD Navbar Brand-->
+                <div class="rd-navbar-brand">
+                  <!-- Brand--><a class="brand" href="/index.php"><img class="brand-logo-dark" src="/images/design23/healogo-300-white.png" alt="Hockey East" width="140"/><img class="brand-logo-light" src="/images/design23/healogo-300-white.png" alt="Hockey East" width="140"/></a>
+                </div>
+              </div>
+              <!-- RD Navbar Nav-->
+              <div class="rd-navbar-nav-wrap">
+                <ul class="rd-navbar-nav">
+
+                  <li class="rd-nav-item"><a class="rd-nav-link" href="/media/watch-hockey-east-games.php">Watch</a>
+                  </li>
+				  
+                  <li class="rd-nav-item"><a class="rd-nav-link" href="/menu/teams.php">Teams</a>
+                    <ul class="rd-menu rd-navbar-megamenu">
+                      <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">MEN'S LEAGUE</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/hockey-east/contact-mens-coaches.php">CONTACT MEN'S COACHES</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/boston-college/index.php">BOSTON COLLEGE</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/boston-university/index.php">BOSTON UNIVERSITY</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/uconn/index.php">UCONN</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/maine/index.php">MAINE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/massachusetts/index.php">MASSACHUSETTS</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/umass-lowell/index.php">UMASS LOWELL</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/merrimack/index.php">MERRIMACK</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/new-hampshire/index.php">NEW HAMPSHIRE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/northeastern/index.php">NORTHEASTERN</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/providence/index.php">PROVIDENCE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/vermont/index.php">VERMONT</a></li>
+                        </ul>
+                      </li>
+                      <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">WOMEN'S LEAGUE</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/hockey-east/contact-womens-coaches.php">CONTACT WOMEN'S COACHES</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/boston-college/index.php">BOSTON COLLEGE</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/boston-university/index.php">BOSTON UNIVERSITY</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/uconn/index.php">UCONN</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/holy-cross/index.php">HOLY CROSS</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/maine/index.php">MAINE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/merrimack/index.php">MERRIMACK</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/new-hampshire/index.php">NEW HAMPSHIRE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/northeastern/index.php">NORTHEASTERN</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/providence/index.php">PROVIDENCE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/vermont/index.php">VERMONT</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="rd-nav-item"><a class="rd-nav-link" href="/menu/standings.php">Standings</a>
+                    <ul class="rd-menu rd-navbar-megamenu">
+                      <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">MEN'S LEAGUE</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/standings/index.php">MEN'S STANDINGS</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/against-the-rest.php">MEN'S AGAINST THE REST</a></li>
+                        </ul>
+                      </li>
+                      <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">WOMEN'S LEAGUE</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/standings/index.php">WOMEN'S STANDINGS</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/against-the-rest.php">WOMEN'S AGAINST THE REST</a></li>
+                        </ul>
+                      </li>
+					  <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">NATIONAL</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/national-polls.php">MEN'S NATIONAL POLLS</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/national-polls.php">WOMEN'S NATIONAL POLLS</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="rd-nav-item"><a class="rd-nav-link" href="/menu/statistics.php">Stats</a>
+                    <ul class="rd-menu rd-navbar-megamenu">
+                      <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">HOCKEY EAST STATS</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/statistics/index.php">MEN'S STATISTICS</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/statistics/index.php">WOMEN'S STATISTICS</a></li>
+                        </ul>
+                      </li>
+                      <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">MEN'S TEAM STATS</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/boston-college/2025-26-statistics.php">BOSTON COLLEGE</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/boston-university/2025-26-statistics.php">BOSTON UNIVERSITY</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/uconn/2025-26-statistics.php">UCONN</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/maine/2025-26-statistics.php">MAINE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/massachusetts/2025-26-statistics.php">MASSACHUSETTS</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/umass-lowell/2025-26-statistics.php">UMASS LOWELL</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/merrimack/2025-26-statistics.php">MERRIMACK</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/new-hampshire/2025-26-statistics.php">NEW HAMPSHIRE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/northeastern/2025-26-statistics.php">NORTHEASTERN</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/providence/2025-26-statistics.php">PROVIDENCE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/vermont/2025-26-statistics.php">VERMONT</a></li>
+                        </ul>
+                      </li>
+                      <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">WOMEN'S TEAM STATS</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/boston-college/2025-26-statistics.php">BOSTON COLLEGE</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/boston-university/2025-26-statistics.php">BOSTON UNIVERSITY</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/uconn/2025-26-statistics.php">UCONN</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/holy-cross/2025-26-statistics.php">HOLY CROSS</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/maine/2025-26-statistics.php">MAINE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/merrimack/2025-26-statistics.php">MERRIMACK</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/new-hampshire/2025-26-statistics.php">NEW HAMPSHIRE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/northeastern/2025-26-statistics.php">NORTHEASTERN</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/providence/2025-26-statistics.php">PROVIDENCE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/vermont/2025-26-statistics.php">VERMONT</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="rd-nav-item"><a class="rd-nav-link" href="/menu/schedules.php">Schedules</a>
+                    <ul class="rd-menu rd-navbar-megamenu">
+                      <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">HOCKEY EAST SCHEDULES</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/schedule/index.php">MEN'S COMPOSITE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/schedule/weekly.php">MEN'S WEEKLY SCHEDULE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/gameday/index.php">MEN'S GAMEDAY/SCOREBOARD</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/schedule/national-scoreboard.php">MEN'S NATIONAL SCOREBOARD</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/schedule/index.php">WOMEN'S COMPOSITE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/schedule/weekly.php">WOMEN'S WEEKLY SCHEDULE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/gameday/index.php">WOMEN'S GAMEDAY/SCOREBOARD</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/schedule/national-scoreboard.php">WOMEN'S NATIONAL SCOREBOARD</a></li>
+                        </ul>
+                      </li>
+                      <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">MEN'S TEAM SCHEDULES</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/boston-college/2025-26-schedule.php">BOSTON COLLEGE</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/boston-university/2025-26-schedule.php">BOSTON UNIVERSITY</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/uconn/2025-26-schedule.php">UCONN</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/maine/2025-26-schedule.php">MAINE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/massachusetts/2025-26-schedule.php">MASSACHUSETTS</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/umass-lowell/2025-26-schedule.php">UMASS LOWELL</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/merrimack/2025-26-schedule.php">MERRIMACK</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/new-hampshire/2025-26-schedule.php">NEW HAMPSHIRE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/northeastern/2025-26-schedule.php">NORTHEASTERN</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/providence/2025-26-schedule.php">PROVIDENCE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/vermont/2025-26-schedule.php">VERMONT</a></li>
+                        </ul>
+                      </li>
+                      <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">WOMEN'S TEAM SCHEDULES</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/boston-college/2025-26-schedule.php">BOSTON COLLEGE</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/boston-university/2025-26-schedule.php">BOSTON UNIVERSITY</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/uconn/2025-26-schedule.php">UCONN</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/holy-cross/2025-26-schedule.php">HOLY CROSS</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/maine/2025-26-schedule.php">MAINE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/merrimack/2025-26-schedule.php">MERRIMACK</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/new-hampshire/2025-26-schedule.php">NEW HAMPSHIRE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/northeastern/2025-26-schedule.php">NORTHEASTERN</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/providence/2025-26-schedule.php">PROVIDENCE</a></li>
+						  <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/vermont/2025-26-schedule.php">VERMONT</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="rd-nav-item"><a class="rd-nav-link" href="/menu/postseason.php">Postseason</a>
+                    <ul class="rd-menu rd-navbar-megamenu">
+                      <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">MEN'S POSTSEASON</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/hockey-east-tournament/index.php">HOCKEY EAST TOURNAMENT HOME PAGE</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/hockey-east-tournament/tournament-history.php">HOCKEY EAST TOURNAMENT HISTORY</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/hockey-east-tournament/tournament-records.php">HOCKEY EAST TOURNAMENT RECORDS</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/men/hockey-east-tournament/hockey-east-and-the-ncaa-tournament.php">HOCKEY EAST AND THE NCAA TOURNAMENT</a></li>
+                        </ul>
+                      </li>
+                      <li class="rd-megamenu-item">
+                        <p class="rd-megamenu-header">WOMEN'S POSTSEASON</p>
+                        <ul class="rd-megamenu-list">
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/hockey-east-tournament/index.php">HOCKEY EAST TOURNAMENT HOME PAGE</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/hockey-east-tournament/tournament-history.php">HOCKEY EAST TOURNAMENT HISTORY</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/hockey-east-tournament/tournament-records.php">HOCKEY EAST TOURNAMENT RECORDS</a></li>
+                          <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/women/hockey-east-tournament/hockey-east-and-the-ncaa-tournament.php">HOCKEY EAST AND THE NCAA TOURNAMENT</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                 <li class="rd-nav-item"><a class="rd-nav-link" href="/menu/media.php">Media</a>
+                    <ul class="rd-menu rd-navbar-dropdown">
+                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/media/index.php">PRESS RELEASES</a>
+                      </li>
+					  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.youtube.com/playlist?list=PLnWPlhWRp7QvHqkAALVXZuAn7rW9WuhxE">THIS WEEK IN HOCKEY EAST</a>
+                      </li>
+					  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.youtube.com/playlist?list=PLnWPlhWRp7QvHqkAALVXZuAn7rW9WuhxE">PLAYS OF THE WEEK</a>
+                      </li>
+					  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://issuu.com/hockeyeast/docs/hemagpagesfinal">HOCKEY EAST MAGAZINE</a>
+                      </li>
+                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/men/media/media-guide.php">MEN'S MEDIA GUIDE</a>
+                      </li>
+                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/women/media/media-guide.php">WOMEN'S MEDIA GUIDE</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="rd-nav-item"><a class="rd-nav-link" href="/menu/about.php">About</a>
+                    <ul class="rd-menu rd-navbar-dropdown">
+                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/men/hockey-east/index.php">ABOUT THE HOCKEY EAST MEN'S LEAGUE</a>
+                      </li>
+                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/women/hockey-east/index.php">ABOUT THE HOCKEY EAST WOMEN'S LEAGUE</a>
+                      </li>
+					  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/hockey-east/commissioner-metcalf.php">COMMISSIONER METCALF</a>
+                      </li>
+					  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/hockey-east/hockey-east-staff.php">HOCKEY EAST STAFF</a>
+                      </li>
+					  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/men/hockey-east/history-and-records.php">MEN'S HISTORY AND RECORDS</a>
+                      </li>
+					  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/women/hockey-east/history-and-records.php">WOMEN'S HISTORY AND RECORDS</a>
+                      </li>
+					  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/hockey-east/partners-and-sponsors.php">PARTNERS AND SPONSORS</a>
+                      </li>
+					  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/pdf/hockey-east-strategic-plan.pdf">STRATEGIC PLAN (.PDF)</a>
+                      </li>
+
+                    </ul>
+                  </li>
+ 
+
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>
+
+ 
+
+ 
+
+
+<!-- Standings Section-->
+      <section>
+        <div class="container">
+            <div class="s-row">
+                <div class="s-col mt-30 mb-30">
+                    <div class="s-row s-row-1 main-section">
+
+                        
+           <div class="col-12s">				
+		
+		          
+		              
+				      <!-- Menu Section Start -->
+    
+		            <ul class="list-inline list-inline-xs list-inline-middle">
+                          <li>
+                            <select name="menu1" id="menu1" class="list-inline-xs">
+<option value="#">Standings Archive</option>
+<option value="index.php">2025-26</option>
+<option value="2024-25-hockey-east-standings.php">2024-25</option>
+<option value="2023-24-hockey-east-standings.php">2023-24</option>
+<option value="2022-23-hockey-east-standings.php">2022-23</option>
+<option value="2021-22-hockey-east-standings.php">2021-22</option>
+<option value="2020-21-hockey-east-standings.php">2020-21</option>
+<option value="2019-20-hockey-east-standings.php">2019-20</option>
+<option value="2018-19-hockey-east-standings.php">2018-19</option>
+<option value="2017-18-hockey-east-standings.php">2017-18</option>
+<option value="2016-17-hockey-east-standings.php">2016-17</option>
+<option value="2015-16-hockey-east-standings.php">2015-16</option>
+<option value="2014-15-hockey-east-standings.php">2014-15</option>
+<option value="2013-14-hockey-east-standings.php">2013-14</option>
+<option value="2012-13-hockey-east-standings.php">2012-13</option>
+<option value="2011-12-hockey-east-standings.php">2011-12</option>
+<option value="2010-11-hockey-east-standings.php">2010-11</option>
+<option value="2009-10-hockey-east-standings.php">2009-10</option>
+<option value="2008-09-hockey-east-standings.php">2008-09</option>
+<option value="2007-08-hockey-east-standings.php">2007-08</option>
+<option value="2006-07-hockey-east-standings.php">2006-07</option>
+<option value="2005-06-hockey-east-standings.php">2005-06</option>
+<option value="2004-05-hockey-east-standings.php">2004-05</option>
+<option value="2003-04-hockey-east-standings.php">2003-04</option>
+<option value="2002-03-hockey-east-standings.php">2002-03</option>
+<option value="2001-02-hockey-east-standings.php">2001-02</option>
+<option value="2000-01-hockey-east-standings.php">2000-01</option>
+<option value="1999-2000-hockey-east-standings.php">1999-2000</option>
+<option value="1998-99-hockey-east-standings.php">1998-99</option>
+<option value="1997-98-hockey-east-standings.php">1997-98</option>
+<option value="1996-97-hockey-east-standings.php">1996-97</option>
+<option value="1995-96-hockey-east-standings.php">1995-96</option>
+<option value="1994-95-hockey-east-standings.php">1994-95</option>
+<option value="1993-94-hockey-east-standings.php">1993-94</option>
+<option value="1992-93-hockey-east-standings.php">1992-93</option>
+<option value="1991-92-hockey-east-standings.php">1991-92</option>
+<option value="1990-91-hockey-east-standings.php">1990-91</option>
+<option value="1989-90-hockey-east-standings.php">1989-90</option>
+<option value="1988-89-hockey-east-standings.php">1988-89</option>
+<option value="1987-87-hockey-east-standings.php">1987-88</option>
+<option value="1986-87-hockey-east-standings.php">1986-87</option>
+<option value="1985-86-hockey-east-standings.php">1985-86</option>
+<option value="1984-85-hockey-east-standings.php">1984-85</option>
+</select>
+<script type="text/javascript">
+ var urlmenu = document.getElementById( 'menu1' );
+urlmenu.onchange = function() {
+  window.open( this.options[ this.selectedIndex ].value, '_self');
+};
+</script>
+                          </li>
+                        </ul>
+		<!-- Menu Section End -->
+		
+		
+		
+                        <p class="press-release-title"><a href="https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/rotc?iom=KC78-18EV-R1NA-BN-XXX-XX-XXX-U2-XX-X-RT1"><img src="/images/sponsors/armyrotc_small.gif" alt="Hockey East" class="pagetitlelogo" border="0"></a>2025-26 Army ROTC Men's Standings</p>
+						
+		
+	<div class="main-content">		
+	   
+<div id="standings">			
+		  
+                <table class="data">
+<tr class="nohomepage">
+	<th></th>
+	<th></th>
+	<th colspan="10">Conference</th>
+	<th class="nomobile"></th>
+	<th class="nomobile" colspan="6">Overall</th>
+</tr>
+<tr>
+	<th class="nomobile"></th>
+	<th></th>
+	<th>GP</th>
+		<th>PTS</th>
+	<th>W</th>
+	<th>L</th>
+	<th>T</th>
+	<th>OW</th>
+	<th>OL</th>
+	<th>SW</th>
+	<th class="nomobile">GF</th>
+	<th class="nomobile">GA</th>
+	<th class="nomobile"></th>
+	<th class="nomobile">GP</th>
+	<th class="nomobile">W</th>
+	<th class="nomobile">L</th>
+	<th class="nomobile">T</th>
+	<th class="nomobile">GF</th>
+	<th class="nomobile">GA</th>
+</tr>
+<tr>
+	<td class="nomobile">1</td>
+	<td>Providence</td>
+	<td>24</td>
+		<td>54</td>
+	<td>18</td>
+	<td>5</td>
+	<td>1</td>
+			<td>2</td>
+	<td>1</td>
+		<td>0</td>
+	<td class="nomobile">86</td>
+	<td class="nomobile">46</td>
+	<td class="nomobile"></td>
+	<td class="nomobile">34</td>
+	<td class="nomobile">23</td>
+	<td class="nomobile">9</td>
+	<td class="nomobile">2</td>
+	<td class="nomobile">116</td>
+	<td class="nomobile">74</td>
+</tr>
+<tr>
+	<td class="nomobile">2</td>
+	<td>Massachusetts</td>
+	<td>24</td>
+		<td>43</td>
+	<td>14</td>
+	<td>9</td>
+	<td>1</td>
+			<td>2</td>
+	<td>1</td>
+		<td>1</td>
+	<td class="nomobile">63</td>
+	<td class="nomobile">53</td>
+	<td class="nomobile"></td>
+	<td class="nomobile">34</td>
+	<td class="nomobile">21</td>
+	<td class="nomobile">12</td>
+	<td class="nomobile">1</td>
+	<td class="nomobile">97</td>
+	<td class="nomobile">80</td>
+</tr>
+<tr>
+	<td class="nomobile">3</td>
+	<td>UConn</td>
+	<td>24</td>
+		<td>41</td>
+	<td>12</td>
+	<td>9</td>
+	<td>3</td>
+			<td>1</td>
+	<td>1</td>
+		<td>2</td>
+	<td class="nomobile">73</td>
+	<td class="nomobile">59</td>
+	<td class="nomobile"></td>
+	<td class="nomobile">34</td>
+	<td class="nomobile">18</td>
+	<td class="nomobile">11</td>
+	<td class="nomobile">5</td>
+	<td class="nomobile">105</td>
+	<td class="nomobile">80</td>
+</tr>
+<tr>
+	<td class="nomobile">4</td>
+	<td>Boston College</td>
+	<td>24</td>
+		<td>39</td>
+	<td>13</td>
+	<td>11</td>
+	<td>0</td>
+			<td>1</td>
+	<td>1</td>
+		<td>0</td>
+	<td class="nomobile">69</td>
+	<td class="nomobile">59</td>
+	<td class="nomobile"></td>
+	<td class="nomobile">34</td>
+	<td class="nomobile">19</td>
+	<td class="nomobile">14</td>
+	<td class="nomobile">1</td>
+	<td class="nomobile">108</td>
+	<td class="nomobile">88</td>
+</tr>
+<tr>
+	<td class="nomobile">5</td>
+	<td>Maine</td>
+	<td>24</td>
+		<td>36</td>
+	<td>12</td>
+	<td>11</td>
+	<td>1</td>
+			<td>3</td>
+	<td>2</td>
+		<td>0</td>
+	<td class="nomobile">76</td>
+	<td class="nomobile">69</td>
+	<td class="nomobile"></td>
+	<td class="nomobile">34</td>
+	<td class="nomobile">18</td>
+	<td class="nomobile">13</td>
+	<td class="nomobile">3</td>
+	<td class="nomobile">116</td>
+	<td class="nomobile">91</td>
+</tr>
+<tr>
+	<td class="nomobile">6</td>
+	<td>Boston University</td>
+	<td>24</td>
+		<td>35</td>
+	<td>12</td>
+	<td>12</td>
+	<td>0</td>
+			<td>3</td>
+	<td>2</td>
+		<td>0</td>
+	<td class="nomobile">69</td>
+	<td class="nomobile">74</td>
+	<td class="nomobile"></td>
+	<td class="nomobile">34</td>
+	<td class="nomobile">16</td>
+	<td class="nomobile">16</td>
+	<td class="nomobile">2</td>
+	<td class="nomobile">98</td>
+	<td class="nomobile">104</td>
+</tr>
+<tr>
+	<td class="nomobile"></td>
+	<td>Northeastern</td>
+	<td>24</td>
+		<td>35</td>
+	<td>11</td>
+	<td>13</td>
+	<td>0</td>
+			<td>1</td>
+	<td>3</td>
+		<td>0</td>
+	<td class="nomobile">67</td>
+	<td class="nomobile">62</td>
+	<td class="nomobile"></td>
+	<td class="nomobile">34</td>
+	<td class="nomobile">16</td>
+	<td class="nomobile">17</td>
+	<td class="nomobile">1</td>
+	<td class="nomobile">90</td>
+	<td class="nomobile">84</td>
+</tr>
+<tr>
+	<td class="nomobile">8</td>
+	<td>Merrimack</td>
+	<td>24</td>
+		<td>34</td>
+	<td>10</td>
+	<td>12</td>
+	<td>2</td>
+			<td>0</td>
+	<td>1</td>
+		<td>1</td>
+	<td class="nomobile">68</td>
+	<td class="nomobile">75</td>
+	<td class="nomobile"></td>
+	<td class="nomobile">34</td>
+	<td class="nomobile">17</td>
+	<td class="nomobile">15</td>
+	<td class="nomobile">2</td>
+	<td class="nomobile">109</td>
+	<td class="nomobile">101</td>
+</tr>
+<tr>
+	<td class="nomobile">9</td>
+	<td>UMass Lowell</td>
+	<td>24</td>
+		<td>28</td>
+	<td>9</td>
+	<td>15</td>
+	<td>0</td>
+			<td>1</td>
+	<td>2</td>
+		<td>0</td>
+	<td class="nomobile">66</td>
+	<td class="nomobile">80</td>
+	<td class="nomobile"></td>
+	<td class="nomobile">34</td>
+	<td class="nomobile">13</td>
+	<td class="nomobile">21</td>
+	<td class="nomobile">0</td>
+	<td class="nomobile">88</td>
+	<td class="nomobile">109</td>
+</tr>
+<tr>
+	<td class="nomobile">10</td>
+	<td>New Hampshire</td>
+	<td>24</td>
+		<td>26</td>
+	<td>8</td>
+	<td>15</td>
+	<td>1</td>
+			<td>0</td>
+	<td>0</td>
+		<td>1</td>
+	<td class="nomobile">41</td>
+	<td class="nomobile">73</td>
+	<td class="nomobile"></td>
+	<td class="nomobile">34</td>
+	<td class="nomobile">14</td>
+	<td class="nomobile">19</td>
+	<td class="nomobile">1</td>
+	<td class="nomobile">65</td>
+	<td class="nomobile">98</td>
+</tr>
+<tr>
+	<td class="nomobile">11</td>
+	<td>Vermont</td>
+	<td>24</td>
+		<td>25</td>
+	<td>8</td>
+	<td>15</td>
+	<td>1</td>
+			<td>0</td>
+	<td>0</td>
+		<td>0</td>
+	<td class="nomobile">55</td>
+	<td class="nomobile">83</td>
+	<td class="nomobile"></td>
+	<td class="nomobile">34</td>
+	<td class="nomobile">13</td>
+	<td class="nomobile">20</td>
+	<td class="nomobile">1</td>
+	<td class="nomobile">72</td>
+	<td class="nomobile">111</td>
+</tr>
+</table>
+
+<table class="describe">
+<tr>
+<td>Beginning in 2020-21, the Hockey Commissioners Association agreed all leagues that utilize shootouts will use the same system point system to calculate standings after the NCAA mandated 3-on-3 overtime for all games. Additionally, all conferences and media outlets are recommended to use the same standings table.<br><br>
+All conference games are worth three points. The points are awarded as follows:<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 for a regulation win<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 for an overtime win or shootout "win"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 for an overtime or shootout "loss"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 for a regulation loss <br><br>
+While nearly every Division I college conference now uses shootouts to break ties after overtime is played, the NCAA uses W-L-T for record keeping and does not recognize shootout "wins" as wins. A game is considered a "tie" for both team and coach historical records after overtime ends without a goal scored. Shootouts are used only to determine points in league standings. For this reason, records will continue to be displayed as W-L-T with OW-OL-SW following to display total point calculations. The OW-OL-SW records are accounted for in the W-L-T record.
+</td>
+</tr>
+</table>
+<hr> 
+
+<h2>Head-to-head Records</h2>
+
+<table class="h2h">
+<tr>
+	<th>Team</th><th>BC</th><th>BU</th><th>CON</th><th>MER</th><th>MNE</th><th>NOE</th><th>PRV</th><th>UMA</th><th>UML</th><th>UNH</th><th>VER</th></tr>
+<tr>
+	<td>Boston College</td>
+		<!--<td> --- </td>-->
+	<td> --- </td>
+		<!--<td>2-2-0</td>-->
+	<td>2-2-0</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>0-3-0</td>-->
+	<td>0-3-0</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>2-1-0</td>-->
+	<td>2-1-0</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>2-1-0</td>-->
+	<td>2-1-0</td>
+	</tr>
+<tr>
+	<td>Boston University</td>
+		<!--<td>2-2-0</td>-->
+	<td>2-2-0</td>
+		<!--<td> --- </td>-->
+	<td> --- </td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>1-2-0</td>-->
+	<td>1-2-0</td>
+		<!--<td>2-1-1</td>-->
+	<td>2-1-1</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>1-2-0</td>-->
+	<td>1-2-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+	</tr>
+<tr>
+	<td>UConn</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td> --- </td>-->
+	<td> --- </td>
+		<!--<td>3-0-0</td>-->
+	<td>3-0-0</td>
+		<!--<td>1-0-1</td>-->
+	<td>1-0-1</td>
+		<!--<td>3-0-0</td>-->
+	<td>3-0-0</td>
+		<!--<td>0-2-1</td>-->
+	<td>0-2-1</td>
+		<!--<td>0-1-1</td>-->
+	<td>0-1-1</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>2-1-0</td>-->
+	<td>2-1-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+	</tr>
+<tr>
+	<td>Merrimack</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>0-3-0</td>-->
+	<td>0-3-0</td>
+		<!--<td> --- </td>-->
+	<td> --- </td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>2-1-0</td>-->
+	<td>2-1-0</td>
+		<!--<td>2-0-1</td>-->
+	<td>2-0-1</td>
+		<!--<td>2-0-1</td>-->
+	<td>2-0-1</td>
+	</tr>
+<tr>
+	<td>Maine</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>2-1-0</td>-->
+	<td>2-1-0</td>
+		<!--<td>0-1-1</td>-->
+	<td>0-1-1</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td> --- </td>-->
+	<td> --- </td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>0-3-0</td>-->
+	<td>0-3-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>3-0-0</td>-->
+	<td>3-0-0</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>1-2-0</td>-->
+	<td>1-2-0</td>
+	</tr>
+<tr>
+	<td>Northeastern</td>
+		<!--<td>3-0-0</td>-->
+	<td>3-0-0</td>
+		<!--<td>1-2-1</td>-->
+	<td>1-2-1</td>
+		<!--<td>0-3-0</td>-->
+	<td>0-3-0</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td> --- </td>-->
+	<td> --- </td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>2-2-0</td>-->
+	<td>2-2-0</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+	</tr>
+<tr>
+	<td>Providence</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>2-0-1</td>-->
+	<td>2-0-1</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>3-0-0</td>-->
+	<td>3-0-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td> --- </td>-->
+	<td> --- </td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>2-1-0</td>-->
+	<td>2-1-0</td>
+		<!--<td>3-0-0</td>-->
+	<td>3-0-0</td>
+	</tr>
+<tr>
+	<td>Massachusetts</td>
+		<!--<td>1-2-0</td>-->
+	<td>1-2-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>1-0-1</td>-->
+	<td>1-0-1</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>2-2-0</td>-->
+	<td>2-2-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td> --- </td>-->
+	<td> --- </td>
+		<!--<td>2-1-0</td>-->
+	<td>2-1-0</td>
+		<!--<td>2-1-0</td>-->
+	<td>2-1-0</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+	</tr>
+<tr>
+	<td>UMass Lowell</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>2-1-0</td>-->
+	<td>2-1-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>1-2-0</td>-->
+	<td>1-2-0</td>
+		<!--<td>0-3-0</td>-->
+	<td>0-3-0</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>1-2-0</td>-->
+	<td>1-2-0</td>
+		<!--<td> --- </td>-->
+	<td> --- </td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+	</tr>
+<tr>
+	<td>New Hampshire</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>1-2-0</td>-->
+	<td>1-2-0</td>
+		<!--<td>0-2-1</td>-->
+	<td>0-2-1</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>1-2-0</td>-->
+	<td>1-2-0</td>
+		<!--<td>1-2-0</td>-->
+	<td>1-2-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td> --- </td>-->
+	<td> --- </td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+	</tr>
+<tr>
+	<td>Vermont</td>
+		<!--<td>1-2-0</td>-->
+	<td>1-2-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td>0-2-1</td>-->
+	<td>0-2-1</td>
+		<!--<td>2-1-0</td>-->
+	<td>2-1-0</td>
+		<!--<td>2-0-0</td>-->
+	<td>2-0-0</td>
+		<!--<td>0-3-0</td>-->
+	<td>0-3-0</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>0-2-0</td>-->
+	<td>0-2-0</td>
+		<!--<td>1-1-0</td>-->
+	<td>1-1-0</td>
+		<!--<td> --- </td>-->
+	<td> --- </td>
+	</tr>
+</table>
+
+</div>		
+		 
+				  <hr>
+				  
+				  
+				  
+				  
+				  <table class="hth">
+ 
+
+                    <tr>
+                       <td colspan="14" bgcolor="#DDDDDD" class="stand13"><div align="center"><span class="chs16headers"><strong>HOCKEY EAST TIEBREAKERS<br>
+(Only Applied At End Of Regular Season)</strong></span> </div>
+             <br />
+			 
+			 
+              Seeding of teams for the Hockey East Tournament will be determined by the Hockey East standings upon the conclusion of the regular season. If two or more teams are tied for first in points for the regular-season championship, they will be considered co-regular season champions.
+<br><br>
+Three points will be awarded after each Hockey East conference game in the following manner:
+<br><br>
+Three points for a win in regulation.<br>
+Two points for an overtime or shootout win.<br>
+One point for an overtime or shootout loss.<br>
+Zero points for a regulation loss. <br><br>
+<em><strong>POSTPONEMENT/CANCELLATION OF GAMES: FINAL STANDINGS</strong><br>
+If, after all reasonable efforts are put forth to re-schedule games and a complete league schedule cannot be completed, the Commissioner, in concert with the appropriate Executive Committee, may determine that the standings will be determined not by points but by points percentage.</em> <br><br>
+Tiebreaking procedures:<br><br>
+Three-on-three overtime and shootout results will only be considered when breaking ties between two teams. When ties involve three or more teams, overtime and shootout results will not be used to break ties for Hockey East Tournament seeding.<br><br>
+In the event one or more teams are tied with the same number of points (or points percentage if applicable) at the end of the regular season, seeding for the Hockey East Tournament will be determined according to the following procedures, applied successively until each tie is broken:<br><br>
+1.	If only two teams are tied, best head-to-head points percentage. If more than two teams are tied, move to criterion 2.<br><br>
+2.	Best regulation winning percentage in all conference games;<br><br>
+3.	Greatest number of regulation wins in all conference games (See note below);<br><br>
+4.	Best regulation winning percentage against other teams currently included in the tie;<br><br>
+5.	Best regulation winning percentage against the highest ranked Hockey East teams, successively, until the tie is broken or all Hockey East regular-season contests have been considered;<br><br>
+6.	Greatest goal differential in regulation play against other teams currently included in the tie;<br><br>
+7.	Coin flip<br><br>
+In the case of ties among three or more schools, the criteria will be used in order until the top team or teams are separated from the rest. At that point, the process will begin anew to break the “new” tie(s) with all remaining teams. In other words, when a four-way tie becomes a three-way tie, the three-way tie is treated as a “new” tie and the process begins with the first criterion.<br><br>
+<strong>Note:</strong> If the final standings are determined by points percentage due to an incomplete league schedule, criterion #2 (greatest number of regulation wins in all conference games) shall apply only in situations unaffected by any unplayed contests. If the possible outcomes of any unplayed contests could alter the results of the comparisons, then criterion #2 shall not apply and the tiebreaker shall proceed through the remaining criteria.<br><br>
+Example #1: Team A played all scheduled games and has 15 regulation wins.  Team B missed two scheduled contests and has 12 regulation wins.  Since Team A would have more regulation wins regardless of what may have happened in the unplayed contests Team A wins the tiebreaker.<br><br>
+Example #2: Team A played all scheduled games and has 12 regulation wins.  Team B missed one scheduled contest and has 13 regulation wins.  Since Team B has more regulation wins despite the unplayed contest Team B wins the tiebreaker.<br><br>
+Example #3: Team A played all scheduled games and has 13 regulation wins.  Team B missed two scheduled contests and has 12 regulation wins.  Since the missing contests could result in Team B having 12, 13, or 14 regulation wins, criterion #2 shall not apply.<br><br>
+Example #4: Team A missed one scheduled game and has 15 regulation wins.  Team B played all scheduled games and has 13 regulation wins.  Team C missed two scheduled games and has 12 regulation wins.  Since Team A would have more regulation wins regardless of any unplayed contests Team A wins the tiebreaker, and procedures are re-started on the remaining tie between Teams B and C.
+
+			  
+			  
+</td>
+                    </tr>
+      </table>	  
+				  
+			
+			
+	    </div>
+		</div>			
+					
+
+ 		
+			
+			
+            </div>
+        </div>
+        </div>
+    </div>
+      </section>
+
+ 
+
+
+	<!-- google ads start here -->
+
+    &nbsp;
+	<!-- google ads end here -->
+ 
+
+      <!-- Page Footer-->
+
+
+       <footer class="novi-bg novi-bg-img footer-minimal bg-dark">
+        <div class="container">
+          <ul class="list-xxs">
+            <li>
+              <a href="/index.php"><img src="/images/design23/healogo-300.png" alt="Hockey East"/></a>
+            </li>
+            <li>
+              <dl class="list-terms-minimal">
+                <dt>Contact</dt>
+                <dd><a href="mailto:info@hockeyeastonline.com">info@hockeyeastonline.com</a></dd>
+              </dl>
+            </li>
+          </ul>
+		  <p class="rights"> Need help with streaming? Follow these links: <a href="https://www.espn.com/espn/news/story?page=contact-index"><u>For ESPN+ Help</u></a> | <a href="https://www.prestosports.com/support"><u>For Stretch Help</u></a></p>
+          <ul class="list-inline-md footer-minimal__list">
+            <li><a class="icon novi-icon icon-md icon-primary fa-brands fa-facebook" href="https://www.facebook.com/HockeyEast"></a></li>
+            <li><a class="icon novi-icon icon-md icon-primary fa-brands fa-x-twitter" href="http://twitter.com/hockey_east"></a></li>
+            <li><a class="icon novi-icon icon-md icon-primary fa-brands fa-instagram" href="https://www.instagram.com/hockey_east/"></a></li>
+			<li><a class="icon novi-icon icon-md icon-primary fa-brands fa-threads" href="https://www.threads.net/@hockey_east"></a></li>
+            <li><a class="icon novi-icon icon-md icon-primary fa-brands fa-youtube" href="http://www.youtube.com/user/hockeyeastonline"></a></li>
+			
+          </ul>
+          <p class="rights"><span>Hockey East Association</span><span>&nbsp;</span><span class="copyright-year"></span>.</p>
+		  <p class="rights"><a href="https://hockeyeastonline.com/hockey-east/partners-and-sponsors.php"><img src="https://hockeyeastonline.com/images/logo-vw.png" alt="Van Wagner"/></a></p>
+        </div>
+      </footer>
+	  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5588816-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-5588816-1');
+</script>
+
+
+    </div>
+
+
+
+    <!-- Global Mailform Output-->
+    <div class="snackbars" id="form-output-global"></div>
+    <!-- Javascript-->
+    <script src="/js23/core.min.js"></script>
+    <script src="/js23/script.js"></script>
+  </body>
+</html>
