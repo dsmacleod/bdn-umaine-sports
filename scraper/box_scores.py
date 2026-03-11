@@ -43,15 +43,23 @@ def _parse_periods(score_by_periods):
 
     result = []
     for entry in score_by_periods:
-        period_num = int(entry.get("period", 0))
+        period_str = str(entry.get("period", "0"))
         score = entry.get("score", "0")
 
-        # Always include regulation periods (1-3)
-        if period_num <= 3:
-            result.append({"period": entry["period"], "score": score})
+        # Determine if this is a regulation period (numeric <= 3)
+        try:
+            period_num = int(period_str)
+            is_regulation = period_num <= 3
+        except ValueError:
+            # Non-numeric like "OT1", "OT2" -- treat as overtime
+            is_regulation = False
+
+        # Always include regulation periods
+        if is_regulation:
+            result.append({"period": period_str, "score": score})
         # Only include OT periods with non-zero scores
         elif score != "0":
-            result.append({"period": entry["period"], "score": score})
+            result.append({"period": period_str, "score": score})
 
     return result
 
@@ -143,7 +151,7 @@ def parse_box_score(data):
             "url": "",
         }
 
-    boxscore = data.get("boxscore", {})
+    boxscore = data.get("boxscore") or {}
 
     return {
         "home": _parse_team(boxscore.get("home")),
