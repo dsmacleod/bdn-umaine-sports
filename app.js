@@ -100,14 +100,11 @@ function Header() {
   return (
     <header className="bg-bdn-green text-white shadow-lg">
       <div className="max-w-6xl mx-auto px-4 py-4 flex items-center gap-3">
-        <svg viewBox="0 0 40 40" className="w-10 h-10 flex-shrink-0" fill="none">
-          <circle cx="20" cy="20" r="19" fill="#f1bc38" stroke="#00331b" strokeWidth="2"/>
-          <path d="M14 12 C14 12 12 18 14 22 C16 26 20 28 20 28 C20 28 24 26 26 22 C28 18 26 12 26 12 C26 12 24 10 20 10 C16 10 14 12 14 12Z" fill="#00331b"/>
-          <circle cx="17" cy="17" r="1.5" fill="white"/>
-          <circle cx="23" cy="17" r="1.5" fill="white"/>
-          <path d="M17 22 Q20 25 23 22" stroke="white" strokeWidth="1.2" fill="none" strokeLinecap="round"/>
-          <path d="M28 11 L32 7 L30 12 L34 10 L31 14" stroke="#f1bc38" strokeWidth="1.5" fill="none" strokeLinecap="round" strokeLinejoin="round"/>
-        </svg>
+        <img
+          src="https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2024/09/Just_BDN_Square-180px.jpg?w=180&ssl=1"
+          alt="Bangor Daily News"
+          className="w-10 h-10 flex-shrink-0 rounded"
+        />
         <div>
           <h1 className="font-heading text-2xl md:text-3xl font-bold tracking-wide">
             Maine Black Bears Sports
