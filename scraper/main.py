@@ -10,6 +10,8 @@ from scraper.config import (
     GOBLACKBEARS_BASE,
     AMERICA_EAST_BASE,
     HOCKEY_EAST_BASE,
+    BDN_BASE,
+    BDN_SPORTS_FEEDS,
     PRIORITY_SPORTS,
     SPORTS,
     USER_AGENT,
@@ -71,7 +73,10 @@ def run():
     # 4. News
     print("4. Fetching news...")
     try:
-        articles = fetch_news(session, GOBLACKBEARS_BASE, PRIORITY_SPORTS)
+        articles = fetch_news(
+            session, GOBLACKBEARS_BASE, PRIORITY_SPORTS,
+            bdn_base=BDN_BASE, bdn_feeds=BDN_SPORTS_FEEDS,
+        )
         _write_json("news.json", {
             "last_updated": now.isoformat(),
             "articles": articles,

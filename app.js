@@ -215,12 +215,22 @@ function NewsStrip({ news }) {
               </div>
             )}
             <div className="p-3">
-              <span className="text-xs font-semibold uppercase tracking-wider text-bdn-green">
-                {article.sport}
-              </span>
+              <div className="flex items-center gap-2">
+                <span className="text-xs font-semibold uppercase tracking-wider text-bdn-green">
+                  {article.sport}
+                </span>
+                {article.source === "bdn" && (
+                  <span className="text-xs px-1.5 py-0.5 bg-bdn-green text-white rounded font-semibold">
+                    BDN
+                  </span>
+                )}
+              </div>
               <h3 className="font-heading text-sm font-semibold text-gray-900 mt-1 line-clamp-2">
                 {article.title}
               </h3>
+              {article.author && (
+                <p className="text-xs text-gray-400 mt-0.5">By {article.author}</p>
+              )}
               <p className="text-xs text-gray-500 mt-1 line-clamp-2">
                 {article.summary}
               </p>

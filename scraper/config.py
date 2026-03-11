@@ -25,4 +25,12 @@ SPORTS = [
     {"sport": "Women's Track & Field", "shortname": "wtrack", "sport_id": None, "slug": "womens-track-and-field", "conference": "america_east", "ae_path": None},
 ]
 
+BDN_BASE = "https://www.bangordailynews.com"
+BDN_SPORTS_FEEDS = [
+    "/category/sports/college-ice-hockey/feed/",
+    "/category/sports/college-basketball/feed/",
+    "/category/sports/college-football/feed/",
+    "/category/sports/feed/",
+]
+
 USER_AGENT = "BDNUMaineSports/1.0 (bangordailynews.com)"

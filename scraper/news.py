@@ -1,9 +1,10 @@
-"""Scrape news articles from GoBlackBears.com RSS feeds.
+"""Scrape news articles from GoBlackBears.com and BDN RSS feeds.
 
 The RSS feeds at goblackbears.com/rss provide news articles with
-media content, sport categories, and publication dates.  This module
-parses the XML into structured article dicts and provides a fetch
-helper that retrieves feeds for multiple sports.
+media content, sport categories, and publication dates.  BDN sports
+category feeds provide professional coverage filtered to UMaine content.
+This module parses the XML into structured article dicts and provides
+fetch helpers that retrieve feeds from both sources.
 """
 
 import re
@@ -12,6 +13,13 @@ import logging
 import feedparser
 
 logger = logging.getLogger(__name__)
+
+# Keywords (lowercase) that indicate UMaine-related BDN articles
+_UMAINE_KEYWORDS = re.compile(
+    r"umaine|black bear|university of maine|america east|hockey east"
+    r"|goblackbears|alfond|orono",
+    re.IGNORECASE,
+)
 
 # Regex to strip <img ...> tags (and self-closing variants) from summaries
 _IMG_TAG_RE = re.compile(r"<img[^>]*>", re.IGNORECASE)
@@ -61,15 +69,16 @@ def _extract_sport(entry):
     return ""
 
 
-def parse_rss(xml):
+def parse_rss(xml, source="goblackbears"):
     """Parse RSS XML into a list of article dicts.
 
     Args:
         xml: Raw XML string from an RSS feed.
+        source: Source identifier ("goblackbears" or "bdn").
 
     Returns:
         list[dict]: Each dict has keys: title, url, summary, image,
-            published, sport.
+            published, sport, source.
     """
     if not xml or not xml.strip():
         return []
@@ -85,60 +94,97 @@ def parse_rss(xml):
             "image": _extract_image(entry),
             "published": entry.get("published", ""),
             "sport": _extract_sport(entry),
+            "source": source,
         }
+        if source == "bdn":
+            article["author"] = entry.get("author", "")
         articles.append(article)
 
     return articles
 
 
-def fetch_news(session, base_url, shortnames):
-    """Fetch news articles from general and sport-specific RSS feeds.
+def _is_umaine_article(article):
+    """Check if a BDN article is UMaine-related by searching title,
+    summary, and sport/category fields."""
+    text = " ".join([
+        article.get("title", ""),
+        article.get("summary", ""),
+        article.get("sport", ""),
+    ])
+    return bool(_UMAINE_KEYWORDS.search(text))
+
+
+def parse_bdn_rss(xml):
+    """Parse BDN RSS XML, keeping only UMaine-related articles.
+
+    Args:
+        xml: Raw XML string from a BDN category feed.
+
+    Returns:
+        list[dict]: UMaine-related article dicts with source="bdn".
+    """
+    all_articles = parse_rss(xml, source="bdn")
+    return [a for a in all_articles if _is_umaine_article(a)]
+
+
+def fetch_news(session, base_url, shortnames, bdn_base=None, bdn_feeds=None):
+    """Fetch news articles from GoBlackBears and BDN RSS feeds.
 
     Retrieves the general feed plus one feed per sport shortname,
-    then deduplicates articles by URL.
+    then optionally fetches BDN category feeds and filters for
+    UMaine-related content.  Deduplicates articles by URL.
 
     Args:
         session: requests.Session with appropriate headers.
         base_url: Base URL (e.g. "https://goblackbears.com").
         shortnames: List of sport shortname strings (e.g. ["mhockey", "wbball"]).
+        bdn_base: BDN base URL (e.g. "https://www.bangordailynews.com").
+        bdn_feeds: List of BDN feed paths (e.g. ["/category/sports/feed/"]).
 
     Returns:
         list[dict]: Deduplicated list of article dicts, newest first.
     """
-    all_xml = []
+    seen_urls = set()
+    articles = []
 
-    # Fetch the general feed (no path filter)
+    def _add(article):
+        if article["url"] and article["url"] not in seen_urls:
+            seen_urls.add(article["url"])
+            articles.append(article)
+
+    # --- GoBlackBears feeds ---
     general_url = f"{base_url}/rss"
     logger.info("Fetching general RSS feed: %s", general_url)
     try:
         resp = session.get(general_url)
         resp.raise_for_status()
-        all_xml.append(resp.text)
+        for a in parse_rss(resp.text, source="goblackbears"):
+            _add(a)
     except Exception:
         logger.exception("Failed to fetch general RSS feed")
 
-    # Fetch sport-specific feeds
     for shortname in shortnames:
         url = f"{base_url}/rss?path={shortname}"
         logger.info("Fetching RSS feed: %s", url)
         try:
             resp = session.get(url)
             resp.raise_for_status()
-            all_xml.append(resp.text)
+            for a in parse_rss(resp.text, source="goblackbears"):
+                _add(a)
         except Exception:
             logger.exception("Failed to fetch RSS feed for %s", shortname)
 
-    # Parse all feeds and deduplicate by URL
-    seen_urls = set()
-    articles = []
+    # --- BDN feeds ---
+    if bdn_base and bdn_feeds:
+        for feed_path in bdn_feeds:
+            url = f"{bdn_base}{feed_path}"
+            logger.info("Fetching BDN feed: %s", url)
+            try:
+                resp = session.get(url)
+                resp.raise_for_status()
+                for a in parse_bdn_rss(resp.text):
+                    _add(a)
+            except Exception:
+                logger.exception("Failed to fetch BDN feed: %s", url)
 
-    for xml in all_xml:
-        for article in parse_rss(xml):
-            if article["url"] and article["url"] not in seen_urls:
-                seen_urls.add(article["url"])
-                articles.append(article)
-
-    # Sort by published date descending (RFC 822 strings sort correctly
-    # for same-timezone dates, but for robustness we keep insertion order
-    # which is already newest-first from the feeds)
     return articles
