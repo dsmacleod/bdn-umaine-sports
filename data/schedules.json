@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T12:37:24.546865+00:00",
+  "last_updated": "2026-03-11T18:43:37.003446+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -2122,11 +2122,11 @@
     },
     "softball": {
       "record": {
-        "overall": "4-15",
+        "overall": "5-15",
         "conference": "0-0",
-        "streak": "L6",
+        "streak": "W1",
         "home": "0-0",
-        "away": "1-8",
+        "away": "2-8",
         "neutral": "3-7"
       },
       "games": [
@@ -2308,7 +2308,7 @@
           "opponent": "Merrimack",
           "location": "North Andover, Mass.",
           "tournament": "",
-          "result": ""
+          "result": "W 8-0"
         },
         {
           "date": "Mar 11 (Wed)",
@@ -3209,6 +3209,33 @@
           "location": "Lexington, Va. (VMI)",
           "tournament": "",
           "result": ""
+        },
+        {
+          "date": "Mar 12 (Thu)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "CSCAA National Invitational Championship",
+          "location": "Ocala, FL",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 13 (Fri)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "CSCAA National Invitational Championship",
+          "location": "Ocala, FL",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 14 (Sat)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "CSCAA National Invitational Championship",
+          "location": "Ocala, FL",
+          "tournament": "",
+          "result": ""
         }
       ],
       "schedule_id": "3309",
@@ -3227,7 +3254,10 @@
         "16248",
         "16487",
         "16488",
-        "16489"
+        "16489",
+        "16495",
+        "16496",
+        "16497"
       ]
     },
     "wswim": {

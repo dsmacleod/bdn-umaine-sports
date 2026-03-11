@@ -1,13 +1,41 @@
 {
-  "last_updated": "2026-03-11T12:37:24.546865+00:00",
+  "last_updated": "2026-03-11T18:43:37.003446+00:00",
   "articles": [
+    {
+      "title": "Adrianna Smith named finalist for Becky Hammon Mid-Major Player of the Year",
+      "url": "https://goblackbears.com/news/2026/3/11/womens-basketball-adrianna-smith-named-finalist-for-becky-hammon-mid-major-player-of-the-year.aspx",
+      "summary": "ORONO, Maine -- University of Maine forward Adrianna Smith has been named a finalist for the Becky Hammon Mid-Major Player of the Year Award presented by Her Hoop Stats.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/11/smith-dribble-semi.png",
+      "published": "Wed, 11 Mar 2026 11:00:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Four Black Bears to compete at CSCAA National Invitational Championship",
+      "url": "https://goblackbears.com/news/2026/3/11/mens-swimming-and-diving-four-black-bears-to-compete-at-cscaa-national-invitational-championship.aspx",
+      "summary": "ORONO, Maine -- Four members of the University of Maine men's swim team will compete at the CSCAA National Invitational Championship, to be held March 12-14 in Ocala, Florida. Competing for the Black Bears will be Joey Stauss, Nathaniel Teerlinck, Julian Lapietra, and Noah Machristie.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/21/LaPietra-dive.png",
+      "published": "Wed, 11 Mar 2026 13:00:00 EST",
+      "sport": "Men's Swimming and Diving",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Brandon Holt, Owen Fowler garner early Hockey East awards",
+      "url": "https://goblackbears.com/news/2026/3/11/mens-ice-hockey-brandon-holt-owen-fowler-garner-early-hockey-east-awards.aspx",
+      "summary": "Brandon Holt earned two end of season awards while Owen Fowler was also honored.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/10/Untitled-1.png",
+      "published": "Wed, 11 Mar 2026 10:00:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Air Force Reserve America East Women's Basketball Championship Central",
       "url": "https://goblackbears.com/news/2026/3/10/air-force-reserve-america-east-womens-basketball-championship-central.aspx",
       "summary": "ORONO, Maine -- The No.2 seed University of Maine women's basketball team will meet No. 1 Vermont in the Air Force Reserve America East Championship game on Friday, March 13 at 5 p.m. at Patrick Gymnasium.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/10/semi-group.png",
       "published": "Tue, 10 Mar 2026 11:03:00 EST",
-      "sport": "Women's Basketball"
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "St. Denis Named America East Rookie of the Week",
@@ -15,7 +43,8 @@
       "summary": "The America East Conference announced on Tuesday morning that Hunter St. Denis of the University of Maine baseball program has been named the Rookie of the Week for the conference.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/10/Baseball_POTWArtboard_3.jpg",
       "published": "Tue, 10 Mar 2026 11:30:00 EST",
-      "sport": "Baseball"
+      "sport": "Baseball",
+      "source": "goblackbears"
     },
     {
       "title": "Black Bears top Binghamton in America East semifinal, 60-56",
@@ -23,7 +52,8 @@
       "summary": "ORONO, Maine -- The University of Maine women's basketball team (19-12) earned a spot in the Air Force Reserve America East Championship game after a 60-56 semifinal victory over No. 3 Binghamton on Monday evening.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/9/adi-shot-over-binghamton.png",
       "published": "Mon, 9 Mar 2026 22:01:00 EST",
-      "sport": "Women's Basketball"
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Preview: Midweek Merrimack series up next for Maine softball",
@@ -31,7 +61,8 @@
       "summary": "The Black Bears and Warriors will meet for two games on Wednesday, March 11.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/9/DSC03811.jpg",
       "published": "Mon, 9 Mar 2026 15:37:00 EST",
-      "sport": "Softball"
+      "sport": "Softball",
+      "source": "goblackbears"
     },
     {
       "title": "Preview: Black Bears, Eagles set to clash in Hockey East quarterfinal",
@@ -39,7 +70,8 @@
       "summary": "Maine and Boston College will meet on Friday, March 13 at Conte Forum.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/21/_PEV8400.jpg",
       "published": "Sat, 7 Mar 2026 22:56:00 EST",
-      "sport": "Men's Ice Hockey"
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
     },
     {
       "title": "Baseball Falls in Series Finale at Dayton",
@@ -47,7 +79,8 @@
       "summary": "The University of Maine baseball program was swept by Dayton on Sunday afternoon in the weekend series.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/8/BASE_Maine22026_TF-22.jpg",
       "published": "Sun, 8 Mar 2026 16:41:00 EST",
-      "sport": "Baseball"
+      "sport": "Baseball",
+      "source": "goblackbears"
     },
     {
       "title": "Tigers top Black Bears in final game of Orange and Black Classic",
@@ -55,23 +88,8 @@
       "summary": "Maine returns to action at Merrimack on Wednesday.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/8/SB_Group.png",
       "published": "Sun, 8 Mar 2026 15:26:00 EST",
-      "sport": "Softball"
-    },
-    {
-      "title": "Baseball Falls in Game Two of the Weekend at Dayton",
-      "url": "https://goblackbears.com/news/2026/3/8/baseball-falls-in-game-two-of-the-weekend-at-dayton.aspx",
-      "summary": "The University of Maine baseball program was defeated in walk-off fashion in game two of the series against Dayton, 10-9.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/28/BASE_Maine22126_TF-06.jpg",
-      "published": "Sun, 8 Mar 2026 12:20:00 EST",
-      "sport": "Baseball"
-    },
-    {
-      "title": "Preview: Women's Basketball squares off with No. 3 Binghamton in America East semifinal",
-      "url": "https://goblackbears.com/news/2026/3/8/preview-womens-basketball-squares-off-with-no-3-binghamton-in-america-east-semifinal.aspx",
-      "summary": "ORONO, Maine -- The No. 2 seed University of Maine women's basketball team hosts No. 3 Binghamton on Monday, March 9 at 6 p.m. in the semifinal round of the Air Force Reserve America East playoffs. Limited tickets remain and can be purchased at GoBlackBears.com/tickets.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/alvarez-action-2.png",
-      "published": "Sun, 8 Mar 2026 11:16:00 EST",
-      "sport": "Women's Basketball"
+      "sport": "Softball",
+      "source": "goblackbears"
     },
     {
       "title": "Maine to travel to Boston College for Hockey East quarterfinal",
@@ -79,7 +97,8 @@
       "summary": "The Black Bears and Eagles will meet on Friday, March 13.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/8/DSC02457.jpg",
       "published": "Sat, 7 Mar 2026 22:33:00 EST",
-      "sport": "Men's Ice Hockey"
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
     },
     {
       "title": "Catamounts hold off Black Bears in regular season finale",
@@ -87,7 +106,8 @@
       "summary": "Vermont picked up a 5-3 win.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/7/Untitled-1.png",
       "published": "Sat, 7 Mar 2026 22:27:00 EST",
-      "sport": "Men's Ice Hockey"
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
     },
     {
       "title": "Hockey East tabs Rousseau Pro Ambitions Rookie of the Week",
@@ -95,7 +115,8 @@
       "summary": "Rousseau went 2-0-0, posting a shutout and an assist.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/_MG_5980.jpg",
       "published": "Mon, 2 Mar 2026 14:00:00 EST",
-      "sport": "Men's Ice Hockey"
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
     },
     {
       "title": "Preview: Maine set to wrap up regular season at Vermont",
@@ -103,7 +124,8 @@
       "summary": "Maine will play a single game this weekend, taking on Vermont on Saturday.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/1/_MG_4103.jpg",
       "published": "Sun, 1 Mar 2026 00:08:00 EST",
-      "sport": "Men's Ice Hockey"
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
     },
     {
       "title": "Maine completes weekend sweep of Northeastern",
@@ -111,7 +133,8 @@
       "summary": "Frank Djurasevic scored twice for Maine in the 3-2 win.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/28/_PEV2506.jpg",
       "published": "Sat, 28 Feb 2026 22:01:00 EST",
-      "sport": "Men's Ice Hockey"
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
     },
     {
       "title": "Black Bears top Huskies in Portland",
@@ -119,7 +142,8 @@
       "summary": "Owen Fowler scored two goals, Mathis Rousseau had a 25-save shutout.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/27/_PEV2448.jpg",
       "published": "Fri, 27 Feb 2026 22:34:00 EST",
-      "sport": "Men's Ice Hockey"
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
     },
     {
       "title": "Nadeau, Holt earn Hockey East weekly honors",
@@ -127,7 +151,8 @@
       "summary": "Nadeau earns Player of the Week, Holt tabbed Army ROTC Defender of the Week.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/22/IMG_0357.jpg",
       "published": "Mon, 23 Feb 2026 14:00:00 EST",
-      "sport": "Men's Ice Hockey"
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
     },
     {
       "title": "Preview: Maine set for Hockey East series with Northeastern",
@@ -135,15 +160,17 @@
       "summary": "Maine will face Northeastern in Portland on Friday and in Lowell, Mass. on Saturday.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/22/IMG_2071-2.jpg",
       "published": "Sun, 22 Feb 2026 14:37:00 EST",
-      "sport": "Men's Ice Hockey"
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
     },
     {
-      "title": "Black Bears complete sweep of Warriors",
-      "url": "https://goblackbears.com/news/2026/2/21/mens-ice-hockey-black-bears-complete-sweep-of-warriors.aspx",
-      "summary": "Maine picked up a 5-2 win.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/21/IMG_8250.jpg",
-      "published": "Sat, 21 Feb 2026 23:35:00 EST",
-      "sport": "Men's Ice Hockey"
+      "title": "Preview: Women's Basketball squares off with No. 3 Binghamton in America East semifinal",
+      "url": "https://goblackbears.com/news/2026/3/8/preview-womens-basketball-squares-off-with-no-3-binghamton-in-america-east-semifinal.aspx",
+      "summary": "ORONO, Maine -- The No. 2 seed University of Maine women's basketball team hosts No. 3 Binghamton on Monday, March 9 at 6 p.m. in the semifinal round of the Air Force Reserve America East playoffs. Limited tickets remain and can be purchased at GoBlackBears.com/tickets.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/alvarez-action-2.png",
+      "published": "Sun, 8 Mar 2026 11:16:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "America East semifinal tickets on sale now",
@@ -151,7 +178,8 @@
       "summary": "ORONO, Maine -- Tickets are on sale now for the University of Maine women's basketball team's 2026 Air Force Reserve America East\u00a0semifinal round game which will take place on March 9 at 6 p.m. at Skip Chappelle Court against No. 3 Binghamton.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/landscape.jpg",
       "published": "Fri, 6 Mar 2026 10:08:00 EST",
-      "sport": "Women's Basketball"
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Black Bears advance to America East semifinal with convincing win over No. 7 New Hampshire",
@@ -159,7 +187,8 @@
       "summary": "ORONO, Maine -- The University of Maine women's basketball team (18-12) advanced to the semifinal round of the Air Force Reserve America East Playoffs with a 77-58 victory over No. 7 New Hampshire (10-20) in a quarterfinal showdown on Thursday evening.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/5/smith-layup-unh-playoff.png",
       "published": "Thu, 5 Mar 2026 21:50:00 EST",
-      "sport": "Women's Basketball"
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "PREVIEW: Women's Basketball set to host New Hampshire in America East quarterfinal",
@@ -167,7 +196,8 @@
       "summary": "ORONO, Maine -- The No. 2 seed University of Maine women's basketball team hosts No. 7 New Hampshire on Thursday, March 5 at 6 p.m. in the quarterfinal round of the Air Force Reserve America East playoffs. Limited tickets remain and can be purchased at GoBlackBears.com/tickets.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/4/asta-playoffs.png",
       "published": "Wed, 4 Mar 2026 14:29:00 EST",
-      "sport": "Women's Basketball"
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Smith named America East Player of the Year",
@@ -175,7 +205,8 @@
       "summary": "ORONO, Maine \u2013 Adrianna Smith has been named the America East Player of the Year as announced by the league on Wednesday afternoon. She becomes the 11th America East Women's Basketball student-athlete, and sixth from Maine, to earn Player of the Year honors twice in a career.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/4/smith-dribbl-ebinghamton.png",
       "published": "Wed, 4 Mar 2026 12:04:00 EST",
-      "sport": "Women's Basketball"
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Smith, Woods collect America East weekly honors",
@@ -183,7 +214,8 @@
       "summary": "ORONO, Maine -- University of Maine forward Adrianna Smith has been named the America East Player of the Week and Lala Woods has been tabbed the America East Rookie of the Week, as announced by the league on Monday afternoon.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/woods-dribble-ualbany.png",
       "published": "Mon, 2 Mar 2026 12:00:00 EST",
-      "sport": "Women's Basketball"
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Black Bears lock up two-seed with win over Binghamton",
@@ -191,15 +223,8 @@
       "summary": "ORONO, Maine -- Adrianna Smith posted her 55th career double-double as the University of Maine women's basketball team concluded the regular season with a 74-67 win over Binghamton on Senior Day. The win secured the number two seed for the Black Bears in the upcoming America East playoffs.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/28/talon-dribble-binghamton.png",
       "published": "Sat, 28 Feb 2026 15:59:00 EST",
-      "sport": "Women's Basketball"
-    },
-    {
-      "title": "PREVIEW: Black Bears set to host Binghamton in regular season finale",
-      "url": "https://goblackbears.com/news/2026/2/27/womens-basketball-preview-black-bears-set-to-host-binghamton-in-regular-season-finale.aspx",
-      "summary": "ORONO, Maine -- The University of Maine women's basketball team closes the regular season when it hosts Binghamton on Senior Day Saturday at 1 p.m. The Black Bears currently stand in second place in the America East standings and look to lock up a top-2 seed for the upcoming America East playoffs. Limited tickets still remain for the game and can be purchased at GoBlackBears.com/Tickets.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/18/blauenfeldt-BU-Columbia.png",
-      "published": "Fri, 27 Feb 2026 11:44:00 EST",
-      "sport": "Women's Basketball"
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Men's Basketball has Season come to an end on Saturday in America East Quarterfinals",
@@ -207,7 +232,8 @@
       "summary": "The University of Maine basketball team had their season come to an end as they fell to #3 NJIT, 60-58.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/7/KIP_5942.JPG",
       "published": "Sat, 7 Mar 2026 18:33:00 EST",
-      "sport": "Men's Basketball"
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Preview: Black Bears Head to NJIT for America East Quarterfinals",
@@ -215,7 +241,8 @@
       "summary": "The University of Maine men's basketball team begins their America East Playoffs on Saturday, March 7 at NJIT.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/Mekhi_Gray_3.3.26_vs_UMass_Lowell_5.jpg",
       "published": "Fri, 6 Mar 2026 14:00:00 EST",
-      "sport": "Men's Basketball"
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Three Black Bears earn America East Regular Season Honors",
@@ -223,7 +250,8 @@
       "summary": "The America East Conference announced on Friday morning that three Black Bears from the University of Maine men's basketball program earned an honor for their performances throughout the 2025-26 regular season.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/Artboard_1.png",
       "published": "Fri, 6 Mar 2026 11:00:00 EST",
-      "sport": "Men's Basketball"
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Men's Basketball falls in Regular Season Finale on Tuesday Night",
@@ -231,7 +259,8 @@
       "summary": "The University of Maine basketball team fell in the regular season finale on Tuesday night, 67-56.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/3/RC0_7435.jpg",
       "published": "Tue, 3 Mar 2026 21:28:00 EST",
-      "sport": "Men's Basketball"
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Men's Basketball Wraps up Regular Season on Tuesday against UMass Lowell",
@@ -239,7 +268,8 @@
       "summary": "The University of Maine men's basketball team wraps up the regular season on Tuesday night against UMass Lowell.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/2/562A8397.jpg",
       "published": "Mon, 2 Mar 2026 13:19:00 EST",
-      "sport": "Men's Basketball"
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Flagg Named America East Rookie of the Week",
@@ -247,7 +277,8 @@
       "summary": "The America East Conference announced on Monday morning that Ace Flagg of the University of Maine men's basketball team has been named the Rookie of the Week for the conference.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/Ace_Flagg_1.24.26_vs_Binghamton_21_WRovH.jpg",
       "published": "Mon, 2 Mar 2026 11:00:00 EST",
-      "sport": "Men's Basketball"
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Men's Basketball Falls at Binghamton on Saturday Afternoon",
@@ -255,7 +286,8 @@
       "summary": "The University of Maine basketball team was defeated by Binghamton on Saturday afternoon, 74-67.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/15/Keelan_Steele_12_13_vs_Canisus_3.jpg",
       "published": "Sat, 28 Feb 2026 16:10:00 EST",
-      "sport": "Men's Basketball"
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Men's Basketball Wraps up Final Road Trip of the Regular Season at Binghamton",
@@ -263,7 +295,8 @@
       "summary": "The Black Bears won their second-straight America East game as they took down UAlbany, 70-59.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/8/562A7844.jpg",
       "published": "Fri, 27 Feb 2026 14:00:00 EST",
-      "sport": "Men's Basketball"
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Men's Basketball Wins Second-Straight Conference Game on Thursday Night",
@@ -271,7 +304,8 @@
       "summary": "The University of Maine basketball team took down UAlbany on Thursday night, 70-59.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/26/Ace_Flagg_1_3_26_vs_Bryant_3.jpg",
       "published": "Thu, 26 Feb 2026 20:28:00 EST",
-      "sport": "Men's Basketball"
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Men's Basketball Continues Road Trip with Stop at UAlbany on Thursday Night",
@@ -279,7 +313,8 @@
       "summary": "The University of Maine men's basketball team continues their three-game road trip with a stop at UAlbany on Thursday night.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/19/562A4690.jpg",
       "published": "Wed, 25 Feb 2026 10:00:00 EST",
-      "sport": "Men's Basketball"
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
     },
     {
       "title": "Football Announces 2026 Signing Day Signees",
@@ -287,7 +322,8 @@
       "summary": "The University of Maine football announced eight signings from the 2026 signing day for the upcoming season.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/17/Artboard_1.png",
       "published": "Tue, 17 Feb 2026 12:00:00 EST",
-      "sport": "Football"
+      "sport": "Football",
+      "source": "goblackbears"
     },
     {
       "title": "Football Season Tickets Renewals are Available",
@@ -295,7 +331,8 @@
       "summary": "Renewals for the 2026 Maine Football season are available now!",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2017/4/6/Alfond_Stadium_Panorama_2016.jpg",
       "published": "Tue, 17 Feb 2026 10:00:00 EST",
-      "sport": "Football"
+      "sport": "Football",
+      "source": "goblackbears"
     },
     {
       "title": "WATCH: Inside the Huddle - \"Make-A-Wish\"",
@@ -303,7 +340,8 @@
       "summary": "ORONO, Maine -- In the fall, Maine Athletics had the honor of playing a part in granting the wish of 10-year old Zachary Ellis.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/15/zachary-ellis-on-field.png",
       "published": "Thu, 15 Jan 2026 13:20:00 EST",
-      "sport": "Football, General"
+      "sport": "Football, General",
+      "source": "goblackbears"
     },
     {
       "title": "Maine Football Transfer Additions",
@@ -311,7 +349,8 @@
       "summary": "With the 2026 NCAA Transfer Portal open, the Black Bears are making their additions to their roster in preparation for the upcoming season! Follow along below to learn all about the newcomers to Black Bear Nation!",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/FB_Graphic.png",
       "published": "Wed, 7 Jan 2026 13:00:00 EST",
-      "sport": "Football"
+      "sport": "Football",
+      "source": "goblackbears"
     },
     {
       "title": "Rashawn Marshall Named Phil Steele Freshmen All-American",
@@ -319,7 +358,8 @@
       "summary": "The Phil Steele Committee announced that Rashawn Marshall was named a Freshmen Third Team All-American.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/30/Rashawn_Marshall_11_15_vs_Rhode_Island_4.jpg",
       "published": "Tue, 30 Dec 2025 12:09:00 EST",
-      "sport": "Football"
+      "sport": "Football",
+      "source": "goblackbears"
     },
     {
       "title": "Ricard Named to Sixth Pro Bowl",
@@ -327,7 +367,8 @@
       "summary": "For the sixth time in his career, former Black Bear and All-CAA honoree Patrick Ricard has been selected to the AFC Pro Bowl Games roster, as announced by the National Football League on Tuesday, Dec. 23.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2022/12/22/ricard-TD-edit.png",
       "published": "Tue, 23 Dec 2025 12:20:00 EST",
-      "sport": "Football"
+      "sport": "Football",
+      "source": "goblackbears"
     },
     {
       "title": "Football Announces 2026 Schedule",
@@ -335,7 +376,8 @@
       "summary": "The University of Maine football program has announced their 2026 schedule, which will feature 12 games, six of which will be played at Morse Field at Alfond Stadium.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/16/Three.jpg",
       "published": "Tue, 16 Dec 2025 14:05:00 EST",
-      "sport": "Football"
+      "sport": "Football",
+      "source": "goblackbears"
     },
     {
       "title": "Football Announces 2025 Team Award Winners",
@@ -343,7 +385,8 @@
       "summary": "The University of Maine coaching staff announced the recipients of the annual Maine Football Team Awards at the\u00a0team banquet on Sunday, December 7 at Wells Conference Center.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/7/813155159-dsc09875.jpg",
       "published": "Sun, 7 Dec 2025 17:19:00 EST",
-      "sport": "Football"
+      "sport": "Football",
+      "source": "goblackbears"
     },
     {
       "title": "Tremblay Named Finalist for Fred Mitchell Award",
@@ -351,7 +394,8 @@
       "summary": "The Fred Mitchell Award committee has announced that Samuel Trembaly of the University of Maine football program has been named a finalist for the award for the 2025 season.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/5/Samuel_Tremblay_11_8_at_Hampton_4.jpg",
       "published": "Fri, 5 Dec 2025 19:26:00 EST",
-      "sport": "Football"
+      "sport": "Football",
+      "source": "goblackbears"
     },
     {
       "title": "Football Announces 12 Signings on Early Signing Day",
@@ -359,7 +403,588 @@
       "summary": "Head football coach Jordan Stevens announced 12 recruits signed with the University of Maine football program during the early signing period on Dec. 3.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/5/Jordan_Stevens_11_9_Bryant_1.jpg",
       "published": "Fri, 5 Dec 2025 09:00:00 EST",
-      "sport": "Football"
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
+      "title": "UMaine draws Boston College in playoff clash of inconsistent hockey teams",
+      "url": "https://www.bangordailynews.com/2026/03/09/sports/college-ice-hockey/umaine-vs-boston-college-ncaa-tournament/",
+      "summary": "They have both underwhelming seasons but the good news for them is that one of them will be two wins away from an NCAA Tournament berth after Friday night.",
+      "image": "",
+      "published": "Mon, 09 Mar 2026 20:20:31 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine hockey looks to extend unbeaten streak to 6 in regular season finale at Vermont",
+      "url": "https://www.bangordailynews.com/2026/03/07/sports/college-ice-hockey/umaine-hockey-season-finale-vermont-joam40zk0w/",
+      "summary": "A win over the Catamounts would ensure the Black Bears of a fifth-place finish and a first-round bye to the quarterfinals.",
+      "image": "",
+      "published": "Sat, 07 Mar 2026 06:00:00 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine men\u2019s hockey can only host home playoff game if they lose Saturday",
+      "url": "https://www.bangordailynews.com/2026/03/06/sports/college-ice-hockey/umaine-mens-hockey-home-playoff/",
+      "summary": "The Black Bears' seeding depends on their season finale at Vermont and results from the other four Hockey East games.",
+      "image": "",
+      "published": "Fri, 06 Mar 2026 20:14:53 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "He was taking too many penalties in youth hockey, so his mom made him switch to goalie",
+      "url": "https://www.bangordailynews.com/2026/03/05/sports/college-ice-hockey/mathis-rousseau-umaine-goalie-joam40zk0w/",
+      "summary": "Mathis Rousseau started in the Black Bears\u2019 last four games, all wins, and he has posted a 1.75 goals-against average and a .926 save percentage.",
+      "image": "",
+      "published": "Thu, 05 Mar 2026 06:00:00 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine hockey gets weekend sweep with another win over Northeastern",
+      "url": "https://www.bangordailynews.com/2026/02/28/sports/college-ice-hockey/umaine-hockey-gets-weekend-sweep/",
+      "summary": "The Black Bears earned a 3-2 victory over Northeastern in front of 985 fans at the Tsongas Center in Lowell, Mass. on Saturday night.",
+      "image": "",
+      "published": "Sun, 01 Mar 2026 04:44:19 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "6th-ranked UConn women\u2019s ice hockey cruises past UMaine in Hockey East playoffs",
+      "url": "https://www.bangordailynews.com/2026/02/28/sports/college-ice-hockey/uconn-wins-ice-hockey-america-east-umaine-women/",
+      "summary": "UMaine concluded its season with a 13-19-4 record after falling to the University of Connecticut Huskies 6-to-1.",
+      "image": "",
+      "published": "Sun, 01 Mar 2026 01:46:54 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine hockey get 4-0 win over Northeastern featuring rare goalie assist",
+      "url": "https://www.bangordailynews.com/2026/02/27/sports/college-ice-hockey/umaine-hockey-4-0-win-over-northeastern/",
+      "summary": "The Black Bears earned a 4-0 Hockey East victory over Northeastern at the Cross Insurance Arena in Portland on Friday night.",
+      "image": "",
+      "published": "Sat, 28 Feb 2026 03:10:20 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Youthful UMaine women\u2019s hockey seeking upset over No. 6 team in the country",
+      "url": "https://www.bangordailynews.com/2026/02/27/sports/college-ice-hockey/umaine-womens-hockey-east-seed-vs-huskies/",
+      "summary": "The seventh-seeded Black Bears supplied Engstrom with her first playoff win on Wednesday night, 4-0, over 10th seed Merrimack.",
+      "image": "",
+      "published": "Fri, 27 Feb 2026 21:52:13 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine men\u2019s hockey seeks to climb standings with crucial Northeastern\u00a0series",
+      "url": "https://www.bangordailynews.com/2026/02/27/sports/college-ice-hockey/umaine-mens-hockey-crucial-northeastern-series-joam40zk0w/",
+      "summary": "The Black Bears will play at the Cross Insurance Arena in Portland on Friday night and at the Tsongas Center in Lowell, Massachusetts, on Saturday night.",
+      "image": "",
+      "published": "Fri, 27 Feb 2026 06:00:00 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Wurm, Lahtinen lead UMaine women\u2019s ice hockey to playoff win over Merrimack",
+      "url": "https://www.bangordailynews.com/2026/02/25/sports/college-ice-hockey/umaine-womens-ice-hockey-win-over-merrimack/",
+      "summary": "The Black Bears, now 13-18-4, will travel to take on sixth-ranked UConn, 24-8-2 and the second seed, in Saturday\u2019s 3 p.m. quarterfinal in Connecticut.",
+      "image": "",
+      "published": "Thu, 26 Feb 2026 00:40:39 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Josh Nadeau\u2019s 8-point weekend gives UMaine hockey big lift at important time",
+      "url": "https://www.bangordailynews.com/2026/02/25/sports/college-ice-hockey/josh-nadeau-umaine-hockey-big-lift/",
+      "summary": "The Black Bears, 16-12-3 overall and 10-10-1 in Hockey East, will take on Northeastern (15-15-1, 10-11) in a two-game set this weekend.",
+      "image": "",
+      "published": "Wed, 25 Feb 2026 21:39:36 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine hockey earns weekend sweep of Merrimack with 5-2 win",
+      "url": "https://www.bangordailynews.com/2026/02/21/sports/college-ice-hockey/umaine-hockey-earns-weekend-sweep-merrimack/",
+      "summary": "University of Maine junior right wing Josh Nadeau and senior left wing Owen Fowler each scored a pair of goals and the Black Bears won 5-2.",
+      "image": "",
+      "published": "Sun, 22 Feb 2026 03:05:46 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine hockey finally gets a win at home with help from a hat trick",
+      "url": "https://www.bangordailynews.com/2026/02/20/sports/college-ice-hockey/umaine-hockey-win-at-home-merrimack/",
+      "summary": "The Black Bears improved to 15-12-3 overall and 9-10-1 in Hockey East while snapping a four-game winless drought.",
+      "image": "",
+      "published": "Sat, 21 Feb 2026 02:53:37 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine hockey seniors desperately want wins in final weekend at Alfond Arena",
+      "url": "https://www.bangordailynews.com/2026/02/19/sports/college-ice-hockey/umaine-hockey-seniors-want-wins-final-weekend-alfond-arena-joam40zk0w/",
+      "summary": "Brandon Holt, Brandon Chabrier, Grayson Arnott and Thomas Freel were part of a freshman class that helped the Black Bears go from a seven-win team to a 15-win team.",
+      "image": "",
+      "published": "Thu, 19 Feb 2026 06:00:00 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Late goal salvages 3-3 tie as UMaine hockey finds \u2018a little extra\u2019",
+      "url": "https://www.bangordailynews.com/2026/02/14/sports/college-ice-hockey/umaine-hockey-finds-a-little-extra/",
+      "summary": "\u201cI was extremely proud of the effort and how hard the guys fought back the whole game,\u201d said UMaine head coach Ben Barr.",
+      "image": "",
+      "published": "Sun, 15 Feb 2026 03:54:36 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine hockey\u2019s home scoring woes continue as UConn blanks Black Bears 2-0",
+      "url": "https://www.bangordailynews.com/2026/02/13/sports/college-ice-hockey/umaine-hockey-home-loss-uconn/",
+      "summary": "UMaine hadn\u2019t lost four league games in a row at Alfond Arena since the 2015-16 season.",
+      "image": "",
+      "published": "Sat, 14 Feb 2026 02:49:16 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine hockey is missing the X-factor this year. Can it find redemption against UConn?",
+      "url": "https://www.bangordailynews.com/2026/02/12/sports/college-ice-hockey/umaine-hockey-uconn-friday-saturday-games/",
+      "summary": "The unranked Black Bears, 14-11-2 overall and 8-9 in Hockey East, have lost their last four league home games.",
+      "image": "",
+      "published": "Thu, 12 Feb 2026 19:58:21 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine hockey\u2019s losing streak at BU extends to 8 in overtime loss",
+      "url": "https://www.bangordailynews.com/2026/02/06/sports/college-ice-hockey/umaine-hockey-loses-bu-overtime/",
+      "summary": "Someone's losing streak was going to come to an end at Friday night\u2019s Hockey East game.",
+      "image": "",
+      "published": "Sat, 07 Feb 2026 02:52:17 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine men\u2019s hockey seeking 1st win at BU since 2018",
+      "url": "https://www.bangordailynews.com/2026/02/06/sports/college-ice-hockey/umaine-mens-hockey-seek-win-at-bu-joam40zk0w/",
+      "summary": "The 18th-ranked Black Bears will try to snap their seven-game Agganis Arena losing streak on Friday night.",
+      "image": "",
+      "published": "Fri, 06 Feb 2026 06:00:00 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "His name means \u2018famed warrior\u2019 in French. His UMaine hockey teammates say that\u2019s fitting.",
+      "url": "https://www.bangordailynews.com/2026/02/05/sports/college-ice-hockey/loic-usereau-umaine-hockey-joam40zk0w/",
+      "summary": "Black Bears freshman defenseman Loic Usereau will take a two-game goal-scoring streak into Friday night\u2019s game at Boston University.",
+      "image": "",
+      "published": "Thu, 05 Feb 2026 06:00:00 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Former high school rivals team up for crucial 3-pointer in UMaine win over Binghamton",
+      "url": "https://www.bangordailynews.com/2026/03/10/sports/college-basketball/sarah-talon-emmie-streams-umaine-basketball-3-pointer/",
+      "summary": "For three years in high school, Sarah Talon and Emmie Streams were adversaries for their respective Class AA North schools.",
+      "image": "",
+      "published": "Tue, 10 Mar 2026 20:01:40 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Watch UMaine football players get loud to support the women\u2019s basketball team",
+      "url": "https://www.bangordailynews.com/2026/03/10/sports/college-basketball/orono-maine-umaine-football-womens-basketball-support-video/",
+      "summary": "\u201cBlack Bears take care of Black Bears.\u201d",
+      "image": "",
+      "published": "Tue, 10 Mar 2026 13:32:42 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Matt Junker"
+    },
+    {
+      "title": "UMaine fans created such an \u2018electric\u2019 atmosphere that players couldn\u2019t hear their coaches",
+      "url": "https://www.bangordailynews.com/2026/03/10/sports/college-basketball/umaine-fans-electric-atmosphere/",
+      "summary": "\u201cI just thought it was an unbelievable environment for women\u2019s basketball,\u201d Binghamton coach Mary Grimes said after the game.",
+      "image": "",
+      "published": "Tue, 10 Mar 2026 05:00:00 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Matt Junker"
+    },
+    {
+      "title": "UMaine women\u2019s basketball is heading to the America East championship game",
+      "url": "https://www.bangordailynews.com/2026/03/09/sports/college-basketball/umaine-womens-basketball-heading-to-america-east-championship/",
+      "summary": "The No. 2 Black Bears defeated the No. 3 Binghamton Bearcats 60-56 in front of a raucous crowd in Orono.",
+      "image": "",
+      "published": "Tue, 10 Mar 2026 00:03:18 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Ace Flagg named to all-rookie team amid strong start at UMaine",
+      "url": "https://www.bangordailynews.com/2026/03/06/sports/college-basketball/ace-flagg-umaine-all-rookie-team-joam40zk0w/",
+      "summary": "Current and former coaches have stressed the on-court toughness of the 19-year-old whose nickname is the \"Honey Badger.\"",
+      "image": "",
+      "published": "Fri, 06 Mar 2026 19:47:33 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Matt Junker"
+    },
+    {
+      "title": "UMaine women\u2019s basketball thumps UNH",
+      "url": "https://www.bangordailynews.com/2026/03/05/sports/college-basketball/umaine-womens-basketball-beats-unh-2/",
+      "summary": "The 18-12 Black Bears, winners of eight of their last nine, will now host Binghamton (New York) in a semifinal match, Monday at 6 p.m.",
+      "image": "",
+      "published": "Fri, 06 Mar 2026 01:19:17 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine women\u2019s basketball expects tough playoff test from UNH",
+      "url": "https://www.bangordailynews.com/2026/03/04/sports/college-basketball/umaine-womens-basketball-expects-tough-playoff-test-unh/",
+      "summary": "The Black Bears have 12 consecutive wins over the Wildcats, but nearly lost that streak in a recent meeting.",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 20:14:48 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine\u2019s Adrianna Smith named America East player of the year",
+      "url": "https://www.bangordailynews.com/2026/03/04/sports/college-basketball/adrianna-smith-america-east-player-year/",
+      "summary": "On Saturday, Smith became the first player in America East history to register 1,000 career points, 1,000 rebounds and 400 assists.",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 18:51:46 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney and Matt Junker"
+    },
+    {
+      "title": "Adrianna Smith might the best all-around player in the history of UMaine women\u2019s basketball",
+      "url": "https://www.bangordailynews.com/2026/03/04/sports/college-basketball/adrianna-smith-all-around-player-umaine-womens-basketball-joam40zk0w/",
+      "summary": "Entering Thursday\u2019s 6 p.m. America East quarterfinal against visiting New Hampshire, she has 1,804 career points, 1,010 rebounds and 418 assists.",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 06:00:00 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Injury-riddled UMaine men\u2019s basketball team falls in regular season finale",
+      "url": "https://www.bangordailynews.com/2026/03/03/sports/college-basketball/umaine-mens-basketball-loss-season-finale/",
+      "summary": "With the loss, the Black Bears drop to 8-23 overall on the year and 6-10 in the conference, but they have still earned a playoff spot and will see postseason action on the road this Saturday.",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 01:08:33 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Matt Junker"
+    },
+    {
+      "title": "UMaine women\u2019s basketball hangs on to beat Binghamton and earn 2nd seed",
+      "url": "https://www.bangordailynews.com/2026/02/28/sports/college-basketball/umaine-womens-basketball-2nd-seed-america-east-tournament/",
+      "summary": "UMaine earned its seventh win in its last eight games, finishing the regular season with a 12-4 league record.",
+      "image": "",
+      "published": "Sat, 28 Feb 2026 22:13:18 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Farmington tops UMPI in NAC Championship",
+      "url": "https://www.bangordailynews.com/2026/02/28/sports/farmington-tops-umpi-in-nac-championship/",
+      "summary": "University of Maine Farmington men\u2019s basketball cruised past the University of Maine at Presque Isle 84-58 Saturday.",
+      "image": "",
+      "published": "Sat, 28 Feb 2026 20:49:26 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Cameron Levasseur"
+    },
+    {
+      "title": "Seniors have cherished their time with UMaine women\u2019s basketball. But they\u2019re not done yet.",
+      "url": "https://www.bangordailynews.com/2026/02/27/sports/college-basketball/seniors-umaine-womens-basketball-success-america-east/",
+      "summary": "The winner of the upcoming Black Bears versus Binghamton game will earn the second seed for the America East quarterfinals.",
+      "image": "",
+      "published": "Fri, 27 Feb 2026 19:50:06 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Late basket gives UMaine women\u2019s basketball a win over Albany",
+      "url": "https://www.bangordailynews.com/2026/02/26/sports/college-basketball/umaine-womens-basketball-win-over-albany/",
+      "summary": "The Black Bears improved to 16-12 overall and 11-4 in America East with its sixth win in its last seven games.",
+      "image": "",
+      "published": "Fri, 27 Feb 2026 02:12:27 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine women\u2019s basketball eyeing top 2 finish in America\u00a0East",
+      "url": "https://www.bangordailynews.com/2026/02/26/sports/college-basketball/maine-womens-basketball-playoffs-joam40zk0w/",
+      "summary": "The Black Bears control their own destiny heading into Thursday night\u2019s America East showdown with rival Albany.",
+      "image": "",
+      "published": "Thu, 26 Feb 2026 06:00:00 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine women storm back in 4th quarter to beat UNH",
+      "url": "https://www.bangordailynews.com/2026/02/21/sports/college-basketball/umaine-women-win-unh-america-east-tournament-berth/",
+      "summary": "With the win, the Black Bears locked up a top-4 seed in the upcoming America East tournament for a 13th-straight season.",
+      "image": "",
+      "published": "Sun, 22 Feb 2026 00:53:31 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "UMaine Athletics"
+    },
+    {
+      "title": "UMaine men clinch playoff spot and Ace Flagg scores career high",
+      "url": "https://www.bangordailynews.com/2026/02/21/sports/college-basketball/umaine-mens-basketball-playoff-berth-ace-flagg-career-high/",
+      "summary": "The University of Maine basketball team picked up the win over New Hampshire in the Buffalo Wild Wings Border Battle on Saturday afternoon, 61-58.",
+      "image": "",
+      "published": "Sun, 22 Feb 2026 00:31:56 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "UMaine Athletics"
+    },
+    {
+      "title": "UMaine women\u2019s basketball has 4-game winning streak snapped",
+      "url": "https://www.bangordailynews.com/2026/02/14/sports/college-basketball/umaine-womens-basketball-loss-new-jersey-institute-technology/",
+      "summary": "NJIT improved to 16-10 overall and 7-6 in the conference while UMaine fell to 14-12 and 9-4.",
+      "image": "",
+      "published": "Sat, 14 Feb 2026 23:50:48 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine football will be paid $625K to play Penn State next\u00a0year",
+      "url": "https://www.bangordailynews.com/2026/02/26/sports/college-football/umaine-football-paid-625k-penn-state-game/",
+      "summary": "The UMaine-Penn State game will be played at the West Shore Home Field at Beaver Stadium in University Park, Pennsylvania, which is the second-largest stadium in the United States.",
+      "image": "",
+      "published": "Thu, 26 Feb 2026 18:32:50 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine football loses key players to Michigan State and Rutgers",
+      "url": "https://www.bangordailynews.com/2026/01/08/sports/college-football/umaine-football-loses-players-to-michigan-state-rutgers/",
+      "summary": "Two prominent members of the University of Maine football team\u2019s defense are departing to play in the Big Ten Conference.",
+      "image": "",
+      "published": "Thu, 08 Jan 2026 20:34:23 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine football earning $750K for trips to Boston College, Appalachian State next fall",
+      "url": "https://www.bangordailynews.com/2025/12/16/sports/college-football/umaine-football-releases-2026-season-schedule-n6hjn1me0n/",
+      "summary": "The Black Bears will pocket $350,000 for their trip to Boone, North Carolina to play Appalachian State on Sept. 5, 2026, and $400,000 for the game in Chestnut Hill, Massachusetts vs. BC on Sept. 19.",
+      "image": "",
+      "published": "Tue, 16 Dec 2025 23:20:00 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Top high school football star staying in Maine to play for Black Bears",
+      "url": "https://www.bangordailynews.com/2025/12/04/sports/college-football/portland-maine-cordell-jones-umaine-football-signing/",
+      "summary": "Cordell Jones helped lead the Bulldogs to three straight appearances in the Class A State Finals.",
+      "image": "",
+      "published": "Thu, 04 Dec 2025 16:22:05 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "CBS 13"
+    },
+    {
+      "title": "Star linebacker for UMaine football named 1st team all-conference",
+      "url": "https://www.bangordailynews.com/2025/11/25/sports/college-football/christian-thomas-umaine-football-1st-team-all-conference/",
+      "summary": "Five other Black Bears earned spots on the second or third teams, and four more were given honorable mentions.",
+      "image": "",
+      "published": "Wed, 26 Nov 2025 00:02:37 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine football has a chance to play spoiler against its biggest rival",
+      "url": "https://www.bangordailynews.com/2025/11/21/sports/college-football/umaine-football-vs-unh-playoff-aspirations/",
+      "summary": "UNH needs a win against UMaine to keep its playoff hopes alive. The Black Bears can keep the Wildcats out of the postseason and take home the Brice-Cowell Musket at the same time.",
+      "image": "",
+      "published": "Fri, 21 Nov 2025 18:52:15 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine football looked like it had stage fright with season on the line",
+      "url": "https://www.bangordailynews.com/2025/11/17/sports/college-football/umaine-football-stage-fright/",
+      "summary": "This group of Black Bears had never played a game in November with league championship and Football Championship Subdivision implications.",
+      "image": "",
+      "published": "Mon, 17 Nov 2025 19:17:30 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine football falls to Rhode Island, dashing conference title hopes",
+      "url": "https://www.bangordailynews.com/2025/11/15/sports/college-football/umaine-football-falls-to-rhode-island/",
+      "summary": "The University of Rhode Island\u2019s league-leading Rams thumped the Black Bears 45-13 in Orono on Saturday.",
+      "image": "",
+      "published": "Sat, 15 Nov 2025 21:15:33 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Don\u2019t tell UMaine football, but every game is a playoff game from here on out",
+      "url": "https://www.bangordailynews.com/2025/11/12/sports/college-football/umaine-football-playoff-math/",
+      "summary": "Technically, Saturday\u2019s University of Maine home football game is a regular season contest. But for all intents and purposes it\u2019s a playoff game for the Black Bears.",
+      "image": "",
+      "published": "Wed, 12 Nov 2025 19:19:12 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine football wins 6th straight game to keep playoff hopes alive",
+      "url": "https://www.bangordailynews.com/2025/11/08/sports/college-football/umaine-football-wins-6th-straight-game/",
+      "summary": "The Black Bears have now won six straight games in a row after dropping their first four, continuing a drastic turnaround.",
+      "image": "",
+      "published": "Sat, 08 Nov 2025 22:25:44 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "How UMaine football went from rock-bottom to conference contender",
+      "url": "https://www.bangordailynews.com/2025/11/04/sports/college-football/umaine-football-turnaround-joam40zk0w/",
+      "summary": "The Black Bears have bounced back in dramatic fashion, winning five straight entering a Saturday CAA game at Hampton in Virginia.",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 06:00:00 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine football defeats Stony Brook for its 5th win in a row",
+      "url": "https://www.bangordailynews.com/2025/11/01/sports/college-football/umaine-football-defeats-stony-brook-for-its-5th-win-in-a-row/",
+      "summary": "It is the first five-game winning streak for UMaine since the 2018 season, when the Black Bears reached the Football Championship Subdivision playoff semifinals.",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 21:33:21 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Top Canadian kicking prospect has been perfect so far for UMaine football",
+      "url": "https://www.bangordailynews.com/2025/10/31/sports/college-football/top-canadian-kicking-prospect-has-been-perfect-so-far-for-umaine-football/",
+      "summary": "There has been one player who has been the model of consistency: placekicker Sam Tremblay.",
+      "image": "",
+      "published": "Fri, 31 Oct 2025 20:42:35 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine football has quickly transformed into a playoff-caliber team",
+      "url": "https://www.bangordailynews.com/2025/10/28/sports/college-football/umaine-football-quickly-transformed-playoff-caliber-team-joam40zk0w/",
+      "summary": "UMaine head coach Jordan Stevens said the biggest reason behind the turnaround is the way his defensive players have improved their tackling.",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 05:00:00 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine football wins ninth straight Homecoming game",
+      "url": "https://www.bangordailynews.com/2025/10/25/sports/college-football/umaine-football-wins-ninth-straight-homecoming/",
+      "summary": "No matter what kind of season the University of Maine\u2019s football team is having, Homecoming has been good to the Black Bears in recent years.",
+      "image": "",
+      "published": "Sat, 25 Oct 2025 21:15:00 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Knee injury ends season for 1 of UMaine football\u2019s top offensive weapons",
+      "url": "https://www.bangordailynews.com/2025/10/20/sports/college-football/nick-laughlin-out-for-season-umaine-football/",
+      "summary": "University of Maine running back Nick Laughllin from Cape Elizabeth has been lost for the season due to a knee injury.",
+      "image": "",
+      "published": "Mon, 20 Oct 2025 18:17:24 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Injuries sideline 2 key UMaine running backs",
+      "url": "https://www.bangordailynews.com/2025/10/13/sports/college-football/injuries-sideline-umaine-running-backs/",
+      "summary": "UMaine head coach Jordan Stevens doesn't have a timeline for the return of leading rusher Sincere Baines or running back Nick Laughlin.",
+      "image": "",
+      "published": "Mon, 13 Oct 2025 19:10:04 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine football could win 3 in a row for 1st time under current coach",
+      "url": "https://www.bangordailynews.com/2025/10/10/sports/college-football/umaine-football-winning-games/",
+      "summary": "Jordan Stevens has won back-to-back Coastal Athletic Association games for the first time in his four years at the helm for the Black Bears.",
+      "image": "",
+      "published": "Fri, 10 Oct 2025 18:55:05 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine hockey drops season finale but claims fifth seed for Hockey East tourney as BU loses",
+      "url": "https://www.bangordailynews.com/2026/03/07/sports/umaine-sports/hockey-east-umaine-vermont/",
+      "summary": "The University of Maine\u2019s hockey team secured the fifth seed for the Hockey East Tournament and will face Boston College in the quarterfinals, despite a 5-3 loss to Vermont in its regular season finale.",
+      "image": "",
+      "published": "Sun, 08 Mar 2026 03:10:21 +0000",
+      "sport": "Sports",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Men\u2019s UMaine basketball ends season with loss to NJIT",
+      "url": "https://www.bangordailynews.com/2026/03/07/sports/university-of-maine-basketball-team-ends-season-with-loss-to-njit/",
+      "summary": "The University of Maine basketball team concluded its season with a 60-58 defeat against #3 NJIT, ending with an 8-24 record.",
+      "image": "",
+      "published": "Sun, 08 Mar 2026 00:22:29 +0000",
+      "sport": "Sports",
+      "source": "bdn",
+      "author": "UMaine Athletics"
     }
   ]
 }
