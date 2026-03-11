@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:11:10.111856+00:00",
+  "last_updated": "2026-03-11T12:37:24.546865+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -752,9 +752,9 @@
           "school": "UMass Lowell",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "3-7",
+          "overall": "4-7",
           "pct": ".000",
-          "streak": "L1",
+          "streak": "W1",
           "is_umaine": false
         },
         {
