@@ -86,13 +86,6 @@ function resultColor(result) {
   return "bg-yellow-100 text-yellow-800"; // Tie
 }
 
-// ─── H/A/N badge ──────────────────────────────────────────────────────────────
-function haLabel(ha) {
-  if (ha === "Home") return { text: "H", cls: "bg-blue-100 text-blue-700" };
-  if (ha === "Away") return { text: "A", cls: "bg-orange-100 text-orange-700" };
-  return { text: "N", cls: "bg-gray-100 text-gray-600" };
-}
-
 // ═══════════════════════════════════════════════════════════════════════════════
 // HEADER
 // ═══════════════════════════════════════════════════════════════════════════════
@@ -346,7 +339,6 @@ function ScoresTab({ schedules, boxScores, sportFilter, onOpenBoxScore }) {
   }
 
   function GameCard({ game }) {
-    const ha = haLabel(game.home_away);
     const clickable = hasBoxScore(game);
 
     return (
@@ -358,12 +350,9 @@ function ScoresTab({ schedules, boxScores, sportFilter, onOpenBoxScore }) {
           clickable ? "cursor-pointer hover:shadow-md hover:border-bdn-green transition-all" : ""
         }`}
       >
-        <div className="flex items-center justify-between mb-2">
+        <div className="mb-2">
           <span className="text-xs font-semibold uppercase tracking-wider text-bdn-green">
             {SPORT_NAMES[game.sport]}
-          </span>
-          <span className={`text-xs px-1.5 py-0.5 rounded font-medium ${ha.cls}`}>
-            {ha.text}
           </span>
         </div>
         <p className="font-heading text-base font-semibold text-gray-900">
