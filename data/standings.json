@@ -1,0 +1,988 @@
+{
+  "last_updated": "2026-03-11T01:05:41.398954+00:00",
+  "conferences": {
+    "mhockey": {
+      "teams": [
+        {
+          "school": "Providence",
+          "rank": 1,
+          "conference": {
+            "gp": 24,
+            "pts": 54,
+            "w": 18,
+            "l": 5,
+            "t": 1,
+            "ow": 2,
+            "ol": 1,
+            "sw": 0,
+            "gf": 86,
+            "ga": 46
+          },
+          "overall": {
+            "gp": 34,
+            "w": 23,
+            "l": 9,
+            "t": 2,
+            "gf": 116,
+            "ga": 74
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Massachusetts",
+          "rank": 2,
+          "conference": {
+            "gp": 24,
+            "pts": 43,
+            "w": 14,
+            "l": 9,
+            "t": 1,
+            "ow": 2,
+            "ol": 1,
+            "sw": 1,
+            "gf": 63,
+            "ga": 53
+          },
+          "overall": {
+            "gp": 34,
+            "w": 21,
+            "l": 12,
+            "t": 1,
+            "gf": 97,
+            "ga": 80
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "UConn",
+          "rank": 3,
+          "conference": {
+            "gp": 24,
+            "pts": 41,
+            "w": 12,
+            "l": 9,
+            "t": 3,
+            "ow": 1,
+            "ol": 1,
+            "sw": 2,
+            "gf": 73,
+            "ga": 59
+          },
+          "overall": {
+            "gp": 34,
+            "w": 18,
+            "l": 11,
+            "t": 5,
+            "gf": 105,
+            "ga": 80
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Boston College",
+          "rank": 4,
+          "conference": {
+            "gp": 24,
+            "pts": 39,
+            "w": 13,
+            "l": 11,
+            "t": 0,
+            "ow": 1,
+            "ol": 1,
+            "sw": 0,
+            "gf": 69,
+            "ga": 59
+          },
+          "overall": {
+            "gp": 34,
+            "w": 19,
+            "l": 14,
+            "t": 1,
+            "gf": 108,
+            "ga": 88
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "rank": 5,
+          "conference": {
+            "gp": 24,
+            "pts": 36,
+            "w": 12,
+            "l": 11,
+            "t": 1,
+            "ow": 3,
+            "ol": 2,
+            "sw": 0,
+            "gf": 76,
+            "ga": 69
+          },
+          "overall": {
+            "gp": 34,
+            "w": 18,
+            "l": 13,
+            "t": 3,
+            "gf": 116,
+            "ga": 91
+          },
+          "is_umaine": true
+        },
+        {
+          "school": "Boston University",
+          "rank": 6,
+          "conference": {
+            "gp": 24,
+            "pts": 35,
+            "w": 12,
+            "l": 12,
+            "t": 0,
+            "ow": 3,
+            "ol": 2,
+            "sw": 0,
+            "gf": 69,
+            "ga": 74
+          },
+          "overall": {
+            "gp": 34,
+            "w": 16,
+            "l": 16,
+            "t": 2,
+            "gf": 98,
+            "ga": 104
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Northeastern",
+          "rank": null,
+          "conference": {
+            "gp": 24,
+            "pts": 35,
+            "w": 11,
+            "l": 13,
+            "t": 0,
+            "ow": 1,
+            "ol": 3,
+            "sw": 0,
+            "gf": 67,
+            "ga": 62
+          },
+          "overall": {
+            "gp": 34,
+            "w": 16,
+            "l": 17,
+            "t": 1,
+            "gf": 90,
+            "ga": 84
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Merrimack",
+          "rank": 8,
+          "conference": {
+            "gp": 24,
+            "pts": 34,
+            "w": 10,
+            "l": 12,
+            "t": 2,
+            "ow": 0,
+            "ol": 1,
+            "sw": 1,
+            "gf": 68,
+            "ga": 75
+          },
+          "overall": {
+            "gp": 34,
+            "w": 17,
+            "l": 15,
+            "t": 2,
+            "gf": 109,
+            "ga": 101
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "rank": 9,
+          "conference": {
+            "gp": 24,
+            "pts": 28,
+            "w": 9,
+            "l": 15,
+            "t": 0,
+            "ow": 1,
+            "ol": 2,
+            "sw": 0,
+            "gf": 66,
+            "ga": 80
+          },
+          "overall": {
+            "gp": 34,
+            "w": 13,
+            "l": 21,
+            "t": 0,
+            "gf": 88,
+            "ga": 109
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "New Hampshire",
+          "rank": 10,
+          "conference": {
+            "gp": 24,
+            "pts": 26,
+            "w": 8,
+            "l": 15,
+            "t": 1,
+            "ow": 0,
+            "ol": 0,
+            "sw": 1,
+            "gf": 41,
+            "ga": 73
+          },
+          "overall": {
+            "gp": 34,
+            "w": 14,
+            "l": 19,
+            "t": 1,
+            "gf": 65,
+            "ga": 98
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Vermont",
+          "rank": 11,
+          "conference": {
+            "gp": 24,
+            "pts": 25,
+            "w": 8,
+            "l": 15,
+            "t": 1,
+            "ow": 0,
+            "ol": 0,
+            "sw": 0,
+            "gf": 55,
+            "ga": 83
+          },
+          "overall": {
+            "gp": 34,
+            "w": 13,
+            "l": 20,
+            "t": 1,
+            "gf": 72,
+            "ga": 111
+          },
+          "is_umaine": false
+        }
+      ]
+    },
+    "whockey": {
+      "teams": [
+        {
+          "school": "Northeastern",
+          "rank": 1,
+          "conference": {
+            "gp": 24,
+            "pts": 65,
+            "w": 21,
+            "l": 2,
+            "t": 1,
+            "ow": 2,
+            "ol": 2,
+            "sw": 1,
+            "gf": 80,
+            "ga": 34
+          },
+          "overall": {
+            "gp": 37,
+            "w": 28,
+            "l": 8,
+            "t": 1,
+            "gf": 111,
+            "ga": 64
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "UConn",
+          "rank": 2,
+          "conference": {
+            "gp": 24,
+            "pts": 53,
+            "w": 17,
+            "l": 6,
+            "t": 1,
+            "ow": 2,
+            "ol": 3,
+            "sw": 0,
+            "gf": 76,
+            "ga": 40
+          },
+          "overall": {
+            "gp": 37,
+            "w": 27,
+            "l": 8,
+            "t": 2,
+            "gf": 113,
+            "ga": 60
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Boston College",
+          "rank": 3,
+          "conference": {
+            "gp": 24,
+            "pts": 42,
+            "w": 14,
+            "l": 9,
+            "t": 1,
+            "ow": 3,
+            "ol": 1,
+            "sw": 1,
+            "gf": 72,
+            "ga": 56
+          },
+          "overall": {
+            "gp": 35,
+            "w": 16,
+            "l": 18,
+            "t": 1,
+            "gf": 88,
+            "ga": 99
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Holy Cross",
+          "rank": 4,
+          "conference": {
+            "gp": 24,
+            "pts": 37,
+            "w": 10,
+            "l": 11,
+            "t": 3,
+            "ow": 0,
+            "ol": 3,
+            "sw": 1,
+            "gf": 48,
+            "ga": 46
+          },
+          "overall": {
+            "gp": 35,
+            "w": 19,
+            "l": 13,
+            "t": 3,
+            "gf": 83,
+            "ga": 65
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "New Hampshire",
+          "rank": 5,
+          "conference": {
+            "gp": 24,
+            "pts": 33,
+            "w": 10,
+            "l": 12,
+            "t": 2,
+            "ow": 2,
+            "ol": 2,
+            "sw": 1,
+            "gf": 66,
+            "ga": 68
+          },
+          "overall": {
+            "gp": 35,
+            "w": 16,
+            "l": 16,
+            "t": 3,
+            "gf": 99,
+            "ga": 87
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Vermont",
+          "rank": 6,
+          "conference": {
+            "gp": 24,
+            "pts": 32,
+            "w": 9,
+            "l": 11,
+            "t": 4,
+            "ow": 3,
+            "ol": 1,
+            "sw": 3,
+            "gf": 55,
+            "ga": 58
+          },
+          "overall": {
+            "gp": 38,
+            "w": 16,
+            "l": 17,
+            "t": 5,
+            "gf": 82,
+            "ga": 93
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "rank": 7,
+          "conference": {
+            "gp": 24,
+            "pts": 30,
+            "w": 8,
+            "l": 12,
+            "t": 4,
+            "ow": 1,
+            "ol": 3,
+            "sw": 0,
+            "gf": 46,
+            "ga": 54
+          },
+          "overall": {
+            "gp": 36,
+            "w": 13,
+            "l": 19,
+            "t": 4,
+            "gf": 71,
+            "ga": 93
+          },
+          "is_umaine": true
+        },
+        {
+          "school": "Boston University",
+          "rank": 8,
+          "conference": {
+            "gp": 24,
+            "pts": 28,
+            "w": 8,
+            "l": 14,
+            "t": 2,
+            "ow": 0,
+            "ol": 0,
+            "sw": 2,
+            "gf": 45,
+            "ga": 61
+          },
+          "overall": {
+            "gp": 35,
+            "w": 11,
+            "l": 21,
+            "t": 3,
+            "gf": 64,
+            "ga": 89
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Providence",
+          "rank": 9,
+          "conference": {
+            "gp": 24,
+            "pts": 25,
+            "w": 8,
+            "l": 14,
+            "t": 2,
+            "ow": 3,
+            "ol": 1,
+            "sw": 1,
+            "gf": 45,
+            "ga": 72
+          },
+          "overall": {
+            "gp": 35,
+            "w": 11,
+            "l": 22,
+            "t": 2,
+            "gf": 63,
+            "ga": 112
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Merrimack",
+          "rank": 10,
+          "conference": {
+            "gp": 24,
+            "pts": 15,
+            "w": 4,
+            "l": 18,
+            "t": 2,
+            "ow": 1,
+            "ol": 1,
+            "sw": 1,
+            "gf": 36,
+            "ga": 80
+          },
+          "overall": {
+            "gp": 35,
+            "w": 7,
+            "l": 24,
+            "t": 4,
+            "gf": 61,
+            "ga": 113
+          },
+          "is_umaine": false
+        }
+      ]
+    },
+    "mbball": {
+      "title": "2025-26 Men's Basketball Standings",
+      "notes": "x- regular-season champions",
+      "teams": [
+        {
+          "school": "UMBC",
+          "conference": "14-2",
+          "conference_pct": ".875",
+          "overall": "23-8",
+          "pct": ".875",
+          "streak": "W11",
+          "is_umaine": false
+        },
+        {
+          "school": "Vermont",
+          "conference": "12-4",
+          "conference_pct": ".750",
+          "overall": "22-11",
+          "pct": ".750",
+          "streak": "W5",
+          "is_umaine": false
+        },
+        {
+          "school": "NJIT",
+          "conference": "10-6",
+          "conference_pct": ".625",
+          "overall": "16-17",
+          "pct": ".625",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "conference": "9-7",
+          "conference_pct": ".562",
+          "overall": "15-18",
+          "pct": ".562",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "UAlbany",
+          "conference": "7-9",
+          "conference_pct": ".438",
+          "overall": "11-21",
+          "pct": ".438",
+          "streak": "L2",
+          "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "conference": "6-10",
+          "conference_pct": ".375",
+          "overall": "8-24",
+          "pct": ".375",
+          "streak": "L3",
+          "is_umaine": true
+        },
+        {
+          "school": "New Hampshire",
+          "conference": "5-11",
+          "conference_pct": ".312",
+          "overall": "9-21",
+          "pct": ".312",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "Bryant",
+          "conference": "5-11",
+          "conference_pct": ".312",
+          "overall": "9-22",
+          "pct": ".312",
+          "streak": "L2",
+          "is_umaine": false
+        },
+        {
+          "school": "Binghamton",
+          "conference": "4-12",
+          "conference_pct": ".250",
+          "overall": "8-23",
+          "pct": ".250",
+          "streak": "W2",
+          "is_umaine": false
+        }
+      ]
+    },
+    "wbball": {
+      "title": "2025-26 Women's Basketball Standings",
+      "notes": "x- regular-season champions",
+      "teams": [
+        {
+          "school": "Vermont",
+          "conference": "13-3",
+          "conference_pct": ".812",
+          "overall": "26-7",
+          "pct": ".812",
+          "streak": "W4",
+          "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "conference": "12-4",
+          "conference_pct": ".750",
+          "overall": "19-12",
+          "pct": ".750",
+          "streak": "W5",
+          "is_umaine": true
+        },
+        {
+          "school": "Binghamton",
+          "conference": "10-6",
+          "conference_pct": ".625",
+          "overall": "19-12",
+          "pct": ".625",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "UMBC",
+          "conference": "10-6",
+          "conference_pct": ".625",
+          "overall": "16-14",
+          "pct": ".625",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "NJIT",
+          "conference": "9-7",
+          "conference_pct": ".562",
+          "overall": "18-12",
+          "pct": ".562",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "Bryant",
+          "conference": "8-8",
+          "conference_pct": ".500",
+          "overall": "18-12",
+          "pct": ".500",
+          "streak": "L3",
+          "is_umaine": false
+        },
+        {
+          "school": "New Hampshire",
+          "conference": "4-12",
+          "conference_pct": ".250",
+          "overall": "10-20",
+          "pct": ".250",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "UAlbany",
+          "conference": "4-12",
+          "conference_pct": ".250",
+          "overall": "14-16",
+          "pct": ".250",
+          "streak": "L3",
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "conference": "2-14",
+          "conference_pct": ".125",
+          "overall": "8-21",
+          "pct": ".125",
+          "streak": "L3",
+          "is_umaine": false
+        }
+      ]
+    },
+    "baseball": {
+      "title": "2026 Baseball Standings",
+      "notes": "",
+      "teams": [
+        {
+          "school": "NJIT",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "6-6",
+          "pct": ".000",
+          "streak": "W1",
+          "is_umaine": false
+        },
+        {
+          "school": "Bryant",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "6-7",
+          "pct": ".000",
+          "streak": "W2",
+          "is_umaine": false
+        },
+        {
+          "school": "UMBC",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "5-6",
+          "pct": ".000",
+          "streak": "W1",
+          "is_umaine": false
+        },
+        {
+          "school": "Binghamton",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "5-8",
+          "pct": ".000",
+          "streak": "W2",
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "3-7",
+          "pct": ".000",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "2-13",
+          "pct": ".000",
+          "streak": "L10",
+          "is_umaine": true
+        },
+        {
+          "school": "UAlbany",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-10",
+          "pct": ".000",
+          "streak": "L10",
+          "is_umaine": false
+        }
+      ]
+    },
+    "softball": {
+      "title": "2026 Softball Standings",
+      "notes": "",
+      "teams": [
+        {
+          "school": "UMass Lowell",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "9-7",
+          "pct": ".000",
+          "streak": "W4",
+          "is_umaine": false
+        },
+        {
+          "school": "UMBC",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "6-7",
+          "pct": ".000",
+          "streak": "W2",
+          "is_umaine": false
+        },
+        {
+          "school": "Bryant",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "7-11",
+          "pct": ".000",
+          "streak": "L6",
+          "is_umaine": false
+        },
+        {
+          "school": "UAlbany",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "3-6",
+          "pct": ".000",
+          "streak": "W2",
+          "is_umaine": false
+        },
+        {
+          "school": "Binghamton",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "4-14",
+          "pct": ".000",
+          "streak": "W1",
+          "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "4-15",
+          "pct": ".000",
+          "streak": "L6",
+          "is_umaine": true
+        }
+      ]
+    },
+    "fhockey": {
+      "title": "2025 Field Hockey Standings",
+      "notes": "",
+      "teams": [
+        {
+          "school": "New Hampshire",
+          "conference": "4-1",
+          "conference_pct": ".800",
+          "overall": "12-7",
+          "pct": ".800",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "Vermont",
+          "conference": "4-1",
+          "conference_pct": ".800",
+          "overall": "11-8",
+          "pct": ".800",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "UAlbany",
+          "conference": "3-2",
+          "conference_pct": ".600",
+          "overall": "12-7",
+          "pct": ".600",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "conference": "3-2",
+          "conference_pct": ".600",
+          "overall": "8-10",
+          "pct": ".600",
+          "streak": "L3",
+          "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "conference": "1-4",
+          "conference_pct": ".200",
+          "overall": "7-12",
+          "pct": ".200",
+          "streak": "L1",
+          "is_umaine": true
+        },
+        {
+          "school": "Bryant",
+          "conference": "0-5",
+          "conference_pct": ".000",
+          "overall": "4-14",
+          "pct": ".000",
+          "streak": "L2",
+          "is_umaine": false
+        }
+      ]
+    },
+    "wsoc": {
+      "title": "2025 Women's Soccer Standings",
+      "notes": "x - secured America East Championship berth",
+      "teams": [
+        {
+          "school": "Binghamton",
+          "conference": "5-0-3",
+          "conference_pct": ".812",
+          "overall": "10-2-5",
+          "pct": ".812",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "Vermont",
+          "conference": "5-1-2",
+          "conference_pct": ".750",
+          "overall": "8-4-6",
+          "pct": ".750",
+          "streak": "T1",
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "conference": "3-2-3",
+          "conference_pct": ".562",
+          "overall": "6-5-6",
+          "pct": ".562",
+          "streak": "T2",
+          "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "conference": "3-3-2",
+          "conference_pct": ".500",
+          "overall": "6-7-4",
+          "pct": ".500",
+          "streak": "T1",
+          "is_umaine": true
+        },
+        {
+          "school": "New Hampshire",
+          "conference": "2-2-4",
+          "conference_pct": ".500",
+          "overall": "4-6-7",
+          "pct": ".500",
+          "streak": "L2",
+          "is_umaine": false
+        },
+        {
+          "school": "Bryant",
+          "conference": "2-2-4",
+          "conference_pct": ".500",
+          "overall": "5-5-8",
+          "pct": ".500",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "NJIT",
+          "conference": "2-3-3",
+          "conference_pct": ".438",
+          "overall": "7-5-6",
+          "pct": ".438",
+          "streak": "W2",
+          "is_umaine": false
+        },
+        {
+          "school": "UMBC",
+          "conference": "2-5-1",
+          "conference_pct": ".312",
+          "overall": "6-8-4",
+          "pct": ".312",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "UAlbany",
+          "conference": "1-7",
+          "conference_pct": ".125",
+          "overall": "2-13-2",
+          "pct": ".125",
+          "streak": "L7",
+          "is_umaine": false
+        }
+      ]
+    }
+  }
+}

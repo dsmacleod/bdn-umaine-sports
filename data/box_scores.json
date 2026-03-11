@@ -1,0 +1,3340 @@
+{
+  "last_updated": "2026-03-11T01:05:41.398954+00:00",
+  "games": {
+    "mhockey": [
+      {
+        "home": {
+          "name": "Maine",
+          "score": "2",
+          "id": "MNE",
+          "record": "0-0-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Rousseau, Mathis",
+              "stat": "S",
+              "value": "19"
+            }
+          ]
+        },
+        "away": {
+          "name": "New Hampshire",
+          "score": "2",
+          "id": "UNH",
+          "record": "0-0-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Chauvette, Kyle",
+              "stat": "S",
+              "value": "16"
+            }
+          ]
+        },
+        "location": "Brunswick, Maine",
+        "attendance": "2000",
+        "recap": {
+          "headline": "UNH, Maine battle to 2-2 tie in preseason Buffalo Wild Wings Border Battle",
+          "teaser": "Simon Motew and Max Scott scored for Maine.",
+          "date": "2025-10-03T22:48:00",
+          "image": "/images/2025/10/3/Untitled-1.png",
+          "url": "/news/2025/10/3/mens-ice-hockey-unh-maine-battle-to-2-2-tie-in-preseason-buffalo-wild-wings-border-battle.aspx"
+        },
+        "result_status": "T",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16191&path=mhockey",
+        "game_id": "16191",
+        "sport": "mhockey"
+      },
+      {
+        "home": {
+          "name": "Maine",
+          "score": "5",
+          "id": "MNE",
+          "record": "1-0-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "3"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Boija, Albin",
+              "stat": "S",
+              "value": "18"
+            }
+          ]
+        },
+        "away": {
+          "name": "Holy Cross",
+          "score": "2",
+          "id": "HCR",
+          "record": "0-2-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Hogg, Louden",
+              "stat": "S",
+              "value": "16"
+            }
+          ]
+        },
+        "location": "Orono, Maine",
+        "attendance": "4980",
+        "recap": {
+          "headline": "Poirier nets hat trick as Maine tops Holy Cross in season opener",
+          "teaser": "Justin Poirier recorded a hat trick in a 5-2 win.",
+          "date": "2025-10-10T22:28:00",
+          "image": "/images/2025/10/10/IMG_2970.jpg",
+          "url": "/news/2025/10/10/mens-ice-hockey-poirier-nets-hat-trick-as-maine-tops-holy-cross-in-season-opener.aspx"
+        },
+        "result_status": "W",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16070&path=mhockey",
+        "game_id": "16070",
+        "sport": "mhockey"
+      },
+      {
+        "home": {
+          "name": "Maine",
+          "score": "6",
+          "id": "MNE",
+          "record": "2-0-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "2"
+            },
+            {
+              "period": "3",
+              "score": "3"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Boija, Albin",
+              "stat": "S",
+              "value": "22"
+            }
+          ]
+        },
+        "away": {
+          "name": "Holy Cross",
+          "score": "0",
+          "id": "HCR",
+          "record": "0-3-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Leroux, Danick",
+              "stat": "S",
+              "value": "14"
+            }
+          ]
+        },
+        "location": "Orono, Maine",
+        "attendance": "4980",
+        "recap": {
+          "headline": "Black Bears sweep weekend series with Crusaders",
+          "teaser": "Josh Nadeau had two points while Albin Boija had a 22-save shutout.",
+          "date": "2025-10-11T23:35:00",
+          "image": "/images/2025/10/11/MIH_Lipinski.png",
+          "url": "/news/2025/10/11/mens-ice-hockey-black-bears-sweep-weekend-series-with-crusaders.aspx"
+        },
+        "result_status": "W",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16071&path=mhockey",
+        "game_id": "16071",
+        "sport": "mhockey"
+      },
+      {
+        "home": {
+          "name": "Quinnipiac",
+          "score": "4",
+          "id": "QUI",
+          "record": "2-1-1",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "2"
+            },
+            {
+              "period": "3",
+              "score": "2"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Marinov, Matej",
+              "stat": "S",
+              "value": "18"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "4",
+          "id": "MNE",
+          "record": "2-0-1",
+          "periods": [
+            {
+              "period": "1",
+              "score": "3"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Boija, Albin",
+              "stat": "S",
+              "value": "35"
+            }
+          ]
+        },
+        "location": "Hamden, Connecticut",
+        "attendance": "3625",
+        "recap": {
+          "headline": "Black Bears, Bobcats battle to tie in non-conference action",
+          "teaser": "Four different Black Bears scored in the 4-4 tie.",
+          "date": "2025-10-17T21:54:00",
+          "image": "/images/2025/10/17/Untitled-1.png",
+          "url": "/news/2025/10/17/mens-ice-hockey-black-bears-bobcats-battle-to-tie-in-non-conference-action.aspx"
+        },
+        "result_status": "T",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16072&path=mhockey",
+        "game_id": "16072",
+        "sport": "mhockey"
+      },
+      {
+        "home": {
+          "name": "Quinnipiac",
+          "score": "4",
+          "id": "QUI",
+          "record": "3-1-1",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "2"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Marinov, Matej",
+              "stat": "S",
+              "value": "19"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "0",
+          "id": "MAI",
+          "record": "2-1-1",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Rousseau, Mathis",
+              "stat": "S",
+              "value": "29"
+            }
+          ]
+        },
+        "location": "Hamden, Connecticut",
+        "attendance": "3625",
+        "recap": {
+          "headline": "Bobcats trip up Black Bears in non-conference action",
+          "teaser": "The Black Bears fell to the Bobcats in non-conference road action.",
+          "date": "2025-10-18T18:25:00",
+          "image": "/images/2025/10/18/_PEV4978_TCbed.jpg",
+          "url": "/news/2025/10/18/mens-ice-hockey-maine-quinnipaic-recap.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16073&path=mhockey",
+        "game_id": "16073",
+        "sport": "mhockey"
+      }
+    ],
+    "whockey": [
+      {
+        "home": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "away": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "location": "",
+        "attendance": "",
+        "recap": {
+          "headline": "Maine drops exhibition game to UNH",
+          "teaser": "ORONO, Maine - The University of Maine women's ice hockey team started the 2025-26 season with an exhibition game against New Hampshire on Saturday at the Whittemore Center. Maine was defeated by a score of 5-1.",
+          "date": "2025-09-20T17:46:00",
+          "image": "/images/2025/9/20/DSC07467.jpg",
+          "url": "/news/2025/9/20/womens-ice-hockey-maine-drops-exhibition-game-to-unh.aspx"
+        },
+        "result_status": "L",
+        "url": "",
+        "game_id": "16119",
+        "sport": "whockey"
+      },
+      {
+        "home": {
+          "name": "Quinnipiac",
+          "score": "3",
+          "id": "QUI",
+          "record": "1-0-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "2"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Frank, Felicia",
+              "stat": "S",
+              "value": "17"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "2",
+          "id": "MNE",
+          "record": "0-1-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "2"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Lahtinen, Kiia",
+              "stat": "S",
+              "value": "30"
+            }
+          ]
+        },
+        "location": "Hamden, Connecticut",
+        "attendance": "379",
+        "recap": {
+          "headline": "Maine battles with  #10 Quinnipiac in season opener",
+          "teaser": "HAMDEN, CT - The Maine Black Bears pushed the #10 Quinnipiac Bobcats right to the final minutes of their season-opener on Friday night at M&T Bank Arena, before the game ended in a 3-2 loss.",
+          "date": "2025-09-26T20:41:00",
+          "image": "/images/2025/9/26/IMG_9268.jpeg",
+          "url": "/news/2025/9/26/womens-ice-hockey-maine-battles-with-10-quinnipiac-in-season-opener.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16120&path=whockey",
+        "game_id": "16120",
+        "sport": "whockey"
+      },
+      {
+        "home": {
+          "name": "Quinnipiac",
+          "score": "4",
+          "id": "QUI",
+          "record": "2-0-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            },
+            {
+              "period": "4",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Frank, Felicia",
+              "stat": "S",
+              "value": "9"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "3",
+          "id": "MNE",
+          "record": "0-2-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "2"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Lahtinen, Kiia",
+              "stat": "S",
+              "value": "38"
+            }
+          ]
+        },
+        "location": "Hamden, Connecticut",
+        "attendance": "516",
+        "recap": {
+          "headline": "Maine pushes the nationally ranked #10 Quinnipiac Bobcats to OT, falls 4-3",
+          "teaser": "HAMDEN, Conn. - The University of Maine women's ice hockey team pushed the nationally ranked #10 Quinnipiac Bobcats to an overtime period on Saturday before the game ended in a 4-3 loss.",
+          "date": "2025-09-27T18:11:00",
+          "image": "/images/2025/9/27/IMG_8942.jpeg",
+          "url": "/news/2025/9/27/womens-ice-hockey-maine-pushes-10-quinnipiac-to-ot-falls-4-3.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16121&path=whockey",
+        "game_id": "16121",
+        "sport": "whockey"
+      },
+      {
+        "home": {
+          "name": "Wisconsin",
+          "score": "5",
+          "id": "WIS",
+          "record": "3-0-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "2"
+            },
+            {
+              "period": "3",
+              "score": "3"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "McNaughton, Ava",
+              "stat": "S",
+              "value": "25"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "0",
+          "id": "MAI",
+          "record": "0-3-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Lahtinen, Kiia",
+              "stat": "S",
+              "value": "46"
+            }
+          ]
+        },
+        "location": "Madison, Wisconsin",
+        "attendance": "2273",
+        "recap": {
+          "headline": "Maine shut out by #1 Wisconsin, 5-0",
+          "teaser": "MADISON, Wisconsin - The Maine Black Bears were blanked by the #1 Wisconsin Badgers on Friday night at LaBahn Arena by a score of 5-0.",
+          "date": "2025-10-03T23:20:00",
+          "image": "/images/2025/10/3/WHKY-20251003-MAINE-FELIX-72.jpg",
+          "url": "/news/2025/10/3/womens-ice-hockey-maine-shut-out-by-1-wisconsin-5-0.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16122&path=whockey",
+        "game_id": "16122",
+        "sport": "whockey"
+      },
+      {
+        "home": {
+          "name": "Wisconsin",
+          "score": "5",
+          "id": "WIS",
+          "record": "4-0-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "3"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "McNaughton, Ava",
+              "stat": "S",
+              "value": "13"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "0",
+          "id": "MAI",
+          "record": "0-4-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Lahtinen, Kiia",
+              "stat": "S",
+              "value": "49"
+            }
+          ]
+        },
+        "location": "Madison, Wisconsin",
+        "attendance": "2273",
+        "recap": {
+          "headline": "Women's Ice Hockey blanked by the #1 Badgers",
+          "teaser": "MADISON, Wisconsin - The University of Maine women's ice hockey team fell to the #1 nationally ranked Wisconsin Badgers on Saturday, 5 to 0.",
+          "date": "2025-10-05T00:23:00",
+          "image": "/images/2025/10/4/WHKY-20251004-MAINE-FELIX-17.jpg",
+          "url": "/news/2025/10/5/womens-ice-hockey-blanked-by-the-1-badgers.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16123&path=whockey",
+        "game_id": "16123",
+        "sport": "whockey"
+      }
+    ],
+    "football": [
+      {
+        "home": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "away": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "location": "",
+        "attendance": "",
+        "recap": {
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
+        },
+        "result_status": "",
+        "url": "",
+        "game_id": "16417",
+        "sport": "football"
+      },
+      {
+        "home": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "away": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "location": "",
+        "attendance": "",
+        "recap": {
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
+        },
+        "result_status": "",
+        "url": "",
+        "game_id": "16418",
+        "sport": "football"
+      },
+      {
+        "home": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "away": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "location": "",
+        "attendance": "",
+        "recap": {
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
+        },
+        "result_status": "",
+        "url": "",
+        "game_id": "16419",
+        "sport": "football"
+      },
+      {
+        "home": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "away": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "location": "",
+        "attendance": "",
+        "recap": {
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
+        },
+        "result_status": "",
+        "url": "",
+        "game_id": "16420",
+        "sport": "football"
+      },
+      {
+        "home": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "away": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "location": "",
+        "attendance": "",
+        "recap": {
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
+        },
+        "result_status": "",
+        "url": "",
+        "game_id": "16421",
+        "sport": "football"
+      }
+    ],
+    "mbball": [
+      {
+        "home": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "away": {
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
+        },
+        "location": "",
+        "attendance": "",
+        "recap": {
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
+        },
+        "result_status": "",
+        "url": "",
+        "game_id": "16261",
+        "sport": "mbball"
+      },
+      {
+        "home": {
+          "name": "George Washington",
+          "score": "67",
+          "id": "GWU",
+          "record": "1-0,0-0 Atlantic 10",
+          "periods": [
+            {
+              "period": "1",
+              "score": "29"
+            },
+            {
+              "period": "2",
+              "score": "38"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Hunger,Luke",
+              "stat": "PTS",
+              "value": "15"
+            },
+            {
+              "name": "Marshall,Tyrone",
+              "stat": "REB",
+              "value": "12"
+            },
+            {
+              "name": "Hunger,Luke",
+              "stat": "AST",
+              "value": "3"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "47",
+          "id": "Maine",
+          "record": "0-1,0-0 America East",
+          "periods": [
+            {
+              "period": "1",
+              "score": "25"
+            },
+            {
+              "period": "2",
+              "score": "22"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Biel, TJ",
+              "stat": "PTS",
+              "value": "13"
+            },
+            {
+              "name": "Biel, TJ",
+              "stat": "REB",
+              "value": "7"
+            },
+            {
+              "name": "Mabrey, Ryan",
+              "stat": "AST",
+              "value": "2"
+            }
+          ]
+        },
+        "location": "Charles E. Smith Center, Washington, DC",
+        "attendance": "2043",
+        "recap": {
+          "headline": "Men's Basketball Falls on Opening Night at George Washington",
+          "teaser": "The University of Maine basketball team was defeated by George Washington on opening night, 67-47.",
+          "date": "2025-11-03T22:04:00",
+          "image": "/images/2025/11/3/562A7881.jpg",
+          "url": "/news/2025/11/3/mens-basketball-falls-on-opening-night-at-george-washington.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16192&path=mbball",
+        "game_id": "16192",
+        "sport": "mbball"
+      },
+      {
+        "home": {
+          "name": "Stony Brook",
+          "score": "71",
+          "id": "SBU",
+          "record": "2-0,0-0 CAA",
+          "periods": [
+            {
+              "period": "1",
+              "score": "38"
+            },
+            {
+              "period": "2",
+              "score": "33"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Pratt,Erik",
+              "stat": "PTS",
+              "value": "19"
+            },
+            {
+              "name": "Goods,Richard",
+              "stat": "REB",
+              "value": "10"
+            },
+            {
+              "name": "Goods,Richard",
+              "stat": "AST",
+              "value": "4"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "60",
+          "id": "Maine",
+          "record": "0-2,0-0 America East",
+          "periods": [
+            {
+              "period": "1",
+              "score": "37"
+            },
+            {
+              "period": "2",
+              "score": "23"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Mabrey, Ryan",
+              "stat": "PTS",
+              "value": "14"
+            },
+            {
+              "name": "Flagg, Ace",
+              "stat": "REB",
+              "value": "8"
+            },
+            {
+              "name": "Biel, TJ",
+              "stat": "AST",
+              "value": "2"
+            }
+          ]
+        },
+        "location": "Stony Brook Arena, Stony Brook, NY",
+        "attendance": "1803",
+        "recap": {
+          "headline": "Black Bears fall at Stony Brook on Saturday Evening",
+          "teaser": "The University of Maine basketball team fell in a tight battle against Stony Brook on Saturday evening, 71-60.",
+          "date": "2025-11-08T20:42:00",
+          "image": "/images/2025/11/8/562A7844.jpg",
+          "url": "/news/2025/11/8/mens-basketball-black-bears-fall-at-stony-brook-on-saturday-evening.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16193&path=mbball",
+        "game_id": "16193",
+        "sport": "mbball"
+      },
+      {
+        "home": {
+          "name": "Rutgers",
+          "score": "72",
+          "id": "RU",
+          "record": "2-0,0-0 Big Ten",
+          "periods": [
+            {
+              "period": "1",
+              "score": "37"
+            },
+            {
+              "period": "2",
+              "score": "35"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Badalau,Denis",
+              "stat": "PTS",
+              "value": "19"
+            },
+            {
+              "name": "Grant,Dylan",
+              "stat": "REB",
+              "value": "10"
+            },
+            {
+              "name": "Buchanan Jr.,Darren",
+              "stat": "AST",
+              "value": "5"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "60",
+          "id": "Maine",
+          "record": "0-3,0-0 America East",
+          "periods": [
+            {
+              "period": "1",
+              "score": "30"
+            },
+            {
+              "period": "2",
+              "score": "30"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Bonilla, Isaac",
+              "stat": "PTS",
+              "value": "12"
+            },
+            {
+              "name": "Steele, Keelan",
+              "stat": "REB",
+              "value": "4"
+            },
+            {
+              "name": "Bamba, Yanis",
+              "stat": "AST",
+              "value": "3"
+            }
+          ]
+        },
+        "location": "Jersey Mike's Arena, Piscataway, NJ",
+        "attendance": "8000",
+        "recap": {
+          "headline": "Maine falls at Rutgers on Monday Night",
+          "teaser": "The University of Maine basketball fell at BIG 10 opponent Rutgers on Monday night, 72-60.",
+          "date": "2025-11-10T20:58:00",
+          "image": "/images/2025/11/10/DSC09749.jpg",
+          "url": "/news/2025/11/10/mens-basketball-maine-falls-at-rutgers-on-monday-night.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16194&path=mbball",
+        "game_id": "16194",
+        "sport": "mbball"
+      },
+      {
+        "home": {
+          "name": "Maine",
+          "score": "64",
+          "id": "Maine",
+          "record": "0-4,0-0 America East",
+          "periods": [
+            {
+              "period": "1",
+              "score": "36"
+            },
+            {
+              "period": "2",
+              "score": "28"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Biel, TJ",
+              "stat": "PTS",
+              "value": "17"
+            },
+            {
+              "name": "Flagg, Ace",
+              "stat": "REB",
+              "value": "6"
+            },
+            {
+              "name": "Mabrey, Ryan",
+              "stat": "AST",
+              "value": "3"
+            }
+          ]
+        },
+        "away": {
+          "name": "Quinnipiac",
+          "score": "70",
+          "id": "QU",
+          "record": "2-2,0-0 MAAC",
+          "periods": [
+            {
+              "period": "1",
+              "score": "28"
+            },
+            {
+              "period": "2",
+              "score": "42"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Monroe,Amarri",
+              "stat": "PTS",
+              "value": "17"
+            },
+            {
+              "name": "Monroe,Amarri",
+              "stat": "REB",
+              "value": "13"
+            },
+            {
+              "name": "Monroe,Amarri",
+              "stat": "AST",
+              "value": "4"
+            }
+          ]
+        },
+        "location": "Memorial Gymnasium, Orono, ME",
+        "attendance": "1380",
+        "recap": {
+          "headline": "Basketball Falls to Quinnipiac in Home Opener",
+          "teaser": "The University of Maine basketball team fell against Quinnipiac on Sunday evening, 70-64.",
+          "date": "2025-11-16T18:23:00",
+          "image": "/images/2025/11/16/_DSC5458.jpg",
+          "url": "/news/2025/11/16/mens-basketball-basketball-falls-to-quinnipiac-in-home-opener.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16195&path=mbball",
+        "game_id": "16195",
+        "sport": "mbball"
+      }
+    ],
+    "wbball": [
+      {
+        "home": {
+          "name": "Maine",
+          "score": "62",
+          "id": "Maine",
+          "record": "0-1,0-0 America East",
+          "periods": [
+            {
+              "period": "1",
+              "score": "12"
+            },
+            {
+              "period": "2",
+              "score": "8"
+            },
+            {
+              "period": "3",
+              "score": "19"
+            },
+            {
+              "period": "4",
+              "score": "23"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Smith, Adrianna",
+              "stat": "PTS",
+              "value": "25"
+            },
+            {
+              "name": "Smith, Adrianna",
+              "stat": "REB",
+              "value": "13"
+            },
+            {
+              "name": "Alvarez, Olivia",
+              "stat": "AST",
+              "value": "4"
+            }
+          ]
+        },
+        "away": {
+          "name": "Saint Joseph's",
+          "score": "63",
+          "id": "SJU",
+          "record": "2-0,0-0 Atlantic 10",
+          "periods": [
+            {
+              "period": "1",
+              "score": "12"
+            },
+            {
+              "period": "2",
+              "score": "12"
+            },
+            {
+              "period": "3",
+              "score": "22"
+            },
+            {
+              "period": "4",
+              "score": "17"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Casey,Gabby",
+              "stat": "PTS",
+              "value": "19"
+            },
+            {
+              "name": "Casey,Gabby",
+              "stat": "REB",
+              "value": "9"
+            },
+            {
+              "name": "Snead,Aleah",
+              "stat": "AST",
+              "value": "7"
+            }
+          ]
+        },
+        "location": "Memorial Gymnasium, Orono, ME",
+        "attendance": "1230",
+        "recap": {
+          "headline": "Smith tallies 25 points in her return, Black Bears fall by one to Saint Joseph's",
+          "teaser": "ORONO, Maine -- After missing the 2024-25 season due to injury, Adrianna Smith returned in a big way as she tallied her 40th career double-double in a 63-62 loss to Saint Joseph's in Maine's season opener on Friday evening.",
+          "date": "2025-11-07T21:44:00",
+          "image": "/images/2025/11/7/smith-saint-josephs.png",
+          "url": "/news/2025/11/7/womens-basketball-smith-tallies-25-points-in-her-return-black-bears-fall-by-one-to-saint-joseph-s.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16178&path=wbball",
+        "game_id": "16178",
+        "sport": "wbball"
+      },
+      {
+        "home": {
+          "name": "NC State",
+          "score": "66",
+          "id": "NCSU",
+          "record": "2-1,0-0 ACC",
+          "periods": [
+            {
+              "period": "1",
+              "score": "9"
+            },
+            {
+              "period": "2",
+              "score": "19"
+            },
+            {
+              "period": "3",
+              "score": "21"
+            },
+            {
+              "period": "4",
+              "score": "17"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Pierre,Khamil",
+              "stat": "PTS",
+              "value": "18"
+            },
+            {
+              "name": "Pierre,Khamil",
+              "stat": "REB",
+              "value": "10"
+            },
+            {
+              "name": "Jones,Zamareya",
+              "stat": "AST",
+              "value": "5"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "47",
+          "id": "Maine",
+          "record": "0-2,0-0 America East",
+          "periods": [
+            {
+              "period": "1",
+              "score": "5"
+            },
+            {
+              "period": "2",
+              "score": "9"
+            },
+            {
+              "period": "3",
+              "score": "13"
+            },
+            {
+              "period": "4",
+              "score": "20"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Blauenfeldt, Asta",
+              "stat": "PTS",
+              "value": "16"
+            },
+            {
+              "name": "Smith, Adrianna",
+              "stat": "REB",
+              "value": "10"
+            },
+            {
+              "name": "Smith, Adrianna",
+              "stat": "AST",
+              "value": "6"
+            }
+          ]
+        },
+        "location": "Reynolds Coliseum, Raleigh, NC",
+        "attendance": "4575",
+        "recap": {
+          "headline": "Blauenfeldt leads Maine in loss at #9 NC State",
+          "teaser": "RALEIGH, N.C. -- The University of Maine women's basketball team held No. 9 NC State to its lowest point total of the season but it wasn't enough as the Black Bears dropped a 66-47 decision to the Wolfpack on Tuesday evening.",
+          "date": "2025-11-11T20:55:00",
+          "image": "/images/2025/11/11/Blauenfeldt-action-NC-State.png",
+          "url": "/news/2025/11/11/womens-basketball-blauenfeldt-leads-maine-in-loss-at-9-nc-state.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16179&path=wbball",
+        "game_id": "16179",
+        "sport": "wbball"
+      },
+      {
+        "home": {
+          "name": "VCU",
+          "score": "81",
+          "id": "VCU",
+          "record": "2-1,0-0 Atlantic 10",
+          "periods": [
+            {
+              "period": "1",
+              "score": "12"
+            },
+            {
+              "period": "2",
+              "score": "18"
+            },
+            {
+              "period": "3",
+              "score": "30"
+            },
+            {
+              "period": "4",
+              "score": "21"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Knezevic,Katarina",
+              "stat": "PTS",
+              "value": "19"
+            },
+            {
+              "name": "Augustin,Patricia",
+              "stat": "REB",
+              "value": "8"
+            },
+            {
+              "name": "Knezevic,Katarina",
+              "stat": "AST",
+              "value": "4"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "77",
+          "id": "Maine",
+          "record": "0-3,0-0 America East",
+          "periods": [
+            {
+              "period": "1",
+              "score": "19"
+            },
+            {
+              "period": "2",
+              "score": "13"
+            },
+            {
+              "period": "3",
+              "score": "18"
+            },
+            {
+              "period": "4",
+              "score": "27"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Sain, Kaliyah",
+              "stat": "PTS",
+              "value": "26"
+            },
+            {
+              "name": "Sain, Kaliyah",
+              "stat": "REB",
+              "value": "10"
+            },
+            {
+              "name": "Smith, Adrianna",
+              "stat": "AST",
+              "value": "7"
+            }
+          ]
+        },
+        "location": "Stuart C. Siegel Center, Richmond, VA",
+        "attendance": "814",
+        "recap": {
+          "headline": "Women's Basketball Falls in Close Contest at VCU on Friday Night",
+          "teaser": "The University of Maine women's basketball program fell in a close battle against VCU on Friday night, 81-77.",
+          "date": "2025-11-14T21:20:00",
+          "image": "/images/2025/11/14/Q1-10.jpg",
+          "url": "/news/2025/11/14/womens-basketball-falls-in-close-contest-at-vcu-on-friday-night.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16180&path=wbball",
+        "game_id": "16180",
+        "sport": "wbball"
+      },
+      {
+        "home": {
+          "name": "Maine",
+          "score": "79",
+          "id": "Maine",
+          "record": "1-3,0-0 America East",
+          "periods": [
+            {
+              "period": "1",
+              "score": "17"
+            },
+            {
+              "period": "2",
+              "score": "22"
+            },
+            {
+              "period": "3",
+              "score": "27"
+            },
+            {
+              "period": "4",
+              "score": "13"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Smith, Adrianna",
+              "stat": "PTS",
+              "value": "26"
+            },
+            {
+              "name": "Smith, Adrianna",
+              "stat": "REB",
+              "value": "13"
+            },
+            {
+              "name": "Blauenfeldt, Asta",
+              "stat": "AST",
+              "value": "4"
+            }
+          ]
+        },
+        "away": {
+          "name": "Stonehill",
+          "score": "53",
+          "id": "STO",
+          "record": "3-2,0-0 NEC",
+          "periods": [
+            {
+              "period": "1",
+              "score": "10"
+            },
+            {
+              "period": "2",
+              "score": "12"
+            },
+            {
+              "period": "3",
+              "score": "11"
+            },
+            {
+              "period": "4",
+              "score": "20"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Paquette,Brooke",
+              "stat": "PTS",
+              "value": "13"
+            },
+            {
+              "name": "Wheeler,Catelyn",
+              "stat": "REB",
+              "value": "6"
+            },
+            {
+              "name": "Paquette,Brooke",
+              "stat": "AST",
+              "value": "2"
+            }
+          ]
+        },
+        "location": "Memorial Gymnasium, Orono, ME",
+        "attendance": "922",
+        "recap": {
+          "headline": "Black Bears cruise past Stonehill",
+          "teaser": "ORONO, Maine -- Adrianna Smith posted 26 points and 10 rebounds for her third double-double of the season as the University of Maine women's basketball team registered its first victory of the season, defeating Stonehill 79-53 on Monday evening.",
+          "date": "2025-11-17T23:03:00",
+          "image": "/images/2025/11/17/smith-layup-stonehill.png",
+          "url": "/news/2025/11/17/womens-basketball-black-bears-cruise-past-stonehill.aspx"
+        },
+        "result_status": "W",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16181&path=wbball",
+        "game_id": "16181",
+        "sport": "wbball"
+      },
+      {
+        "home": {
+          "name": "Brown",
+          "score": "70",
+          "id": "BRN",
+          "record": "3-2,0-0 Ivy League",
+          "periods": [
+            {
+              "period": "1",
+              "score": "21"
+            },
+            {
+              "period": "2",
+              "score": "13"
+            },
+            {
+              "period": "3",
+              "score": "20"
+            },
+            {
+              "period": "4",
+              "score": "16"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Arnolie,Grace",
+              "stat": "PTS",
+              "value": "22"
+            },
+            {
+              "name": "Moreland,Alyssa",
+              "stat": "REB",
+              "value": "7"
+            },
+            {
+              "name": "Adams-Lopez,Charlotte",
+              "stat": "AST",
+              "value": "7"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "39",
+          "id": "Maine",
+          "record": "1-4,0-0 America East",
+          "periods": [
+            {
+              "period": "1",
+              "score": "2"
+            },
+            {
+              "period": "2",
+              "score": "14"
+            },
+            {
+              "period": "3",
+              "score": "10"
+            },
+            {
+              "period": "4",
+              "score": "13"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Blauenfeldt, Asta",
+              "stat": "PTS",
+              "value": "10"
+            },
+            {
+              "name": "TEAM",
+              "stat": "REB",
+              "value": "5"
+            },
+            {
+              "name": "Fitzpatrick, Maddie",
+              "stat": "AST",
+              "value": "2"
+            }
+          ]
+        },
+        "location": "Pizzitola Sports Center, Providence, RI",
+        "attendance": "217",
+        "recap": {
+          "headline": "Women's Basketball falls at Brown",
+          "teaser": "PROVIDENCE, R.I. -- Asta Blauenfeldt led Maine with 10 points in the University of Maine women's basketball team's 70-39 loss at Brown on Sunday afternoon.",
+          "date": "2025-11-23T13:51:00",
+          "image": "/images/2025/11/23/blauenfeldt-brown.png",
+          "url": "/news/2025/11/23/womens-basketball-falls-at-brown.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16182&path=wbball",
+        "game_id": "16182",
+        "sport": "wbball"
+      }
+    ],
+    "baseball": [
+      {
+        "home": {
+          "name": "Duke",
+          "score": "8",
+          "id": "DUKE",
+          "record": "1-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "2"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            },
+            {
+              "period": "4",
+              "score": "1"
+            },
+            {
+              "period": "5",
+              "score": "1"
+            },
+            {
+              "period": "6",
+              "score": "3"
+            },
+            {
+              "period": "9",
+              "score": ""
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Weaver, Aidan",
+              "stat": "W",
+              "value": ""
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "3",
+          "id": "UM",
+          "record": "0-1",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            },
+            {
+              "period": "8",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Gambardella, Gianni",
+              "stat": "L",
+              "value": ""
+            }
+          ]
+        },
+        "location": "Durham, N.C",
+        "attendance": "",
+        "recap": {
+          "headline": "Baseball Splits Friday Doubleheader at Duke",
+          "teaser": "The University of Maine baseball split a doubleheader with Duke on Friday evening, losing game one 8-3 before winning game two, 4-3.",
+          "date": "2026-02-13T22:28:00",
+          "image": "/images/2026/2/13/DSC08284.jpg",
+          "url": "/news/2026/2/13/baseball-splits-friday-doubleheader-at-duke.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16364&path=baseball",
+        "game_id": "16364",
+        "sport": "baseball"
+      },
+      {
+        "home": {
+          "name": "Duke",
+          "score": "3",
+          "id": "DUKE",
+          "record": "1-1",
+          "periods": [
+            {
+              "period": "1",
+              "score": "2"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "4",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Lemke, Peter",
+              "stat": "L",
+              "value": ""
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "4",
+          "id": "UM",
+          "record": "1-1",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "4",
+              "score": "2"
+            },
+            {
+              "period": "9",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Holt, Sebastian",
+              "stat": "W",
+              "value": ""
+            },
+            {
+              "name": "Donlin, Jack",
+              "stat": "S",
+              "value": ""
+            }
+          ]
+        },
+        "location": "Durham, N.C.",
+        "attendance": "802",
+        "recap": {
+          "headline": "Baseball Splits Friday Doubleheader at Duke",
+          "teaser": "The University of Maine baseball split a doubleheader with Duke on Friday evening, losing game one 8-3 before winning game two, 4-3.",
+          "date": "2026-02-13T22:28:00",
+          "image": "/images/2026/2/13/DSC08284.jpg",
+          "url": "/news/2026/2/13/baseball-splits-friday-doubleheader-at-duke.aspx"
+        },
+        "result_status": "W",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16365&path=baseball",
+        "game_id": "16365",
+        "sport": "baseball"
+      },
+      {
+        "home": {
+          "name": "Duke",
+          "score": "3",
+          "id": "DUKE",
+          "record": "2-1",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "4",
+              "score": "2"
+            },
+            {
+              "period": "5",
+              "score": "1"
+            },
+            {
+              "period": "7",
+              "score": ""
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Dean, Ben",
+              "stat": "W",
+              "value": ""
+            },
+            {
+              "name": "O'Connell, Aiden",
+              "stat": "S",
+              "value": ""
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "0",
+          "id": "UM",
+          "record": "2-1",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Krieger, Jason",
+              "stat": "L",
+              "value": ""
+            }
+          ]
+        },
+        "location": "Durham, N.C.",
+        "attendance": "",
+        "recap": {
+          "headline": "Baseball Drops Final Two Games of Series at Duke on Saturday Afternoon",
+          "teaser": "The University of Maine baseball team dropped the final two games of the weekend series on Saturday afternoon at Duke.",
+          "date": "2026-02-14T18:31:00",
+          "image": "/images/2026/2/14/DSC08373.jpg",
+          "url": "/news/2026/2/14/baseball-drops-final-two-games-of-series-at-duke-on-saturday-afternoon.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16366&path=baseball",
+        "game_id": "16366",
+        "sport": "baseball"
+      },
+      {
+        "home": {
+          "name": "Duke",
+          "score": "7",
+          "id": "DUKE",
+          "record": "3-1",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "2"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "4",
+              "score": "1"
+            },
+            {
+              "period": "5",
+              "score": "2"
+            },
+            {
+              "period": "6",
+              "score": "1"
+            },
+            {
+              "period": "9",
+              "score": ""
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Hedrick, Jack",
+              "stat": "W",
+              "value": ""
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "1",
+          "id": "UM",
+          "record": "1-3",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Stabley, Thomas",
+              "stat": "L",
+              "value": ""
+            }
+          ]
+        },
+        "location": "Durham, N.C.",
+        "attendance": "724",
+        "recap": {
+          "headline": "Baseball Drops Final Two Games of Series at Duke on Saturday Afternoon",
+          "teaser": "The University of Maine baseball team dropped the final two games of the weekend series on Saturday afternoon at Duke.",
+          "date": "2026-02-14T18:31:00",
+          "image": "/images/2026/2/14/DSC08373.jpg",
+          "url": "/news/2026/2/14/baseball-drops-final-two-games-of-series-at-duke-on-saturday-afternoon.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16370&path=baseball",
+        "game_id": "16370",
+        "sport": "baseball"
+      },
+      {
+        "home": {
+          "name": "High Point",
+          "score": "5",
+          "id": "HPU",
+          "record": "2-3",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "5",
+              "score": "1"
+            },
+            {
+              "period": "6",
+              "score": "4"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "WALTON, Wade",
+              "stat": "L",
+              "value": ""
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "7",
+          "id": "MAINE",
+          "record": "2-3",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "6",
+              "score": "7"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Gambardella, Gianni",
+              "stat": "W",
+              "value": ""
+            },
+            {
+              "name": "Holt, Sebastian",
+              "stat": "S",
+              "value": ""
+            }
+          ]
+        },
+        "location": "High Point, N.C.",
+        "attendance": "223",
+        "recap": {
+          "headline": "Baseball Picks up Series Opening Win at High Point",
+          "teaser": "The University of Maine baseball team grabbed their second win of the season as they defeated High Point in the series opener, 7-5.",
+          "date": "2026-02-20T19:19:00",
+          "image": "/images/2026/2/20/BASE_Maine22026_TF-21.jpg",
+          "url": "/news/2026/2/20/baseball-picks-up-series-opening-win-at-high-point.aspx"
+        },
+        "result_status": "W",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16367&path=baseball",
+        "game_id": "16367",
+        "sport": "baseball"
+      }
+    ],
+    "softball": [
+      {
+        "home": {
+          "name": "Evansville",
+          "score": "4",
+          "id": "UE",
+          "record": "1-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "6",
+              "score": "2"
+            },
+            {
+              "period": "7",
+              "score": "X"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "K. Ridgway",
+              "stat": "W",
+              "value": ""
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "1",
+          "id": "UM",
+          "record": "0-1",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Rieth, Alysen",
+              "stat": "L",
+              "value": ""
+            }
+          ]
+        },
+        "location": "Macon, Ga.",
+        "attendance": "0",
+        "recap": {
+          "headline": "Maine falls in close contests to Evansville, NC A&T",
+          "teaser": "Maine opened up the 2026 season on Friday at the Heart of Georgia Classic.",
+          "date": "2026-02-06T14:58:00",
+          "image": "/images/2026/2/6/DSC04458-2.jpg",
+          "url": "/news/2026/2/6/softball-maine-falls-in-close-contests-to-evansville-nc-a-t.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16282&path=softball",
+        "game_id": "16282",
+        "sport": "softball"
+      },
+      {
+        "home": {
+          "name": "N.C. A&T",
+          "score": "3",
+          "id": "NCAT",
+          "record": "1-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "6",
+              "score": "3"
+            },
+            {
+              "period": "7",
+              "score": "X"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Burns, Kennedy",
+              "stat": "W",
+              "value": ""
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "2",
+          "id": "UM",
+          "record": "0-2",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "6",
+              "score": "2"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "A. Zettlemoy",
+              "stat": "L",
+              "value": ""
+            }
+          ]
+        },
+        "location": "Macon, Ga.",
+        "attendance": "0",
+        "recap": {
+          "headline": "Maine falls in close contests to Evansville, NC A&T",
+          "teaser": "Maine opened up the 2026 season on Friday at the Heart of Georgia Classic.",
+          "date": "2026-02-06T14:58:00",
+          "image": "/images/2026/2/6/DSC04458-2.jpg",
+          "url": "/news/2026/2/6/softball-maine-falls-in-close-contests-to-evansville-nc-a-t.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16283&path=softball",
+        "game_id": "16283",
+        "sport": "softball"
+      },
+      {
+        "home": {
+          "name": "Maine",
+          "score": "10",
+          "id": "UM",
+          "record": "1-2",
+          "periods": [
+            {
+              "period": "1",
+              "score": "3"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "2"
+            },
+            {
+              "period": "5",
+              "score": "4"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Rieth, Alysen",
+              "stat": "W",
+              "value": ""
+            }
+          ]
+        },
+        "away": {
+          "name": "N.C. A&T",
+          "score": "2",
+          "id": "NCAT",
+          "record": "2-2",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "M. Alexander",
+              "stat": "L",
+              "value": ""
+            }
+          ]
+        },
+        "location": "Macon, Ga.",
+        "attendance": "117",
+        "recap": {
+          "headline": "Maine tops NC A&T, falls to Mercer in extra innings",
+          "teaser": "Maine went 1-1 on the second day of the Heart of Georgia Classic.",
+          "date": "2026-02-07T20:26:00",
+          "image": "/images/2026/2/7/DSC03892.jpg",
+          "url": "/news/2026/2/7/softball-maine-tops-nc-a-t-falls-to-mercer-in-extra-innings.aspx"
+        },
+        "result_status": "W",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16284&path=softball",
+        "game_id": "16284",
+        "sport": "softball"
+      },
+      {
+        "home": {
+          "name": "Mercer",
+          "score": "8",
+          "id": "MU",
+          "record": "4-0",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "2"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            },
+            {
+              "period": "5",
+              "score": "1"
+            },
+            {
+              "period": "7",
+              "score": "1"
+            },
+            {
+              "period": "8",
+              "score": "3"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "G. Jones",
+              "stat": "W",
+              "value": ""
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "7",
+          "id": "UM",
+          "record": "1-3",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            },
+            {
+              "period": "4",
+              "score": "3"
+            },
+            {
+              "period": "6",
+              "score": "1"
+            },
+            {
+              "period": "8",
+              "score": "2"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Brogan, Kyla",
+              "stat": "L",
+              "value": ""
+            }
+          ]
+        },
+        "location": "Macon, Ga.",
+        "attendance": "203",
+        "recap": {
+          "headline": "Maine tops NC A&T, falls to Mercer in extra innings",
+          "teaser": "Maine went 1-1 on the second day of the Heart of Georgia Classic.",
+          "date": "2026-02-07T20:26:00",
+          "image": "/images/2026/2/7/DSC03892.jpg",
+          "url": "/news/2026/2/7/softball-maine-tops-nc-a-t-falls-to-mercer-in-extra-innings.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16285&path=softball",
+        "game_id": "16285",
+        "sport": "softball"
+      },
+      {
+        "home": {
+          "name": "Evansville",
+          "score": "6",
+          "id": "UE",
+          "record": "2-3",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "3"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "4",
+              "score": "2"
+            },
+            {
+              "period": "6",
+              "score": "1"
+            },
+            {
+              "period": "7",
+              "score": ""
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Ridgway, Kate",
+              "stat": "W",
+              "value": ""
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "2",
+          "id": "UM",
+          "record": "1-4",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            },
+            {
+              "period": "7",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Hipwell, Hannah",
+              "stat": "L",
+              "value": ""
+            }
+          ]
+        },
+        "location": "Macon, Ga.",
+        "attendance": "107",
+        "recap": {
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16483&path=softball",
+        "game_id": "16483",
+        "sport": "softball"
+      }
+    ],
+    "fhockey": [
+      {
+        "home": {
+          "name": "Maine",
+          "score": "0",
+          "id": "MAINE",
+          "record": "(0-1, 0-0)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Mr\u00e1zov\u00e1, Roz\u00e1rie",
+              "stat": "S",
+              "value": "8"
+            }
+          ]
+        },
+        "away": {
+          "name": "Boston College",
+          "score": "2",
+          "id": "BOSTON C",
+          "record": "(1-0, 0-0)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "2"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Melea Weber",
+              "stat": "G",
+              "value": "1"
+            },
+            {
+              "name": "Klara Mueffelmann",
+              "stat": "A",
+              "value": "1"
+            },
+            {
+              "name": "Carine Van Wiechen",
+              "stat": "S",
+              "value": "1"
+            }
+          ]
+        },
+        "location": "Orono, ME",
+        "attendance": "130",
+        "recap": {
+          "headline": "Field Hockey falls to #8 Boston College, 2-0",
+          "teaser": "The University of Maine field hockey program was defeated by #8 Boston College on Friday afternoon 2-0.",
+          "date": "2025-08-29T15:09:00",
+          "image": "/images/2025/8/29/penty-crop.png",
+          "url": "/news/2025/8/29/field-hockey-falls-to-8-boston-college-2-0.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16155&path=fhockey",
+        "game_id": "16155",
+        "sport": "fhockey"
+      },
+      {
+        "home": {
+          "name": "Maine",
+          "score": "3",
+          "id": "MAINE",
+          "record": "(0-2)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "2"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "4",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Geniti, Olivia",
+              "stat": "G",
+              "value": "2"
+            },
+            {
+              "name": "Kuefler, Saylor",
+              "stat": "A",
+              "value": "1"
+            },
+            {
+              "name": "Mr\u00e1zov\u00e1, Roz\u00e1rie",
+              "stat": "S",
+              "value": "12"
+            }
+          ]
+        },
+        "away": {
+          "name": "Indiana",
+          "score": "4",
+          "id": "INDIANA",
+          "record": "(1-1)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "4",
+              "score": "2"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Celia Arroyo Cabezud",
+              "stat": "G",
+              "value": "2"
+            },
+            {
+              "name": "Mijntje Hagen",
+              "stat": "A",
+              "value": "2"
+            },
+            {
+              "name": "Sadie Canelli",
+              "stat": "S",
+              "value": "3"
+            }
+          ]
+        },
+        "location": "Orono, Maine",
+        "attendance": "482",
+        "recap": {
+          "headline": "Geniti registers two goals in loss to Indiana",
+          "teaser": "ORONO, Maine - The University of Maine field hockey team jumped out to a two goal lead on Indiana but was unable to hold on, falling to the Hoosiers by a final of 4-3 on Monday afternoon.",
+          "date": "2025-09-01T12:45:00",
+          "image": "/images/2025/9/1/Geniti-BC.png",
+          "url": "/news/2025/9/1/field-hockey-falls-to-indiana-4-3.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16156&path=fhockey",
+        "game_id": "16156",
+        "sport": "fhockey"
+      },
+      {
+        "home": {
+          "name": "Maine",
+          "score": "2",
+          "id": "MAINE",
+          "record": "(1-2)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "5",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Kuefler, Saylor",
+              "stat": "G",
+              "value": "1"
+            },
+            {
+              "name": "Dijkhuizen, Floor",
+              "stat": "A",
+              "value": "1"
+            },
+            {
+              "name": "Temby, Jayde",
+              "stat": "S",
+              "value": "4"
+            }
+          ]
+        },
+        "away": {
+          "name": "Quinnipiac",
+          "score": "1",
+          "id": "QUINNIPI",
+          "record": "(2-1)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Lucia Donati",
+              "stat": "G",
+              "value": "1"
+            },
+            {
+              "name": "Cristina Torres",
+              "stat": "S",
+              "value": "7"
+            }
+          ]
+        },
+        "location": "Orono, ME",
+        "attendance": "51",
+        "recap": {
+          "headline": "Kuefler scores in Overtime, Maine beats Quinnipiac 2-1",
+          "teaser": "ORONO, Maine - The University of Maine field hockey program captured an overtime victory against Quinnipiac University, 2-1 at the Maine Field Hockey Complex Friday afternoon.",
+          "date": "2025-09-05T18:44:00",
+          "image": "/images/2025/9/5/DSC05964.jpeg",
+          "url": "/news/2025/9/5/field-hockey-beats-quinnipiac-in-overtime-2-1.aspx"
+        },
+        "result_status": "W",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16157&path=fhockey",
+        "game_id": "16157",
+        "sport": "fhockey"
+      },
+      {
+        "home": {
+          "name": "Maine",
+          "score": "5",
+          "id": "MAINE",
+          "record": "(2-2)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "2"
+            },
+            {
+              "period": "2",
+              "score": "2"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "4",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Barratt, Martha",
+              "stat": "G",
+              "value": "2"
+            },
+            {
+              "name": "Penty, Eloise",
+              "stat": "A",
+              "value": "3"
+            },
+            {
+              "name": "Temby, Jayde",
+              "stat": "S",
+              "value": "5"
+            }
+          ]
+        },
+        "away": {
+          "name": "Stonehill",
+          "score": "1",
+          "id": "STONEHIL",
+          "record": "(0-4)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Havana De roeck",
+              "stat": "G",
+              "value": "1"
+            },
+            {
+              "name": "Emma McGrory",
+              "stat": "A",
+              "value": "1"
+            },
+            {
+              "name": "Isabelle Morton",
+              "stat": "S",
+              "value": "7"
+            }
+          ]
+        },
+        "location": "Orono, Maine",
+        "attendance": "122",
+        "recap": {
+          "headline": "Penty, Barratt lead Maine over Stonehill",
+          "teaser": "ORONO, Maine \u2013 Eloise Penty and Martha Barratt each registered a pair of goals as the Black Bears completed the weekend sweep with a 5-1 victory over Stonehill on Sunday afternoon.",
+          "date": "2025-09-07T15:04:00",
+          "image": "/images/2025/9/7/penty-Stonehill.png",
+          "url": "/news/2025/9/7/field-hockey-penty-barratt-lead-maine-over-stonehill.aspx"
+        },
+        "result_status": "W",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16158&path=fhockey",
+        "game_id": "16158",
+        "sport": "fhockey"
+      },
+      {
+        "home": {
+          "name": "Dartmouth",
+          "score": "2",
+          "id": "DART",
+          "record": "(2-0 (0-0 Ivy))",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            },
+            {
+              "period": "5",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Bowman, Ella",
+              "stat": "G",
+              "value": "2"
+            },
+            {
+              "name": "Dumigan, Riley",
+              "stat": "A",
+              "value": "1"
+            },
+            {
+              "name": "McKinley, Kylie",
+              "stat": "S",
+              "value": "7"
+            }
+          ]
+        },
+        "away": {
+          "name": "MAINE1",
+          "score": "1",
+          "id": "MAINE1",
+          "record": "(2-3 (0-0 AE))",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            },
+            {
+              "period": "3",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Penty, Eloise",
+              "stat": "G",
+              "value": "1"
+            },
+            {
+              "name": "Temby, Jayde",
+              "stat": "S",
+              "value": "2"
+            }
+          ]
+        },
+        "location": "Hanover, N.H.",
+        "attendance": "97",
+        "recap": {
+          "headline": "Penty scores in Field Hockey's loss at Dartmouth",
+          "teaser": "HANOVER, N.H. - Eloise Penty tallied a goal for the second-straight game but it would not be enough as the University of Maine field hockey team dropped a 2-1 decision in overtime to Dartmouth on Friday afternoon.",
+          "date": "2025-09-12T18:21:00",
+          "image": "/images/2025/9/12/penty-focus.png",
+          "url": "/news/2025/9/12/penty-scores-in-field-hockeys-loss-at-dartmouth.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16159&path=fhockey",
+        "game_id": "16159",
+        "sport": "fhockey"
+      }
+    ],
+    "wsoc": [
+      {
+        "home": {
+          "name": "Maine",
+          "score": "0",
+          "id": "MNE",
+          "record": "(0-1-0, 0-0-0)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Wilson, Grace",
+              "stat": "S",
+              "value": "2"
+            }
+          ]
+        },
+        "away": {
+          "name": "Rhode Island",
+          "score": "2",
+          "id": "URI",
+          "record": "(2-0-0, 0-0-0)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "2"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "MacDonald, Lauren",
+              "stat": "G",
+              "value": "1"
+            },
+            {
+              "name": "Rosenfeld, Jill",
+              "stat": "A",
+              "value": "1"
+            },
+            {
+              "name": "Eden, Dani",
+              "stat": "S",
+              "value": "4"
+            }
+          ]
+        },
+        "location": "Orono, Maine",
+        "attendance": "231",
+        "recap": {
+          "headline": "Maine falls in season opener to Rhode Island",
+          "teaser": "The Rams scored twice in the second half.",
+          "date": "2025-08-17T14:37:00",
+          "image": "/images/2025/8/17/772976353-dsc01330.jpeg",
+          "url": "/news/2025/8/17/womens-soccer-maine-falls-in-season-opener-to-uri.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16055&path=wsoc",
+        "game_id": "16055",
+        "sport": "wsoc"
+      },
+      {
+        "home": {
+          "name": "Maine",
+          "score": "1",
+          "id": "MNE",
+          "record": "(0-2-0, 0-0-0)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Nicholson, Emma",
+              "stat": "G",
+              "value": "1"
+            },
+            {
+              "name": "Johnson, Grace",
+              "stat": "A",
+              "value": "1"
+            },
+            {
+              "name": "Wilson, Grace",
+              "stat": "S",
+              "value": "3"
+            }
+          ]
+        },
+        "away": {
+          "name": "Boston University",
+          "score": "3",
+          "id": "BU",
+          "record": "(2-1-0, 0-0-0)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "2"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Gianino, Giulianna",
+              "stat": "G",
+              "value": "2"
+            },
+            {
+              "name": "Kennedy, Ciara",
+              "stat": "A",
+              "value": "1"
+            },
+            {
+              "name": "Shobeiri, Susan",
+              "stat": "S",
+              "value": "2"
+            }
+          ]
+        },
+        "location": "Orono, Maine",
+        "attendance": "251",
+        "recap": {
+          "headline": "Nicholson scores first career goal, Maine falls to BU",
+          "teaser": "Emma Nicholson scored her first career goal as Maine fell in non-conference action.",
+          "date": "2025-08-24T14:44:00",
+          "image": "/images/2025/8/24/775404499-dsc02255.jpg",
+          "url": "/news/2025/8/24/womens-soccer-nicholson-scores-first-career-goal-but-maine-falls-to-bu.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16057&path=wsoc",
+        "game_id": "16057",
+        "sport": "wsoc"
+      },
+      {
+        "home": {
+          "name": "Merrimack",
+          "score": "2",
+          "id": "MC",
+          "record": "(1-2-1, 0-0-0)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "2"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Cook, Lily",
+              "stat": "G",
+              "value": "1"
+            },
+            {
+              "name": "Christensen, Caleigh",
+              "stat": "A",
+              "value": "1"
+            },
+            {
+              "name": "Brewi, Kaitlyn",
+              "stat": "S",
+              "value": "10"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "3",
+          "id": "UME",
+          "record": "(1-2-0, 0-0-0)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "2"
+            },
+            {
+              "period": "2",
+              "score": "1"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Bernetti, Meghan",
+              "stat": "G",
+              "value": "1"
+            },
+            {
+              "name": "Dungey, Victoria",
+              "stat": "A",
+              "value": "1"
+            },
+            {
+              "name": "Wilson, Grace",
+              "stat": "S",
+              "value": "4"
+            }
+          ]
+        },
+        "location": "0",
+        "attendance": "197",
+        "recap": {
+          "headline": "Black Bears earn road win at Merrimack",
+          "teaser": "Three Black Bears scored in the win.",
+          "date": "2025-08-28T19:27:00",
+          "image": "/images/2025/8/28/WSOC_Lossius.png",
+          "url": "/news/2025/8/28/womens-soccer-black-bears-earn-road-win-at-merrimack.aspx"
+        },
+        "result_status": "W",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16058&path=wsoc",
+        "game_id": "16058",
+        "sport": "wsoc"
+      },
+      {
+        "home": {
+          "name": "Army West Point",
+          "score": "2",
+          "id": "AWP",
+          "record": "(4-1-1, 0-0-0)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "2"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Rogers, Sabrina",
+              "stat": "G",
+              "value": "2"
+            },
+            {
+              "name": "Follenweider, Jordan",
+              "stat": "A",
+              "value": "1"
+            },
+            {
+              "name": "Dail, Karalyn",
+              "stat": "S",
+              "value": "2"
+            }
+          ]
+        },
+        "away": {
+          "name": "Maine",
+          "score": "2",
+          "id": "UM",
+          "record": "(1-2-1, 0-0-0)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "2"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Thornton, Abbey",
+              "stat": "G",
+              "value": "1"
+            },
+            {
+              "name": "Dungey, Victoria",
+              "stat": "A",
+              "value": "1"
+            },
+            {
+              "name": "Wilson, Grace",
+              "stat": "S",
+              "value": "6"
+            }
+          ]
+        },
+        "location": "West Point, NY",
+        "attendance": "1139",
+        "recap": {
+          "headline": "Black Knights, Black Bears battle to 2-2 tie",
+          "teaser": "Emma Nicholson and Abbey Thornton scored for Maine.",
+          "date": "2025-08-31T13:24:00",
+          "image": "/images/2025/8/13/WSOC_Michaud_g65XX.png",
+          "url": "/news/2025/8/31/womens-soccer-black-bears-black-knights-battle-to-2-2-tie.aspx"
+        },
+        "result_status": "T",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16059&path=wsoc",
+        "game_id": "16059",
+        "sport": "wsoc"
+      },
+      {
+        "home": {
+          "name": "Maine",
+          "score": "0",
+          "id": "Maine",
+          "record": "(1-3-1, 0-0-0)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "0"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Wilson, Grace",
+              "stat": "S",
+              "value": "4"
+            }
+          ]
+        },
+        "away": {
+          "name": "Holy Cross",
+          "score": "1",
+          "id": "HCR",
+          "record": "(3-3-1, 0-0-0)",
+          "periods": [
+            {
+              "period": "1",
+              "score": "1"
+            },
+            {
+              "period": "2",
+              "score": "0"
+            }
+          ],
+          "leaders": [
+            {
+              "name": "Halligan, Sam",
+              "stat": "G",
+              "value": "1"
+            },
+            {
+              "name": "Haesche, Aubrey",
+              "stat": "S",
+              "value": "9"
+            }
+          ]
+        },
+        "location": "Orono",
+        "attendance": "136",
+        "recap": {
+          "headline": "Black Bears fall to Crusaders in non-conference action",
+          "teaser": "The visitors scored late in the first half for a 1-0 win.",
+          "date": "2025-09-07T15:21:00",
+          "image": "/images/2025/9/7/780392199-_0z85969.jpg",
+          "url": "/news/2025/9/7/womens-soccer-black-bears-fall-to-crusaders-in-non-conference-action.aspx"
+        },
+        "result_status": "L",
+        "url": "https://goblackbears.com/boxscore.aspx?id=16060&path=wsoc",
+        "game_id": "16060",
+        "sport": "wsoc"
+      }
+    ]
+  }
+}

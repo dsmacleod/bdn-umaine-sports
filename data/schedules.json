@@ -1,0 +1,4157 @@
+{
+  "last_updated": "2026-03-11T01:05:41.398954+00:00",
+  "sports": {
+    "mhockey": {
+      "record": {
+        "overall": "18-13-3",
+        "conference": "12-11-1",
+        "streak": "L1",
+        "home": "10-6-1",
+        "away": "5-7-2",
+        "neutral": "3-0-0"
+      },
+      "games": [
+        {
+          "date": "Oct 3 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Neutral",
+          "opponent": "New Hampshire",
+          "location": "Brunswick, Maine",
+          "tournament": "",
+          "result": "T 2-2"
+        },
+        {
+          "date": "Oct 10 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "Holy Cross",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 5-2"
+        },
+        {
+          "date": "Oct 11 (Sat)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "Holy Cross",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 6-0"
+        },
+        {
+          "date": "Oct 17 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "Quinnipiac",
+          "location": "Hamden, Conn.",
+          "tournament": "",
+          "result": "T 4-4"
+        },
+        {
+          "date": "Oct 18 (Sat)",
+          "time": "4:00 PM",
+          "home_away": "Away",
+          "opponent": "Quinnipiac",
+          "location": "Hamden, Conn.",
+          "tournament": "",
+          "result": "L 0-4"
+        },
+        {
+          "date": "Oct 24 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "Colgate",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 2-3"
+        },
+        {
+          "date": "Oct 25 (Sat)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "Colgate",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 3-2"
+        },
+        {
+          "date": "Oct 31 (Fri)",
+          "time": "7:30 PM",
+          "home_away": "Home",
+          "opponent": "Boston University",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 5-4"
+        },
+        {
+          "date": "Nov 1 (Sat)",
+          "time": "7:30 PM",
+          "home_away": "Home",
+          "opponent": "Boston University",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 8-5"
+        },
+        {
+          "date": "Nov 6 (Thu)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "UMass",
+          "location": "Amherst, Mass.",
+          "tournament": "",
+          "result": "W 6-2"
+        },
+        {
+          "date": "Nov 7 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "UMass",
+          "location": "Amherst, Mass.",
+          "tournament": "",
+          "result": "L 0-4"
+        },
+        {
+          "date": "Nov 14 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "Vermont",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 7-0"
+        },
+        {
+          "date": "Nov 15 (Sat)",
+          "time": "7:30 PM",
+          "home_away": "Home",
+          "opponent": "Vermont",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 1-2"
+        },
+        {
+          "date": "Nov 21 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "Boston College",
+          "location": "Chestnut Hill, Mass.",
+          "tournament": "",
+          "result": "L 3-7"
+        },
+        {
+          "date": "Nov 22 (Sat)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "Boston College",
+          "location": "Chestnut Hill, Mass.",
+          "tournament": "",
+          "result": "W 3-0"
+        },
+        {
+          "date": "Dec 5 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "New Hampshire",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 0-1"
+        },
+        {
+          "date": "Dec 6 (Sat)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "New Hampshire",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 2-3"
+        },
+        {
+          "date": "Dec 10 (Wed)",
+          "time": "7:00 PM",
+          "home_away": "Neutral",
+          "opponent": "UMass Lowell",
+          "location": "Portland, Maine",
+          "tournament": "",
+          "result": "W 5-4"
+        },
+        {
+          "date": "Dec 13 (Sat)",
+          "time": "6:30 PM",
+          "home_away": "Home",
+          "opponent": "Lindenwood",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 5-0"
+        },
+        {
+          "date": "Dec 14 (Sun)",
+          "time": "4:00 PM",
+          "home_away": "Home",
+          "opponent": "Lindenwood",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 7-2"
+        },
+        {
+          "date": "Jan 2 (Fri)",
+          "time": "9:00 PM",
+          "home_away": "Away",
+          "opponent": "Denver",
+          "location": "Denver",
+          "tournament": "",
+          "result": "W 5-2"
+        },
+        {
+          "date": "Jan 3 (Sat)",
+          "time": "8:00 PM",
+          "home_away": "Away",
+          "opponent": "Denver",
+          "location": "Denver",
+          "tournament": "",
+          "result": "T 3-3"
+        },
+        {
+          "date": "Jan 9 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "Providence",
+          "location": "Providence, R.I.",
+          "tournament": "",
+          "result": "L 1-6"
+        },
+        {
+          "date": "Jan 10 (Sat)",
+          "time": "6:00 PM",
+          "home_away": "Away",
+          "opponent": "Providence",
+          "location": "Providence, R.I.",
+          "tournament": "",
+          "result": "L 0-3"
+        },
+        {
+          "date": "Jan 23 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "UMass Lowell",
+          "location": "Lowell, Mass.",
+          "tournament": "",
+          "result": "W 2-0"
+        },
+        {
+          "date": "Jan 24 (Sat)",
+          "time": "6:00 PM",
+          "home_away": "Away",
+          "opponent": "UMass Lowell",
+          "location": "Lowell, Mass.",
+          "tournament": "",
+          "result": "W 6-5"
+        },
+        {
+          "date": "Jan 31 (Sat)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "Providence",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 2-3"
+        },
+        {
+          "date": "Feb 6 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "Boston University",
+          "location": "Boston",
+          "tournament": "",
+          "result": "L 2-3"
+        },
+        {
+          "date": "Feb 13 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "UConn",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 0-2"
+        },
+        {
+          "date": "Feb 14 (Sat)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "UConn",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "T 3-3"
+        },
+        {
+          "date": "Feb 20 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "Merrimack",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 5-3"
+        },
+        {
+          "date": "Feb 21 (Sat)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "Merrimack",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 5-2"
+        },
+        {
+          "date": "Feb 27 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Neutral",
+          "opponent": "Northeastern",
+          "location": "Portland, Maine",
+          "tournament": "",
+          "result": "W 4-0"
+        },
+        {
+          "date": "Feb 28 (Sat)",
+          "time": "7:00 PM",
+          "home_away": "Neutral",
+          "opponent": "Northeastern",
+          "location": "Lowell, Mass.",
+          "tournament": "",
+          "result": "W 3-2"
+        },
+        {
+          "date": "Mar 7 (Sat)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "Vermont",
+          "location": "Burlington, Vt.",
+          "tournament": "",
+          "result": "L 3-5"
+        },
+        {
+          "date": "Mar 13 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "Boston College",
+          "location": "Chestnut Hill, Mass.",
+          "tournament": "",
+          "result": ""
+        }
+      ],
+      "schedule_id": "3302",
+      "game_ids": [
+        "16191",
+        "16070",
+        "16071",
+        "16072",
+        "16073",
+        "16074",
+        "16075",
+        "16076",
+        "16077",
+        "16078",
+        "16079",
+        "16080",
+        "16081",
+        "16082",
+        "16083",
+        "16084",
+        "16085",
+        "16087",
+        "16086",
+        "16088",
+        "16089",
+        "16090",
+        "16091",
+        "16092",
+        "16093",
+        "16094",
+        "16095",
+        "16096",
+        "16097",
+        "16098",
+        "16099",
+        "16100",
+        "16101",
+        "16102",
+        "16103",
+        "16494"
+      ]
+    },
+    "whockey": {
+      "record": {
+        "overall": "13-19-4",
+        "conference": "8-12-4",
+        "streak": "L1",
+        "home": "6-8-1",
+        "away": "6-10-3",
+        "neutral": "1-1-0"
+      },
+      "games": [
+        {
+          "date": "Sep 20 (Sat)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "New Hampshire",
+          "location": "Durham, N.H.",
+          "tournament": "",
+          "result": "L 1-5"
+        },
+        {
+          "date": "Sep 26 (Fri)",
+          "time": "6:00 PM",
+          "home_away": "Away",
+          "opponent": "Quinnipiac",
+          "location": "Hamden, Conn.",
+          "tournament": "",
+          "result": "L 2-3"
+        },
+        {
+          "date": "Sep 27 (Sat)",
+          "time": "3:00 PM",
+          "home_away": "Away",
+          "opponent": "Quinnipiac",
+          "location": "Hamden, Conn.",
+          "tournament": "",
+          "result": "L 3-4"
+        },
+        {
+          "date": "Oct 3 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "University of Wisconsin",
+          "location": "Madison, Wis.",
+          "tournament": "",
+          "result": "L 0-5"
+        },
+        {
+          "date": "Oct 4 (Sat)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "University of Wisconsin",
+          "location": "Madison, Wis.",
+          "tournament": "",
+          "result": "L 0-5"
+        },
+        {
+          "date": "Oct 10 (Fri)",
+          "time": "2:00 PM",
+          "home_away": "Home",
+          "opponent": "Saint Anselm",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 3-0"
+        },
+        {
+          "date": "Oct 17 (Fri)",
+          "time": "6:30 PM",
+          "home_away": "Home",
+          "opponent": "Colgate",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 2-5"
+        },
+        {
+          "date": "Oct 18 (Sat)",
+          "time": "4:30 PM",
+          "home_away": "Home",
+          "opponent": "Colgate",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 2-1"
+        },
+        {
+          "date": "Oct 31 (Fri)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "Providence",
+          "location": "Providence, R.I.",
+          "tournament": "",
+          "result": "L 2-3"
+        },
+        {
+          "date": "Nov 1 (Sat)",
+          "time": "3:00 PM",
+          "home_away": "Away",
+          "opponent": "Providence",
+          "location": "Providence, R.I.",
+          "tournament": "",
+          "result": "T 1-1"
+        },
+        {
+          "date": "Nov 7 (Fri)",
+          "time": "3:00 PM",
+          "home_away": "Home",
+          "opponent": "Boston University",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 3-1"
+        },
+        {
+          "date": "Nov 8 (Sat)",
+          "time": "3:30 PM",
+          "home_away": "Home",
+          "opponent": "Boston University",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 1-2"
+        },
+        {
+          "date": "Nov 14 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "Holy Cross",
+          "location": "Worcester, Mass.",
+          "tournament": "",
+          "result": "W 2-1"
+        },
+        {
+          "date": "Nov 15 (Sat)",
+          "time": "5:00 PM",
+          "home_away": "Away",
+          "opponent": "Holy Cross",
+          "location": "Worcester, Mass.",
+          "tournament": "",
+          "result": "L 1-3"
+        },
+        {
+          "date": "Nov 21 (Fri)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "Northeastern",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 1-3"
+        },
+        {
+          "date": "Nov 22 (Sat)",
+          "time": "4:00 PM",
+          "home_away": "Home",
+          "opponent": "Northeastern",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 1-2"
+        },
+        {
+          "date": "Nov 28 (Fri)",
+          "time": "3:00 PM",
+          "home_away": "Away",
+          "opponent": "Harvard",
+          "location": "Cambridge, Mass.",
+          "tournament": "",
+          "result": "W 4-3"
+        },
+        {
+          "date": "Nov 29 (Sat)",
+          "time": "3:00 PM",
+          "home_away": "Away",
+          "opponent": "Harvard",
+          "location": "Cambridge, Mass.",
+          "tournament": "",
+          "result": "L 1-5"
+        },
+        {
+          "date": "Dec 5 (Fri)",
+          "time": "6:00 PM",
+          "home_away": "Away",
+          "opponent": "New Hampshire",
+          "location": "Durham, N.H.",
+          "tournament": "",
+          "result": "W 4-3"
+        },
+        {
+          "date": "Dec 6 (Sat)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "New Hampshire",
+          "location": "Durham, N.H.",
+          "tournament": "",
+          "result": "T 2-2"
+        },
+        {
+          "date": "Dec 30 (Tue)",
+          "time": "5:00 PM",
+          "home_away": "Neutral",
+          "opponent": "Brown",
+          "location": "Portland, Maine (Cross Insurance Arena)",
+          "tournament": "",
+          "result": "W 3-2"
+        },
+        {
+          "date": "Jan 3 (Sat)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "Holy Cross",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 2-1"
+        },
+        {
+          "date": "Jan 9 (Fri)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "UConn",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 1-2"
+        },
+        {
+          "date": "Jan 10 (Sat)",
+          "time": "4:00 PM",
+          "home_away": "Home",
+          "opponent": "UConn",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 3-4"
+        },
+        {
+          "date": "Jan 16 (Fri)",
+          "time": "6:00 PM",
+          "home_away": "Away",
+          "opponent": "Vermont",
+          "location": "Burlington, Vt.",
+          "tournament": "",
+          "result": "T 2-2"
+        },
+        {
+          "date": "Jan 17 (Sat)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "Vermont",
+          "location": "Burlington, Vt.",
+          "tournament": "",
+          "result": "L 1-2"
+        },
+        {
+          "date": "Jan 23 (Fri)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "Merrimack",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 0-2"
+        },
+        {
+          "date": "Jan 24 (Sat)",
+          "time": "5:00 PM",
+          "home_away": "Home",
+          "opponent": "Merrimack",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 4-2"
+        },
+        {
+          "date": "Jan 30 (Fri)",
+          "time": "6:00 PM",
+          "home_away": "Away",
+          "opponent": "Boston College",
+          "location": "Chestnut Hill, Mass.",
+          "tournament": "",
+          "result": "W 4-3"
+        },
+        {
+          "date": "Feb 1 (Sun)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "Boston College",
+          "location": "Chestnut Hill, MA",
+          "tournament": "",
+          "result": "L 4-5"
+        },
+        {
+          "date": "Feb 5 (Thu)",
+          "time": "7:00 PM",
+          "home_away": "Neutral",
+          "opponent": "Northeastern University",
+          "location": "Walter Brown Arena",
+          "tournament": "",
+          "result": "L 1-5"
+        },
+        {
+          "date": "Feb 7 (Sat)",
+          "time": "4:00 PM",
+          "home_away": "Away",
+          "opponent": "Boston University",
+          "location": "Boston, Mass.",
+          "tournament": "",
+          "result": "W 2-0"
+        },
+        {
+          "date": "Feb 13 (Fri)",
+          "time": "2:00 PM",
+          "home_away": "Home",
+          "opponent": "Vermont",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "T 2-2"
+        },
+        {
+          "date": "Feb 14 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Home",
+          "opponent": "New Hampshire",
+          "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "L 0-3"
+        },
+        {
+          "date": "Feb 19 (Thu)",
+          "time": "3:30 PM",
+          "home_away": "Away",
+          "opponent": "Merrimack",
+          "location": "North Andover, Mass.",
+          "tournament": "",
+          "result": "W 2-0"
+        },
+        {
+          "date": "Feb 25 (Wed)",
+          "time": "5:00 PM",
+          "home_away": "Home",
+          "opponent": "Merrimack College",
+          "location": "Orono, ME (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": "W 4-0"
+        },
+        {
+          "date": "Feb 28 (Sat)",
+          "time": "3:00 PM",
+          "home_away": "Away",
+          "opponent": "University of Connecticut",
+          "location": "Storrs, CT",
+          "tournament": "",
+          "result": "L 1-6"
+        }
+      ],
+      "schedule_id": "3305",
+      "game_ids": [
+        "16119",
+        "16120",
+        "16121",
+        "16122",
+        "16123",
+        "16125",
+        "16126",
+        "16127",
+        "16128",
+        "16129",
+        "16130",
+        "16131",
+        "16132",
+        "16133",
+        "16134",
+        "16135",
+        "16136",
+        "16137",
+        "16138",
+        "16139",
+        "16140",
+        "16141",
+        "16142",
+        "16143",
+        "16144",
+        "16145",
+        "16146",
+        "16147",
+        "16148",
+        "16149",
+        "16150",
+        "16151",
+        "16152",
+        "16153",
+        "16154",
+        "16490",
+        "16492"
+      ]
+    },
+    "football": {
+      "record": {
+        "overall": "0-0",
+        "conference": "0-0",
+        "home": "0-0",
+        "away": "0-0",
+        "neutral": "0-0"
+      },
+      "games": [
+        {
+          "date": "Aug 27 (Thu)",
+          "time": "TBA",
+          "home_away": "Away",
+          "opponent": "Towson University",
+          "location": "Towson, MD",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Sep 5 (Sat)",
+          "time": "TBA",
+          "home_away": "Away",
+          "opponent": "Appalachian State University",
+          "location": "Boone, NC",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Sep 12 (Sat)",
+          "time": "TBA",
+          "home_away": "Home",
+          "opponent": "Merrimack College",
+          "location": "Orono, ME (Morse Field at Harold Alfond Sports Stadium)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Sep 19 (Sat)",
+          "time": "TBA",
+          "home_away": "Away",
+          "opponent": "Boston College",
+          "location": "Chestnut Hill, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Sep 26 (Sat)",
+          "time": "TBA",
+          "home_away": "Away",
+          "opponent": "Elon University",
+          "location": "Elon, NC",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Oct 3 (Sat)",
+          "time": "TBA",
+          "home_away": "Home",
+          "opponent": "Sacred Heart University",
+          "location": "Orono, ME (Morse Field at Harold Alfond Sports Stadium)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Oct 17 (Sat)",
+          "time": "TBA",
+          "home_away": "Home",
+          "opponent": "Bryant University",
+          "location": "Orono, ME (Morse Field at Harold Alfond Sports Stadium)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Oct 24 (Sat)",
+          "time": "TBA",
+          "home_away": "Home",
+          "opponent": "Campbell University",
+          "location": "Orono, ME (Morse Field at Harold Alfond Sports Stadium)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Oct 31 (Sat)",
+          "time": "TBA",
+          "home_away": "Away",
+          "opponent": "University of Rhode Island",
+          "location": "Kingston, RI",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 7 (Sat)",
+          "time": "TBA",
+          "home_away": "Home",
+          "opponent": "Sacramento State",
+          "location": "Orono, ME (Morse Field at Harold Alfond Sports Stadium)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 14 (Sat)",
+          "time": "TBA",
+          "home_away": "Away",
+          "opponent": "University at Albany",
+          "location": "Albany, NY",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 21 (Sat)",
+          "time": "TBA",
+          "home_away": "Home",
+          "opponent": "University of New Hampshire",
+          "location": "Orono, ME (Morse Field at Harold Alfond Sports Stadium)",
+          "tournament": "",
+          "result": ""
+        }
+      ],
+      "schedule_id": "3315",
+      "game_ids": [
+        "16417",
+        "16418",
+        "16419",
+        "16420",
+        "16421",
+        "16422",
+        "16423",
+        "16424",
+        "16425",
+        "16426",
+        "16427",
+        "16428"
+      ]
+    },
+    "mbball": {
+      "record": {
+        "overall": "8-24",
+        "conference": "6-10",
+        "streak": "L3",
+        "home": "4-8",
+        "away": "4-14",
+        "neutral": "0-2"
+      },
+      "games": [
+        {
+          "date": "Oct 29 (Wed)",
+          "time": "6:30 PM",
+          "home_away": "Home",
+          "opponent": "Husson University",
+          "location": "Orono, ME (Cross Insurance Center)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 3 (Mon)",
+          "time": "8 PM",
+          "home_away": "Away",
+          "opponent": "George Washington University",
+          "location": "Washington, D.C.",
+          "tournament": "",
+          "result": "L 47-67"
+        },
+        {
+          "date": "Nov 8 (Sat)",
+          "time": "5 PM",
+          "home_away": "Away",
+          "opponent": "Stony Brook",
+          "location": "Stony Brook, N.Y.",
+          "tournament": "",
+          "result": "L 60-71"
+        },
+        {
+          "date": "Nov 10 (Mon)",
+          "time": "6:30 PM",
+          "home_away": "Away",
+          "opponent": "Rutgers",
+          "location": "Piscataway, N.J.",
+          "tournament": "",
+          "result": "L 60-72"
+        },
+        {
+          "date": "Nov 16 (Sun)",
+          "time": "2 PM",
+          "home_away": "Home",
+          "opponent": "Quinnipiac",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "L 64-70"
+        },
+        {
+          "date": "Nov 19 (Wed)",
+          "time": "7:30 PM",
+          "home_away": "Away",
+          "opponent": "Merrimack",
+          "location": "North Andover, Mass.",
+          "tournament": "",
+          "result": "L 65-72"
+        },
+        {
+          "date": "Nov 23 (Sun)",
+          "time": "2 PM",
+          "home_away": "Home",
+          "opponent": "Brown",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "L 53-58"
+        },
+        {
+          "date": "Nov 28 (Fri)",
+          "time": "4 PM",
+          "home_away": "Away",
+          "opponent": "American University",
+          "location": "Washington, D.C.",
+          "tournament": "",
+          "result": "L 61-74"
+        },
+        {
+          "date": "Nov 29 (Sat)",
+          "time": "1 PM",
+          "home_away": "Neutral",
+          "opponent": "Longwood University",
+          "location": "Washington, D.C.",
+          "tournament": "",
+          "result": "L 61-65"
+        },
+        {
+          "date": "Nov 30 (Sun)",
+          "time": "1 PM",
+          "home_away": "Neutral",
+          "opponent": "Siena College",
+          "location": "Washington, D.C.",
+          "tournament": "",
+          "result": "L 60-64"
+        },
+        {
+          "date": "Dec 3 (Wed)",
+          "time": "7 PM",
+          "home_away": "Away",
+          "opponent": "Ohio University",
+          "location": "Athens, Ohio",
+          "tournament": "",
+          "result": "L 57-79"
+        },
+        {
+          "date": "Dec 6 (Sat)",
+          "time": "1 PM",
+          "home_away": "Away",
+          "opponent": "Miami University (OH)",
+          "location": "Oxford, Ohio",
+          "tournament": "",
+          "result": "L 61-93"
+        },
+        {
+          "date": "Dec 10 (Wed)",
+          "time": "7 PM",
+          "home_away": "Away",
+          "opponent": "Boston University",
+          "location": "Boston, Mass.",
+          "tournament": "",
+          "result": "W 69-59"
+        },
+        {
+          "date": "Dec 13 (Sat)",
+          "time": "2 PM",
+          "home_away": "Home",
+          "opponent": "Canisius",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "L 43-70"
+        },
+        {
+          "date": "Dec 21 (Sun)",
+          "time": "2 PM",
+          "home_away": "Away",
+          "opponent": "Drexel",
+          "location": "Philadelphia, Pa.",
+          "tournament": "",
+          "result": "L 56-74"
+        },
+        {
+          "date": "Dec 30 (Tue)",
+          "time": "2 PM",
+          "home_away": "Home",
+          "opponent": "University of Maine at Fort Kent",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 104-66"
+        },
+        {
+          "date": "Jan 3 (Sat)",
+          "time": "2 PM",
+          "home_away": "Home",
+          "opponent": "Bryant",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "L 51-56"
+        },
+        {
+          "date": "Jan 8 (Thu)",
+          "time": "6 PM",
+          "home_away": "Away",
+          "opponent": "UMBC",
+          "location": "Baltimore, Md.",
+          "tournament": "",
+          "result": "L 62-69"
+        },
+        {
+          "date": "Jan 10 (Sat)",
+          "time": "2 PM",
+          "home_away": "Away",
+          "opponent": "NJIT",
+          "location": "Newark, N.J.",
+          "tournament": "",
+          "result": "W 74-70"
+        },
+        {
+          "date": "Jan 15 (Thu)",
+          "time": "7 PM",
+          "home_away": "Away",
+          "opponent": "Vermont",
+          "location": "Burlington, Vt.",
+          "tournament": "",
+          "result": "L 62-67"
+        },
+        {
+          "date": "Jan 19 (Mon)",
+          "time": "2 PM",
+          "home_away": "Home",
+          "opponent": "New Hampshire",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "L 48-65"
+        },
+        {
+          "date": "Jan 22 (Thu)",
+          "time": "6 PM",
+          "home_away": "Home",
+          "opponent": "UAlbany",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 52-49"
+        },
+        {
+          "date": "Jan 24 (Sat)",
+          "time": "2 PM",
+          "home_away": "Home",
+          "opponent": "Binghamton",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 79-63"
+        },
+        {
+          "date": "Jan 31 (Sat)",
+          "time": "2 PM",
+          "home_away": "Away",
+          "opponent": "UMass Lowell",
+          "location": "Lowell, Mass.",
+          "tournament": "",
+          "result": "L 77-91"
+        },
+        {
+          "date": "Feb 5 (Thu)",
+          "time": "6 PM",
+          "home_away": "Home",
+          "opponent": "Vermont",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 76-70"
+        },
+        {
+          "date": "Feb 7 (Sat)",
+          "time": "4 PM",
+          "home_away": "Away",
+          "opponent": "Bryant",
+          "location": "Smithfield, R.I.",
+          "tournament": "",
+          "result": "L 67-73"
+        },
+        {
+          "date": "Feb 12 (Thu)",
+          "time": "6 PM",
+          "home_away": "Home",
+          "opponent": "University of Maryland Baltimore County",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "L 62-78"
+        },
+        {
+          "date": "Feb 14 (Sat)",
+          "time": "3 PM",
+          "home_away": "Home",
+          "opponent": "NJIT",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "L 58-67"
+        },
+        {
+          "date": "Feb 21 (Sat)",
+          "time": "4 PM",
+          "home_away": "Away",
+          "opponent": "New Hampshire",
+          "location": "Durham, N.H.",
+          "tournament": "",
+          "result": "W 61-58"
+        },
+        {
+          "date": "Feb 26 (Thu)",
+          "time": "6:30 PM",
+          "home_away": "Away",
+          "opponent": "UAlbany",
+          "location": "Albany, N.Y.",
+          "tournament": "",
+          "result": "W 70-59"
+        },
+        {
+          "date": "Feb 28 (Sat)",
+          "time": "2 PM",
+          "home_away": "Away",
+          "opponent": "Binghamton",
+          "location": "Vestal, N.Y.",
+          "tournament": "",
+          "result": "L 67-74"
+        },
+        {
+          "date": "Mar 3 (Tue)",
+          "time": "6 PM",
+          "home_away": "Home",
+          "opponent": "UMass Lowell",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "L 56-67"
+        },
+        {
+          "date": "Mar 7 (Sat)",
+          "time": "4 PM",
+          "home_away": "Away",
+          "opponent": "New Jersey Institute of Technology",
+          "location": "Newark, NJ",
+          "tournament": "",
+          "result": "L 58-60"
+        }
+      ],
+      "schedule_id": "3308",
+      "game_ids": [
+        "16261",
+        "16192",
+        "16193",
+        "16194",
+        "16195",
+        "16196",
+        "16197",
+        "16198",
+        "16199",
+        "16200",
+        "16201",
+        "16202",
+        "16203",
+        "16204",
+        "16205",
+        "16206",
+        "16223",
+        "16224",
+        "16225",
+        "16226",
+        "16227",
+        "16228",
+        "16229",
+        "16230",
+        "16231",
+        "16232",
+        "16233",
+        "16234",
+        "16235",
+        "16236",
+        "16237",
+        "16238",
+        "16493"
+      ]
+    },
+    "wbball": {
+      "record": {
+        "overall": "19-12",
+        "conference": "12-4",
+        "streak": "W5",
+        "home": "11-3",
+        "away": "7-8",
+        "neutral": "1-1"
+      },
+      "games": [
+        {
+          "date": "Nov 7 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "Saint Joseph's",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "L 62-63"
+        },
+        {
+          "date": "Nov 11 (Tue)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "NC State",
+          "location": "Raleigh, N.C.",
+          "tournament": "",
+          "result": "L 47-66"
+        },
+        {
+          "date": "Nov 14 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "Virginia Commonwealth University",
+          "location": "Richmond, Va.",
+          "tournament": "",
+          "result": "L 77-81"
+        },
+        {
+          "date": "Nov 17 (Mon)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "Stonehill",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 79-53"
+        },
+        {
+          "date": "Nov 23 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "Brown",
+          "location": "Providence, R.I.",
+          "tournament": "",
+          "result": "L 39-70"
+        },
+        {
+          "date": "Nov 28 (Fri)",
+          "time": "2:30 PM",
+          "home_away": "Neutral",
+          "opponent": "UIC",
+          "location": "Iona University",
+          "tournament": "",
+          "result": "L 54-64"
+        },
+        {
+          "date": "Nov 29 (Sat)",
+          "time": "12:00 PM",
+          "home_away": "Neutral",
+          "opponent": "Saint Francis University",
+          "location": "Loretto, PA",
+          "tournament": "",
+          "result": "W 69-46"
+        },
+        {
+          "date": "Dec 1 (Mon)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "Boston University",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 54-45"
+        },
+        {
+          "date": "Dec 4 (Thu)",
+          "time": "6:00 PM",
+          "home_away": "Away",
+          "opponent": "Penn",
+          "location": "Philadelphia, Pa.",
+          "tournament": "",
+          "result": "L 35-58"
+        },
+        {
+          "date": "Dec 7 (Sun)",
+          "time": "1:00 PM",
+          "home_away": "Home",
+          "opponent": "Rhode Island",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "L 56-69"
+        },
+        {
+          "date": "Dec 12 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "Fairfield",
+          "location": "Fairfield, Conn.",
+          "tournament": "",
+          "result": "L 51-74"
+        },
+        {
+          "date": "Dec 14 (Sun)",
+          "time": "1:00 PM",
+          "home_away": "Away",
+          "opponent": "Quinnipiac",
+          "location": "Hamden, Conn.",
+          "tournament": "",
+          "result": "W 63-55"
+        },
+        {
+          "date": "Dec 21 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "Harvard",
+          "location": "Cambridge, Mass.",
+          "tournament": "",
+          "result": "W 59-57"
+        },
+        {
+          "date": "Jan 1 (Thu)",
+          "time": "6:00 PM",
+          "home_away": "Away",
+          "opponent": "UMass Lowell",
+          "location": "Lowell, Mass.",
+          "tournament": "",
+          "result": "W 73-65"
+        },
+        {
+          "date": "Jan 3 (Sat)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "Bryant",
+          "location": "Smithfield, R.I.",
+          "tournament": "",
+          "result": "L 73-82"
+        },
+        {
+          "date": "Jan 8 (Thu)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "University of Maryland Baltimore County",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 58-43"
+        },
+        {
+          "date": "Jan 10 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Home",
+          "opponent": "NJIT",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 86-67"
+        },
+        {
+          "date": "Jan 15 (Thu)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "Vermont",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "L 53-64"
+        },
+        {
+          "date": "Jan 17 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Away",
+          "opponent": "New Hampshire",
+          "location": "Durham, N.H.",
+          "tournament": "",
+          "result": "W 73-51"
+        },
+        {
+          "date": "Jan 22 (Thu)",
+          "time": "6:30 PM",
+          "home_away": "Away",
+          "opponent": "UAlbany",
+          "location": "Albany, N.Y.",
+          "tournament": "",
+          "result": "W 65-60"
+        },
+        {
+          "date": "Jan 24 (Sat)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "Binghamton",
+          "location": "Vestal, N.Y.",
+          "tournament": "",
+          "result": "L 57-62"
+        },
+        {
+          "date": "Jan 31 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Home",
+          "opponent": "UMass Lowell",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 92-42"
+        },
+        {
+          "date": "Feb 5 (Thu)",
+          "time": "11:00 AM",
+          "home_away": "Away",
+          "opponent": "Vermont",
+          "location": "Burlington, Vt.",
+          "tournament": "",
+          "result": "W 55-46"
+        },
+        {
+          "date": "Feb 7 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Home",
+          "opponent": "Bryant",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 64-56"
+        },
+        {
+          "date": "Feb 12 (Thu)",
+          "time": "6:30 PM",
+          "home_away": "Away",
+          "opponent": "University of Maryland Baltimore County",
+          "location": "Baltimore, Md.",
+          "tournament": "",
+          "result": "W 56-55"
+        },
+        {
+          "date": "Feb 14 (Sat)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "NJIT",
+          "location": "Newark, N.J.",
+          "tournament": "",
+          "result": "L 42-63"
+        },
+        {
+          "date": "Feb 21 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Home",
+          "opponent": "New Hampshire",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 67-61"
+        },
+        {
+          "date": "Feb 26 (Thu)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "UAlbany",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 60-59"
+        },
+        {
+          "date": "Feb 28 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Home",
+          "opponent": "Binghamton",
+          "location": "Orono, Maine (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 74-67"
+        },
+        {
+          "date": "Mar 5 (Thu)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "University of New Hampshire",
+          "location": "Orono, ME (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 77-58"
+        },
+        {
+          "date": "Mar 9 (Mon)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "Binghamton University",
+          "location": "Orono, ME (Skip Chappelle Court at Memorial Gym)",
+          "tournament": "",
+          "result": "W 60-56"
+        },
+        {
+          "date": "Mar 13 (Fri)",
+          "time": "5:00 PM",
+          "home_away": "Away",
+          "opponent": "University of Vermont",
+          "location": "Burlington, VT",
+          "tournament": "",
+          "result": ""
+        }
+      ],
+      "schedule_id": "3307",
+      "game_ids": [
+        "16178",
+        "16179",
+        "16180",
+        "16181",
+        "16182",
+        "16183",
+        "16184",
+        "16185",
+        "16186",
+        "16187",
+        "16188",
+        "16189",
+        "16190",
+        "16207",
+        "16208",
+        "16209",
+        "16210",
+        "16211",
+        "16212",
+        "16213",
+        "16214",
+        "16215",
+        "16216",
+        "16217",
+        "16218",
+        "16219",
+        "16220",
+        "16221",
+        "16222",
+        "16480",
+        "16481",
+        "16482"
+      ]
+    },
+    "baseball": {
+      "record": {
+        "overall": "2-13",
+        "conference": "0-0",
+        "streak": "L10",
+        "home": "0-0",
+        "away": "2-13",
+        "neutral": "0-0"
+      },
+      "games": [
+        {
+          "date": "Feb 13 (Fri)",
+          "time": "3:30 PM",
+          "home_away": "Away",
+          "opponent": "Duke University",
+          "location": "Durham, NC",
+          "tournament": "",
+          "result": "L 3-8"
+        },
+        {
+          "date": "Feb 13 (Fri)",
+          "time": "7 PM",
+          "home_away": "Away",
+          "opponent": "Duke University",
+          "location": "Durham, NC",
+          "tournament": "",
+          "result": "W 4-3"
+        },
+        {
+          "date": "Feb 14 (Sat)",
+          "time": "1 PM",
+          "home_away": "Away",
+          "opponent": "Duke University",
+          "location": "Durham, NC",
+          "tournament": "",
+          "result": "L 0-3"
+        },
+        {
+          "date": "Feb 14 (Sat)",
+          "time": "4 PM",
+          "home_away": "Away",
+          "opponent": "Duke University",
+          "location": "Durham, NC",
+          "tournament": "",
+          "result": "L 1-7"
+        },
+        {
+          "date": "Feb 20 (Fri)",
+          "time": "4 PM",
+          "home_away": "Away",
+          "opponent": "High Point University",
+          "location": "High Point, NC",
+          "tournament": "",
+          "result": "W 7-5"
+        },
+        {
+          "date": "Feb 21 (Sat)",
+          "time": "12 PM",
+          "home_away": "Away",
+          "opponent": "High Point University",
+          "location": "High Point, NC",
+          "tournament": "",
+          "result": "L 8-14"
+        },
+        {
+          "date": "Feb 21 (Sat)",
+          "time": "4 PM",
+          "home_away": "Away",
+          "opponent": "High Point University",
+          "location": "High Point, NC",
+          "tournament": "",
+          "result": "L 3-6"
+        },
+        {
+          "date": "Feb 22 (Sun)",
+          "time": "1 PM",
+          "home_away": "Away",
+          "opponent": "High Point University",
+          "location": "High Point, NC",
+          "tournament": "",
+          "result": "L 7-10"
+        },
+        {
+          "date": "Feb 25 (Wed)",
+          "time": "4 PM",
+          "home_away": "Away",
+          "opponent": "Charlotte",
+          "location": "Charlotte, NC",
+          "tournament": "",
+          "result": "L 4-9"
+        },
+        {
+          "date": "Feb 27 (Fri)",
+          "time": "3 PM",
+          "home_away": "Away",
+          "opponent": "Winthrop University",
+          "location": "Rock Hill, SC",
+          "tournament": "",
+          "result": "L 4-7"
+        },
+        {
+          "date": "Feb 28 (Sat)",
+          "time": "2 PM",
+          "home_away": "Away",
+          "opponent": "Winthrop University",
+          "location": "Rock Hill, SC",
+          "tournament": "",
+          "result": "L 2-7"
+        },
+        {
+          "date": "Mar 1 (Sun)",
+          "time": "1 PM",
+          "home_away": "Away",
+          "opponent": "Winthrop University",
+          "location": "Rock Hill, SC",
+          "tournament": "",
+          "result": "L 6-9"
+        },
+        {
+          "date": "Mar 6 (Fri)",
+          "time": "12 PM",
+          "home_away": "Away",
+          "opponent": "University of Dayton",
+          "location": "Dayton, OH",
+          "tournament": "",
+          "result": "L 5-12"
+        },
+        {
+          "date": "Mar 7 (Sat)",
+          "time": "3 PM",
+          "home_away": "Away",
+          "opponent": "University of Dayton",
+          "location": "Dayton, OH",
+          "tournament": "",
+          "result": "L 9-10"
+        },
+        {
+          "date": "Mar 8 (Sun)",
+          "time": "12 PM",
+          "home_away": "Away",
+          "opponent": "University of Dayton",
+          "location": "Dayton, OH",
+          "tournament": "",
+          "result": "L 8-14"
+        },
+        {
+          "date": "Mar 13 (Fri)",
+          "time": "7 PM",
+          "home_away": "Away",
+          "opponent": "University of Nebraska",
+          "location": "Lincoln, NE",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 14 (Sat)",
+          "time": "3 PM",
+          "home_away": "Away",
+          "opponent": "University of Nebraska",
+          "location": "Lincoln, NE",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 15 (Sun)",
+          "time": "1 PM",
+          "home_away": "Away",
+          "opponent": "University of Nebraska",
+          "location": "Lincoln, NE",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 16 (Mon)",
+          "time": "5 PM",
+          "home_away": "Away",
+          "opponent": "University of Nebraska at Omaha",
+          "location": "Omaha, NE",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 18 (Wed)",
+          "time": "3 PM",
+          "home_away": "Away",
+          "opponent": "Navy",
+          "location": "Annapolis, Md.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 20 (Fri)",
+          "time": "3 PM",
+          "home_away": "Away",
+          "opponent": "UMBC",
+          "location": "Baltimore, MD",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 21 (Sat)",
+          "time": "2:30 PM",
+          "home_away": "Away",
+          "opponent": "UMBC",
+          "location": "Baltimore, MD",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 22 (Sun)",
+          "time": "1 PM",
+          "home_away": "Away",
+          "opponent": "UMBC",
+          "location": "Baltimore, MD",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 27 (Fri)",
+          "time": "3 PM",
+          "home_away": "Home",
+          "opponent": "University of Massachusetts Lowell",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 28 (Sat)",
+          "time": "1 PM",
+          "home_away": "Home",
+          "opponent": "University of Massachusetts Lowell",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 29 (Sun)",
+          "time": "Noon",
+          "home_away": "Home",
+          "opponent": "University of Massachusetts Lowell",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 31 (Tue)",
+          "time": "4 PM",
+          "home_away": "Away",
+          "opponent": "Boston College",
+          "location": "Chestnut Hill, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 2 (Thu)",
+          "time": "4 PM",
+          "home_away": "Home",
+          "opponent": "Bryant University",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 3 (Fri)",
+          "time": "3 PM",
+          "home_away": "Home",
+          "opponent": "Bryant University",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 4 (Sat)",
+          "time": "1 PM",
+          "home_away": "Home",
+          "opponent": "Bryant University",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 11 (Sat)",
+          "time": "2 PM",
+          "home_away": "Away",
+          "opponent": "Northeastern University",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 12 (Sun)",
+          "time": "11:30 AM",
+          "home_away": "Neutral",
+          "opponent": "Merrimack College",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 12 (Sun)",
+          "time": "2 PM",
+          "home_away": "Away",
+          "opponent": "Northeastern University",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 17 (Fri)",
+          "time": "6 PM",
+          "home_away": "Away",
+          "opponent": "New Jersey Institute of Technology",
+          "location": "Newark, NJ",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 18 (Sat)",
+          "time": "6 PM",
+          "home_away": "Away",
+          "opponent": "New Jersey Institute of Technology",
+          "location": "Newark, NJ",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 19 (Sun)",
+          "time": "Noon",
+          "home_away": "Away",
+          "opponent": "New Jersey Institute of Technology",
+          "location": "Newark, NJ",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 21 (Tue)",
+          "time": "3 PM",
+          "home_away": "Away",
+          "opponent": "Boston College",
+          "location": "Chestnut Hill, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 24 (Fri)",
+          "time": "3 PM",
+          "home_away": "Home",
+          "opponent": "UMBC",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 25 (Sat)",
+          "time": "1 PM",
+          "home_away": "Home",
+          "opponent": "UMBC",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 26 (Sun)",
+          "time": "Noon",
+          "home_away": "Home",
+          "opponent": "UMBC",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 28 (Tue)",
+          "time": "4 PM",
+          "home_away": "Home",
+          "opponent": "Bowdoin College",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 29 (Wed)",
+          "time": "6 PM",
+          "home_away": "Neutral",
+          "opponent": "Northeastern University",
+          "location": "Portland, ME (Hadlock Field)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 1 (Fri)",
+          "time": "6 PM",
+          "home_away": "Away",
+          "opponent": "Binghamton University",
+          "location": "Vestal, NY",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 2 (Sat)",
+          "time": "2 PM",
+          "home_away": "Away",
+          "opponent": "Binghamton University",
+          "location": "Vestal, NY",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 3 (Sun)",
+          "time": "11 AM",
+          "home_away": "Away",
+          "opponent": "Binghamton University",
+          "location": "Vestal, NY",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 8 (Fri)",
+          "time": "6 PM",
+          "home_away": "Away",
+          "opponent": "University of Massachusetts Lowell",
+          "location": "Lowell, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 9 (Sat)",
+          "time": "4 PM",
+          "home_away": "Away",
+          "opponent": "University of Massachusetts Lowell",
+          "location": "Lowell, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 10 (Sun)",
+          "time": "12 PM",
+          "home_away": "Away",
+          "opponent": "University of Massachusetts Lowell",
+          "location": "Lowell, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 12 (Tue)",
+          "time": "2 PM",
+          "home_away": "Home",
+          "opponent": "Merrimack College",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 14 (Thu)",
+          "time": "4 PM",
+          "home_away": "Home",
+          "opponent": "University at Albany",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 15 (Fri)",
+          "time": "3 PM",
+          "home_away": "Home",
+          "opponent": "University at Albany",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 16 (Sat)",
+          "time": "1 PM",
+          "home_away": "Home",
+          "opponent": "University at Albany",
+          "location": "Orono, ME (Mahaney Diamond)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 19 (Tue)",
+          "time": "TBA",
+          "home_away": "Away",
+          "opponent": "America East Tournament",
+          "location": "Vestel, NY",
+          "tournament": "",
+          "result": ""
+        }
+      ],
+      "schedule_id": "3314",
+      "game_ids": [
+        "16364",
+        "16365",
+        "16366",
+        "16370",
+        "16367",
+        "16368",
+        "16371",
+        "16369",
+        "16491",
+        "16372",
+        "16373",
+        "16374",
+        "16375",
+        "16376",
+        "16377",
+        "16378",
+        "16379",
+        "16380",
+        "16381",
+        "16382",
+        "16383",
+        "16384",
+        "16385",
+        "16386",
+        "16387",
+        "16388",
+        "16389",
+        "16390",
+        "16391",
+        "16392",
+        "16393",
+        "16394",
+        "16395",
+        "16397",
+        "16398",
+        "16399",
+        "16400",
+        "16401",
+        "16402",
+        "16403",
+        "16404",
+        "16405",
+        "16406",
+        "16407",
+        "16408",
+        "16409",
+        "16410",
+        "16411",
+        "16412",
+        "16413",
+        "16414",
+        "16415",
+        "16416"
+      ]
+    },
+    "softball": {
+      "record": {
+        "overall": "4-15",
+        "conference": "0-0",
+        "streak": "L6",
+        "home": "0-0",
+        "away": "1-8",
+        "neutral": "3-7"
+      },
+      "games": [
+        {
+          "date": "Feb 6 (Fri)",
+          "time": "10:00 AM",
+          "home_away": "Neutral",
+          "opponent": "Evansville",
+          "location": "Macon, Ga.",
+          "tournament": "",
+          "result": "L 1-4"
+        },
+        {
+          "date": "Feb 6 (Fri)",
+          "time": "12:30 PM",
+          "home_away": "Neutral",
+          "opponent": "North Carolina A&T",
+          "location": "Macon, Ga.",
+          "tournament": "",
+          "result": "L 2-3"
+        },
+        {
+          "date": "Feb 7 (Sat)",
+          "time": "12:30 PM",
+          "home_away": "Neutral",
+          "opponent": "North Carolina A&T",
+          "location": "Macon, Ga.",
+          "tournament": "",
+          "result": "W 10-2"
+        },
+        {
+          "date": "Feb 7 (Sat)",
+          "time": "5:30 PM",
+          "home_away": "Away",
+          "opponent": "Mercer",
+          "location": "Macon, Ga.",
+          "tournament": "",
+          "result": "L 7-8"
+        },
+        {
+          "date": "Feb 8 (Sun)",
+          "time": "10:00 AM",
+          "home_away": "Neutral",
+          "opponent": "Evansville",
+          "location": "Macon, Ga.",
+          "tournament": "",
+          "result": "L 2-6"
+        },
+        {
+          "date": "Feb 13 (Fri)",
+          "time": "1:00 PM",
+          "home_away": "Neutral",
+          "opponent": "NDSU",
+          "location": "Deland, Fla.",
+          "tournament": "",
+          "result": "L 5-9"
+        },
+        {
+          "date": "Feb 13 (Fri)",
+          "time": "3:30 PM",
+          "home_away": "Away",
+          "opponent": "Stetson",
+          "location": "Deland, Fla.",
+          "tournament": "",
+          "result": "L 1-10"
+        },
+        {
+          "date": "Feb 14 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Neutral",
+          "opponent": "NDSU",
+          "location": "Deland, Fla.",
+          "tournament": "",
+          "result": "L 1-6"
+        },
+        {
+          "date": "Feb 14 (Sat)",
+          "time": "3:30 PM",
+          "home_away": "Away",
+          "opponent": "Stetson",
+          "location": "Deland, Fla.",
+          "tournament": "",
+          "result": "L 4-12"
+        },
+        {
+          "date": "Feb 15 (Sun)",
+          "time": "10:00 AM",
+          "home_away": "Away",
+          "opponent": "Stetson",
+          "location": "Deland, Fla.",
+          "tournament": "",
+          "result": "L 2-9"
+        },
+        {
+          "date": "Feb 20 (Fri)",
+          "time": "1:00 PM",
+          "home_away": "Neutral",
+          "opponent": "Stony Brook",
+          "location": "Norfolk, Va.",
+          "tournament": "",
+          "result": "W 2-0"
+        },
+        {
+          "date": "Feb 20 (Fri)",
+          "time": "3:00 PM",
+          "home_away": "Away",
+          "opponent": "Norfolk State",
+          "location": "Norfolk, Va.",
+          "tournament": "",
+          "result": "W 4-3"
+        },
+        {
+          "date": "Feb 21 (Sat)",
+          "time": "12:00 PM",
+          "home_away": "Neutral",
+          "opponent": "Saint Francis",
+          "location": "Hampton, Va.",
+          "tournament": "",
+          "result": "W 12-4"
+        },
+        {
+          "date": "Feb 21 (Sat)",
+          "time": "2:30 PM",
+          "home_away": "Away",
+          "opponent": "Hampton University",
+          "location": "Hampton, Va.",
+          "tournament": "",
+          "result": "L 4-6"
+        },
+        {
+          "date": "Mar 6 (Fri)",
+          "time": "1:00 PM",
+          "home_away": "Neutral",
+          "opponent": "Southern Utah",
+          "location": "Pocatello, Idaho",
+          "tournament": "",
+          "result": "L 1-10"
+        },
+        {
+          "date": "Mar 6 (Fri)",
+          "time": "5:30 PM",
+          "home_away": "Away",
+          "opponent": "Idaho State",
+          "location": "Pocatello, Idaho",
+          "tournament": "",
+          "result": "L 4-12"
+        },
+        {
+          "date": "Mar 7 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Neutral",
+          "opponent": "Southern Utah",
+          "location": "Pocatello, Idaho",
+          "tournament": "",
+          "result": "L 0-11"
+        },
+        {
+          "date": "Mar 7 (Sat)",
+          "time": "5:30 PM",
+          "home_away": "Away",
+          "opponent": "Idaho State",
+          "location": "Pocatello, Idaho",
+          "tournament": "",
+          "result": "L 0-11"
+        },
+        {
+          "date": "Mar 8 (Sun)",
+          "time": "1:30 PM",
+          "home_away": "Away",
+          "opponent": "Idaho State",
+          "location": "Pocatello, Idaho",
+          "tournament": "",
+          "result": "L 0-11"
+        },
+        {
+          "date": "Mar 11 (Wed)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "Merrimack",
+          "location": "North Andover, Mass.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 11 (Wed)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "Merrimack",
+          "location": "North Andover, Mass.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 17 (Tue)",
+          "time": "1:00 PM",
+          "home_away": "Away",
+          "opponent": "Saint Peter's",
+          "location": "Jersey City, N.J.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 17 (Tue)",
+          "time": "3:00 PM",
+          "home_away": "Away",
+          "opponent": "Saint Peter's",
+          "location": "Jersey City, N.J.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 18 (Wed)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "Monmouth",
+          "location": "West Long Branch, N.J.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 18 (Wed)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "Monmouth",
+          "location": "West Long Branch, N.J.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 19 (Thu)",
+          "time": "1:00 PM",
+          "home_away": "Away",
+          "opponent": "Iona",
+          "location": "New Rochelle, N.Y.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 21 (Sat)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "UMass Lowell",
+          "location": "Lowell, Mass.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 21 (Sat)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "UMass Lowell",
+          "location": "Lowell, Mass.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 22 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "UMass Lowell",
+          "location": "Lowell, Mass.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 25 (Wed)",
+          "time": "1:00 PM",
+          "home_away": "Away",
+          "opponent": "Stonehill",
+          "location": "North Easton, Mass.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 25 (Wed)",
+          "time": "3:00 PM",
+          "home_away": "Away",
+          "opponent": "Stonehill",
+          "location": "North Easton, Mass.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 28 (Sat)",
+          "time": "12:00 PM",
+          "home_away": "Home",
+          "opponent": "Binghamton",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 28 (Sat)",
+          "time": "2:00 PM",
+          "home_away": "Home",
+          "opponent": "Binghamton",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 29 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Home",
+          "opponent": "Binghamton",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 2 (Thu)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "Fairfield",
+          "location": "Fairfield, Conn.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 2 (Thu)",
+          "time": "4:00 PM",
+          "home_away": "Away",
+          "opponent": "Fairfield",
+          "location": "Fairfield, Conn.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 4 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Away",
+          "opponent": "UMBC",
+          "location": "Baltimore, Md.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 4 (Sat)",
+          "time": "3:00 PM",
+          "home_away": "Away",
+          "opponent": "UMBC",
+          "location": "Baltimore, Md.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 5 (Sun)",
+          "time": "11:00 AM",
+          "home_away": "Away",
+          "opponent": "UMBC",
+          "location": "Baltimore, Md.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 11 (Sat)",
+          "time": "12:00 PM",
+          "home_away": "Home",
+          "opponent": "UMass Lowell",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 11 (Sat)",
+          "time": "2:00 PM",
+          "home_away": "Home",
+          "opponent": "UMass Lowell",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 12 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Home",
+          "opponent": "UMass Lowell",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 15 (Wed)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "Husson",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 18 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Away",
+          "opponent": "Binghamton",
+          "location": "Vestal, N.Y.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 18 (Sat)",
+          "time": "3:00 PM",
+          "home_away": "Away",
+          "opponent": "Binghamton",
+          "location": "Vestal, N.Y.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 19 (Sun)",
+          "time": "11:00 AM",
+          "home_away": "Away",
+          "opponent": "Binghamton",
+          "location": "Vestal, N.Y.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 25 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Away",
+          "opponent": "Bryant",
+          "location": "Smithfield, R.I.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 25 (Sat)",
+          "time": "3:00 PM",
+          "home_away": "Away",
+          "opponent": "Bryant",
+          "location": "Smithfield, R.I.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 26 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "Bryant",
+          "location": "Smithfield, R.I.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 1 (Fri)",
+          "time": "3:00PM",
+          "home_away": "Home",
+          "opponent": "UAlbany",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 1 (Fri)",
+          "time": "5:00 PM",
+          "home_away": "Home",
+          "opponent": "UAlbany",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 2 (Sat)",
+          "time": "12:00 PM",
+          "home_away": "Home",
+          "opponent": "UAlbany",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 6 (Wed)",
+          "time": "TBD",
+          "home_away": "Home",
+          "opponent": "America East Tournament",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "tournament": "",
+          "result": ""
+        }
+      ],
+      "schedule_id": "3313",
+      "game_ids": [
+        "16282",
+        "16283",
+        "16284",
+        "16285",
+        "16483",
+        "16276",
+        "16278",
+        "16280",
+        "16279",
+        "16281",
+        "16466",
+        "16467",
+        "16468",
+        "16469",
+        "16287",
+        "16288",
+        "16289",
+        "16290",
+        "16291",
+        "16292",
+        "16293",
+        "16294",
+        "16476",
+        "16295",
+        "16296",
+        "16297",
+        "16298",
+        "16277",
+        "16299",
+        "16300",
+        "16471",
+        "16301",
+        "16302",
+        "16472",
+        "16305",
+        "16306",
+        "16307",
+        "16342",
+        "16309",
+        "16310",
+        "16311",
+        "16312",
+        "16313",
+        "16314",
+        "16315",
+        "16316",
+        "16317",
+        "16337",
+        "16322",
+        "16338",
+        "16339",
+        "16340",
+        "16475"
+      ]
+    },
+    "fhockey": {
+      "record": {
+        "overall": "7-12",
+        "conference": "1-4",
+        "streak": "L1",
+        "home": "5-4",
+        "away": "2-8",
+        "neutral": "0-0"
+      },
+      "games": [
+        {
+          "date": "Aug 29 (Fri)",
+          "time": "1 PM",
+          "home_away": "Home",
+          "opponent": "Boston College",
+          "location": "Orono, Maine (UMaine Field Hockey Complex)",
+          "tournament": "",
+          "result": "L 0-2"
+        },
+        {
+          "date": "Sep 1 (Mon)",
+          "time": "11 AM",
+          "home_away": "Home",
+          "opponent": "Indiana University",
+          "location": "Orono, Maine (UMaine Field Hockey Complex)",
+          "tournament": "",
+          "result": "L 3-4"
+        },
+        {
+          "date": "Sep 5 (Fri)",
+          "time": "3 PM",
+          "home_away": "Home",
+          "opponent": "Quinnipiac",
+          "location": "Orono, Maine (UMaine Field Hockey Complex)",
+          "tournament": "",
+          "result": "W 2-1"
+        },
+        {
+          "date": "Sep 7 (Sun)",
+          "time": "1 PM",
+          "home_away": "Home",
+          "opponent": "Stonehill",
+          "location": "Orono, Maine (UMaine Field Hockey Complex)",
+          "tournament": "",
+          "result": "W 5-1"
+        },
+        {
+          "date": "Sep 12 (Fri)",
+          "time": "3 PM",
+          "home_away": "Away",
+          "opponent": "Dartmouth",
+          "location": "Hanover, N.H.",
+          "tournament": "",
+          "result": "L 1-2"
+        },
+        {
+          "date": "Sep 14 (Sun)",
+          "time": "12 PM",
+          "home_away": "Home",
+          "opponent": "New Haven",
+          "location": "Orono, Maine (UMaine Field Hockey Complex)",
+          "tournament": "",
+          "result": "W 9-0"
+        },
+        {
+          "date": "Sep 19 (Fri)",
+          "time": "3 PM",
+          "home_away": "Home",
+          "opponent": "Northeastern",
+          "location": "Orono, Maine (UMaine Field Hockey Complex)",
+          "tournament": "",
+          "result": "L 1-2"
+        },
+        {
+          "date": "Sep 26 (Fri)",
+          "time": "3 PM",
+          "home_away": "Away",
+          "opponent": "Monmouth University",
+          "location": "West Long Branch, N.J.",
+          "tournament": "",
+          "result": "L 2-3"
+        },
+        {
+          "date": "Sep 28 (Sun)",
+          "time": "12 PM",
+          "home_away": "Away",
+          "opponent": "Drexel",
+          "location": "Philadelphia, Pa.",
+          "tournament": "",
+          "result": "L 1-2"
+        },
+        {
+          "date": "Oct 3 (Fri)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "UAlbany",
+          "location": "Albany, N.Y.",
+          "tournament": "",
+          "result": "L 0-2"
+        },
+        {
+          "date": "Oct 5 (Sun)",
+          "time": "12 PM",
+          "home_away": "Away",
+          "opponent": "Brown",
+          "location": "Providence, R.I.",
+          "tournament": "",
+          "result": "L 0-1"
+        },
+        {
+          "date": "Oct 10 (Fri)",
+          "time": "2 PM",
+          "home_away": "Away",
+          "opponent": "New Hampshire",
+          "location": "Durham, N.H.",
+          "tournament": "",
+          "result": "L 2-4"
+        },
+        {
+          "date": "Oct 17 (Fri)",
+          "time": "3 PM",
+          "home_away": "Home",
+          "opponent": "Bryant",
+          "location": "Orono, Maine (UMaine Field Hockey Complex)",
+          "tournament": "",
+          "result": "W 6-1"
+        },
+        {
+          "date": "Oct 18 (Sat)",
+          "time": "2 PM",
+          "home_away": "Home",
+          "opponent": "Boston University",
+          "location": "Orono, Maine (UMaine Field Hockey Complex)",
+          "tournament": "",
+          "result": "W 5-0"
+        },
+        {
+          "date": "Oct 24 (Fri)",
+          "time": "3 PM",
+          "home_away": "Home",
+          "opponent": "UMass Lowell",
+          "location": "Orono, Maine (UMaine Field Hockey Complex)",
+          "tournament": "",
+          "result": "L 2-3"
+        },
+        {
+          "date": "Oct 26 (Sun)",
+          "time": "12 PM",
+          "home_away": "Away",
+          "opponent": "Holy Cross",
+          "location": "Worcester, Mass.",
+          "tournament": "",
+          "result": "W 2-0"
+        },
+        {
+          "date": "Oct 30 (Thu)",
+          "time": "3 PM",
+          "home_away": "Away",
+          "opponent": "Vermont",
+          "location": "Burlington, Vt.",
+          "tournament": "",
+          "result": "L 1-4"
+        },
+        {
+          "date": "Nov 2 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "University of Massachusetts Lowell",
+          "location": "Lowell, MA",
+          "tournament": "",
+          "result": "W 4-3"
+        },
+        {
+          "date": "Nov 4 (Tue)",
+          "time": "1:00 PM",
+          "home_away": "Away",
+          "opponent": "University of Vermont",
+          "location": "Burlington, VT",
+          "tournament": "",
+          "result": "L 0-1"
+        }
+      ],
+      "schedule_id": "3306",
+      "game_ids": [
+        "16155",
+        "16156",
+        "16157",
+        "16158",
+        "16159",
+        "16160",
+        "16161",
+        "16162",
+        "16163",
+        "16164",
+        "16165",
+        "16168",
+        "16167",
+        "16169",
+        "16170",
+        "16171",
+        "16172",
+        "16175",
+        "16176"
+      ]
+    },
+    "wsoc": {
+      "record": {
+        "overall": "6-8-4",
+        "conference": "3-3-2",
+        "streak": "L1",
+        "home": "3-4-1",
+        "away": "3-4-3",
+        "neutral": "0-0"
+      },
+      "games": [
+        {
+          "date": "Aug 17 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Home",
+          "opponent": "Rhode Island",
+          "location": "Orono, Maine (Mahaney Diamond)",
+          "tournament": "",
+          "result": "L 0-2"
+        },
+        {
+          "date": "Aug 24 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Home",
+          "opponent": "Boston University",
+          "location": "Orono, Maine (Mahaney Diamond)",
+          "tournament": "",
+          "result": "L 1-3"
+        },
+        {
+          "date": "Aug 28 (Thu)",
+          "time": "4:00 PM",
+          "home_away": "Away",
+          "opponent": "Merrimack",
+          "location": "North Andover, Mass.",
+          "tournament": "",
+          "result": "W 3-2"
+        },
+        {
+          "date": "Aug 31 (Sun)",
+          "time": "11:00 AM",
+          "home_away": "Away",
+          "opponent": "Army",
+          "location": "West Point, N.Y.",
+          "tournament": "",
+          "result": "T 2-2"
+        },
+        {
+          "date": "Sep 7 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Home",
+          "opponent": "Holy Cross",
+          "location": "Orono, Maine (Mahaney Diamond)",
+          "tournament": "",
+          "result": "L 0-1"
+        },
+        {
+          "date": "Sep 14 (Sun)",
+          "time": "1:00 PM",
+          "home_away": "Away",
+          "opponent": "UConn",
+          "location": "Storrs, Conn.",
+          "tournament": "",
+          "result": "L 1-3"
+        },
+        {
+          "date": "Sep 21 (Sun)",
+          "time": "3:00 PM",
+          "home_away": "Away",
+          "opponent": "UAlbany",
+          "location": "Albany, N.Y.",
+          "tournament": "",
+          "result": "W 1-0"
+        },
+        {
+          "date": "Oct 2 (Thu)",
+          "time": "6:00 PM",
+          "home_away": "Home",
+          "opponent": "Bryant",
+          "location": "Orono, Maine (New Balance Soccer Complex)",
+          "tournament": "",
+          "result": "T 1-1"
+        },
+        {
+          "date": "Oct 5 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "Binghamton",
+          "location": "Vestal, N.Y.",
+          "tournament": "",
+          "result": "L 1-2"
+        },
+        {
+          "date": "Oct 12 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Home",
+          "opponent": "Vermont",
+          "location": "Orono, Maine (New Balance Soccer Complex)",
+          "tournament": "",
+          "result": "L 0-1"
+        },
+        {
+          "date": "Oct 16 (Thu)",
+          "time": "6:00 PM",
+          "home_away": "Away",
+          "opponent": "UMass Lowell",
+          "location": "Lowell, Mass.",
+          "tournament": "",
+          "result": "T 2-2"
+        },
+        {
+          "date": "Oct 19 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Home",
+          "opponent": "UMBC",
+          "location": "Orono, Maine (New Balance Soccer Complex)",
+          "tournament": "",
+          "result": "W 2-0"
+        },
+        {
+          "date": "Oct 25 (Sat)",
+          "time": "6:00 PM",
+          "home_away": "Away",
+          "opponent": "NJIT",
+          "location": "Newark, N.J.",
+          "tournament": "",
+          "result": "L 1-2"
+        },
+        {
+          "date": "Oct 30 (Thu)",
+          "time": "7:00 PM",
+          "home_away": "Home",
+          "opponent": "New Hampshire",
+          "location": "Orono, Maine (New Balance Soccer Complex)",
+          "tournament": "",
+          "result": "W 2-1"
+        },
+        {
+          "date": "Nov 2 (Sun)",
+          "time": "12:00 PM",
+          "home_away": "Home",
+          "opponent": "New Hampshire",
+          "location": "Orono, Maine (New Balance Soccer Complex)",
+          "tournament": "",
+          "result": "W 2-1"
+        },
+        {
+          "date": "Nov 6 (Thu)",
+          "time": "5:00 PM",
+          "home_away": "Away",
+          "opponent": "Binghamton",
+          "location": "Vestal, N.Y.",
+          "tournament": "",
+          "result": "W 1-0"
+        },
+        {
+          "date": "Nov 9 (Sun)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Vermont",
+          "location": "Burlington, Vt.",
+          "tournament": "",
+          "result": "T 2-2"
+        },
+        {
+          "date": "Nov 14 (Fri)",
+          "time": "7:00 PM",
+          "home_away": "Away",
+          "opponent": "UCF",
+          "location": "Orlando, Fla.",
+          "tournament": "",
+          "result": "L 0-2"
+        }
+      ],
+      "schedule_id": "3301",
+      "game_ids": [
+        "16055",
+        "16057",
+        "16058",
+        "16059",
+        "16060",
+        "16061",
+        "16062",
+        "16063",
+        "16064",
+        "16065",
+        "16066",
+        "16067",
+        "16068",
+        "16069",
+        "16262",
+        "16263",
+        "16264",
+        "16265"
+      ]
+    },
+    "mswim": {
+      "record": {
+        "overall": "1-0",
+        "conference": "0-0",
+        "streak": "W1",
+        "home": "1-0",
+        "away": "0-0",
+        "neutral": "0-0"
+      },
+      "games": [
+        {
+          "date": "Oct 4 (Sat)",
+          "time": "2:30 PM",
+          "home_away": "Home",
+          "opponent": "New Brunswick",
+          "location": "Orono, ME (Stanley M. Wallace Pool)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Oct 5 (Sun)",
+          "time": "9:00 AM",
+          "home_away": "Home",
+          "opponent": "New Brunswick",
+          "location": "Orono, ME (Stanley M. Wallace Pool)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Oct 18 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Home",
+          "opponent": "Maine Maritime Academy",
+          "location": "Orono, Maine (Stanley M. Wallace Pool)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 20 (Thu)",
+          "time": "5:00 PM",
+          "home_away": "Away",
+          "opponent": "Harold Anderson Invitational",
+          "location": "Kingston, R.I.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 21 (Fri)",
+          "time": "10:00 AM / 5:00 PM",
+          "home_away": "Away",
+          "opponent": "Harold Anderson Invitational",
+          "location": "Kingston, RI",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 22 (Sat)",
+          "time": "10:00 AM / 5:30 PM",
+          "home_away": "Away",
+          "opponent": "Harold Anderson Invitational",
+          "location": "Kingston, RI",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 23 (Sun)",
+          "time": "9:30 AM / 3:00 PM",
+          "home_away": "Away",
+          "opponent": "Harold Anderson Invitational",
+          "location": "Kingston, RI",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Dec 5 (Fri)",
+          "time": "6:00 PM",
+          "home_away": "Away",
+          "opponent": "Maine State Meet",
+          "location": "Waterville, Maine",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Dec 6 (Sat)",
+          "time": "10:00 AM",
+          "home_away": "Away",
+          "opponent": "Maine State Meet",
+          "location": "Waterville, Maine",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 17 (Sat)",
+          "time": "11:00 AM",
+          "home_away": "Home",
+          "opponent": "Bowdoin",
+          "location": "Orono, Maine (Stanley M. Wallace Pool)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 24 (Sat)",
+          "time": "11:00 AM",
+          "home_away": "Home",
+          "opponent": "Providence",
+          "location": "Orono, Maine (Stanley M. Wallace Pool)",
+          "tournament": "",
+          "result": "W 174-122"
+        },
+        {
+          "date": "Feb 18 (Wed)",
+          "time": "TBD",
+          "home_away": "Neutral",
+          "opponent": "America East Championships",
+          "location": "Lexington, Va. (VMI)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 19 (Thu)",
+          "time": "TBD",
+          "home_away": "Neutral",
+          "opponent": "America East Championships",
+          "location": "Lexington, Va. (VMI)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 20 (Fri)",
+          "time": "TBD",
+          "home_away": "Neutral",
+          "opponent": "America East Championships",
+          "location": "Lexington, Va. (VMI)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 21 (Sat)",
+          "time": "TBD",
+          "home_away": "Neutral",
+          "opponent": "America East Championships",
+          "location": "Lexington, Va. (VMI)",
+          "tournament": "",
+          "result": ""
+        }
+      ],
+      "schedule_id": "3309",
+      "game_ids": [
+        "16239",
+        "16240",
+        "16241",
+        "16243",
+        "16266",
+        "16267",
+        "16268",
+        "16244",
+        "16245",
+        "16246",
+        "16247",
+        "16248",
+        "16487",
+        "16488",
+        "16489"
+      ]
+    },
+    "wswim": {
+      "record": {
+        "overall": "2-2",
+        "conference": "0-0",
+        "streak": "W1",
+        "home": "2-2",
+        "away": "0-0",
+        "neutral": "0-0"
+      },
+      "games": [
+        {
+          "date": "Oct 4 (Sat)",
+          "time": "2:30 PM",
+          "home_away": "Home",
+          "opponent": "University of New Brunswick",
+          "location": "Orono, ME (Stanley M. Wallace Pool)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Oct 5 (Sun)",
+          "time": "9:00 AM",
+          "home_away": "Home",
+          "opponent": "University of New Brunswick",
+          "location": "Orono, ME (Stanley M. Wallace Pool)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Oct 18 (Sat)",
+          "time": "1:00 PM",
+          "home_away": "Home",
+          "opponent": "Maine Maritime Academy",
+          "location": "Orono, Maine (Stanley M. Wallace Pool)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 1 (Sat)",
+          "time": "11:00 AM",
+          "home_away": "Home",
+          "opponent": "University of Vermont",
+          "location": "Orono, Maine (Stanley M. Wallace Pool)",
+          "tournament": "",
+          "result": "L 122-174"
+        },
+        {
+          "date": "Nov 20 (Thu)",
+          "time": "5:00 PM",
+          "home_away": "Away",
+          "opponent": "Harold Anderson Invitational",
+          "location": "Kingston, R.I.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 21 (Fri)",
+          "time": "10:00 AM / 5:00 PM",
+          "home_away": "Away",
+          "opponent": "Harold Anderson Invitational",
+          "location": "Kingston, RI",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 22 (Sat)",
+          "time": "10:00 AM / 5:30 PM",
+          "home_away": "Away",
+          "opponent": "Harold Anderson Invitational",
+          "location": "Kingston, RI",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 23 (Sun)",
+          "time": "9:30 AM / 3:00 PM",
+          "home_away": "Away",
+          "opponent": "Harold Anderson Invitational",
+          "location": "Kingston, RI",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Dec 5 (Fri)",
+          "time": "6:00 PM",
+          "home_away": "Away",
+          "opponent": "Maine State Meet",
+          "location": "Waterville, Maine",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Dec 6 (Sat)",
+          "time": "10:00 AM",
+          "home_away": "Away",
+          "opponent": "Maine State Meet",
+          "location": "Waterville, Maine",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 17 (Sat)",
+          "time": "11:00 AM",
+          "home_away": "Home",
+          "opponent": "Bowdoin College",
+          "location": "Orono, Maine (Stanley M. Wallace Pool)",
+          "tournament": "",
+          "result": "W 209-143"
+        },
+        {
+          "date": "Jan 23 (Fri)",
+          "time": "5:00 PM",
+          "home_away": "Home",
+          "opponent": "University of New Hampshire",
+          "location": "Orono, Maine (Stanley M. Wallace Pool)",
+          "tournament": "",
+          "result": "L 118-167"
+        },
+        {
+          "date": "Jan 24 (Sat)",
+          "time": "11:00 AM",
+          "home_away": "Home",
+          "opponent": "Providence College",
+          "location": "Orono, Maine (Stanley M. Wallace Pool)",
+          "tournament": "",
+          "result": "W 180.5-119.5"
+        },
+        {
+          "date": "Feb 18 (Wed)",
+          "time": "TBD",
+          "home_away": "Neutral",
+          "opponent": "America East Championships",
+          "location": "Lexington, Va. (VMI)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 19 (Thu)",
+          "time": "TBD",
+          "home_away": "Neutral",
+          "opponent": "America East Championships",
+          "location": "Lexington, Va. (VMI)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 20 (Fri)",
+          "time": "TBD",
+          "home_away": "Neutral",
+          "opponent": "America East Championships",
+          "location": "Lexington, Va. (VMI)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 21 (Sat)",
+          "time": "TBD",
+          "home_away": "Neutral",
+          "opponent": "America East Championships",
+          "location": "Lexington, Va. (VMI)",
+          "tournament": "",
+          "result": ""
+        }
+      ],
+      "schedule_id": "3310",
+      "game_ids": [
+        "16249",
+        "16250",
+        "16251",
+        "16252",
+        "16253",
+        "16269",
+        "16270",
+        "16271",
+        "16254",
+        "16255",
+        "16256",
+        "16259",
+        "16257",
+        "16258",
+        "16484",
+        "16485",
+        "16486"
+      ]
+    },
+    "mcross": {
+      "record": {
+        "overall": "1-0",
+        "conference": "0-0",
+        "streak": "W1",
+        "home": "1-0",
+        "away": "0-0",
+        "neutral": "0-0"
+      },
+      "games": [
+        {
+          "date": "Aug 29 (Fri)",
+          "time": "8:30 AM",
+          "home_away": "Home",
+          "opponent": "Army",
+          "location": "Bangor, Maine (Saxl Park)",
+          "tournament": "",
+          "result": "W 15-45"
+        },
+        {
+          "date": "Sep 20 (Sat)",
+          "time": "10:00 AM",
+          "home_away": "Away",
+          "opponent": "Maine State Meet",
+          "location": "Brunswick, Maine",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Sep 26 (Fri)",
+          "time": "8:15 AM",
+          "home_away": "Away",
+          "opponent": "Gans Creek Classic",
+          "location": "Columbia, Mo.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Oct 10 (Fri)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "New England XC Championships",
+          "location": "Hopkinton, N.H. (Hopkinton Fairgrounds)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Oct 31 (Fri)",
+          "time": "11:00 AM",
+          "home_away": "Away",
+          "opponent": "America East Championships",
+          "location": "Hopkinton, N.H. (Hopkinton Fairgrounds)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 14 (Fri)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "NCAA Northeast Regional",
+          "location": "Hopkinton, N.H. (Hopkinton Fairgrounds)",
+          "tournament": "",
+          "result": ""
+        }
+      ],
+      "schedule_id": "3303",
+      "game_ids": [
+        "16104",
+        "16105",
+        "16106",
+        "16107",
+        "16109",
+        "16110"
+      ]
+    },
+    "wcross": {
+      "record": {
+        "overall": "2-0",
+        "conference": "0-0",
+        "streak": "W2",
+        "home": "1-0",
+        "away": "1-0",
+        "neutral": "0-0"
+      },
+      "games": [
+        {
+          "date": "Aug 29 (Fri)",
+          "time": "9:10 AM",
+          "home_away": "Home",
+          "opponent": "Army",
+          "location": "Bangor, Maine (Saxl Park)",
+          "tournament": "",
+          "result": "W 18-40"
+        },
+        {
+          "date": "Sep 20 (Sat)",
+          "time": "11:00 AM",
+          "home_away": "Away",
+          "opponent": "Maine State Meet",
+          "location": "Brunswick, Maine",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Sep 26 (Fri)",
+          "time": "9:00 AM",
+          "home_away": "Away",
+          "opponent": "Gans Creek Classic",
+          "location": "Columbia, Mo.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Oct 10 (Fri)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "New England XC Championships",
+          "location": "Hopkinton, N.H. (Hopkinton Fairgrounds)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Oct 31 (Fri)",
+          "time": "12:00 PM",
+          "home_away": "Away",
+          "opponent": "America East Championships",
+          "location": "Hopkinton, N.H. (Hopkinton Fairgrounds)",
+          "tournament": "",
+          "result": "W -"
+        },
+        {
+          "date": "Nov 14 (Fri)",
+          "time": "11:00 AM",
+          "home_away": "Away",
+          "opponent": "NCAA Northeast Regional",
+          "location": "Hopkinton, N.H. (Hopkinton Fairgrounds)",
+          "tournament": "",
+          "result": ""
+        }
+      ],
+      "schedule_id": "3304",
+      "game_ids": [
+        "16111",
+        "16112",
+        "16113",
+        "16114",
+        "16116",
+        "16117"
+      ]
+    },
+    "mtrack": {
+      "record": {
+        "overall": "0-0",
+        "conference": "0-0",
+        "home": "0-0",
+        "away": "0-0",
+        "neutral": "0-0"
+      },
+      "games": [
+        {
+          "date": "Dec 6 (Sat)",
+          "time": "10:00 AM",
+          "home_away": "Away",
+          "opponent": "Harvard Classic",
+          "location": "Cambridge, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Dec 6 (Sat)",
+          "time": "11:00 AM",
+          "home_away": "Away",
+          "opponent": "Sharon Colyear-Danville Season Opener",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Dec 12 (Fri)",
+          "time": "2:00 PM",
+          "home_away": "Home",
+          "opponent": "Husson University",
+          "location": "Orono, ME (New Balance Field House/Indoor Track)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 16 (Fri)",
+          "time": "5 PM",
+          "home_away": "Away",
+          "opponent": "Bates Invitational",
+          "location": "Lewiston, ME",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 17 (Sat)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "Bates Invitational",
+          "location": "Lewiston, ME",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 24 (Sat)",
+          "time": "11 AM",
+          "home_away": "Away",
+          "opponent": "BU Scarlet and White",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 30 (Fri)",
+          "time": "12 PM",
+          "home_away": "Away",
+          "opponent": "Harvard Invitational",
+          "location": "Cambridge, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 31 (Sat)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "BU Terrier Classic",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 7 (Sat)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "IC4A Championships",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 8 (Sun)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "IC4A Championships",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 20 (Fri)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "America East Indoor Championships",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 21 (Sat)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "America East Indoor Championships",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 25 (Wed)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Raleigh Relays",
+          "location": "Raleigh, NC",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 26 (Thu)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Raleigh Relays",
+          "location": "Raleigh, NC",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 27 (Fri)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Raleigh Relays",
+          "location": "Raleigh, NC",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 4 (Sat)",
+          "time": "TBD",
+          "home_away": "Home",
+          "opponent": "Black Bear Home Meet",
+          "location": "Orono, ME (New Balance Outdoor Track and Field Complex)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 10 (Fri)",
+          "time": "5 PM",
+          "home_away": "Away",
+          "opponent": "Friar Invitational",
+          "location": "Providence, RI",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 11 (Sat)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "UMass Commonwealth Invitational",
+          "location": "Amherst, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 17 (Fri)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Sean Collier Invitational",
+          "location": "Cambridge, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 17 (Fri)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Jim Kavanagh Legacy Invitational",
+          "location": "Worcester, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 18 (Sat)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Jim Kavanagh Legacy Invitational",
+          "location": "Worcester, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 18 (Sat)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Sean Collier Invitational",
+          "location": "Cambridge, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 23 (Thu)",
+          "time": "12 PM",
+          "home_away": "Away",
+          "opponent": "Penn Relays",
+          "location": "Philadelphia, PA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 24 (Fri)",
+          "time": "12:30 PM",
+          "home_away": "Away",
+          "opponent": "Penn Relays",
+          "location": "Philadelphia, PA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 25 (Sat)",
+          "time": "12 PM",
+          "home_away": "Away",
+          "opponent": "Penn Relays",
+          "location": "Philadelphia, PA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 9 (Sat)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "America East Outdoor Championships",
+          "location": "Lowell, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 10 (Sun)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "America East Outdoor Championships",
+          "location": "Lowell, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 16 (Sat)",
+          "time": "TBD",
+          "home_away": "Home",
+          "opponent": "Black Bear Last Chance Meet",
+          "location": "Orono, ME (New Balance Outdoor Track and Field Complex)",
+          "tournament": "",
+          "result": ""
+        }
+      ],
+      "schedule_id": "3311",
+      "game_ids": [
+        "16303",
+        "16272",
+        "16274",
+        "16478",
+        "16343",
+        "16344",
+        "16346",
+        "16347",
+        "16349",
+        "16350",
+        "16352",
+        "16351",
+        "16429",
+        "16430",
+        "16431",
+        "16434",
+        "16435",
+        "16437",
+        "16438",
+        "16440",
+        "16441",
+        "16439",
+        "16442",
+        "16443",
+        "16444",
+        "16445",
+        "16446",
+        "16447"
+      ]
+    },
+    "wtrack": {
+      "record": {
+        "overall": "0-0",
+        "conference": "0-0",
+        "home": "0-0",
+        "away": "0-0",
+        "neutral": "0-0"
+      },
+      "games": [
+        {
+          "date": "Dec 6 (Sat)",
+          "time": "10:00 AM",
+          "home_away": "Away",
+          "opponent": "Harvard Classic",
+          "location": "Cambridge, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Dec 6 (Sat)",
+          "time": "11:00 AM",
+          "home_away": "Away",
+          "opponent": "Sharon Colyear-Danville Season Opener",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Dec 12 (Fri)",
+          "time": "2:00 PM",
+          "home_away": "Home",
+          "opponent": "Husson University",
+          "location": "Orono, ME (New Balance Field House/Indoor Track)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 16 (Fri)",
+          "time": "5 PM",
+          "home_away": "Away",
+          "opponent": "Bates Invitational",
+          "location": "Lewiston, ME",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 17 (Sat)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "Bates Invitational",
+          "location": "Lewiston, ME",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 24 (Sat)",
+          "time": "11 AM",
+          "home_away": "Away",
+          "opponent": "BU Scarlet and White",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 30 (Fri)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "BU Terrier Classic",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Jan 31 (Sat)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "Harvard Invitational",
+          "location": "Cambridge, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 7 (Sat)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "IC4A Championships",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 8 (Sun)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "IC4A Championships",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 20 (Fri)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "America East Indoor Championships",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Feb 21 (Sat)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "America East Indoor Championships",
+          "location": "Boston, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 25 (Wed)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Raleigh Relays",
+          "location": "Raleigh, NC",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 26 (Thu)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Raleigh Relays",
+          "location": "Raleigh, NC",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 27 (Fri)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Raleigh Relays",
+          "location": "Raleigh, NC",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 4 (Sat)",
+          "time": "TBD",
+          "home_away": "Home",
+          "opponent": "Black Bear Home Meet",
+          "location": "Orono, ME (New Balance Outdoor Track and Field Complex)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 10 (Fri)",
+          "time": "5 PM",
+          "home_away": "Away",
+          "opponent": "Friar Invitational",
+          "location": "Providence, RI",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 11 (Sat)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "UMass Commonwealth Invitational",
+          "location": "Amherst, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 17 (Fri)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Sean Collier Invitational",
+          "location": "Cambridge, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 17 (Fri)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Jim Kavanagh Legacy Invitational",
+          "location": "Worcester, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 18 (Sat)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Jim Kavanagh Legacy Invitational",
+          "location": "Worcester, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 18 (Sat)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "Sean Collier Invitational",
+          "location": "Cambridge, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 23 (Thu)",
+          "time": "12 PM",
+          "home_away": "Away",
+          "opponent": "Penn Relays",
+          "location": "Philadelphia, PA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 24 (Fri)",
+          "time": "12:30 PM",
+          "home_away": "Away",
+          "opponent": "Penn Relays",
+          "location": "Philadelphia, PA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 25 (Sat)",
+          "time": "12 PM",
+          "home_away": "Away",
+          "opponent": "Penn Relays",
+          "location": "Philadelphia, PA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 9 (Sat)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "America East Outdoor Championships",
+          "location": "Lowell, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 10 (Sun)",
+          "time": "TBD",
+          "home_away": "Away",
+          "opponent": "America East Outdoor Championships",
+          "location": "Lowell, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 16 (Sat)",
+          "time": "TBD",
+          "home_away": "Home",
+          "opponent": "Black Bear Last Chance Meet",
+          "location": "Orono, ME (New Balance Outdoor Track and Field Complex)",
+          "tournament": "",
+          "result": ""
+        }
+      ],
+      "schedule_id": "3312",
+      "game_ids": [
+        "16304",
+        "16273",
+        "16275",
+        "16479",
+        "16353",
+        "16355",
+        "16354",
+        "16357",
+        "16359",
+        "16360",
+        "16361",
+        "16362",
+        "16448",
+        "16449",
+        "16450",
+        "16453",
+        "16454",
+        "16455",
+        "16456",
+        "16458",
+        "16459",
+        "16457",
+        "16460",
+        "16461",
+        "16462",
+        "16463",
+        "16464",
+        "16465"
+      ]
+    }
+  }
+}
