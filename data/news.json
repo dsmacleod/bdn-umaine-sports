@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-03-11T18:43:37.003446+00:00",
+  "last_updated": "2026-03-12T04:14:53.274414+00:00",
   "articles": [
+    {
+      "title": "PREVIEW: Women's Basketball travels to Vermont for America East Championship",
+      "url": "https://goblackbears.com/news/2026/3/11/preview-womens-basketball-travels-to-vermont-for-america-east-championship.aspx",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team (19-12) will appear in the conference title game for the 23rd time, and first since winning the 2024 title, when it travels to meet Vermont (26-7) in the Air Force Reserve America East Championship on Friday, March 13 at 5 p.m. live on ESPNU.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/11/talon-semifinal.png",
+      "published": "Wed, 11 Mar 2026 16:20:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Black Bears win two at Merrimack in non-conference action",
+      "url": "https://goblackbears.com/news/2026/3/11/softball-black-bears-win-two-at-merrimack.aspx",
+      "summary": "Annika Shearer had two home runs, Alysen Rieth had a win and a save.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/11/SB_Adams.png",
+      "published": "Wed, 11 Mar 2026 16:26:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
     {
       "title": "Adrianna Smith named finalist for Becky Hammon Mid-Major Player of the Year",
       "url": "https://goblackbears.com/news/2026/3/11/womens-basketball-adrianna-smith-named-finalist-for-becky-hammon-mid-major-player-of-the-year.aspx",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/21/_PEV8400.jpg",
       "published": "Sat, 7 Mar 2026 22:56:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Falls in Series Finale at Dayton",
-      "url": "https://goblackbears.com/news/2026/3/8/baseball-falls-in-series-finale-at-dayton.aspx",
-      "summary": "The University of Maine baseball program was swept by Dayton on Sunday afternoon in the weekend series.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/8/BASE_Maine22026_TF-22.jpg",
-      "published": "Sun, 8 Mar 2026 16:41:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Tigers top Black Bears in final game of Orange and Black Classic",
-      "url": "https://goblackbears.com/news/2026/3/8/softball-tigers-top-black-bears-in-final-game-of-orange-and-black-classic.aspx",
-      "summary": "Maine returns to action at Merrimack on Wednesday.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/8/SB_Group.png",
-      "published": "Sun, 8 Mar 2026 15:26:00 EST",
-      "sport": "Softball",
       "source": "goblackbears"
     },
     {
@@ -214,15 +214,6 @@
       "summary": "ORONO, Maine -- University of Maine forward Adrianna Smith has been named the America East Player of the Week and Lala Woods has been tabbed the America East Rookie of the Week, as announced by the league on Monday afternoon.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/woods-dribble-ualbany.png",
       "published": "Mon, 2 Mar 2026 12:00:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Black Bears lock up two-seed with win over Binghamton",
-      "url": "https://goblackbears.com/news/2026/2/28/womens-basketball-black-bears-lock-up-two-seed-with-win-over-binghamton.aspx",
-      "summary": "ORONO, Maine -- Adrianna Smith posted her 55th career double-double as the University of Maine women's basketball team concluded the regular season with a 74-67 win over Binghamton on Senior Day. The win secured the number two seed for the Black Bears in the upcoming America East playoffs.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/28/talon-dribble-binghamton.png",
-      "published": "Sat, 28 Feb 2026 15:59:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
     },
@@ -405,6 +396,16 @@
       "published": "Fri, 5 Dec 2025 09:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
+    },
+    {
+      "title": "UMaine\u2019s Brandon Holt and Owen Fowler earn Hockey East awards",
+      "url": "https://www.bangordailynews.com/2026/03/11/sports/college-ice-hockey/umaine-hockey-brandon-holt-owen-fowler-awards/",
+      "summary": "Holt was named the league\u2019s best defensive defenseman. Fowler was chosen the co-best defensive forward.",
+      "image": "",
+      "published": "Wed, 11 Mar 2026 18:57:59 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine draws Boston College in playoff clash of inconsistent hockey teams",
@@ -592,16 +593,6 @@
       "summary": "The 18th-ranked Black Bears will try to snap their seven-game Agganis Arena losing streak on Friday night.",
       "image": "",
       "published": "Fri, 06 Feb 2026 06:00:00 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "His name means \u2018famed warrior\u2019 in French. His UMaine hockey teammates say that\u2019s fitting.",
-      "url": "https://www.bangordailynews.com/2026/02/05/sports/college-ice-hockey/loic-usereau-umaine-hockey-joam40zk0w/",
-      "summary": "Black Bears freshman defenseman Loic Usereau will take a two-game goal-scoring streak into Friday night\u2019s game at Boston University.",
-      "image": "",
-      "published": "Thu, 05 Feb 2026 06:00:00 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"

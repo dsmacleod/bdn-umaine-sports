@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T18:43:37.003446+00:00",
+  "last_updated": "2026-03-12T04:14:53.274414+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -2122,11 +2122,11 @@
     },
     "softball": {
       "record": {
-        "overall": "5-15",
+        "overall": "6-15",
         "conference": "0-0",
-        "streak": "W1",
+        "streak": "W2",
         "home": "0-0",
-        "away": "2-8",
+        "away": "3-8",
         "neutral": "3-7"
       },
       "games": [
@@ -2317,7 +2317,7 @@
           "opponent": "Merrimack",
           "location": "North Andover, Mass.",
           "tournament": "",
-          "result": ""
+          "result": "W 6-2"
         },
         {
           "date": "Mar 17 (Tue)",
