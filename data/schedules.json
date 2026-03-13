@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T12:37:03.246548+00:00",
+  "last_updated": "2026-03-13T04:13:12.557327+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1731,7 +1731,7 @@
         },
         {
           "date": "Mar 14 (Sat)",
-          "time": "3 PM",
+          "time": "2 PM",
           "home_away": "Away",
           "opponent": "University of Nebraska",
           "location": "Lincoln, NE",
@@ -1739,8 +1739,8 @@
           "result": ""
         },
         {
-          "date": "Mar 15 (Sun)",
-          "time": "1 PM",
+          "date": "Mar 14 (Sat)",
+          "time": "5 PM",
           "home_away": "Away",
           "opponent": "University of Nebraska",
           "location": "Lincoln, NE",
@@ -1821,7 +1821,7 @@
         },
         {
           "date": "Mar 31 (Tue)",
-          "time": "4 PM",
+          "time": "3 PM",
           "home_away": "Away",
           "opponent": "Boston College",
           "location": "Chestnut Hill, MA",

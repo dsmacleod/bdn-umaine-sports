@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T12:37:03.246548+00:00",
+  "last_updated": "2026-03-13T04:13:12.557327+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -323,12 +323,12 @@
             "ga": 40
           },
           "overall": {
-            "gp": 37,
-            "w": 27,
+            "gp": 38,
+            "w": 28,
             "l": 8,
             "t": 2,
-            "gf": 113,
-            "ga": 60
+            "gf": 117,
+            "ga": 61
           },
           "is_umaine": false
         },
@@ -740,21 +740,21 @@
           "is_umaine": false
         },
         {
+          "school": "UMass Lowell",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "5-7",
+          "pct": ".000",
+          "streak": "W2",
+          "is_umaine": false
+        },
+        {
           "school": "Binghamton",
           "conference": "0-0",
           "conference_pct": ".000",
           "overall": "5-8",
           "pct": ".000",
           "streak": "W2",
-          "is_umaine": false
-        },
-        {
-          "school": "UMass Lowell",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "4-7",
-          "pct": ".000",
-          "streak": "W1",
           "is_umaine": false
         },
         {
