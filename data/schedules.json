@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-13T12:36:19.349033+00:00",
+  "last_updated": "2026-03-14T04:11:57.514877+00:00",
   "sports": {
     "mhockey": {
       "record": {
-        "overall": "18-13-3",
+        "overall": "18-14-3",
         "conference": "12-11-1",
-        "streak": "L1",
+        "streak": "L2",
         "home": "10-6-1",
-        "away": "5-7-2",
+        "away": "5-8-2",
         "neutral": "3-0-0"
       },
       "games": [
@@ -333,7 +333,7 @@
           "opponent": "Boston College",
           "location": "Chestnut Hill, Mass.",
           "tournament": "",
-          "result": ""
+          "result": "L 0-5"
         }
       ],
       "schedule_id": "3302",
@@ -1242,11 +1242,11 @@
     },
     "wbball": {
       "record": {
-        "overall": "19-12",
+        "overall": "19-13",
         "conference": "12-4",
-        "streak": "W5",
+        "streak": "L1",
         "home": "11-3",
-        "away": "7-8",
+        "away": "7-9",
         "neutral": "1-1"
       },
       "games": [
@@ -1536,7 +1536,7 @@
           "opponent": "University of Vermont",
           "location": "Burlington, VT",
           "tournament": "",
-          "result": ""
+          "result": "L 43-61"
         }
       ],
       "schedule_id": "3307",
@@ -1577,11 +1577,11 @@
     },
     "baseball": {
       "record": {
-        "overall": "2-13",
+        "overall": "2-14",
         "conference": "0-0",
-        "streak": "L10",
+        "streak": "L11",
         "home": "0-0",
-        "away": "2-13",
+        "away": "2-14",
         "neutral": "0-0"
       },
       "games": [
@@ -1727,7 +1727,7 @@
           "opponent": "University of Nebraska",
           "location": "Lincoln, NE",
           "tournament": "",
-          "result": ""
+          "result": "L 5-6"
         },
         {
           "date": "Mar 14 (Sat)",
@@ -2357,7 +2357,7 @@
         },
         {
           "date": "Mar 19 (Thu)",
-          "time": "1:00 PM",
+          "time": "2:00 PM",
           "home_away": "Away",
           "opponent": "Iona",
           "location": "New Rochelle, N.Y.",
