@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T12:29:42.718669+00:00",
+  "last_updated": "2026-03-15T04:33:20.768869+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1577,11 +1577,11 @@
     },
     "baseball": {
       "record": {
-        "overall": "2-14",
+        "overall": "2-16",
         "conference": "0-0",
-        "streak": "L11",
+        "streak": "L13",
         "home": "0-0",
-        "away": "2-14",
+        "away": "2-16",
         "neutral": "0-0"
       },
       "games": [
@@ -1736,7 +1736,7 @@
           "opponent": "University of Nebraska",
           "location": "Lincoln, NE",
           "tournament": "",
-          "result": ""
+          "result": "L 3-6"
         },
         {
           "date": "Mar 14 (Sat)",
@@ -1745,7 +1745,7 @@
           "opponent": "University of Nebraska",
           "location": "Lincoln, NE",
           "tournament": "",
-          "result": ""
+          "result": "L 7-8"
         },
         {
           "date": "Mar 16 (Mon)",
