@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-03-16T12:48:56.908204+00:00",
+  "last_updated": "2026-03-17T04:20:30.020041+00:00",
   "articles": [
+    {
+      "title": "Preview: Maine set for five-game non-conference week",
+      "url": "https://goblackbears.com/news/2026/3/16/softball-preview-maine-set-for-five-game-non-conference-week.aspx",
+      "summary": "Maine is set to face Saint Peter's, Monmouth and Iona on the road.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/16/DSC09240.jpg",
+      "published": "Mon, 16 Mar 2026 11:09:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Falls in Both Ends of Saturday Doubleheader",
       "url": "https://goblackbears.com/news/2026/3/14/baseball-falls-in-both-ends-of-saturday-doubleheader.aspx",
@@ -8,6 +17,24 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/14/BASE_Maine22026_TF-20__1_.jpg",
       "published": "Sat, 14 Mar 2026 20:34:00 EST",
       "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Stauss breaks 100 IM school mark at CSCAA National Invitational Championship",
+      "url": "https://goblackbears.com/news/2026/3/16/mens-swimming-and-diving-stauss-breaks-100-im-school-mark-at-cscaa-national-invitational-championship.aspx",
+      "summary": "OCALA, Fla. -- Joey Stauss set a new mark in the 100-yard IM to highlight Maine's performance at the CSCAA National Invitational Championship, hosted at the FAST complex in Ocala, Fla. on March 12-14.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2024/10/18/Stauss-web.png",
+      "published": "Mon, 16 Mar 2026 10:24:00 EST",
+      "sport": "Men's Swimming and Diving",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Veinotte returns to Maine Field hockey coaching staff",
+      "url": "https://goblackbears.com/news/2026/3/16/field-hockey-veinotte-returns-to-maine-field-hockey-coaching-staff.aspx",
+      "summary": "ORONO, Maine \u2013 The University of Maine Field Hockey program is pleased to announce the return of Courtney Veinotte ('11) to its coaching staff.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/16/landscape.jpg",
+      "published": "Mon, 16 Mar 2026 09:32:00 EST",
+      "sport": "Field Hockey",
       "source": "goblackbears"
     },
     {
@@ -62,33 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/11/talon-semifinal.png",
       "published": "Wed, 11 Mar 2026 16:20:00 EST",
       "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Black Bears win two at Merrimack in non-conference action",
-      "url": "https://goblackbears.com/news/2026/3/11/softball-black-bears-win-two-at-merrimack.aspx",
-      "summary": "Annika Shearer had two home runs, Alysen Rieth had a win and a save.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/11/SB_Adams.png",
-      "published": "Wed, 11 Mar 2026 16:26:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Adrianna Smith named finalist for Becky Hammon Mid-Major Player of the Year",
-      "url": "https://goblackbears.com/news/2026/3/11/womens-basketball-adrianna-smith-named-finalist-for-becky-hammon-mid-major-player-of-the-year.aspx",
-      "summary": "ORONO, Maine -- University of Maine forward Adrianna Smith has been named a finalist for the Becky Hammon Mid-Major Player of the Year Award presented by Her Hoop Stats.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/11/smith-dribble-semi.png",
-      "published": "Wed, 11 Mar 2026 11:00:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Four Black Bears to compete at CSCAA National Invitational Championship",
-      "url": "https://goblackbears.com/news/2026/3/11/mens-swimming-and-diving-four-black-bears-to-compete-at-cscaa-national-invitational-championship.aspx",
-      "summary": "ORONO, Maine -- Four members of the University of Maine men's swim team will compete at the CSCAA National Invitational Championship, to be held March 12-14 in Ocala, Florida. Competing for the Black Bears will be Joey Stauss, Nathaniel Teerlinck, Julian Lapietra, and Noah Machristie.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/21/LaPietra-dive.png",
-      "published": "Wed, 11 Mar 2026 13:00:00 EST",
-      "sport": "Men's Swimming and Diving",
       "source": "goblackbears"
     },
     {
@@ -161,6 +161,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/27/_PEV2448.jpg",
       "published": "Fri, 27 Feb 2026 22:34:00 EST",
       "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Adrianna Smith named finalist for Becky Hammon Mid-Major Player of the Year",
+      "url": "https://goblackbears.com/news/2026/3/11/womens-basketball-adrianna-smith-named-finalist-for-becky-hammon-mid-major-player-of-the-year.aspx",
+      "summary": "ORONO, Maine -- University of Maine forward Adrianna Smith has been named a finalist for the Becky Hammon Mid-Major Player of the Year Award presented by Her Hoop Stats.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/11/smith-dribble-semi.png",
+      "published": "Wed, 11 Mar 2026 11:00:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
