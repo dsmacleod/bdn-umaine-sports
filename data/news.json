@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-03-17T12:46:36.003269+00:00",
+  "last_updated": "2026-03-18T04:25:44.877775+00:00",
   "articles": [
+    {
+      "title": "Brandon Chabrier signs pro contract with Maine Mariners",
+      "url": "https://goblackbears.com/news/2026/3/17/mens-ice-hockey-chabrier-signs-mariners.aspx",
+      "summary": "Chabrier skated in 133 games as a Black Bear.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/17/Brandon_Chabrier_10.10_vs_Holy_Cross.jpg",
+      "published": "Tue, 17 Mar 2026 15:42:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Preview: Maine set for five-game non-conference week",
       "url": "https://goblackbears.com/news/2026/3/16/softball-preview-maine-set-for-five-game-non-conference-week.aspx",
@@ -83,15 +92,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Women's Basketball travels to Vermont for America East Championship",
-      "url": "https://goblackbears.com/news/2026/3/11/preview-womens-basketball-travels-to-vermont-for-america-east-championship.aspx",
-      "summary": "ORONO, Maine -- The University of Maine women's basketball team (19-12) will appear in the conference title game for the 23rd time, and first since winning the 2024 title, when it travels to meet Vermont (26-7) in the Air Force Reserve America East Championship on Friday, March 13 at 5 p.m. live on ESPNU.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/11/talon-semifinal.png",
-      "published": "Wed, 11 Mar 2026 16:20:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "Brandon Holt, Owen Fowler garner early Hockey East awards",
       "url": "https://goblackbears.com/news/2026/3/11/mens-ice-hockey-brandon-holt-owen-fowler-garner-early-hockey-east-awards.aspx",
       "summary": "Brandon Holt earned two end of season awards while Owen Fowler was also honored.",
@@ -155,12 +155,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "Black Bears top Huskies in Portland",
-      "url": "https://goblackbears.com/news/2026/2/27/mens-ice-hockey-black-bears-top-huskies-in-portland.aspx",
-      "summary": "Owen Fowler scored two goals, Mathis Rousseau had a 25-save shutout.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/27/_PEV2448.jpg",
-      "published": "Fri, 27 Feb 2026 22:34:00 EST",
-      "sport": "Men's Ice Hockey",
+      "title": "PREVIEW: Women's Basketball travels to Vermont for America East Championship",
+      "url": "https://goblackbears.com/news/2026/3/11/preview-womens-basketball-travels-to-vermont-for-america-east-championship.aspx",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team (19-12) will appear in the conference title game for the 23rd time, and first since winning the 2024 title, when it travels to meet Vermont (26-7) in the Air Force Reserve America East Championship on Friday, March 13 at 5 p.m. live on ESPNU.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/11/talon-semifinal.png",
+      "published": "Wed, 11 Mar 2026 16:20:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -326,6 +326,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "Football to host annual Pro Day on Friday, March 27 at Mahaney Dome",
+      "url": "https://goblackbears.com/news/2026/3/17/football-to-host-annual-pro-day-on-saturday-march-28-at-mahaney-dome.aspx",
+      "summary": "The University of Maine football program will hold its annual Pro Day workouts for National Football League scouts on March 27 from 11am-1pm at Mahaney Dome on campus.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/9/11/thomas-liberty.png",
+      "published": "Tue, 17 Mar 2026 10:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
       "title": "Football Announces 2026 Signing Day Signees",
       "url": "https://goblackbears.com/news/2026/2/17/football-announces-2026-signing-day-signees.aspx",
       "summary": "The University of Maine football announced eight signings from the 2026 signing day for the upcoming season.",
@@ -403,15 +412,6 @@
       "summary": "The Fred Mitchell Award committee has announced that Samuel Trembaly of the University of Maine football program has been named a finalist for the award for the 2025 season.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/5/Samuel_Tremblay_11_8_at_Hampton_4.jpg",
       "published": "Fri, 5 Dec 2025 19:26:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football Announces 12 Signings on Early Signing Day",
-      "url": "https://goblackbears.com/news/2025/12/5/football-announces-12-signings-on-early-signing-day.aspx",
-      "summary": "Head football coach Jordan Stevens announced 12 recruits signed with the University of Maine football program during the early signing period on Dec. 3.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/5/Jordan_Stevens_11_9_Bryant_1.jpg",
-      "published": "Fri, 5 Dec 2025 09:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
     },

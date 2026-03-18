@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T12:46:36.003269+00:00",
+  "last_updated": "2026-03-18T04:25:44.877775+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -2320,24 +2320,6 @@
           "result": "W 6-2"
         },
         {
-          "date": "Mar 17 (Tue)",
-          "time": "1:00 PM",
-          "home_away": "Away",
-          "opponent": "Saint Peter's",
-          "location": "Jersey City, N.J.",
-          "tournament": "",
-          "result": ""
-        },
-        {
-          "date": "Mar 17 (Tue)",
-          "time": "3:00 PM",
-          "home_away": "Away",
-          "opponent": "Saint Peter's",
-          "location": "Jersey City, N.J.",
-          "tournament": "",
-          "result": ""
-        },
-        {
           "date": "Mar 18 (Wed)",
           "time": "12:00 PM",
           "home_away": "Away",
@@ -2631,8 +2613,6 @@
         "16291",
         "16292",
         "16293",
-        "16294",
-        "16476",
         "16295",
         "16296",
         "16297",
