@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-03-18T12:46:53.686190+00:00",
+  "last_updated": "2026-03-19T04:24:37.265086+00:00",
   "articles": [
+    {
+      "title": "Baseball Falls at Navy on Wednesday Afternoon",
+      "url": "https://goblackbears.com/news/2026/3/18/baseball-falls-at-navy-on-wednesday-afternoon.aspx",
+      "summary": "The University of Maine baseball program fell to Navy on Wednesday afternoon, 9-8.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/18/STRO3357.jpg",
+      "published": "Wed, 18 Mar 2026 18:53:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Monmouth takes two from Maine in non-conference action",
+      "url": "https://goblackbears.com/news/2026/3/18/softball-monmouth-takes-two-from-maine-in-non-conference-action.aspx",
+      "summary": "Kaelyn Larkin and Francesca Guerrera each had four hits on the day.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/18/DSC04286.jpg",
+      "published": "Wed, 18 Mar 2026 17:41:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "51 Black Bears Named to CAA Commissioner's Honor Roll",
+      "url": "https://goblackbears.com/news/2026/3/18/football-51-black-bears-named-to-caa-commissioners-honor-roll.aspx",
+      "summary": "The CAA announced on Wednesday afternoon that 51 Black Bears were named to Commissioner's Academic Honor Roll for the 2025 Fall Semester.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/18/Bryce_Purnell_11_1_vs_Stony_Brook_1.jpg",
+      "published": "Wed, 18 Mar 2026 14:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
     {
       "title": "Brandon Chabrier signs pro contract with Maine Mariners",
       "url": "https://goblackbears.com/news/2026/3/17/mens-ice-hockey-chabrier-signs-mariners.aspx",
@@ -65,30 +92,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "Women's Basketball falls in America East Championship at Vermont",
-      "url": "https://goblackbears.com/news/2026/3/13/womens-basketball-falls-in-america-east-championship-at-vermont.aspx",
-      "summary": "BURLINGTON, Vt. -- Adrianna Smith posted her 58th career double-double but the Black Bears came up short in the America East Championship, falling by a final of 61-43 to No. 1 Vermont on Friday evening at Patrick Gymnasium.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/13/smith-ae-championship.png",
-      "published": "Fri, 13 Mar 2026 19:38:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "Brandon Holt, Josh Nadeau earn Hockey East First Team All-Star honors",
       "url": "https://goblackbears.com/news/2026/3/13/mens-ice-hockey-brandon-holt-josh-nadeau-earn-hockey-east-first-team-all-stars.aspx",
       "summary": "Nadeau and Holt finished second and third in conference scoring.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/10/MIH_HoltNadeau.png",
       "published": "Fri, 13 Mar 2026 10:00:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Baseball Heads to Nebraska for Three Game Series",
-      "url": "https://goblackbears.com/news/2026/3/12/preview-baseball-heads-to-nebraska-for-three-game-series.aspx",
-      "summary": "The University of Maine baseball program will take on Nebraska for three games beginning on Friday, March 13.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/21/BASE_Maine22126_TF-01.jpg",
-      "published": "Thu, 12 Mar 2026 14:00:00 EST",
-      "sport": "Baseball",
       "source": "goblackbears"
     },
     {
@@ -152,6 +161,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/28/_PEV2506.jpg",
       "published": "Sat, 28 Feb 2026 22:01:00 EST",
       "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's Basketball falls in America East Championship at Vermont",
+      "url": "https://goblackbears.com/news/2026/3/13/womens-basketball-falls-in-america-east-championship-at-vermont.aspx",
+      "summary": "BURLINGTON, Vt. -- Adrianna Smith posted her 58th career double-double but the Black Bears came up short in the America East Championship, falling by a final of 61-43 to No. 1 Vermont on Friday evening at Patrick Gymnasium.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/13/smith-ae-championship.png",
+      "published": "Fri, 13 Mar 2026 19:38:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -407,13 +425,14 @@
       "source": "goblackbears"
     },
     {
-      "title": "Tremblay Named Finalist for Fred Mitchell Award",
-      "url": "https://goblackbears.com/news/2025/12/5/football-tremblay-named-finalist-for-fred-mitchell-award.aspx",
-      "summary": "The Fred Mitchell Award committee has announced that Samuel Trembaly of the University of Maine football program has been named a finalist for the award for the 2025 season.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/5/Samuel_Tremblay_11_8_at_Hampton_4.jpg",
-      "published": "Fri, 5 Dec 2025 19:26:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
+      "title": "UMaine hockey defenseman beginning pro career with Maine Mariners",
+      "url": "https://www.bangordailynews.com/2026/03/18/sports/college-ice-hockey/umaine-hockey-defenseman-beginning-pro-career-with-maine-mariners/",
+      "summary": "Brandon Chabrier signed with the Portland team on Tuesday evening.",
+      "image": "",
+      "published": "Wed, 18 Mar 2026 20:28:06 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "Weak goaltending and bad culture define UMaine men\u2019s hockey\u2019s disappointing\u00a0season",
@@ -602,206 +621,6 @@
       "image": "",
       "published": "Wed, 25 Feb 2026 21:39:36 +0000",
       "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine hockey earns weekend sweep of Merrimack with 5-2 win",
-      "url": "https://www.bangordailynews.com/2026/02/21/sports/college-ice-hockey/umaine-hockey-earns-weekend-sweep-merrimack/",
-      "summary": "University of Maine junior right wing Josh Nadeau and senior left wing Owen Fowler each scored a pair of goals and the Black Bears won 5-2.",
-      "image": "",
-      "published": "Sun, 22 Feb 2026 03:05:46 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine women\u2019s basketball had good season, but its future is uncertain",
-      "url": "https://www.bangordailynews.com/2026/03/18/sports/college-basketball/umaine-womens-basketball-future-uncertain-joam40zk0w/",
-      "summary": "The Black Bears had their season ended by top seed Vermont 61-43 in the America East championship game, last Friday night.",
-      "image": "",
-      "published": "Wed, 18 Mar 2026 05:00:00 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Vermont women earn another trip to NCAA tournament with win over UMaine",
-      "url": "https://www.bangordailynews.com/2026/03/13/sports/college-basketball/vermont-womens-basketball-win-over-umaine/",
-      "summary": "The defending champion Catamounts rattled off a 19-5 run spanning the first and second quarters and never looked back en route to a 61-43 victory.",
-      "image": "",
-      "published": "Fri, 13 Mar 2026 22:52:11 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "How to watch UMaine women\u2019s basketball play for a spot in the NCAA tournament",
-      "url": "https://www.bangordailynews.com/2026/03/13/sports/college-basketball/umaine-women-vs-vermont-catamounts-ncaa-tournament-bid-watch/",
-      "summary": "In the 12 previous times that the UMaine women have faced a top seed in the conference tournament, they have won only once.",
-      "image": "",
-      "published": "Fri, 13 Mar 2026 14:16:58 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Matt Junker"
-    },
-    {
-      "title": "New country, new language haven\u2019t stopped this Spanish point guard on the court in Maine",
-      "url": "https://www.bangordailynews.com/2026/03/13/sports/college-basketball/umaine-womens-basketball-spanish-point-guard-joam40zk0w/",
-      "summary": "Spaniard Olivia Alvarez has made a smooth transition and has played an important role in the University of Maine\u2019s successful run to Friday\u2019s America East championship game against Vermont.",
-      "image": "",
-      "published": "Fri, 13 Mar 2026 05:00:00 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine women need this rare type of win to make the NCAA tournament",
-      "url": "https://www.bangordailynews.com/2026/03/12/sports/college-basketball/umaine-black-bears-vermont/",
-      "summary": "Maine hasn't beaten a top seed in a conference tournament game since March 7, 1998.",
-      "image": "",
-      "published": "Thu, 12 Mar 2026 19:55:50 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Former high school rivals team up for crucial 3-pointer in UMaine win over Binghamton",
-      "url": "https://www.bangordailynews.com/2026/03/10/sports/college-basketball/sarah-talon-emmie-streams-umaine-basketball-3-pointer/",
-      "summary": "For three years in high school, Sarah Talon and Emmie Streams were adversaries for their respective Class AA North schools.",
-      "image": "",
-      "published": "Tue, 10 Mar 2026 20:01:40 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Watch UMaine football players get loud to support the women\u2019s basketball team",
-      "url": "https://www.bangordailynews.com/2026/03/10/sports/college-basketball/orono-maine-umaine-football-womens-basketball-support-video/",
-      "summary": "\u201cBlack Bears take care of Black Bears.\u201d",
-      "image": "",
-      "published": "Tue, 10 Mar 2026 13:32:42 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Matt Junker"
-    },
-    {
-      "title": "UMaine fans created such an \u2018electric\u2019 atmosphere that players couldn\u2019t hear their coaches",
-      "url": "https://www.bangordailynews.com/2026/03/10/sports/college-basketball/umaine-fans-electric-atmosphere/",
-      "summary": "\u201cI just thought it was an unbelievable environment for women\u2019s basketball,\u201d Binghamton coach Mary Grimes said after the game.",
-      "image": "",
-      "published": "Tue, 10 Mar 2026 05:00:00 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Matt Junker"
-    },
-    {
-      "title": "UMaine women\u2019s basketball is heading to the America East championship game",
-      "url": "https://www.bangordailynews.com/2026/03/09/sports/college-basketball/umaine-womens-basketball-heading-to-america-east-championship/",
-      "summary": "The No. 2 Black Bears defeated the No. 3 Binghamton Bearcats 60-56 in front of a raucous crowd in Orono.",
-      "image": "",
-      "published": "Tue, 10 Mar 2026 00:03:18 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Ace Flagg named to all-rookie team amid strong start at UMaine",
-      "url": "https://www.bangordailynews.com/2026/03/06/sports/college-basketball/ace-flagg-umaine-all-rookie-team-joam40zk0w/",
-      "summary": "Current and former coaches have stressed the on-court toughness of the 19-year-old whose nickname is the \"Honey Badger.\"",
-      "image": "",
-      "published": "Fri, 06 Mar 2026 19:47:33 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Matt Junker"
-    },
-    {
-      "title": "UMaine women\u2019s basketball thumps UNH",
-      "url": "https://www.bangordailynews.com/2026/03/05/sports/college-basketball/umaine-womens-basketball-beats-unh-2/",
-      "summary": "The 18-12 Black Bears, winners of eight of their last nine, will now host Binghamton (New York) in a semifinal match, Monday at 6 p.m.",
-      "image": "",
-      "published": "Fri, 06 Mar 2026 01:19:17 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine women\u2019s basketball expects tough playoff test from UNH",
-      "url": "https://www.bangordailynews.com/2026/03/04/sports/college-basketball/umaine-womens-basketball-expects-tough-playoff-test-unh/",
-      "summary": "The Black Bears have 12 consecutive wins over the Wildcats, but nearly lost that streak in a recent meeting.",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 20:14:48 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine\u2019s Adrianna Smith named America East player of the year",
-      "url": "https://www.bangordailynews.com/2026/03/04/sports/college-basketball/adrianna-smith-america-east-player-year/",
-      "summary": "On Saturday, Smith became the first player in America East history to register 1,000 career points, 1,000 rebounds and 400 assists.",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 18:51:46 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney and Matt Junker"
-    },
-    {
-      "title": "Adrianna Smith might the best all-around player in the history of UMaine women\u2019s basketball",
-      "url": "https://www.bangordailynews.com/2026/03/04/sports/college-basketball/adrianna-smith-all-around-player-umaine-womens-basketball-joam40zk0w/",
-      "summary": "Entering Thursday\u2019s 6 p.m. America East quarterfinal against visiting New Hampshire, she has 1,804 career points, 1,010 rebounds and 418 assists.",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 06:00:00 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Injury-riddled UMaine men\u2019s basketball team falls in regular season finale",
-      "url": "https://www.bangordailynews.com/2026/03/03/sports/college-basketball/umaine-mens-basketball-loss-season-finale/",
-      "summary": "With the loss, the Black Bears drop to 8-23 overall on the year and 6-10 in the conference, but they have still earned a playoff spot and will see postseason action on the road this Saturday.",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 01:08:33 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Matt Junker"
-    },
-    {
-      "title": "UMaine women\u2019s basketball hangs on to beat Binghamton and earn 2nd seed",
-      "url": "https://www.bangordailynews.com/2026/02/28/sports/college-basketball/umaine-womens-basketball-2nd-seed-america-east-tournament/",
-      "summary": "UMaine earned its seventh win in its last eight games, finishing the regular season with a 12-4 league record.",
-      "image": "",
-      "published": "Sat, 28 Feb 2026 22:13:18 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Farmington tops UMPI in NAC Championship",
-      "url": "https://www.bangordailynews.com/2026/02/28/sports/farmington-tops-umpi-in-nac-championship/",
-      "summary": "University of Maine Farmington men\u2019s basketball cruised past the University of Maine at Presque Isle 84-58 Saturday.",
-      "image": "",
-      "published": "Sat, 28 Feb 2026 20:49:26 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Cameron Levasseur"
-    },
-    {
-      "title": "Seniors have cherished their time with UMaine women\u2019s basketball. But they\u2019re not done yet.",
-      "url": "https://www.bangordailynews.com/2026/02/27/sports/college-basketball/seniors-umaine-womens-basketball-success-america-east/",
-      "summary": "The winner of the upcoming Black Bears versus Binghamton game will earn the second seed for the America East quarterfinals.",
-      "image": "",
-      "published": "Fri, 27 Feb 2026 19:50:06 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Late basket gives UMaine women\u2019s basketball a win over Albany",
-      "url": "https://www.bangordailynews.com/2026/02/26/sports/college-basketball/umaine-womens-basketball-win-over-albany/",
-      "summary": "The Black Bears improved to 16-12 overall and 11-4 in America East with its sixth win in its last seven games.",
-      "image": "",
-      "published": "Fri, 27 Feb 2026 02:12:27 +0000",
-      "sport": "College Basketball",
       "source": "bdn",
       "author": "Larry Mahoney"
     },

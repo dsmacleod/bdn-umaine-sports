@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T12:46:53.686190+00:00",
+  "last_updated": "2026-03-19T04:24:37.265086+00:00",
   "sports": {
     "mhockey": [
       {
@@ -3124,277 +3124,199 @@
     ],
     "fhockey": [
       {
-        "player_id": "12256",
+        "player_id": "13117",
         "name": "Jayde Temby",
         "number": "1",
         "position": "Goalkeeper",
         "height": "",
         "weight": "",
-        "year": "Jr.",
+        "year": "Sr.",
         "hometown": "Melbourne, Victoria",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Temby.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/jayde-temby/12256"
+        "url": "/sports/field-hockey/roster/jayde-temby/13117"
       },
       {
-        "player_id": "12267",
-        "name": "Maeve Fogarty",
-        "number": "2",
-        "position": "Forward",
-        "height": "",
-        "weight": "",
-        "year": "Sr.",
-        "hometown": "St. Louis, Mo.",
-        "previous_school": "",
-        "headshot": "/images/2025/8/12/Fogarty.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/maeve-fogarty/12267"
-      },
-      {
-        "player_id": "12268",
+        "player_id": "13107",
         "name": "Floor Dijkhuizen",
         "number": "3",
         "position": "Forward",
         "height": "",
         "weight": "",
-        "year": "So.",
+        "year": "Jr.",
         "hometown": "Amsterdam, Netherlands",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Dijkhuizen.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/floor-dijkhuizen/12268"
+        "url": "/sports/field-hockey/roster/floor-dijkhuizen/13107"
       },
       {
-        "player_id": "12269",
-        "name": "Olivia Geniti",
-        "number": "4",
-        "position": "Midfielder",
-        "height": "",
-        "weight": "",
-        "year": "Sr.",
-        "hometown": "Scotia, N.Y.",
-        "previous_school": "",
-        "headshot": "/images/2025/8/11/Headshots_Geniti.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/olivia-geniti/12269"
-      },
-      {
-        "player_id": "12270",
+        "player_id": "13105",
         "name": "Leyden Churchill",
         "number": "5",
         "position": "Forward",
         "height": "",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "Dover, N.H.",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Churchill.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/leyden-churchill/12270"
+        "url": "/sports/field-hockey/roster/leyden-churchill/13105"
       },
       {
-        "player_id": "12262",
+        "player_id": "13111",
         "name": "Sofia Miller",
         "number": "6",
         "position": "Forward",
         "height": "",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "Keene, N.H.",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Miller.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/sofia-miller/12262"
+        "url": "/sports/field-hockey/roster/sofia-miller/13111"
       },
       {
-        "player_id": "12243",
+        "player_id": "13104",
         "name": "Emily Chisholm",
         "number": "7",
         "position": "Forward",
         "height": "",
         "weight": "",
-        "year": "So.",
+        "year": "Jr.",
         "hometown": "Burlington, Ontario",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Chisholm.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/emily-chisholm/12243"
+        "url": "/sports/field-hockey/roster/emily-chisholm/13104"
       },
       {
-        "player_id": "12263",
+        "player_id": "13114",
         "name": "Louisa Plaehn",
         "number": "8",
         "position": "Back",
         "height": "",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "Lower Saxony, Germany",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Plaehn.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/louisa-plaehn/12263"
+        "url": "/sports/field-hockey/roster/louisa-plaehn/13114"
       },
       {
-        "player_id": "12264",
+        "player_id": "13113",
         "name": "Julia Pieters",
         "number": "9",
         "position": "Back",
         "height": "",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "Haarlemmereer, North Holland, Netherlands",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Pieters.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/julia-pieters/12264"
+        "url": "/sports/field-hockey/roster/julia-pieters/13113"
       },
       {
-        "player_id": "12271",
+        "player_id": "13110",
         "name": "Saylor Kuefler",
         "number": "10",
         "position": "Forward",
         "height": "",
         "weight": "",
-        "year": "Jr.",
+        "year": "Sr.",
         "hometown": "Coquitlam, British Columbia",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Kuefler.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/saylor-kuefler/12271"
+        "url": "/sports/field-hockey/roster/saylor-kuefler/13110"
       },
       {
-        "player_id": "12260",
+        "player_id": "13109",
         "name": "Nicole Kowalewski",
         "number": "12",
         "position": "Back",
         "height": "",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "Midhirst, Taranaki, New Zealand",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Kowalewski.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/nicole-kowalewski/12260"
+        "url": "/sports/field-hockey/roster/nicole-kowalewski/13109"
       },
       {
-        "player_id": "12272",
-        "name": "Taylor Katsube",
-        "number": "13",
-        "position": "Forward",
-        "height": "",
-        "weight": "",
-        "year": "Sr.",
-        "hometown": "Delta, British Columbia",
-        "previous_school": "",
-        "headshot": "/images/2025/9/22/DSC01832.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/taylor-katsube/12272"
-      },
-      {
-        "player_id": "12273",
-        "name": "Zoe Furber",
-        "number": "14",
-        "position": "Midfielder",
-        "height": "",
-        "weight": "",
-        "year": "Sr.",
-        "hometown": "Vancouver, British Columbia",
-        "previous_school": "",
-        "headshot": "/images/2025/8/11/Headshots_Furber.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/zoe-furber/12273"
-      },
-      {
-        "player_id": "12266",
+        "player_id": "13116",
         "name": "Allison Sweetser",
         "number": "15",
         "position": "Forward",
         "height": "",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "Falmouth, Maine",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Sweetser.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/allison-sweetser/12266"
+        "url": "/sports/field-hockey/roster/allison-sweetser/13116"
       },
       {
-        "player_id": "12274",
+        "player_id": "13108",
         "name": "Brynn Dzengelewski",
         "number": "16",
         "position": "Midfielder",
         "height": "",
         "weight": "",
-        "year": "Jr.",
+        "year": "Sr.",
         "hometown": "Highlands Ranch, Colo.",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Dzengelewski.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/brynn-dzengelewski/12274"
+        "url": "/sports/field-hockey/roster/brynn-dzengelewski/13108"
       },
       {
-        "player_id": "12258",
+        "player_id": "13103",
         "name": "Martha Barratt",
         "number": "17",
         "position": "Forward",
         "height": "",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "Bristol, U.K.",
         "previous_school": "",
         "headshot": "/images/2025/8/12/Martha-B.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/martha-barratt/12258"
+        "url": "/sports/field-hockey/roster/martha-barratt/13103"
       },
       {
-        "player_id": "12275",
+        "player_id": "13106",
         "name": "Connie Davies",
         "number": "18",
         "position": "Back",
         "height": "",
         "weight": "",
-        "year": "So.",
+        "year": "Jr.",
         "hometown": "Newport, Wales",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Davies.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/connie-davies/12275"
+        "url": "/sports/field-hockey/roster/connie-davies/13106"
       },
       {
-        "player_id": "12255",
-        "name": "Taylor Stanford",
-        "number": "19",
-        "position": "Forward",
-        "height": "",
-        "weight": "",
-        "year": "Sr.",
-        "hometown": "Burlington, Ontario",
-        "previous_school": "",
-        "headshot": "/images/2025/8/11/Headshots_Stanford.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/taylor-stanford/12255"
-      },
-      {
-        "player_id": "12265",
+        "player_id": "13115",
         "name": "Gabrielle Sousa",
         "number": "21",
         "position": "Midfielder",
         "height": "",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "Farmingdale, Maine",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Sousa.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/gabrielle-sousa/12265"
+        "url": "/sports/field-hockey/roster/gabrielle-sousa/13115"
       },
       {
-        "player_id": "12253",
-        "name": "Roz\u00e1rie Mr\u00e1zov\u00e1",
-        "number": "23",
-        "position": "Goalkeeper",
-        "height": "",
-        "weight": "",
-        "year": "Gr.",
-        "hometown": "Rakovnik, Czech Republic",
-        "previous_school": "",
-        "headshot": "/images/2025/8/11/Headshots_Mrazova.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/roz-rie-mr-zov-/12253"
-      },
-      {
-        "player_id": "12254",
+        "player_id": "13112",
         "name": "Eloise Penty",
         "number": "24",
         "position": "Back",
         "height": "",
         "weight": "",
-        "year": "Jr.",
+        "year": "Sr.",
         "hometown": "Nottingham, England",
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Penty.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/eloise-penty/12254"
+        "url": "/sports/field-hockey/roster/eloise-penty/13112"
       }
     ],
     "wsoc": [
