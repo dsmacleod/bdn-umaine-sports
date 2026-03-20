@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T12:40:09.547143+00:00",
+  "last_updated": "2026-03-20T04:15:24.205180+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -2122,11 +2122,11 @@
     },
     "softball": {
       "record": {
-        "overall": "6-17",
+        "overall": "7-17",
         "conference": "0-0",
-        "streak": "L2",
+        "streak": "W1",
         "home": "0-0",
-        "away": "3-10",
+        "away": "4-10",
         "neutral": "3-7"
       },
       "games": [
@@ -2344,11 +2344,11 @@
           "opponent": "Iona",
           "location": "New Rochelle, N.Y.",
           "tournament": "",
-          "result": ""
+          "result": "W 7-3"
         },
         {
-          "date": "Mar 21 (Sat)",
-          "time": "12:00 PM",
+          "date": "Mar 20 (Fri)",
+          "time": "1:00 PM",
           "home_away": "Away",
           "opponent": "UMass Lowell",
           "location": "Lowell, Mass.",
@@ -2357,7 +2357,7 @@
         },
         {
           "date": "Mar 21 (Sat)",
-          "time": "2:00 PM",
+          "time": "1:00 PM",
           "home_away": "Away",
           "opponent": "UMass Lowell",
           "location": "Lowell, Mass.",
@@ -2365,8 +2365,8 @@
           "result": ""
         },
         {
-          "date": "Mar 22 (Sun)",
-          "time": "12:00 PM",
+          "date": "Mar 21 (Sat)",
+          "time": "3:00 PM",
           "home_away": "Away",
           "opponent": "UMass Lowell",
           "location": "Lowell, Mass.",
