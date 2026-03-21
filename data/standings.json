@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T12:37:01.840653+00:00",
+  "last_updated": "2026-03-21T04:06:36.116080+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -44,12 +44,12 @@
             "ga": 53
           },
           "overall": {
-            "gp": 35,
+            "gp": 36,
             "w": 22,
-            "l": 12,
+            "l": 13,
             "t": 1,
             "gf": 101,
-            "ga": 81
+            "ga": 83
           },
           "is_umaine": false
         },
@@ -69,12 +69,12 @@
             "ga": 59
           },
           "overall": {
-            "gp": 35,
-            "w": 19,
+            "gp": 36,
+            "w": 20,
             "l": 11,
             "t": 5,
-            "gf": 110,
-            "ga": 83
+            "gf": 114,
+            "ga": 86
           },
           "is_umaine": false
         },
@@ -94,12 +94,12 @@
             "ga": 59
           },
           "overall": {
-            "gp": 35,
+            "gp": 36,
             "w": 20,
-            "l": 14,
+            "l": 15,
             "t": 1,
-            "gf": 113,
-            "ga": 88
+            "gf": 116,
+            "ga": 92
           },
           "is_umaine": false
         },
@@ -194,11 +194,11 @@
             "ga": 75
           },
           "overall": {
-            "gp": 36,
-            "w": 19,
+            "gp": 37,
+            "w": 20,
             "l": 15,
             "t": 2,
-            "gf": 117,
+            "gf": 119,
             "ga": 106
           },
           "is_umaine": false
@@ -298,12 +298,12 @@
             "ga": 34
           },
           "overall": {
-            "gp": 38,
+            "gp": 39,
             "w": 29,
-            "l": 8,
+            "l": 9,
             "t": 1,
             "gf": 115,
-            "ga": 66
+            "ga": 71
           },
           "is_umaine": false
         },
@@ -713,67 +713,67 @@
       "notes": "",
       "teams": [
         {
-          "school": "Bryant",
-          "conference": "2-1",
-          "conference_pct": ".667",
-          "overall": "10-8",
-          "pct": ".667",
-          "streak": "W4",
-          "is_umaine": false
-        },
-        {
-          "school": "Binghamton",
-          "conference": "1-2",
-          "conference_pct": ".333",
-          "overall": "6-10",
-          "pct": ".333",
-          "streak": "L2",
+          "school": "UMass Lowell",
+          "conference": "2-0",
+          "conference_pct": "1.000",
+          "overall": "9-9",
+          "pct": "1.000",
+          "streak": "W2",
           "is_umaine": false
         },
         {
           "school": "UMBC",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "7-8",
-          "pct": ".000",
-          "streak": "L1",
+          "conference": "1-0",
+          "conference_pct": "1.000",
+          "overall": "8-8",
+          "pct": "1.000",
+          "streak": "W1",
           "is_umaine": false
         },
         {
-          "school": "UMass Lowell",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "7-9",
-          "pct": ".000",
-          "streak": "L2",
+          "school": "UAlbany",
+          "conference": "1-0",
+          "conference_pct": "1.000",
+          "overall": "2-13",
+          "pct": "1.000",
+          "streak": "W1",
           "is_umaine": false
         },
         {
-          "school": "NJIT",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "6-10",
-          "pct": ".000",
+          "school": "Bryant",
+          "conference": "2-1",
+          "conference_pct": ".667",
+          "overall": "11-8",
+          "pct": ".667",
+          "streak": "W5",
+          "is_umaine": false
+        },
+        {
+          "school": "Binghamton",
+          "conference": "1-4",
+          "conference_pct": ".200",
+          "overall": "6-12",
+          "pct": ".200",
           "streak": "L4",
           "is_umaine": false
         },
         {
-          "school": "Maine",
-          "conference": "0-0",
+          "school": "NJIT",
+          "conference": "0-1",
           "conference_pct": ".000",
-          "overall": "2-17",
+          "overall": "6-11",
           "pct": ".000",
-          "streak": "L14",
-          "is_umaine": true
+          "streak": "L5",
+          "is_umaine": false
         },
         {
-          "school": "UAlbany",
-          "conference": "0-0",
+          "school": "Maine",
+          "conference": "0-1",
           "conference_pct": ".000",
-          "overall": "1-13",
+          "overall": "2-18",
           "pct": ".000",
-          "streak": "L3",
-          "is_umaine": false
+          "streak": "L15",
+          "is_umaine": true
         }
       ]
     },
@@ -781,6 +781,15 @@
       "title": "2026 Softball Standings",
       "notes": "",
       "teams": [
+        {
+          "school": "UMass Lowell",
+          "conference": "1-0",
+          "conference_pct": "1.000",
+          "overall": "10-13",
+          "pct": "1.000",
+          "streak": "W1",
+          "is_umaine": false
+        },
         {
           "school": "UMBC",
           "conference": "0-0",
@@ -809,21 +818,12 @@
           "is_umaine": false
         },
         {
-          "school": "UMass Lowell",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "9-13",
-          "pct": ".000",
-          "streak": "L6",
-          "is_umaine": false
-        },
-        {
           "school": "Maine",
-          "conference": "0-0",
+          "conference": "0-1",
           "conference_pct": ".000",
-          "overall": "7-17",
+          "overall": "7-18",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "L1",
           "is_umaine": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T12:37:01.840653+00:00",
+  "last_updated": "2026-03-21T04:06:36.116080+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1577,11 +1577,11 @@
     },
     "baseball": {
       "record": {
-        "overall": "2-17",
-        "conference": "0-0",
-        "streak": "L14",
+        "overall": "2-18",
+        "conference": "0-1",
+        "streak": "L15",
         "home": "0-0",
-        "away": "2-17",
+        "away": "2-18",
         "neutral": "0-0"
       },
       "games": [
@@ -1772,7 +1772,7 @@
           "opponent": "UMBC",
           "location": "Baltimore, MD",
           "tournament": "",
-          "result": ""
+          "result": "L 5-7"
         },
         {
           "date": "Mar 21 (Sat)",
@@ -2122,11 +2122,11 @@
     },
     "softball": {
       "record": {
-        "overall": "7-17",
-        "conference": "0-0",
-        "streak": "W1",
+        "overall": "7-18",
+        "conference": "0-1",
+        "streak": "L1",
         "home": "0-0",
-        "away": "4-10",
+        "away": "4-11",
         "neutral": "3-7"
       },
       "games": [
@@ -2353,7 +2353,7 @@
           "opponent": "UMass Lowell",
           "location": "Lowell, Mass.",
           "tournament": "",
-          "result": ""
+          "result": "L 11-12"
         },
         {
           "date": "Mar 21 (Sat)",
@@ -3693,17 +3693,8 @@
           "result": ""
         },
         {
-          "date": "Mar 25 (Wed)",
-          "time": "TBD",
-          "home_away": "Away",
-          "opponent": "Raleigh Relays",
-          "location": "Raleigh, NC",
-          "tournament": "",
-          "result": ""
-        },
-        {
           "date": "Mar 26 (Thu)",
-          "time": "TBD",
+          "time": "9:30 AM",
           "home_away": "Away",
           "opponent": "Raleigh Relays",
           "location": "Raleigh, NC",
@@ -3712,7 +3703,16 @@
         },
         {
           "date": "Mar 27 (Fri)",
-          "time": "TBD",
+          "time": "9:30 AM",
+          "home_away": "Away",
+          "opponent": "Raleigh Relays",
+          "location": "Raleigh, NC",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 28 (Sat)",
+          "time": "9:30 AM",
           "home_away": "Away",
           "opponent": "Raleigh Relays",
           "location": "Raleigh, NC",
@@ -3852,8 +3852,8 @@
         "16352",
         "16351",
         "16429",
-        "16430",
         "16431",
+        "16430",
         "16434",
         "16435",
         "16437",

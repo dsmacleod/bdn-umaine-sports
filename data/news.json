@@ -1,8 +1,35 @@
 {
-  "last_updated": "2026-03-20T12:37:01.840653+00:00",
+  "last_updated": "2026-03-21T04:06:36.116080+00:00",
   "articles": [
     {
-      "title": "Preview: Maine begins America East at UMass Lowell",
+      "title": "Baseball Falls in America East Opener at UMBC",
+      "url": "https://goblackbears.com/news/2026/3/20/baseball-falls-in-america-east-opener-at-umbc.aspx",
+      "summary": "The University of Maine baseball program fell in their America East opener on Friday afternoon, 7-5.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/24/Baseball_POTWArtboard_3.jpg",
+      "published": "Fri, 20 Mar 2026 17:28:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "River Hawks top Black Bears in extra innings",
+      "url": "https://goblackbears.com/news/2026/3/20/softball-river-hawks-top-black-bears-in-extra-innings.aspx",
+      "summary": "Francesca Guerrera had two doubles and a home run for Maine.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/20/650A6267.jpg",
+      "published": "Fri, 20 Mar 2026 16:01:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Football Announces 2026 Spring Ball Schedule",
+      "url": "https://goblackbears.com/news/2026/3/20/football-announces-2026-spring-ball-schedule.aspx",
+      "summary": "The University of Maine football program has announced their spring ball practice schedule, including their annual Jeff Cole Memorial Spring Game which will be held on Saturday, April 25.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/20/Eli_Mahan_9_20_Georgia_Southern_2.jpg",
+      "published": "Fri, 20 Mar 2026 15:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Maine begins America East play at UMass Lowell",
       "url": "https://goblackbears.com/news/2026/3/19/softball-preview-maine-begins-america-east-at-umass-lowell.aspx",
       "summary": "Maine will start conference play with a three-game series at UMass Lowell.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/19/DSC09157.jpg",
@@ -71,24 +98,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/17/Brandon_Chabrier_10.10_vs_Holy_Cross.jpg",
       "published": "Tue, 17 Mar 2026 15:42:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Maine set for five-game non-conference week",
-      "url": "https://goblackbears.com/news/2026/3/16/softball-preview-maine-set-for-five-game-non-conference-week.aspx",
-      "summary": "Maine is set to face Saint Peter's, Monmouth and Iona on the road.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/16/DSC09240.jpg",
-      "published": "Mon, 16 Mar 2026 11:09:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Falls in Both Ends of Saturday Doubleheader",
-      "url": "https://goblackbears.com/news/2026/3/14/baseball-falls-in-both-ends-of-saturday-doubleheader.aspx",
-      "summary": "The University of Maine baseball program was swept on Saturday in the series finale doubleheader at Nebraska on Saturday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/14/BASE_Maine22026_TF-20__1_.jpg",
-      "published": "Sat, 14 Mar 2026 20:34:00 EST",
-      "sport": "Baseball",
       "source": "goblackbears"
     },
     {
@@ -412,15 +421,6 @@
       "summary": "For the sixth time in his career, former Black Bear and All-CAA honoree Patrick Ricard has been selected to the AFC Pro Bowl Games roster, as announced by the National Football League on Tuesday, Dec. 23.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2022/12/22/ricard-TD-edit.png",
       "published": "Tue, 23 Dec 2025 12:20:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football Announces 2026 Schedule",
-      "url": "https://goblackbears.com/news/2025/12/16/football-announces-2026-schedule.aspx",
-      "summary": "The University of Maine football program has announced their 2026 schedule, which will feature 12 games, six of which will be played at Morse Field at Alfond Stadium.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/16/Three.jpg",
-      "published": "Tue, 16 Dec 2025 14:05:00 EST",
       "sport": "Football",
       "source": "goblackbears"
     },
@@ -981,6 +981,16 @@
       "image": "",
       "published": "Fri, 10 Oct 2025 18:55:05 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine launches fund to pay student-athletes and stay\u00a0competitive",
+      "url": "https://www.bangordailynews.com/2026/03/20/sports/umaine-establishes-student-athlete-fund/",
+      "summary": "The move is in response to the massive change in the NCAA landscape in recent years, in which Division I schools are now able to pay their players.",
+      "image": "",
+      "published": "Fri, 20 Mar 2026 20:48:51 +0000",
+      "sport": "Sports",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
