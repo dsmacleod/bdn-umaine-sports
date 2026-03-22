@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T12:28:21.698910+00:00",
+  "last_updated": "2026-03-22T04:21:25.620391+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1577,11 +1577,11 @@
     },
     "baseball": {
       "record": {
-        "overall": "2-18",
-        "conference": "0-1",
-        "streak": "L15",
+        "overall": "2-19",
+        "conference": "0-2",
+        "streak": "L16",
         "home": "0-0",
-        "away": "2-18",
+        "away": "2-19",
         "neutral": "0-0"
       },
       "games": [
@@ -1781,7 +1781,7 @@
           "opponent": "UMBC",
           "location": "Baltimore, MD",
           "tournament": "",
-          "result": ""
+          "result": "L 5-11"
         },
         {
           "date": "Mar 22 (Sun)",
@@ -2122,11 +2122,11 @@
     },
     "softball": {
       "record": {
-        "overall": "7-18",
-        "conference": "0-1",
-        "streak": "L1",
+        "overall": "7-20",
+        "conference": "0-3",
+        "streak": "L3",
         "home": "0-0",
-        "away": "4-11",
+        "away": "4-13",
         "neutral": "3-7"
       },
       "games": [
@@ -2362,7 +2362,7 @@
           "opponent": "UMass Lowell",
           "location": "Lowell, Mass.",
           "tournament": "",
-          "result": ""
+          "result": "L 5-13"
         },
         {
           "date": "Mar 21 (Sat)",
@@ -2371,7 +2371,7 @@
           "opponent": "UMass Lowell",
           "location": "Lowell, Mass.",
           "tournament": "",
-          "result": ""
+          "result": "L 1-5"
         },
         {
           "date": "Mar 25 (Wed)",

@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-03-21T12:28:21.698910+00:00",
+  "last_updated": "2026-03-22T04:21:25.620391+00:00",
   "articles": [
+    {
+      "title": "River Hawks take doubleheader from Black Bears",
+      "url": "https://goblackbears.com/news/2026/3/21/softball-river-hawks-take-doubleheader-from-black-bears.aspx",
+      "summary": "Maine returns to action on Wednesday at Stonehill.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/21/650A6258.jpg",
+      "published": "Sat, 21 Mar 2026 17:33:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Baseball Falls at UMBC on Saturday Afternoon",
+      "url": "https://goblackbears.com/news/2026/3/21/baseball-falls-at-umbc-on-saturday-afternoon.aspx",
+      "summary": "The University of Maine baseball program fell at UMBC on Saturday afternoon, 11-5.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/25/BASE_Maine22226_TF__7_.JPG",
+      "published": "Sat, 21 Mar 2026 17:23:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Falls in America East Opener at UMBC",
       "url": "https://goblackbears.com/news/2026/3/20/baseball-falls-in-america-east-opener-at-umbc.aspx",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/18/STRO3357.jpg",
       "published": "Wed, 18 Mar 2026 18:53:00 EST",
       "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Monmouth takes two from Maine in non-conference action",
-      "url": "https://goblackbears.com/news/2026/3/18/softball-monmouth-takes-two-from-maine-in-non-conference-action.aspx",
-      "summary": "Kaelyn Larkin and Francesca Guerrera each had four hits on the day.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/18/DSC04286.jpg",
-      "published": "Wed, 18 Mar 2026 17:41:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "51 Black Bears Named to CAA Commissioner's Honor Roll",
-      "url": "https://goblackbears.com/news/2026/3/18/football-51-black-bears-named-to-caa-commissioners-honor-roll.aspx",
-      "summary": "The CAA announced on Wednesday afternoon that 51 Black Bears were named to Commissioner's Academic Honor Roll for the 2025 Fall Semester.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/18/Bryce_Purnell_11_1_vs_Stony_Brook_1.jpg",
-      "published": "Wed, 18 Mar 2026 14:00:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -359,6 +359,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/19/562A4690.jpg",
       "published": "Wed, 25 Feb 2026 10:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "51 Black Bears Named to CAA Commissioner's Honor Roll",
+      "url": "https://goblackbears.com/news/2026/3/18/football-51-black-bears-named-to-caa-commissioners-honor-roll.aspx",
+      "summary": "The CAA announced on Wednesday afternoon that 51 Black Bears were named to Commissioner's Academic Honor Roll for the 2025 Fall Semester.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/18/Bryce_Purnell_11_1_vs_Stony_Brook_1.jpg",
+      "published": "Wed, 18 Mar 2026 14:00:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
