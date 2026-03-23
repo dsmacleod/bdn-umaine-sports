@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T12:30:01.529882+00:00",
+  "last_updated": "2026-03-23T04:29:47.727697+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1577,11 +1577,11 @@
     },
     "baseball": {
       "record": {
-        "overall": "2-19",
-        "conference": "0-2",
-        "streak": "L16",
+        "overall": "3-19",
+        "conference": "1-2",
+        "streak": "W1",
         "home": "0-0",
-        "away": "2-19",
+        "away": "3-19",
         "neutral": "0-0"
       },
       "games": [
@@ -1790,7 +1790,7 @@
           "opponent": "UMBC",
           "location": "Baltimore, MD",
           "tournament": "",
-          "result": ""
+          "result": "W 4-3"
         },
         {
           "date": "Mar 27 (Fri)",
