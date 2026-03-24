@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-03-23T12:42:56.809924+00:00",
+  "last_updated": "2026-03-24T04:21:13.383359+00:00",
   "articles": [
+    {
+      "title": "Preview: Softball to face Stonehill in non-conference doubleheader",
+      "url": "https://goblackbears.com/news/2026/3/23/preview-softball-to-face-stonehill-in-non-conference-doubleheader.aspx",
+      "summary": "Maine will head to Stonehill for a Wednesday doubleheader.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/23/DSC05382.jpg",
+      "published": "Mon, 23 Mar 2026 16:08:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "University of Maine Launches Black Bear Student-Athlete Experience Fund",
+      "url": "https://goblackbears.com/news/2026/3/23/general-university-of-maine-launches-black-bear-student-athlete-experience-fund.aspx",
+      "summary": "ORONO, Maine \u2013 University of Maine Athletics has created the Black Bear Student-Athlete Experience Fund to support student-athletes and promote the continued competitiveness and excellence of the state's only Division I program, consistent with the recent House vs. NCAA settlement.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/23/overview-campus-3.23.26.png",
+      "published": "Mon, 23 Mar 2026 08:57:00 EST",
+      "sport": "General",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Picks up First America East Win of the Season",
       "url": "https://goblackbears.com/news/2026/3/22/baseball-picks-up-first-america-east-win-of-the-season.aspx",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/19/DSC08730.png",
       "published": "Thu, 19 Mar 2026 16:26:00 EST",
       "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Baseball opens up conference play on Friday afternoon at UMBC",
-      "url": "https://goblackbears.com/news/2026/3/19/preview-baseball-opens-up-conference-play-on-friday-afternoon-at-umbc.aspx",
-      "summary": "The University of Maine baseball program will begin America East action on Friday, March 20 as they take begin a weekend series against UMBC.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/21/BASE_Maine22126_TF-01.jpg",
-      "published": "Thu, 19 Mar 2026 15:00:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "UMaine announces Family & Friends, Homecoming Dates",
-      "url": "https://goblackbears.com/news/2026/3/19/football-umaine-announces-family-friends-homecoming-dates.aspx",
-      "summary": "ORONO, Maine \u2013 The University of Maine has announced the 2026 dates for its Family & Friends and Homecoming weekends.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/18/crowd-with-cheer.png",
-      "published": "Thu, 19 Mar 2026 08:00:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -359,6 +359,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/19/562A4690.jpg",
       "published": "Wed, 25 Feb 2026 10:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "UMaine announces Family & Friends, Homecoming Dates",
+      "url": "https://goblackbears.com/news/2026/3/19/football-umaine-announces-family-friends-homecoming-dates.aspx",
+      "summary": "ORONO, Maine \u2013 The University of Maine has announced the 2026 dates for its Family & Friends and Homecoming weekends.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/18/crowd-with-cheer.png",
+      "published": "Thu, 19 Mar 2026 08:00:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -990,6 +999,26 @@
       "image": "",
       "published": "Fri, 10 Oct 2025 18:55:05 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "A small group of athletes is already getting paid directly at UMaine",
+      "url": "https://www.bangordailynews.com/2026/03/23/sports/college/umaine-athletes-direct-payments-new-fundraising-n6hjn1me0n/",
+      "summary": "Division I institutions are now able to pay athletes directly after a historic settlement between the NCAA and several former and current collegiate athletes.",
+      "image": "",
+      "published": "Mon, 23 Mar 2026 22:02:23 +0000",
+      "sport": "College sports",
+      "source": "bdn",
+      "author": "Matt Junker"
+    },
+    {
+      "title": "UMaine coaches welcome move to start paying players",
+      "url": "https://www.bangordailynews.com/2026/03/23/sports/college/university-of-maine-coaches-student-athletes-fund/",
+      "summary": "The Black Bear Student-Athlete Experience Fund will allow fans to financially support a particular team or student-athlete.",
+      "image": "",
+      "published": "Mon, 23 Mar 2026 15:30:33 +0000",
+      "sport": "College sports",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
