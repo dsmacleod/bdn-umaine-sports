@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T12:48:12.443997+00:00",
+  "last_updated": "2026-03-25T04:22:36.071489+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -725,36 +725,36 @@
           "school": "UMBC",
           "conference": "2-1",
           "conference_pct": ".667",
-          "overall": "9-9",
+          "overall": "10-9",
           "pct": ".667",
-          "streak": "L1",
+          "streak": "W1",
           "is_umaine": false
         },
         {
           "school": "UAlbany",
           "conference": "2-1",
           "conference_pct": ".667",
-          "overall": "3-14",
+          "overall": "4-14",
           "pct": ".667",
-          "streak": "W1",
+          "streak": "W2",
           "is_umaine": false
         },
         {
           "school": "Binghamton",
           "conference": "3-3",
           "conference_pct": ".500",
-          "overall": "8-11",
+          "overall": "9-11",
           "pct": ".500",
-          "streak": "W2",
+          "streak": "W3",
           "is_umaine": false
         },
         {
           "school": "UMass Lowell",
           "conference": "1-2",
           "conference_pct": ".333",
-          "overall": "8-11",
+          "overall": "8-12",
           "pct": ".333",
-          "streak": "L2",
+          "streak": "L3",
           "is_umaine": false
         },
         {
@@ -791,6 +791,15 @@
           "is_umaine": false
         },
         {
+          "school": "Binghamton",
+          "conference": "3-0",
+          "conference_pct": "1.000",
+          "overall": "5-16",
+          "pct": "1.000",
+          "streak": "L2",
+          "is_umaine": false
+        },
+        {
           "school": "Bryant",
           "conference": "2-1",
           "conference_pct": ".667",
@@ -810,7 +819,7 @@
         },
         {
           "school": "UMBC",
-          "conference": "0-0",
+          "conference": "0-3",
           "conference_pct": ".000",
           "overall": "11-8",
           "pct": ".000",
@@ -825,15 +834,6 @@
           "pct": ".000",
           "streak": "L3",
           "is_umaine": true
-        },
-        {
-          "school": "Binghamton",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "5-16",
-          "pct": ".000",
-          "streak": "L2",
-          "is_umaine": false
         }
       ]
     },

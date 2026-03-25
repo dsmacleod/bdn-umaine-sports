@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T12:48:12.443997+00:00",
+  "last_updated": "2026-03-25T04:22:36.071489+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1794,28 +1794,28 @@
         },
         {
           "date": "Mar 27 (Fri)",
-          "time": "3 PM",
-          "home_away": "Home",
+          "time": "TBA",
+          "home_away": "Away",
           "opponent": "University of Massachusetts Lowell",
-          "location": "Orono, ME (Mahaney Diamond)",
+          "location": "Lowell, MA",
           "tournament": "",
           "result": ""
         },
         {
           "date": "Mar 28 (Sat)",
-          "time": "1 PM",
-          "home_away": "Home",
+          "time": "TBA",
+          "home_away": "Away",
           "opponent": "University of Massachusetts Lowell",
-          "location": "Orono, ME (Mahaney Diamond)",
+          "location": "Lowell, MA",
           "tournament": "",
           "result": ""
         },
         {
           "date": "Mar 29 (Sun)",
-          "time": "Noon",
-          "home_away": "Home",
+          "time": "TBA",
+          "home_away": "Away",
           "opponent": "University of Massachusetts Lowell",
-          "location": "Orono, ME (Mahaney Diamond)",
+          "location": "Lowell, MA",
           "tournament": "",
           "result": ""
         },
@@ -1992,28 +1992,28 @@
         },
         {
           "date": "May 8 (Fri)",
-          "time": "6 PM",
-          "home_away": "Away",
+          "time": "TBA",
+          "home_away": "Home",
           "opponent": "University of Massachusetts Lowell",
-          "location": "Lowell, MA",
+          "location": "Orono, ME (Mahaney Diamond)",
           "tournament": "",
           "result": ""
         },
         {
           "date": "May 9 (Sat)",
-          "time": "4 PM",
-          "home_away": "Away",
+          "time": "TBA",
+          "home_away": "Home",
           "opponent": "University of Massachusetts Lowell",
-          "location": "Lowell, MA",
+          "location": "Orono, ME (Mahaney Diamond)",
           "tournament": "",
           "result": ""
         },
         {
           "date": "May 10 (Sun)",
-          "time": "12 PM",
-          "home_away": "Away",
+          "time": "TBA",
+          "home_away": "Home",
           "opponent": "University of Massachusetts Lowell",
-          "location": "Lowell, MA",
+          "location": "Orono, ME (Mahaney Diamond)",
           "tournament": "",
           "result": ""
         },
@@ -3987,17 +3987,8 @@
           "result": ""
         },
         {
-          "date": "Mar 25 (Wed)",
-          "time": "TBD",
-          "home_away": "Away",
-          "opponent": "Raleigh Relays",
-          "location": "Raleigh, NC",
-          "tournament": "",
-          "result": ""
-        },
-        {
           "date": "Mar 26 (Thu)",
-          "time": "TBD",
+          "time": "9:30 AM",
           "home_away": "Away",
           "opponent": "Raleigh Relays",
           "location": "Raleigh, NC",
@@ -4006,7 +3997,16 @@
         },
         {
           "date": "Mar 27 (Fri)",
-          "time": "TBD",
+          "time": "9:30 AM",
+          "home_away": "Away",
+          "opponent": "Raleigh Relays",
+          "location": "Raleigh, NC",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Mar 28 (Sat)",
+          "time": "9:30 AM",
           "home_away": "Away",
           "opponent": "Raleigh Relays",
           "location": "Raleigh, NC",
@@ -4146,8 +4146,8 @@
         "16361",
         "16362",
         "16448",
-        "16449",
         "16450",
+        "16449",
         "16453",
         "16454",
         "16455",

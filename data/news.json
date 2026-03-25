@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-03-24T12:48:12.443997+00:00",
+  "last_updated": "2026-03-25T04:22:36.071489+00:00",
   "articles": [
+    {
+      "title": "Baseball Announces Schedule Change with UMass Lowell",
+      "url": "https://goblackbears.com/news/2026/3/24/baseball-announces-schedule-change-with-umass-lowell.aspx",
+      "summary": "The University of Maine baseball program announces that their series this weekend against UMass Lowell has been changed to a road series at Lowell, with the River Hawks set to return to Orono from May 8-10.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2021/5/9/DSC00153.png",
+      "published": "Tue, 24 Mar 2026 19:30:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Track and Field opens Outdoor Season at Raleigh Relays",
+      "url": "https://goblackbears.com/news/2026/3/24/mens-track-and-field-preview-track-and-field-opens-outdoor-season-at-raleigh-relays.aspx",
+      "summary": "The Maine track and field program opens up their outdoor portion of the season starting on Thursday in Raleigh, North Carolina at the Raleigh Relays.",
+      "image": "",
+      "published": "Tue, 24 Mar 2026 14:31:00 EST",
+      "sport": "Men's Track and Field, Women's Track and Field",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Carpenter Named Rookie of the Week in the America East",
+      "url": "https://goblackbears.com/news/2026/3/24/baseball-carpenter-named-rookie-of-the-week-in-the-america-east.aspx",
+      "summary": "The America East Conference announced on Tuesday morning that Troy Carpenter of the University of Maine baseball program has been named the Rookie of the Week for his performances against Navy and UMBC.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/24/Baseball_POTWArtboard_3.jpg",
+      "published": "Tue, 24 Mar 2026 11:00:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "WATCH: Season 4, Episode 4 of Journey North - Shift",
+      "url": "https://goblackbears.com/news/2026/3/24/mens-ice-hockey-watch-season-4-episode-4-of-journey-north-shift.aspx",
+      "summary": "Go inside and behind the scenes of Maine men's ice hockey with 'Journey North' the exclusive all-access show.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/23/JNS4_EP4YoutubeThumbnail.jpg",
+      "published": "Tue, 24 Mar 2026 09:00:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Preview: Softball to face Stonehill in non-conference doubleheader",
       "url": "https://goblackbears.com/news/2026/3/23/preview-softball-to-face-stonehill-in-non-conference-doubleheader.aspx",
@@ -53,42 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/24/Baseball_POTWArtboard_3.jpg",
       "published": "Fri, 20 Mar 2026 17:28:00 EST",
       "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "River Hawks top Black Bears in extra innings",
-      "url": "https://goblackbears.com/news/2026/3/20/softball-river-hawks-top-black-bears-in-extra-innings.aspx",
-      "summary": "Francesca Guerrera had two doubles and a home run for Maine.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/20/650A6267.jpg",
-      "published": "Fri, 20 Mar 2026 16:01:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football Announces 2026 Spring Ball Schedule",
-      "url": "https://goblackbears.com/news/2026/3/20/football-announces-2026-spring-ball-schedule.aspx",
-      "summary": "The University of Maine football program has announced their spring ball practice schedule, including their annual Jeff Cole Memorial Spring Game which will be held on Saturday, April 25.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/20/Eli_Mahan_9_20_Georgia_Southern_2.jpg",
-      "published": "Fri, 20 Mar 2026 15:00:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Maine begins America East play at UMass Lowell",
-      "url": "https://goblackbears.com/news/2026/3/19/softball-preview-maine-begins-america-east-at-umass-lowell.aspx",
-      "summary": "Maine will start conference play with a three-game series at UMass Lowell.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/19/DSC09157.jpg",
-      "published": "Thu, 19 Mar 2026 19:07:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Black Bears pick up win over Gaels",
-      "url": "https://goblackbears.com/news/2026/3/19/softball-black-bears-pick-up-win-over-gaels.aspx",
-      "summary": "Maine earned a 7-3 win over Iona on Thursday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/19/DSC08730.png",
-      "published": "Thu, 19 Mar 2026 16:26:00 EST",
-      "sport": "Softball",
       "source": "goblackbears"
     },
     {
@@ -169,15 +169,6 @@
       "summary": "Maine will play a single game this weekend, taking on Vermont on Saturday.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/1/_MG_4103.jpg",
       "published": "Sun, 1 Mar 2026 00:08:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Maine completes weekend sweep of Northeastern",
-      "url": "https://goblackbears.com/news/2026/2/28/mens-ice-hockey-maine-completes-weekend-sweep-of-northeastern.aspx",
-      "summary": "Frank Djurasevic scored twice for Maine in the 3-2 win.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/28/_PEV2506.jpg",
-      "published": "Sat, 28 Feb 2026 22:01:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
     },
@@ -359,6 +350,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/19/562A4690.jpg",
       "published": "Wed, 25 Feb 2026 10:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Football Announces 2026 Spring Ball Schedule",
+      "url": "https://goblackbears.com/news/2026/3/20/football-announces-2026-spring-ball-schedule.aspx",
+      "summary": "The University of Maine football program has announced their spring ball practice schedule, including their annual Jeff Cole Memorial Spring Game which will be held on Saturday, April 25.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/20/Eli_Mahan_9_20_Georgia_Southern_2.jpg",
+      "published": "Fri, 20 Mar 2026 15:00:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
