@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T12:44:05.596385+00:00",
+  "last_updated": "2026-03-26T04:34:15.985091+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -772,7 +772,7 @@
       "games": [
         {
           "date": "Aug 27 (Thu)",
-          "time": "TBA",
+          "time": "6 PM",
           "home_away": "Away",
           "opponent": "Towson University",
           "location": "Towson, MD",
@@ -790,7 +790,7 @@
         },
         {
           "date": "Sep 12 (Sat)",
-          "time": "TBA",
+          "time": "5 PM",
           "home_away": "Home",
           "opponent": "Merrimack College",
           "location": "Orono, ME (Morse Field at Harold Alfond Sports Stadium)",
@@ -808,7 +808,7 @@
         },
         {
           "date": "Sep 26 (Sat)",
-          "time": "TBA",
+          "time": "2 PM",
           "home_away": "Away",
           "opponent": "Elon University",
           "location": "Elon, NC",
@@ -817,7 +817,7 @@
         },
         {
           "date": "Oct 3 (Sat)",
-          "time": "TBA",
+          "time": "3:30 PM",
           "home_away": "Home",
           "opponent": "Sacred Heart University",
           "location": "Orono, ME (Morse Field at Harold Alfond Sports Stadium)",
@@ -826,7 +826,7 @@
         },
         {
           "date": "Oct 17 (Sat)",
-          "time": "TBA",
+          "time": "1 PM",
           "home_away": "Home",
           "opponent": "Bryant University",
           "location": "Orono, ME (Morse Field at Harold Alfond Sports Stadium)",
@@ -835,7 +835,7 @@
         },
         {
           "date": "Oct 24 (Sat)",
-          "time": "TBA",
+          "time": "1 PM",
           "home_away": "Home",
           "opponent": "Campbell University",
           "location": "Orono, ME (Morse Field at Harold Alfond Sports Stadium)",
@@ -844,7 +844,7 @@
         },
         {
           "date": "Oct 31 (Sat)",
-          "time": "TBA",
+          "time": "12 PM",
           "home_away": "Away",
           "opponent": "University of Rhode Island",
           "location": "Kingston, RI",
@@ -852,17 +852,8 @@
           "result": ""
         },
         {
-          "date": "Nov 7 (Sat)",
-          "time": "TBA",
-          "home_away": "Home",
-          "opponent": "Sacramento State",
-          "location": "Orono, ME (Morse Field at Harold Alfond Sports Stadium)",
-          "tournament": "",
-          "result": ""
-        },
-        {
           "date": "Nov 14 (Sat)",
-          "time": "TBA",
+          "time": "12 PM",
           "home_away": "Away",
           "opponent": "University at Albany",
           "location": "Albany, NY",
@@ -871,7 +862,7 @@
         },
         {
           "date": "Nov 21 (Sat)",
-          "time": "TBA",
+          "time": "1 PM",
           "home_away": "Home",
           "opponent": "University of New Hampshire",
           "location": "Orono, ME (Morse Field at Harold Alfond Sports Stadium)",
@@ -890,7 +881,6 @@
         "16423",
         "16424",
         "16425",
-        "16426",
         "16427",
         "16428"
       ]
@@ -1794,7 +1784,7 @@
         },
         {
           "date": "Mar 27 (Fri)",
-          "time": "TBA",
+          "time": "3 PM",
           "home_away": "Away",
           "opponent": "University of Massachusetts Lowell",
           "location": "Lowell, MA",
@@ -1803,7 +1793,7 @@
         },
         {
           "date": "Mar 28 (Sat)",
-          "time": "TBA",
+          "time": "1 PM",
           "home_away": "Away",
           "opponent": "University of Massachusetts Lowell",
           "location": "Lowell, MA",
@@ -1812,7 +1802,7 @@
         },
         {
           "date": "Mar 29 (Sun)",
-          "time": "TBA",
+          "time": "Noon",
           "home_away": "Away",
           "opponent": "University of Massachusetts Lowell",
           "location": "Lowell, MA",
@@ -2122,11 +2112,11 @@
     },
     "softball": {
       "record": {
-        "overall": "7-20",
+        "overall": "8-21",
         "conference": "0-3",
-        "streak": "L3",
+        "streak": "W1",
         "home": "0-0",
-        "away": "4-13",
+        "away": "5-14",
         "neutral": "3-7"
       },
       "games": [
@@ -2380,7 +2370,7 @@
           "opponent": "Stonehill",
           "location": "Easton, Mass.",
           "tournament": "",
-          "result": ""
+          "result": "L 3-7"
         },
         {
           "date": "Mar 25 (Wed)",
@@ -2389,32 +2379,23 @@
           "opponent": "Stonehill",
           "location": "Easton, Mass.",
           "tournament": "",
-          "result": ""
+          "result": "W 7-5"
         },
         {
-          "date": "Mar 28 (Sat)",
+          "date": "Mar 29 (Sun)",
           "time": "12:00 PM",
-          "home_away": "Home",
+          "home_away": "Away",
           "opponent": "Binghamton",
-          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
-          "tournament": "",
-          "result": ""
-        },
-        {
-          "date": "Mar 28 (Sat)",
-          "time": "2:00 PM",
-          "home_away": "Home",
-          "opponent": "Binghamton",
-          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "location": "Vestal, N.Y.",
           "tournament": "",
           "result": ""
         },
         {
           "date": "Mar 29 (Sun)",
-          "time": "12:00 PM",
-          "home_away": "Home",
-          "opponent": "Binghamton",
-          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "time": "2:00 PM",
+          "home_away": "Away",
+          "opponent": "Binghamton University",
+          "location": "Vestal, N.Y.",
           "tournament": "",
           "result": ""
         },
@@ -2621,9 +2602,8 @@
         "16299",
         "16300",
         "16471",
-        "16301",
-        "16302",
         "16472",
+        "16302",
         "16305",
         "16306",
         "16307",

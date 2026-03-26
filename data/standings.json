@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T12:44:05.596385+00:00",
+  "last_updated": "2026-03-26T04:34:15.985091+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -716,9 +716,9 @@
           "school": "Bryant",
           "conference": "2-1",
           "conference_pct": ".667",
-          "overall": "13-8",
+          "overall": "14-8",
           "pct": ".667",
-          "streak": "W7",
+          "streak": "W8",
           "is_umaine": false
         },
         {
@@ -752,9 +752,9 @@
           "school": "UMass Lowell",
           "conference": "1-2",
           "conference_pct": ".333",
-          "overall": "8-12",
+          "overall": "8-13",
           "pct": ".333",
-          "streak": "L3",
+          "streak": "L4",
           "is_umaine": false
         },
         {
@@ -785,9 +785,9 @@
           "school": "UMass Lowell",
           "conference": "3-0",
           "conference_pct": "1.000",
-          "overall": "12-13",
+          "overall": "14-13",
           "pct": "1.000",
-          "streak": "W3",
+          "streak": "W5",
           "is_umaine": false
         },
         {
@@ -803,18 +803,18 @@
           "school": "Bryant",
           "conference": "2-1",
           "conference_pct": ".667",
-          "overall": "11-14",
+          "overall": "11-15",
           "pct": ".667",
-          "streak": "W1",
+          "streak": "L1",
           "is_umaine": false
         },
         {
           "school": "UAlbany",
           "conference": "1-2",
           "conference_pct": ".333",
-          "overall": "8-9",
+          "overall": "9-9",
           "pct": ".333",
-          "streak": "L1",
+          "streak": "W1",
           "is_umaine": false
         },
         {
@@ -830,9 +830,9 @@
           "school": "Maine",
           "conference": "0-3",
           "conference_pct": ".000",
-          "overall": "7-20",
+          "overall": "8-21",
           "pct": ".000",
-          "streak": "L3",
+          "streak": "W1",
           "is_umaine": true
         }
       ]
