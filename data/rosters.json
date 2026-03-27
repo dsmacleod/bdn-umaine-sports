@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T12:52:29.199774+00:00",
+  "last_updated": "2026-03-27T04:34:45.525206+00:00",
   "sports": {
     "mhockey": [
       {
@@ -3202,19 +3202,6 @@
         "url": "/sports/field-hockey/roster/louisa-plaehn/13114"
       },
       {
-        "player_id": "13113",
-        "name": "Julia Pieters",
-        "number": "9",
-        "position": "Back",
-        "height": "",
-        "weight": "",
-        "year": "So.",
-        "hometown": "Haarlemmereer, North Holland, Netherlands",
-        "previous_school": "",
-        "headshot": "/images/2025/8/11/Headshots_Pieters.jpg?width=80&quality=90",
-        "url": "/sports/field-hockey/roster/julia-pieters/13113"
-      },
-      {
         "player_id": "13110",
         "name": "Saylor Kuefler",
         "number": "10",
@@ -3291,6 +3278,19 @@
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Davies.jpg?width=80&quality=90",
         "url": "/sports/field-hockey/roster/connie-davies/13106"
+      },
+      {
+        "player_id": "13118",
+        "name": "Taylor Stanford",
+        "number": "19",
+        "position": "Forward",
+        "height": "",
+        "weight": "",
+        "year": "Sr.",
+        "hometown": "Burlington, Ontario",
+        "previous_school": "",
+        "headshot": "/images/2025/8/11/Headshots_Stanford.jpg?width=80&quality=90",
+        "url": "/sports/field-hockey/roster/taylor-stanford/13118"
       },
       {
         "player_id": "13115",
