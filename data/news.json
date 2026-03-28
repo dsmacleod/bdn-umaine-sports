@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-03-27T12:40:49.294053+00:00",
+  "last_updated": "2026-03-28T04:22:35.942240+00:00",
   "articles": [
+    {
+      "title": "Thomas Freel signs professional contract with Iowa Heartlanders",
+      "url": "https://goblackbears.com/news/2026/3/27/mens-ice-hockey-thomas-freel-signs-professional-contract-with-iowa-heartlanders.aspx",
+      "summary": "Freel captained the Black Bears this season after serving as an alternate captain during the 2024-25 season.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/25/_MG_1486.jpg",
+      "published": "Fri, 27 Mar 2026 20:21:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Baseball Falls in Series Opener at UMass Lowell",
+      "url": "https://goblackbears.com/news/2026/3/27/baseball-falls-in-series-opener-at-umass-lowell.aspx",
+      "summary": "The University of Maine baseball program fell to UMass Lowell on Friday afternoon, 10-1.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/27/CBCC4300.jpg",
+      "published": "Fri, 27 Mar 2026 17:33:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Black Bears lead America East with 95% of student-athletes placed on Fall Academic Honor Roll",
+      "url": "https://goblackbears.com/news/2026/3/27/academic-support-services-black-bears-lead-america-east-with-95-of-student-athletes-placed-on-academic-honor-roll.aspx",
+      "summary": "ORONO, Maine -- The America East conference announced on Friday, March 27 that 95% of Maine's student-athletes, the highest percentage among all member institutions, achieved a 3.0 or higher grade point average (GPA), earning them a spot on the Fall America East Academic Honor Roll.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/5/19/OakTree-26829637784_529f32a89a_k-1648x960.jpg",
+      "published": "Fri, 27 Mar 2026 11:00:00 EST",
+      "sport": "Academic Support Services",
+      "source": "goblackbears"
+    },
     {
       "title": "Three Former Black Bears set for Opening Day at MLB",
       "url": "https://goblackbears.com/news/2026/3/26/baseball-three-former-black-bears-set-for-opening-day-at-mlb.aspx",
@@ -62,33 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/25/smith-dribble-playoffs.png",
       "published": "Wed, 25 Mar 2026 12:07:00 EST",
       "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Announces Schedule Change with UMass Lowell",
-      "url": "https://goblackbears.com/news/2026/3/24/baseball-announces-schedule-change-with-umass-lowell.aspx",
-      "summary": "The University of Maine baseball program announces that their series this weekend against UMass Lowell has been changed to a road series at Lowell, with the River Hawks set to return to Orono from May 8-10.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2021/5/9/DSC00153.png",
-      "published": "Tue, 24 Mar 2026 19:30:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Track and Field opens Outdoor Season at Raleigh Relays",
-      "url": "https://goblackbears.com/news/2026/3/24/mens-track-and-field-preview-track-and-field-opens-outdoor-season-at-raleigh-relays.aspx",
-      "summary": "The Maine track and field program opens up their outdoor portion of the season starting on Thursday in Raleigh, North Carolina at the Raleigh Relays.",
-      "image": "",
-      "published": "Tue, 24 Mar 2026 14:31:00 EST",
-      "sport": "Men's Track and Field, Women's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Carpenter Named Rookie of the Week in the America East",
-      "url": "https://goblackbears.com/news/2026/3/24/baseball-carpenter-named-rookie-of-the-week-in-the-america-east.aspx",
-      "summary": "The America East Conference announced on Tuesday morning that Troy Carpenter of the University of Maine baseball program has been named the Rookie of the Week for his performances against Navy and UMBC.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/24/Baseball_POTWArtboard_3.jpg",
-      "published": "Tue, 24 Mar 2026 11:00:00 EST",
-      "sport": "Baseball",
       "source": "goblackbears"
     },
     {
@@ -160,15 +160,6 @@
       "summary": "Vermont picked up a 5-3 win.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/7/Untitled-1.png",
       "published": "Sat, 7 Mar 2026 22:27:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Hockey East tabs Rousseau Pro Ambitions Rookie of the Week",
-      "url": "https://goblackbears.com/news/2026/3/2/mens-ice-hockey-hockey-east-tabs-rousseau-pro-ambitions-rookie-of-the-week.aspx",
-      "summary": "Rousseau went 2-0-0, posting a shutout and an assist.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/_MG_5980.jpg",
-      "published": "Mon, 2 Mar 2026 14:00:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
     },
@@ -425,6 +416,16 @@
       "source": "goblackbears"
     },
     {
+      "title": "UMaine hockey\u2019s alternate captain is leaving to play in the AHL",
+      "url": "https://www.bangordailynews.com/2026/03/27/sports/college-ice-hockey/alternate-captain-frank-djurasevic-signs-toronto-marlies/",
+      "summary": "Frank Djurasevic has signed a contract with the American Hockey League\u2019s Toronto Marlies, and is the second UMaine player to sign a professional contract.",
+      "image": "",
+      "published": "Fri, 27 Mar 2026 21:09:03 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "Why Josh Nadeau made a \u2018tough decision\u2019 to leave UMaine hockey for the AHL",
       "url": "https://www.bangordailynews.com/2026/03/26/sports/college-ice-hockey/umaine-hockey-josh-nadeau-ahl-departure/",
       "summary": "The 22-year-old said he felt it was time to \u201cmove up to the next level\u201d after three years in Orono.",
@@ -610,16 +611,6 @@
       "summary": "The seventh-seeded Black Bears supplied Engstrom with her first playoff win on Wednesday night, 4-0, over 10th seed Merrimack.",
       "image": "",
       "published": "Fri, 27 Feb 2026 21:52:13 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine men\u2019s hockey seeks to climb standings with crucial Northeastern\u00a0series",
-      "url": "https://www.bangordailynews.com/2026/02/27/sports/college-ice-hockey/umaine-mens-hockey-crucial-northeastern-series-joam40zk0w/",
-      "summary": "The Black Bears will play at the Cross Insurance Arena in Portland on Friday night and at the Tsongas Center in Lowell, Massachusetts, on Saturday night.",
-      "image": "",
-      "published": "Fri, 27 Feb 2026 06:00:00 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
