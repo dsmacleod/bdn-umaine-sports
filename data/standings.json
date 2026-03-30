@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T03:09:31.936916+00:00",
+  "last_updated": "2026-03-30T12:14:42.948054+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -723,11 +723,11 @@
         },
         {
           "school": "Bryant",
-          "conference": "3-2",
-          "conference_pct": ".600",
-          "overall": "15-9",
-          "pct": ".600",
-          "streak": "W1",
+          "conference": "4-2",
+          "conference_pct": ".667",
+          "overall": "16-9",
+          "pct": ".667",
+          "streak": "W2",
           "is_umaine": false
         },
         {
@@ -749,19 +749,19 @@
           "is_umaine": true
         },
         {
-          "school": "NJIT",
-          "conference": "2-3",
-          "conference_pct": ".400",
-          "overall": "8-13",
-          "pct": ".400",
-          "streak": "L1",
-          "is_umaine": false
-        },
-        {
           "school": "UMass Lowell",
           "conference": "2-4",
           "conference_pct": ".333",
           "overall": "9-15",
+          "pct": ".333",
+          "streak": "L2",
+          "is_umaine": false
+        },
+        {
+          "school": "NJIT",
+          "conference": "2-4",
+          "conference_pct": ".333",
+          "overall": "8-14",
           "pct": ".333",
           "streak": "L2",
           "is_umaine": false
@@ -801,10 +801,10 @@
         },
         {
           "school": "Bryant",
-          "conference": "2-1",
-          "conference_pct": ".667",
+          "conference": "3-1",
+          "conference_pct": ".750",
           "overall": "11-15",
-          "pct": ".667",
+          "pct": ".750",
           "streak": "L1",
           "is_umaine": false
         },
@@ -819,7 +819,7 @@
         },
         {
           "school": "UMBC",
-          "conference": "0-3",
+          "conference": "0-4",
           "conference_pct": ".000",
           "overall": "11-8",
           "pct": ".000",
