@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T12:06:21.152696+00:00",
+  "last_updated": "2026-03-30T03:09:31.936916+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,11 +1567,11 @@
     },
     "baseball": {
       "record": {
-        "overall": "4-20",
-        "conference": "2-3",
-        "streak": "W1",
+        "overall": "5-20",
+        "conference": "3-3",
+        "streak": "W2",
         "home": "0-0",
-        "away": "4-20",
+        "away": "5-20",
         "neutral": "0-0"
       },
       "games": [
@@ -1807,7 +1807,7 @@
           "opponent": "University of Massachusetts Lowell",
           "location": "Lowell, MA",
           "tournament": "",
-          "result": ""
+          "result": "W 10-6"
         },
         {
           "date": "Mar 31 (Tue)",
@@ -2112,11 +2112,11 @@
     },
     "softball": {
       "record": {
-        "overall": "8-21",
-        "conference": "0-3",
-        "streak": "W1",
+        "overall": "8-23",
+        "conference": "0-5",
+        "streak": "L2",
         "home": "0-0",
-        "away": "5-14",
+        "away": "5-16",
         "neutral": "3-7"
       },
       "games": [
@@ -2388,16 +2388,16 @@
           "opponent": "Binghamton",
           "location": "Vestal, N.Y.",
           "tournament": "",
-          "result": ""
+          "result": "L 11-12"
         },
         {
           "date": "Mar 29 (Sun)",
           "time": "2:00 PM",
           "home_away": "Away",
-          "opponent": "Binghamton University",
+          "opponent": "Binghamton",
           "location": "Vestal, N.Y.",
           "tournament": "",
-          "result": ""
+          "result": "L 3-11"
         },
         {
           "date": "Apr 2 (Thu)",
