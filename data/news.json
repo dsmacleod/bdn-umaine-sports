@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-03-31T12:14:52.992281+00:00",
+  "last_updated": "2026-04-01T03:09:02.898307+00:00",
   "articles": [
+    {
+      "title": "Baseball Falls Against #22 Boston College",
+      "url": "https://goblackbears.com/news/2026/3/31/baseball-falls-against-22-boston-college.aspx",
+      "summary": "The University of Maine baseball program battled late into the contest against #22 Boston College on Tuesday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/31/BASE_Maine22126_Tab-35__2_.jpg",
+      "published": "Tue, 31 Mar 2026 18:08:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Fairfield up next for Maine on Friday",
+      "url": "https://goblackbears.com/news/2026/3/31/softball-preview-fairfield-up-next-for-maine-softball.aspx",
+      "summary": "Maine will play a non-conference doubleheader at Fairfield on Thursday.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/31/DSC05640.jpg",
+      "published": "Tue, 31 Mar 2026 12:52:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Plates Five runs in the Ninth to Grab First Series Win of the Season",
       "url": "https://goblackbears.com/news/2026/3/29/baseball-plates-five-runs-in-the-ninth-to-grab-first-series-win-of-the-season.aspx",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/5/19/OakTree-26829637784_529f32a89a_k-1648x960.jpg",
       "published": "Fri, 27 Mar 2026 11:00:00 EST",
       "sport": "Academic Support Services",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Three Former Black Bears set for Opening Day at MLB",
-      "url": "https://goblackbears.com/news/2026/3/26/baseball-three-former-black-bears-set-for-opening-day-at-mlb.aspx",
-      "summary": "Three former University of Maine baseball program student-athletes are set to compete on Opening Day in Major League Baseball on Thursday, March 26.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/26/Maine_Baseball.png",
-      "published": "Thu, 26 Mar 2026 09:30:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Maine heads to Binghamton for America East action",
-      "url": "https://goblackbears.com/news/2026/3/25/softball-preview-maine-heads-to-binghamton-for-america-east-action.aspx",
-      "summary": "The series with Binghamton, originally scheduled to take place this weekend in Orono, will now take place at Binghamton at the Bearcats Sports Complex this weekend.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/25/DSC04362.jpg",
-      "published": "Wed, 25 Mar 2026 18:55:00 EST",
-      "sport": "Softball",
       "source": "goblackbears"
     },
     {
@@ -980,46 +980,6 @@
       "image": "",
       "published": "Fri, 10 Oct 2025 18:55:05 +0000",
       "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "A small group of athletes is already getting paid directly at UMaine",
-      "url": "https://www.bangordailynews.com/2026/03/23/sports/college/umaine-athletes-direct-payments-new-fundraising-n6hjn1me0n/",
-      "summary": "Division I institutions are now able to pay athletes directly after a historic settlement between the NCAA and several former and current collegiate athletes.",
-      "image": "",
-      "published": "Mon, 23 Mar 2026 22:02:23 +0000",
-      "sport": "College sports",
-      "source": "bdn",
-      "author": "Matt Junker"
-    },
-    {
-      "title": "UMaine coaches welcome move to start paying players",
-      "url": "https://www.bangordailynews.com/2026/03/23/sports/college/university-of-maine-coaches-student-athletes-fund/",
-      "summary": "The Black Bear Student-Athlete Experience Fund will allow fans to financially support a particular team or student-athlete.",
-      "image": "",
-      "published": "Mon, 23 Mar 2026 15:30:33 +0000",
-      "sport": "College sports",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine launches fund to pay student-athletes and stay\u00a0competitive",
-      "url": "https://www.bangordailynews.com/2026/03/20/sports/umaine-establishes-student-athlete-fund/",
-      "summary": "The move is in response to the massive change in the NCAA landscape in recent years, in which Division I schools are now able to pay their players.",
-      "image": "",
-      "published": "Fri, 20 Mar 2026 20:48:51 +0000",
-      "sport": "Sports",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine baseball seeking reliable closer as Black Bears open conference play",
-      "url": "https://www.bangordailynews.com/2026/03/19/sports/college-baseball/umaine-baseball-conference-play-opens-joam40zk0w/",
-      "summary": "Ninth-year head coach Nick Derba said there have been plenty of positives and is focused on this weekend\u2019s America East-opening three-game series.",
-      "image": "",
-      "published": "Thu, 19 Mar 2026 05:00:00 +0000",
-      "sport": "College Baseball",
       "source": "bdn",
       "author": "Larry Mahoney"
     }

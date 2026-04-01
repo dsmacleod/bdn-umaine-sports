@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T12:14:52.992281+00:00",
+  "last_updated": "2026-04-01T03:09:02.898307+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -716,54 +716,54 @@
           "school": "UMBC",
           "conference": "5-1",
           "conference_pct": ".833",
-          "overall": "13-9",
+          "overall": "14-9",
           "pct": ".833",
-          "streak": "W4",
+          "streak": "W5",
           "is_umaine": false
         },
         {
           "school": "Bryant",
           "conference": "4-2",
           "conference_pct": ".667",
-          "overall": "16-9",
+          "overall": "16-10",
           "pct": ".667",
-          "streak": "W2",
+          "streak": "L1",
           "is_umaine": false
         },
         {
           "school": "Binghamton",
           "conference": "3-3",
           "conference_pct": ".500",
-          "overall": "10-12",
+          "overall": "10-13",
           "pct": ".500",
-          "streak": "L1",
+          "streak": "L2",
           "is_umaine": false
         },
         {
           "school": "Maine",
           "conference": "3-3",
           "conference_pct": ".500",
-          "overall": "5-20",
+          "overall": "5-21",
           "pct": ".500",
-          "streak": "W2",
+          "streak": "L1",
           "is_umaine": true
         },
         {
           "school": "UMass Lowell",
           "conference": "2-4",
           "conference_pct": ".333",
-          "overall": "9-15",
+          "overall": "10-15",
           "pct": ".333",
-          "streak": "L2",
+          "streak": "W1",
           "is_umaine": false
         },
         {
           "school": "NJIT",
           "conference": "2-4",
           "conference_pct": ".333",
-          "overall": "8-14",
+          "overall": "9-14",
           "pct": ".333",
-          "streak": "L2",
+          "streak": "W1",
           "is_umaine": false
         },
         {
@@ -803,9 +803,9 @@
           "school": "UMass Lowell",
           "conference": "4-1",
           "conference_pct": ".800",
-          "overall": "15-15",
+          "overall": "16-15",
           "pct": ".800",
-          "streak": "W1",
+          "streak": "W2",
           "is_umaine": false
         },
         {
