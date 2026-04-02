@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T12:14:44.902571+00:00",
+  "last_updated": "2026-04-02T03:08:29.077072+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -2424,7 +2424,7 @@
           "opponent": "UMBC",
           "location": "Baltimore, Md.",
           "tournament": "",
-          "result": ""
+          "result": "Cancelled"
         },
         {
           "date": "Apr 4 (Sat)",
@@ -2482,28 +2482,28 @@
         },
         {
           "date": "Apr 18 (Sat)",
-          "time": "1:00 PM",
-          "home_away": "Away",
+          "time": "12:00 PM",
+          "home_away": "Home",
           "opponent": "Binghamton",
-          "location": "Vestal, N.Y.",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
           "tournament": "",
           "result": ""
         },
         {
           "date": "Apr 18 (Sat)",
-          "time": "3:00 PM",
-          "home_away": "Away",
+          "time": "2:00 PM",
+          "home_away": "Home",
           "opponent": "Binghamton",
-          "location": "Vestal, N.Y.",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
           "tournament": "",
           "result": ""
         },
         {
           "date": "Apr 19 (Sun)",
-          "time": "11:00 AM",
-          "home_away": "Away",
+          "time": "12:00 PM",
+          "home_away": "Home",
           "opponent": "Binghamton",
-          "location": "Vestal, N.Y.",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
           "tournament": "",
           "result": ""
         },
