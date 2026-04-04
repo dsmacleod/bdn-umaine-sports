@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-04-03T12:09:23.931348+00:00",
+  "last_updated": "2026-04-04T03:05:30.539456+00:00",
   "articles": [
+    {
+      "title": "Baseball Grabs Win over Bryant on Friday Night",
+      "url": "https://goblackbears.com/news/2026/4/3/baseball-grabs-win-over-bryant-on-friday-night.aspx",
+      "summary": "The University of Maine baseball program picked up their first home win of the season on Friday night against Bryant.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/3/RC0_0891.jpg",
+      "published": "Fri, 3 Apr 2026 20:29:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Fairfield edges Maine in non-conference action",
+      "url": "https://goblackbears.com/news/2026/4/3/softball-fairfield-edges-maine-in-non-conference-action.aspx",
+      "summary": "Four different Black Bears doubled on the day.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/3/DSC08669.jpg",
+      "published": "Fri, 3 Apr 2026 16:19:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Falls in Series Opener Against Bryant on Thursday",
       "url": "https://goblackbears.com/news/2026/4/2/baseball-falls-in-series-opener-against-bryant-on-thursday.aspx",
@@ -26,6 +44,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/26/penty-action-white-jersey.png",
       "published": "Thu, 2 Apr 2026 11:07:00 EST",
       "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine Athletics reveals Chappelle Court design, additional details for Morse Arena",
+      "url": "https://goblackbears.com/news/2026/4/3/mens-basketball-maine-athletics-reveals-chappelle-court-design-additional-details-for-morse-arena.aspx",
+      "summary": "ORONO, Maine \u2013 The University of Maine on Friday, April 3 announced additional plans for the interior design of Morse Arena, the new 106,000-square-foot basketball and football operations venue made possible by a $10 million gift from 1964 UMaine graduates Phillip and Susan Morse.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/2/Bowl_Seating_-_web.png",
+      "published": "Fri, 3 Apr 2026 08:42:00 EST",
+      "sport": "Football, Men's Basketball, Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "The University of Maine baseball program battled back from down four runs to take the final game of the series at UMass Lowell and win their first series of the season.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/29/BASE_Maine22226_Tab-07.jpg",
       "published": "Sun, 29 Mar 2026 14:59:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Black Bears opened Outdoor Season in Raleigh",
-      "url": "https://goblackbears.com/news/2026/3/28/mens-track-and-field-black-bears-opened-outdoor-season-in-raleigh.aspx",
-      "summary": "The Maine track and field programs competed at the Raleigh Relays this week. There was no individual scoring at this event.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/28/_DSC2224-Enhanced-NR.jpg",
-      "published": "Sat, 28 Mar 2026 20:26:00 EST",
-      "sport": "Men's Track and Field, Women's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Binghamton takes both games in conference doubleheader",
-      "url": "https://goblackbears.com/news/2026/3/29/softball-binghamton-takes-both-games-in-conference-doubleheader.aspx",
-      "summary": "Kaelyn Larkin had a grand slam for Maine.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/29/DSC05187.jpg",
-      "published": "Sun, 29 Mar 2026 16:54:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Takes Down UMass Lowell on Saturday Afternoon",
-      "url": "https://goblackbears.com/news/2026/3/28/baseball-takes-down-umass-lowell-on-saturday-afternoon.aspx",
-      "summary": "The University of Maine baseball program took down UMass Lowell in the second game of the series, 9-5.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/5/11/IMG_6650.jpg",
-      "published": "Sat, 28 Mar 2026 16:09:00 EST",
       "sport": "Baseball",
       "source": "goblackbears"
     },
@@ -254,15 +254,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Women's Basketball set to host New Hampshire in America East quarterfinal",
-      "url": "https://goblackbears.com/news/2026/3/4/preview-womens-basketball-set-to-host-new-hampshire-in-america-east-quarterfinal.aspx",
-      "summary": "ORONO, Maine -- The No. 2 seed University of Maine women's basketball team hosts No. 7 New Hampshire on Thursday, March 5 at 6 p.m. in the quarterfinal round of the Air Force Reserve America East playoffs. Limited tickets remain and can be purchased at GoBlackBears.com/tickets.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/4/asta-playoffs.png",
-      "published": "Wed, 4 Mar 2026 14:29:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "Men's Basketball has Season come to an end on Saturday in America East Quarterfinals",
       "url": "https://goblackbears.com/news/2026/3/7/mens-basketball-has-season-come-to-an-end-on-saturday-in-america-east-quarterfinals.aspx",
       "summary": "The University of Maine basketball team had their season come to an end as they fell to #3 NJIT, 60-58.",
@@ -344,15 +335,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Men's Basketball Continues Road Trip with Stop at UAlbany on Thursday Night",
-      "url": "https://goblackbears.com/news/2026/2/25/mens-basketball-continues-road-trip-with-stop-at-ualbany-on-thursday-night.aspx",
-      "summary": "The University of Maine men's basketball team continues their three-game road trip with a stop at UAlbany on Thursday night.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/19/562A4690.jpg",
-      "published": "Wed, 25 Feb 2026 10:00:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "Football Announces Game Time for all Home Games and CAA Matchups",
       "url": "https://goblackbears.com/news/2026/3/25/football-announces-game-time-for-all-home-games-and-caa-matchups.aspx",
       "summary": "The University of Maine football program has announced their kickoffs for all home games and for CAA road matchups for the 2026 season.",
@@ -430,15 +412,6 @@
       "summary": "With the 2026 NCAA Transfer Portal open, the Black Bears are making their additions to their roster in preparation for the upcoming season! Follow along below to learn all about the newcomers to Black Bear Nation!",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/FB_Graphic.png",
       "published": "Wed, 7 Jan 2026 13:00:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Rashawn Marshall Named Phil Steele Freshmen All-American",
-      "url": "https://goblackbears.com/news/2025/12/30/football-rashawn-marshall-named-phil-steele-freshmen-all-american.aspx",
-      "summary": "The Phil Steele Committee announced that Rashawn Marshall was named a Freshmen Third Team All-American.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/30/Rashawn_Marshall_11_15_vs_Rhode_Island_4.jpg",
-      "published": "Tue, 30 Dec 2025 12:09:00 EST",
       "sport": "Football",
       "source": "goblackbears"
     },
@@ -643,6 +616,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "Here\u2019s what UMaine\u2019s basketball court will look like in new $80 million arena",
+      "url": "https://www.bangordailynews.com/2026/04/03/sports/college/umaine-basketball-80-million-remodel/",
+      "summary": "The facility is expected to be completed and in use during the 2027-28 basketball season. Construction began this past fall.",
+      "image": "",
+      "published": "Fri, 03 Apr 2026 21:33:28 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Matt Junker"
+    },
+    {
       "title": "UMaine basketball\u2019s Adrianna Smith wins another player of the year award",
       "url": "https://www.bangordailynews.com/2026/03/25/sports/college-basketball/umaine-basketball-adrianna-smith-player-of-the-year/",
       "summary": "The 6-foot native of Reston, Virginia, finished the season as the America East leader in scoring, rebounding, assists, and double-doubles.",
@@ -801,16 +784,6 @@
       "sport": "College Basketball",
       "source": "bdn",
       "author": "Matt Junker"
-    },
-    {
-      "title": "UMaine women\u2019s basketball hangs on to beat Binghamton and earn 2nd seed",
-      "url": "https://www.bangordailynews.com/2026/02/28/sports/college-basketball/umaine-womens-basketball-2nd-seed-america-east-tournament/",
-      "summary": "UMaine earned its seventh win in its last eight games, finishing the regular season with a 12-4 league record.",
-      "image": "",
-      "published": "Sat, 28 Feb 2026 22:13:18 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine football will be paid $625K to play Penn State next\u00a0year",
@@ -1009,16 +982,6 @@
       "image": "",
       "published": "Mon, 23 Mar 2026 15:30:33 +0000",
       "sport": "College sports",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine launches fund to pay student-athletes and stay\u00a0competitive",
-      "url": "https://www.bangordailynews.com/2026/03/20/sports/umaine-establishes-student-athlete-fund/",
-      "summary": "The move is in response to the massive change in the NCAA landscape in recent years, in which Division I schools are now able to pay their players.",
-      "image": "",
-      "published": "Fri, 20 Mar 2026 20:48:51 +0000",
-      "sport": "Sports",
       "source": "bdn",
       "author": "Larry Mahoney"
     }

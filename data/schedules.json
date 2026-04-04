@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T12:09:23.931348+00:00",
+  "last_updated": "2026-04-04T03:05:30.539456+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,10 +1567,10 @@
     },
     "baseball": {
       "record": {
-        "overall": "5-22",
-        "conference": "3-4",
-        "streak": "L2",
-        "home": "0-1",
+        "overall": "6-22",
+        "conference": "4-4",
+        "streak": "W1",
+        "home": "1-1",
         "away": "5-21",
         "neutral": "0-0"
       },
@@ -1834,7 +1834,7 @@
           "opponent": "Bryant University",
           "location": "Orono, ME (Mahaney Diamond)",
           "tournament": "",
-          "result": ""
+          "result": "W 11-5"
         },
         {
           "date": "Apr 4 (Sat)",
@@ -2112,11 +2112,11 @@
     },
     "softball": {
       "record": {
-        "overall": "8-23",
+        "overall": "8-25",
         "conference": "0-5",
-        "streak": "L2",
+        "streak": "L4",
         "home": "0-0",
-        "away": "5-16",
+        "away": "5-18",
         "neutral": "3-7"
       },
       "games": [
@@ -2406,7 +2406,7 @@
           "opponent": "Fairfield",
           "location": "Fairfield, Conn.",
           "tournament": "",
-          "result": ""
+          "result": "L 1-5"
         },
         {
           "date": "Apr 3 (Fri)",
@@ -2415,7 +2415,7 @@
           "opponent": "Fairfield",
           "location": "Fairfield, Conn.",
           "tournament": "",
-          "result": ""
+          "result": "L 1-2"
         },
         {
           "date": "Apr 4 (Sat)",
@@ -2433,7 +2433,7 @@
           "opponent": "UMBC",
           "location": "Baltimore, Md.",
           "tournament": "",
-          "result": ""
+          "result": "Cancelled"
         },
         {
           "date": "Apr 5 (Sun)",
@@ -2442,7 +2442,7 @@
           "opponent": "UMBC",
           "location": "Baltimore, Md.",
           "tournament": "",
-          "result": ""
+          "result": "Cancelled"
         },
         {
           "date": "Apr 11 (Sat)",
