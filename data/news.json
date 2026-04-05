@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-04-04T12:06:31.739739+00:00",
+  "last_updated": "2026-04-05T03:08:47.843383+00:00",
   "articles": [
+    {
+      "title": "Baseball Grabs Second-Straight Series Victory",
+      "url": "https://goblackbears.com/news/2026/4/4/baseball-grabs-second-straight-series-victory.aspx",
+      "summary": "The University of Maine baseball program picked up their second-straight series victory as they took down Bryant in the series finale on Saturday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/4/IMG_0367.jpg",
+      "published": "Sat, 4 Apr 2026 16:51:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Grabs Win over Bryant on Friday Night",
       "url": "https://goblackbears.com/news/2026/4/3/baseball-grabs-win-over-bryant-on-friday-night.aspx",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/31/DSC05640.jpg",
       "published": "Tue, 31 Mar 2026 12:52:00 EST",
       "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Plates Five runs in the Ninth to Grab First Series Win of the Season",
-      "url": "https://goblackbears.com/news/2026/3/29/baseball-plates-five-runs-in-the-ninth-to-grab-first-series-win-of-the-season.aspx",
-      "summary": "The University of Maine baseball program battled back from down four runs to take the final game of the series at UMass Lowell and win their first series of the season.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/29/BASE_Maine22226_Tab-07.jpg",
-      "published": "Sun, 29 Mar 2026 14:59:00 EST",
-      "sport": "Baseball",
       "source": "goblackbears"
     },
     {
@@ -974,16 +974,6 @@
       "sport": "College sports",
       "source": "bdn",
       "author": "Matt Junker"
-    },
-    {
-      "title": "UMaine coaches welcome move to start paying players",
-      "url": "https://www.bangordailynews.com/2026/03/23/sports/college/university-of-maine-coaches-student-athletes-fund/",
-      "summary": "The Black Bear Student-Athlete Experience Fund will allow fans to financially support a particular team or student-athlete.",
-      "image": "",
-      "published": "Mon, 23 Mar 2026 15:30:33 +0000",
-      "sport": "College sports",
-      "source": "bdn",
-      "author": "Larry Mahoney"
     }
   ]
 }

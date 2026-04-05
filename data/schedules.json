@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T12:06:31.739739+00:00",
+  "last_updated": "2026-04-05T03:08:47.843383+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,10 +1567,10 @@
     },
     "baseball": {
       "record": {
-        "overall": "6-22",
-        "conference": "4-4",
-        "streak": "W1",
-        "home": "1-1",
+        "overall": "7-22",
+        "conference": "5-4",
+        "streak": "W2",
+        "home": "2-1",
         "away": "5-21",
         "neutral": "0-0"
       },
@@ -1843,7 +1843,7 @@
           "opponent": "Bryant University",
           "location": "Orono, ME (Mahaney Diamond)",
           "tournament": "",
-          "result": ""
+          "result": "W 5-2"
         },
         {
           "date": "Apr 11 (Sat)",

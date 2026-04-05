@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T12:06:31.739739+00:00",
+  "last_updated": "2026-04-05T03:08:47.843383+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -716,63 +716,63 @@
           "school": "UMBC",
           "conference": "5-1",
           "conference_pct": ".833",
-          "overall": "16-9",
+          "overall": "16-10",
           "pct": ".833",
-          "streak": "W7",
-          "is_umaine": false
-        },
-        {
-          "school": "Bryant",
-          "conference": "5-3",
-          "conference_pct": ".625",
-          "overall": "17-11",
-          "pct": ".625",
           "streak": "L1",
           "is_umaine": false
         },
         {
           "school": "Binghamton",
-          "conference": "5-3",
-          "conference_pct": ".625",
-          "overall": "12-13",
-          "pct": ".625",
-          "streak": "W2",
+          "conference": "4-3",
+          "conference_pct": ".571",
+          "overall": "11-13",
+          "pct": ".571",
+          "streak": "W1",
+          "is_umaine": false
+        },
+        {
+          "school": "Bryant",
+          "conference": "5-4",
+          "conference_pct": ".556",
+          "overall": "17-12",
+          "pct": ".556",
+          "streak": "L2",
           "is_umaine": false
         },
         {
           "school": "Maine",
-          "conference": "4-4",
-          "conference_pct": ".500",
-          "overall": "6-22",
-          "pct": ".500",
-          "streak": "W1",
+          "conference": "5-4",
+          "conference_pct": ".556",
+          "overall": "7-22",
+          "pct": ".556",
+          "streak": "W2",
           "is_umaine": true
         },
         {
-          "school": "UMass Lowell",
-          "conference": "3-5",
-          "conference_pct": ".375",
-          "overall": "11-16",
-          "pct": ".375",
-          "streak": "L1",
+          "school": "UAlbany",
+          "conference": "4-5",
+          "conference_pct": ".444",
+          "overall": "6-18",
+          "pct": ".444",
+          "streak": "W2",
           "is_umaine": false
         },
         {
-          "school": "UAlbany",
-          "conference": "3-5",
-          "conference_pct": ".375",
-          "overall": "5-18",
-          "pct": ".375",
-          "streak": "W1",
+          "school": "UMass Lowell",
+          "conference": "3-6",
+          "conference_pct": ".333",
+          "overall": "11-17",
+          "pct": ".333",
+          "streak": "L2",
           "is_umaine": false
         },
         {
           "school": "NJIT",
-          "conference": "2-6",
-          "conference_pct": ".250",
-          "overall": "9-16",
-          "pct": ".250",
-          "streak": "L2",
+          "conference": "2-5",
+          "conference_pct": ".286",
+          "overall": "9-15",
+          "pct": ".286",
+          "streak": "L1",
           "is_umaine": false
         }
       ]
@@ -783,38 +783,38 @@
       "teams": [
         {
           "school": "Binghamton",
-          "conference": "6-0",
-          "conference_pct": "1.000",
-          "overall": "8-17",
-          "pct": "1.000",
-          "streak": "W1",
+          "conference": "7-1",
+          "conference_pct": ".875",
+          "overall": "9-18",
+          "pct": ".875",
+          "streak": "L1",
           "is_umaine": false
         },
         {
           "school": "Bryant",
-          "conference": "7-1",
-          "conference_pct": ".875",
-          "overall": "13-15",
-          "pct": ".875",
-          "streak": "W2",
+          "conference": "7-2",
+          "conference_pct": ".778",
+          "overall": "13-16",
+          "pct": ".778",
+          "streak": "L1",
           "is_umaine": false
         },
         {
           "school": "UMass Lowell",
-          "conference": "4-4",
-          "conference_pct": ".500",
-          "overall": "16-17",
-          "pct": ".500",
-          "streak": "L2",
+          "conference": "5-4",
+          "conference_pct": ".556",
+          "overall": "17-17",
+          "pct": ".556",
+          "streak": "W1",
           "is_umaine": false
         },
         {
           "school": "UAlbany",
-          "conference": "3-4",
-          "conference_pct": ".429",
-          "overall": "13-11",
-          "pct": ".429",
-          "streak": "L1",
+          "conference": "4-5",
+          "conference_pct": ".444",
+          "overall": "14-12",
+          "pct": ".444",
+          "streak": "W1",
           "is_umaine": false
         },
         {
