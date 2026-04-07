@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-04-06T12:13:44.577138+00:00",
+  "last_updated": "2026-04-07T03:08:38.418739+00:00",
   "articles": [
+    {
+      "title": "Maine dominates Spring Opener",
+      "url": "https://goblackbears.com/news/2026/4/6/womens-track-and-field-maine-dominates-spring-opener.aspx",
+      "summary": "The University of Maine Track and Field program opened up their new facility by hosting the first outdoor home meet since 2017 with the University of Maine Spring Opener.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/6/562A0673.jpg",
+      "published": "Mon, 6 Apr 2026 21:18:00 EST",
+      "sport": "Women's Track and Field",
+      "source": "goblackbears"
+    },
+    {
+      "title": "McGarrity sets School Record in UMaine Spring Opener",
+      "url": "https://goblackbears.com/news/2026/4/6/mens-track-and-field-mcgarrity-sets-school-record-in-umaine-spring-opener.aspx",
+      "summary": "The University of Maine Track and Field program opened up their new facility by hosting the first outdoor home meet since 2017 with the University of Maine Spring Opener.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/4/13/_DSC4648.jpg",
+      "published": "Mon, 6 Apr 2026 13:28:00 EST",
+      "sport": "Men's Track and Field",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine softball announces 2026 promotional schedule",
+      "url": "https://goblackbears.com/news/2026/4/6/softball-maine-softball-announces-2026-promotional-schedule.aspx",
+      "summary": "The Black Bears open up the 2026 home slate on Saturday, March 28 with a doubleheader against Binghamton at the Pierre & Catherine Labat Softball Complex.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/19/_PEV3217.jpg",
+      "published": "Mon, 6 Apr 2026 09:00:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Grabs Second-Straight Series Victory",
       "url": "https://goblackbears.com/news/2026/4/4/baseball-grabs-second-straight-series-victory.aspx",
@@ -62,33 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/2/Bowl_Seating_-_web.png",
       "published": "Fri, 3 Apr 2026 08:42:00 EST",
       "sport": "Football, Men's Basketball, Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Black Bears to host first home Outdoor meet at New Balance Outdoor Complex",
-      "url": "https://goblackbears.com/news/2026/4/1/mens-track-and-field-preview-black-bears-to-host-first-home-outdoor-meet-at-new-balance-outdoor-complex.aspx",
-      "summary": "The Maine track and field program will host an Outdoor Track and Field meet at the brand new, New Balance Outdoor Track and Field Complex on Saturday April 4.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/1/031826_AK_DJI_20260319003001_0896_D.JPG",
-      "published": "Wed, 1 Apr 2026 13:36:00 EST",
-      "sport": "Men's Track and Field, Women's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Falls Against #22 Boston College",
-      "url": "https://goblackbears.com/news/2026/3/31/baseball-falls-against-22-boston-college.aspx",
-      "summary": "The University of Maine baseball program battled late into the contest against #22 Boston College on Tuesday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/31/BASE_Maine22126_Tab-35__2_.jpg",
-      "published": "Tue, 31 Mar 2026 18:08:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Fairfield up next for Maine on Friday",
-      "url": "https://goblackbears.com/news/2026/3/31/softball-preview-fairfield-up-next-for-maine-softball.aspx",
-      "summary": "Maine will play a non-conference doubleheader at Fairfield on Thursday.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/31/DSC05640.jpg",
-      "published": "Tue, 31 Mar 2026 12:52:00 EST",
-      "sport": "Softball",
       "source": "goblackbears"
     },
     {
@@ -776,16 +776,6 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "Injury-riddled UMaine men\u2019s basketball team falls in regular season finale",
-      "url": "https://www.bangordailynews.com/2026/03/03/sports/college-basketball/umaine-mens-basketball-loss-season-finale/",
-      "summary": "With the loss, the Black Bears drop to 8-23 overall on the year and 6-10 in the conference, but they have still earned a playoff spot and will see postseason action on the road this Saturday.",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 01:08:33 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Matt Junker"
-    },
-    {
       "title": "UMaine football will be paid $625K to play Penn State next\u00a0year",
       "url": "https://www.bangordailynews.com/2026/02/26/sports/college-football/umaine-football-paid-625k-penn-state-game/",
       "summary": "The UMaine-Penn State game will be played at the West Shore Home Field at Beaver Stadium in University Park, Pennsylvania, which is the second-largest stadium in the United States.",
@@ -964,16 +954,6 @@
       "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
-    },
-    {
-      "title": "A small group of athletes is already getting paid directly at UMaine",
-      "url": "https://www.bangordailynews.com/2026/03/23/sports/college/umaine-athletes-direct-payments-new-fundraising-n6hjn1me0n/",
-      "summary": "Division I institutions are now able to pay athletes directly after a historic settlement between the NCAA and several former and current collegiate athletes.",
-      "image": "",
-      "published": "Mon, 23 Mar 2026 22:02:23 +0000",
-      "sport": "College sports",
-      "source": "bdn",
-      "author": "Matt Junker"
     }
   ]
 }

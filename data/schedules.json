@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T12:13:44.577138+00:00",
+  "last_updated": "2026-04-07T03:08:38.418739+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -3557,9 +3557,10 @@
     },
     "mtrack": {
       "record": {
-        "overall": "0-0",
+        "overall": "1-0",
         "conference": "0-0",
-        "home": "0-0",
+        "streak": "W1",
+        "home": "1-0",
         "away": "0-0",
         "neutral": "0-0"
       },
@@ -3706,7 +3707,7 @@
           "opponent": "UMaine Alumni Meet",
           "location": "Orono, ME (New Balance Outdoor Track and Field Complex)",
           "tournament": "",
-          "result": ""
+          "result": "W -"
         },
         {
           "date": "Apr 10 (Fri)",
@@ -3851,9 +3852,10 @@
     },
     "wtrack": {
       "record": {
-        "overall": "0-0",
+        "overall": "1-0",
         "conference": "0-0",
-        "home": "0-0",
+        "streak": "W1",
+        "home": "1-0",
         "away": "0-0",
         "neutral": "0-0"
       },
@@ -4000,7 +4002,7 @@
           "opponent": "UMaine Alumni Meet",
           "location": "Orono, ME (New Balance Outdoor Track and Field Complex)",
           "tournament": "",
-          "result": ""
+          "result": "W -"
         },
         {
           "date": "Apr 10 (Fri)",
