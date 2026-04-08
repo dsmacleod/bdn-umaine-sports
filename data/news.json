@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-04-07T12:14:58.809564+00:00",
+  "last_updated": "2026-04-08T03:08:52.409598+00:00",
   "articles": [
+    {
+      "title": "Pepe Named America East Player of the Week",
+      "url": "https://goblackbears.com/news/2026/4/7/baseball-pepe-named-america-east-player-of-the-week.aspx",
+      "summary": "The America East Conference announced on Tuesday morning that Nic Pepe of the University of Maine baseball program was named the Player of the Week for the conference following his weekend against Bryant.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/7/DSC03892.jpg",
+      "published": "Tue, 7 Apr 2026 11:00:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
     {
       "title": "Maine dominates Spring Opener",
       "url": "https://goblackbears.com/news/2026/4/6/womens-track-and-field-maine-dominates-spring-opener.aspx",
@@ -83,15 +92,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Maine Athletics reveals Chappelle Court design, additional details for Morse Arena",
-      "url": "https://goblackbears.com/news/2026/4/3/mens-basketball-maine-athletics-reveals-chappelle-court-design-additional-details-for-morse-arena.aspx",
-      "summary": "ORONO, Maine \u2013 The University of Maine on Friday, April 3 announced additional plans for the interior design of Morse Arena, the new 106,000-square-foot basketball and football operations venue made possible by a $10 million gift from 1964 UMaine graduates Phillip and Susan Morse.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/2/Bowl_Seating_-_web.png",
-      "published": "Fri, 3 Apr 2026 08:42:00 EST",
-      "sport": "Football, Men's Basketball, Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "Frank Djurasevic signs AHL deal with Toronto Marlies",
       "url": "https://goblackbears.com/news/2026/3/28/mens-ice-hockey-frank-djurasevic-signs-ahl-deal-with-toronto-marlies.aspx",
       "summary": "Djurasevic, an alternate captain this season as a junior, recorded a career-high 61 blocks and had 14 points off of five goals and nine assists this year.",
@@ -170,6 +170,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/21/_PEV8400.jpg",
       "published": "Sat, 7 Mar 2026 22:56:00 EST",
       "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine Athletics reveals Chappelle Court design, additional details for Morse Arena",
+      "url": "https://goblackbears.com/news/2026/4/3/mens-basketball-maine-athletics-reveals-chappelle-court-design-additional-details-for-morse-arena.aspx",
+      "summary": "ORONO, Maine \u2013 The University of Maine on Friday, April 3 announced additional plans for the interior design of Morse Arena, the new 106,000-square-foot basketball and football operations venue made possible by a $10 million gift from 1964 UMaine graduates Phillip and Susan Morse.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/2/Bowl_Seating_-_web.png",
+      "published": "Fri, 3 Apr 2026 08:42:00 EST",
+      "sport": "Football, Men's Basketball, Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -776,6 +785,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "UMaine football looking to fill hole in schedule after California school changes divisions",
+      "url": "https://www.bangordailynews.com/2026/04/07/sports/college-football/umaine-football-schedule/",
+      "summary": "The Black Bears already had an Oct. 10 bye on their schedule but another bye was added recently when a Nov. 7 home game against Sacramento State fell through.",
+      "image": "",
+      "published": "Tue, 07 Apr 2026 19:28:22 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine football will be paid $625K to play Penn State next\u00a0year",
       "url": "https://www.bangordailynews.com/2026/02/26/sports/college-football/umaine-football-paid-625k-penn-state-game/",
       "summary": "The UMaine-Penn State game will be played at the West Shore Home Field at Beaver Stadium in University Park, Pennsylvania, which is the second-largest stadium in the United States.",
@@ -941,16 +960,6 @@
       "summary": "UMaine head coach Jordan Stevens doesn't have a timeline for the return of leading rusher Sincere Baines or running back Nick Laughlin.",
       "image": "",
       "published": "Mon, 13 Oct 2025 19:10:04 +0000",
-      "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine football could win 3 in a row for 1st time under current coach",
-      "url": "https://www.bangordailynews.com/2025/10/10/sports/college-football/umaine-football-winning-games/",
-      "summary": "Jordan Stevens has won back-to-back Coastal Athletic Association games for the first time in his four years at the helm for the Black Bears.",
-      "image": "",
-      "published": "Fri, 10 Oct 2025 18:55:05 +0000",
       "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
