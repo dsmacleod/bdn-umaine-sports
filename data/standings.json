@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T12:15:08.605854+00:00",
+  "last_updated": "2026-04-09T03:08:35.465876+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -725,9 +725,9 @@
           "school": "Binghamton",
           "conference": "6-3",
           "conference_pct": ".667",
-          "overall": "13-13",
+          "overall": "14-13",
           "pct": ".667",
-          "streak": "W3",
+          "streak": "W4",
           "is_umaine": false
         },
         {
@@ -752,9 +752,9 @@
           "school": "UAlbany",
           "conference": "4-5",
           "conference_pct": ".444",
-          "overall": "6-18",
+          "overall": "7-18",
           "pct": ".444",
-          "streak": "W2",
+          "streak": "W3",
           "is_umaine": false
         },
         {
@@ -794,9 +794,9 @@
           "school": "Bryant",
           "conference": "7-2",
           "conference_pct": ".778",
-          "overall": "13-16",
+          "overall": "13-17",
           "pct": ".778",
-          "streak": "L1",
+          "streak": "L2",
           "is_umaine": false
         },
         {
@@ -812,9 +812,9 @@
           "school": "UAlbany",
           "conference": "4-5",
           "conference_pct": ".444",
-          "overall": "14-12",
+          "overall": "15-13",
           "pct": ".444",
-          "streak": "W1",
+          "streak": "L1",
           "is_umaine": false
         },
         {
