@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-04-09T12:16:16.542792+00:00",
+  "last_updated": "2026-04-10T03:09:40.726205+00:00",
   "articles": [
+    {
+      "title": "Preview: Track and Field takes on Friar Invitational and UMass Commonwealth Invite",
+      "url": "https://goblackbears.com/news/2026/4/9/mens-track-and-field-preview-track-and-field-takes-on-friar-invitational-and-umass-commonwealth-invite.aspx",
+      "summary": "The University fo Maine track and field programs are back in action this weekend as they take on the Friar Invitational hosted by Providence College on Friday April 10 and the UMass Commonwealth Invitational on Saturday April 11.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/28/_DSC2224-Enhanced-NR.jpg",
+      "published": "Thu, 9 Apr 2026 13:39:00 EST",
+      "sport": "Men's Track and Field, Women's Track and Field",
+      "source": "goblackbears"
+    },
+    {
+      "title": "UMaine co-salutatorian Isabelle Irani champions mental health for athletes like her",
+      "url": "https://goblackbears.com/news/2026/4/9/womens-swimming-and-diving-umaine-co-salutatorian-isabelle-irani-champions-mental-health-for-athletes-like-her.aspx",
+      "summary": "In 2022, then first-year student Isabelle Irani of Spring, Texas walked into the University of Maine Athletics in the Memorial Gym Complex with a mission: to improve mental health services for student-athletes.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/9/Isabelle-Irani.jpg",
+      "published": "Thu, 9 Apr 2026 12:28:00 EST",
+      "sport": "Women's Swimming and Diving, Academic Support Services",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Maine set to host UMass Lowell in home opener",
+      "url": "https://goblackbears.com/news/2026/4/9/softball-preview-maine-set-to-host-umass-lowell-in-home-opener.aspx",
+      "summary": "The Black Bears and River Hawks will play a three-game series on Saturday and Sunday.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/9/_PEV3749.jpg",
+      "published": "Thu, 9 Apr 2026 10:00:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
     {
       "title": "Five Black Bears Named to NFF Hampshire Honor Society",
       "url": "https://goblackbears.com/news/2026/4/8/football-five-black-bears-named-to-nff-hampshire-honor-society.aspx",
@@ -61,33 +88,6 @@
       "summary": "The University of Maine baseball program picked up their second-straight series victory as they took down Bryant in the series finale on Saturday afternoon.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/4/IMG_0367.jpg",
       "published": "Sat, 4 Apr 2026 16:51:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Grabs Win over Bryant on Friday Night",
-      "url": "https://goblackbears.com/news/2026/4/3/baseball-grabs-win-over-bryant-on-friday-night.aspx",
-      "summary": "The University of Maine baseball program picked up their first home win of the season on Friday night against Bryant.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/3/RC0_0891.jpg",
-      "published": "Fri, 3 Apr 2026 20:29:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Fairfield edges Maine in non-conference action",
-      "url": "https://goblackbears.com/news/2026/4/3/softball-fairfield-edges-maine-in-non-conference-action.aspx",
-      "summary": "Four different Black Bears doubled on the day.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/3/DSC08669.jpg",
-      "published": "Fri, 3 Apr 2026 16:19:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Falls in Series Opener Against Bryant on Thursday",
-      "url": "https://goblackbears.com/news/2026/4/2/baseball-falls-in-series-opener-against-bryant-on-thursday.aspx",
-      "summary": "The University of Maine baseball program fell in the late innings against Bryant on Thursday.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/2/DSC04184.jpg",
-      "published": "Thu, 2 Apr 2026 16:50:00 EST",
       "sport": "Baseball",
       "source": "goblackbears"
     },
@@ -764,16 +764,6 @@
       "sport": "College Basketball",
       "source": "bdn",
       "author": "Larry Mahoney and Matt Junker"
-    },
-    {
-      "title": "Adrianna Smith might the best all-around player in the history of UMaine women\u2019s basketball",
-      "url": "https://www.bangordailynews.com/2026/03/04/sports/college-basketball/adrianna-smith-all-around-player-umaine-womens-basketball-joam40zk0w/",
-      "summary": "Entering Thursday\u2019s 6 p.m. America East quarterfinal against visiting New Hampshire, she has 1,804 career points, 1,010 rebounds and 418 assists.",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 06:00:00 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine football looking to fill hole in schedule after California school changes divisions",

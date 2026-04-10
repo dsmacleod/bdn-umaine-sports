@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T12:16:16.542792+00:00",
+  "last_updated": "2026-04-10T03:09:40.726205+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -779,60 +779,60 @@
     },
     "softball": {
       "title": "2026 Softball Standings",
-      "notes": "",
+      "notes": "- All results in conference games involving UMBC were recorded as a loss for UMBC and a win for UMBC's opponent. The games are not reflected in any team's overall record.",
       "teams": [
         {
           "school": "Binghamton",
-          "conference": "7-1",
-          "conference_pct": ".875",
+          "conference": "10-1",
+          "conference_pct": ".909",
           "overall": "9-18",
-          "pct": ".875",
+          "pct": ".909",
           "streak": "L1",
           "is_umaine": false
         },
         {
           "school": "Bryant",
-          "conference": "7-2",
-          "conference_pct": ".778",
+          "conference": "10-2",
+          "conference_pct": ".833",
           "overall": "13-17",
-          "pct": ".778",
+          "pct": ".833",
           "streak": "L2",
           "is_umaine": false
         },
         {
           "school": "UMass Lowell",
-          "conference": "5-4",
-          "conference_pct": ".556",
+          "conference": "8-4",
+          "conference_pct": ".667",
           "overall": "18-18",
-          "pct": ".556",
+          "pct": ".667",
           "streak": "W1",
           "is_umaine": false
         },
         {
           "school": "UAlbany",
-          "conference": "4-5",
-          "conference_pct": ".444",
+          "conference": "7-5",
+          "conference_pct": ".583",
           "overall": "15-13",
-          "pct": ".444",
+          "pct": ".583",
           "streak": "L1",
           "is_umaine": false
         },
         {
           "school": "Maine",
-          "conference": "0-5",
-          "conference_pct": ".000",
-          "overall": "8-25",
-          "pct": ".000",
-          "streak": "L4",
+          "conference": "3-5",
+          "conference_pct": ".375",
+          "overall": "9-25",
+          "pct": ".375",
+          "streak": "W1",
           "is_umaine": true
         },
         {
           "school": "UMBC",
-          "conference": "0-6",
+          "conference": "0-21",
           "conference_pct": ".000",
-          "overall": "11-8",
+          "overall": "11-9",
           "pct": ".000",
-          "streak": "W4",
+          "streak": "L1",
           "is_umaine": false
         }
       ]
