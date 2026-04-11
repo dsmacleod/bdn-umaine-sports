@@ -1,6 +1,51 @@
 {
-  "last_updated": "2026-04-10T12:13:31.922363+00:00",
+  "last_updated": "2026-04-11T03:07:02.791415+00:00",
   "articles": [
+    {
+      "title": "Brandon Holt named First Team All-American",
+      "url": "https://goblackbears.com/news/2026/4/10/mens-ice-hockey-brandon-holt-named-first-team-all-american.aspx",
+      "summary": "Holt marks the 45th All-America selection in program history.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/9/Untitled-1.png",
+      "published": "Fri, 10 Apr 2026 20:50:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Maine set to host UMass Lowell in home opener",
+      "url": "https://goblackbears.com/news/2026/4/9/softball-preview-maine-set-to-host-umass-lowell-in-home-opener.aspx",
+      "summary": "The Black Bears and River Hawks will play a three-game series on Saturday and Sunday.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/9/_PEV3749.jpg",
+      "published": "Thu, 9 Apr 2026 10:00:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "UMaine Football All Quarter-Century Team Announced",
+      "url": "https://goblackbears.com/news/2026/4/10/umaine-football-all-quarter-century-team-announced.aspx",
+      "summary": "The UMaine All Quarter-Century Team honors 63 former Black Bears who were the top players at their respective positions during their time at UMaine.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2016/11/22/untitled_95.JPG",
+      "published": "Fri, 10 Apr 2026 12:30:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Baseball Competes in Three Games Hosted by Northeastern",
+      "url": "https://goblackbears.com/news/2026/4/10/preview-baseball-competes-in-three-games-hosted-by-northeastern.aspx",
+      "summary": "The University of Maine baseball program will play three games beginning on Saturday, April 11 that are hosted by Northeastern.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/10/IMG_0273.jpg",
+      "published": "Fri, 10 Apr 2026 10:00:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine Athletics receives $500,000 gift to support Black Bear Student-Athlete Experience Fund",
+      "url": "https://goblackbears.com/news/2026/4/10/mens-ice-hockey-maine-athletics-receives-500-000-gift-to-support-black-bear-student-athlete-experience-fund.aspx",
+      "summary": "ORONO, Maine \u2013 Arthur S. Demoulas has committed $500,000 to support the men's ice hockey program through the Black Bear Student-Athlete Experience Fund.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/9/BBW-web.png",
+      "published": "Fri, 10 Apr 2026 09:00:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Preview: Track and Field takes on Friar Invitational and UMass Commonwealth Invite",
       "url": "https://goblackbears.com/news/2026/4/9/mens-track-and-field-preview-track-and-field-takes-on-friar-invitational-and-umass-commonwealth-invite.aspx",
@@ -17,15 +62,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/9/Isabelle-Irani.jpg",
       "published": "Thu, 9 Apr 2026 12:28:00 EST",
       "sport": "Women's Swimming and Diving, Academic Support Services",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Maine set to host UMass Lowell in home opener",
-      "url": "https://goblackbears.com/news/2026/4/9/softball-preview-maine-set-to-host-umass-lowell-in-home-opener.aspx",
-      "summary": "The Black Bears and River Hawks will play a three-game series on Saturday and Sunday.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/9/_PEV3749.jpg",
-      "published": "Thu, 9 Apr 2026 10:00:00 EST",
-      "sport": "Softball",
       "source": "goblackbears"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "The America East Conference announced on Tuesday morning that Nic Pepe of the University of Maine baseball program was named the Player of the Week for the conference following his weekend against Bryant.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/7/DSC03892.jpg",
       "published": "Tue, 7 Apr 2026 11:00:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Maine dominates Spring Opener",
-      "url": "https://goblackbears.com/news/2026/4/6/womens-track-and-field-maine-dominates-spring-opener.aspx",
-      "summary": "The University of Maine Track and Field program opened up their new facility by hosting the first outdoor home meet since 2017 with the University of Maine Spring Opener.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/6/562A0673.jpg",
-      "published": "Mon, 6 Apr 2026 21:18:00 EST",
-      "sport": "Women's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "McGarrity sets School Record in UMaine Spring Opener",
-      "url": "https://goblackbears.com/news/2026/4/6/mens-track-and-field-mcgarrity-sets-school-record-in-umaine-spring-opener.aspx",
-      "summary": "The University of Maine Track and Field program opened up their new facility by hosting the first outdoor home meet since 2017 with the University of Maine Spring Opener.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/4/13/_DSC4648.jpg",
-      "published": "Mon, 6 Apr 2026 13:28:00 EST",
-      "sport": "Men's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Maine softball announces 2026 promotional schedule",
-      "url": "https://goblackbears.com/news/2026/4/6/softball-maine-softball-announces-2026-promotional-schedule.aspx",
-      "summary": "The Black Bears open up the 2026 home slate on Saturday, March 28 with a doubleheader against Binghamton at the Pierre & Catherine Labat Softball Complex.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/19/_PEV3217.jpg",
-      "published": "Mon, 6 Apr 2026 09:00:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Grabs Second-Straight Series Victory",
-      "url": "https://goblackbears.com/news/2026/4/4/baseball-grabs-second-straight-series-victory.aspx",
-      "summary": "The University of Maine baseball program picked up their second-straight series victory as they took down Bryant in the series finale on Saturday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/4/IMG_0367.jpg",
-      "published": "Sat, 4 Apr 2026 16:51:00 EST",
       "sport": "Baseball",
       "source": "goblackbears"
     },
@@ -151,24 +151,6 @@
       "summary": "Maine's season ended with the playoff loss.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/13/IMG_9745.jpg",
       "published": "Fri, 13 Mar 2026 20:57:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Brandon Holt, Josh Nadeau earn Hockey East First Team All-Star honors",
-      "url": "https://goblackbears.com/news/2026/3/13/mens-ice-hockey-brandon-holt-josh-nadeau-earn-hockey-east-first-team-all-stars.aspx",
-      "summary": "Nadeau and Holt finished second and third in conference scoring.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/10/MIH_HoltNadeau.png",
-      "published": "Fri, 13 Mar 2026 10:00:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Brandon Holt, Owen Fowler garner early Hockey East awards",
-      "url": "https://goblackbears.com/news/2026/3/11/mens-ice-hockey-brandon-holt-owen-fowler-garner-early-hockey-east-awards.aspx",
-      "summary": "Brandon Holt earned two end of season awards while Owen Fowler was also honored.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/10/Untitled-1.png",
-      "published": "Wed, 11 Mar 2026 10:00:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
     },
@@ -407,13 +389,24 @@
       "source": "goblackbears"
     },
     {
-      "title": "WATCH: Inside the Huddle - \"Make-A-Wish\"",
-      "url": "https://goblackbears.com/news/2026/1/15/general-watch-inside-the-huddle-make-a-wish.aspx",
-      "summary": "ORONO, Maine -- In the fall, Maine Athletics had the honor of playing a part in granting the wish of 10-year old Zachary Ellis.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/15/zachary-ellis-on-field.png",
-      "published": "Thu, 15 Jan 2026 13:20:00 EST",
-      "sport": "Football, General",
-      "source": "goblackbears"
+      "title": "UMaine hockey\u2019s Owen Fowler will return to team next season",
+      "url": "https://www.bangordailynews.com/2026/04/10/sports/college-ice-hockey/owen-fowler-umaine-hockey-return/",
+      "summary": "Fowler has a fifth year of eligibility because he was injured and sat out his second season at UMass Lowell as a medical redshirt before transferring to UMaine.",
+      "image": "",
+      "published": "Fri, 10 Apr 2026 20:52:06 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Former UMaine hockey player from Market Basket family donates $500K to program",
+      "url": "https://www.bangordailynews.com/2026/04/10/sports/college-ice-hockey/arthur-demoulas-umaine-hockey-gift/",
+      "summary": "Arthur S. Demoulas was a freshman in UMaine's first men\u2019s hockey team in the new era in 1977-78 and has been a supporter ever since.",
+      "image": "",
+      "published": "Fri, 10 Apr 2026 20:31:44 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine hockey ticket prices increasing as much as 40% next year",
@@ -591,26 +584,6 @@
       "summary": "The Black Bears earned a 3-2 victory over Northeastern in front of 985 fans at the Tsongas Center in Lowell, Mass. on Saturday night.",
       "image": "",
       "published": "Sun, 01 Mar 2026 04:44:19 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "6th-ranked UConn women\u2019s ice hockey cruises past UMaine in Hockey East playoffs",
-      "url": "https://www.bangordailynews.com/2026/02/28/sports/college-ice-hockey/uconn-wins-ice-hockey-america-east-umaine-women/",
-      "summary": "UMaine concluded its season with a 13-19-4 record after falling to the University of Connecticut Huskies 6-to-1.",
-      "image": "",
-      "published": "Sun, 01 Mar 2026 01:46:54 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine hockey get 4-0 win over Northeastern featuring rare goalie assist",
-      "url": "https://www.bangordailynews.com/2026/02/27/sports/college-ice-hockey/umaine-hockey-4-0-win-over-northeastern/",
-      "summary": "The Black Bears earned a 4-0 Hockey East victory over Northeastern at the Cross Insurance Arena in Portland on Friday night.",
-      "image": "",
-      "published": "Sat, 28 Feb 2026 03:10:20 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
