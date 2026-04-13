@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T12:08:26.032220+00:00",
+  "last_updated": "2026-04-13T03:10:46.876024+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,12 +1567,12 @@
     },
     "baseball": {
       "record": {
-        "overall": "8-22",
+        "overall": "9-23",
         "conference": "5-4",
-        "streak": "W3",
+        "streak": "L1",
         "home": "2-1",
-        "away": "6-21",
-        "neutral": "0-0"
+        "away": "6-22",
+        "neutral": "1-0"
       },
       "games": [
         {
@@ -1861,7 +1861,7 @@
           "opponent": "Merrimack College",
           "location": "Boston, MA",
           "tournament": "",
-          "result": ""
+          "result": "W 10-4"
         },
         {
           "date": "Apr 12 (Sun)",
@@ -1870,7 +1870,7 @@
           "opponent": "Northeastern University",
           "location": "Boston, MA",
           "tournament": "",
-          "result": ""
+          "result": "L 5-13"
         },
         {
           "date": "Apr 17 (Fri)",
@@ -2112,10 +2112,10 @@
     },
     "softball": {
       "record": {
-        "overall": "9-26",
-        "conference": "4-6",
-        "streak": "W1",
-        "home": "1-1",
+        "overall": "9-27",
+        "conference": "4-7",
+        "streak": "L1",
+        "home": "1-2",
         "away": "5-18",
         "neutral": "3-7"
       },
@@ -2469,7 +2469,7 @@
           "opponent": "UMass Lowell",
           "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
           "tournament": "",
-          "result": ""
+          "result": "L 4-8"
         },
         {
           "date": "Apr 15 (Wed)",
