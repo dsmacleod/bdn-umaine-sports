@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-04-13T12:19:00.552124+00:00",
+  "last_updated": "2026-04-14T03:09:25.442340+00:00",
   "articles": [
+    {
+      "title": "Preview: Softball set to host Husson, Binghamton",
+      "url": "https://goblackbears.com/news/2026/4/13/preview-softball-set-to-host-husson-binghamton.aspx",
+      "summary": "Maine will play Husson on Wednesday night and Binghamton on Saturday and Sunday.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/13/562A1166.jpg",
+      "published": "Mon, 13 Apr 2026 12:46:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Splits Sunday Doubleheader",
       "url": "https://goblackbears.com/news/2026/4/12/baseball-splits-sunday-doubleheader.aspx",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/9/Untitled-1.png",
       "published": "Fri, 10 Apr 2026 20:50:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Maine set to host UMass Lowell in home opener",
-      "url": "https://goblackbears.com/news/2026/4/9/softball-preview-maine-set-to-host-umass-lowell-in-home-opener.aspx",
-      "summary": "The Black Bears and River Hawks will play a three-game series on Saturday and Sunday.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/9/_PEV3749.jpg",
-      "published": "Thu, 9 Apr 2026 10:00:00 EST",
-      "sport": "Softball",
       "source": "goblackbears"
     },
     {
@@ -425,6 +425,16 @@
       "source": "goblackbears"
     },
     {
+      "title": "9 UMaine men\u2019s hockey players enter transfer\u00a0portal",
+      "url": "https://www.bangordailynews.com/2026/04/13/sports/college-ice-hockey/umaine-mens-hockey-players-enter-transfer-portal/",
+      "summary": "The group includes two goalies and follows a disappointing 18-14-3 season for the Black Bears.",
+      "image": "",
+      "published": "Mon, 13 Apr 2026 18:57:25 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine hockey\u2019s Owen Fowler will return to team next season",
       "url": "https://www.bangordailynews.com/2026/04/10/sports/college-ice-hockey/owen-fowler-umaine-hockey-return/",
       "summary": "Fowler has a fifth year of eligibility because he was injured and sat out his second season at UMass Lowell as a medical redshirt before transferring to UMaine.",
@@ -610,16 +620,6 @@
       "summary": "Mathis Rousseau started in the Black Bears\u2019 last four games, all wins, and he has posted a 1.75 goals-against average and a .926 save percentage.",
       "image": "",
       "published": "Thu, 05 Mar 2026 06:00:00 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine hockey gets weekend sweep with another win over Northeastern",
-      "url": "https://www.bangordailynews.com/2026/02/28/sports/college-ice-hockey/umaine-hockey-gets-weekend-sweep/",
-      "summary": "The Black Bears earned a 3-2 victory over Northeastern in front of 985 fans at the Tsongas Center in Lowell, Mass. on Saturday night.",
-      "image": "",
-      "published": "Sun, 01 Mar 2026 04:44:19 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"

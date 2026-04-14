@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T12:19:00.552124+00:00",
+  "last_updated": "2026-04-14T03:09:25.442340+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -810,10 +810,10 @@
         },
         {
           "school": "UAlbany",
-          "conference": "4-5",
-          "conference_pct": ".444",
+          "conference": "7-5",
+          "conference_pct": ".583",
           "overall": "16-13",
-          "pct": ".444",
+          "pct": ".583",
           "streak": "W1",
           "is_umaine": false
         },
@@ -828,7 +828,7 @@
         },
         {
           "school": "UMBC",
-          "conference": "0-18",
+          "conference": "0-21",
           "conference_pct": ".000",
           "overall": "11-9",
           "pct": ".000",
