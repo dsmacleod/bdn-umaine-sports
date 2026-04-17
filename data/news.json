@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-04-16T12:18:27.492210+00:00",
+  "last_updated": "2026-04-17T03:09:32.473291+00:00",
   "articles": [
+    {
+      "title": "Preview: Black Bears gear up for Sean Collier Invitational and Jim Kavanagh Legacy Invitational",
+      "url": "https://goblackbears.com/news/2026/4/16/mens-track-and-field-preview-black-bears-gear-up-for-sean-collier-invitational-and-jim-kavanagh-legacy-invitational.aspx",
+      "summary": "The University of Maine track and field programs will be competing in the Sean Collier Invitational hosted by the Massachusetts Institute of Technology and the Jim Kavanagh Legacy Invitational hosted by Holy Cross starting on Friday April 17.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/16/562A0684.jpg",
+      "published": "Thu, 16 Apr 2026 15:41:00 EST",
+      "sport": "Men's Track and Field, Women's Track and Field",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Black Bears Head to NJIT for Conference Matchup",
+      "url": "https://goblackbears.com/news/2026/4/16/baseball-preview-black-bears-head-to-njit-for-conference-matchup.aspx",
+      "summary": "The University of Maine baseball program is set to head to NJIT for a three-game series beginning on Friday, April 17.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/16/RC0_0829__1_.jpg",
+      "published": "Thu, 16 Apr 2026 15:00:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
     {
       "title": "Maine picks up Wednesday night win over Husson",
       "url": "https://goblackbears.com/news/2026/4/15/softball-maine-picks-up-wednesday-night-win-over-husson.aspx",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/12/DSC01984.jpg",
       "published": "Sun, 12 Apr 2026 17:48:00 EST",
       "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "River Hawks top Black Bears in series finale",
-      "url": "https://goblackbears.com/news/2026/4/12/softball-river-hawks-top-black-bears-in-series-finale.aspx",
-      "summary": "Eviana Robles had a three-run shot for Maine.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/12/LSS02596.jpg",
-      "published": "Sun, 12 Apr 2026 16:45:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Cusson captures multiple Top 10 finishes at Commonwealth Invite",
-      "url": "https://goblackbears.com/news/2026/4/12/womens-track-and-field-cusson-captures-multiple-top-10-finishes-at-commonwealth-invite.aspx",
-      "summary": "The University of Maine Track and Field program competed in the Commonwealth Invite\u00a0hosted by University of Massachusetts Amherst on Saturday April 11.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/12/562A0853.jpg",
-      "published": "Sun, 12 Apr 2026 11:58:00 EST",
-      "sport": "Women's Track and Field",
       "source": "goblackbears"
     },
     {
@@ -425,6 +425,16 @@
       "source": "goblackbears"
     },
     {
+      "title": "UMaine men\u2019s hockey adds 6 players in transfer portal including 2 from rival schools",
+      "url": "https://www.bangordailynews.com/2026/04/16/sports/college-ice-hockey/umaine-hockey-team-transfers/",
+      "summary": "Sophomore right wing Lee Parks from UMass Lowell and sophomore defenseman Alexander Bales from Providence College will join the Black Bears.",
+      "image": "",
+      "published": "Thu, 16 Apr 2026 16:05:45 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine defenseman picked as first team All-American",
       "url": "https://www.bangordailynews.com/2026/04/14/sports/college-ice-hockey/umaine-brandon-holt-first-team-all-american/",
       "summary": "Brandon Holt led the Black Bears in scoring with 32 points on six goals and 26 assists. All are career-highs as were his 47 blocked shots.",
@@ -610,16 +620,6 @@
       "summary": "A win over the Catamounts would ensure the Black Bears of a fifth-place finish and a first-round bye to the quarterfinals.",
       "image": "",
       "published": "Sat, 07 Mar 2026 06:00:00 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine men\u2019s hockey can only host home playoff game if they lose Saturday",
-      "url": "https://www.bangordailynews.com/2026/03/06/sports/college-ice-hockey/umaine-mens-hockey-home-playoff/",
-      "summary": "The Black Bears' seeding depends on their season finale at Vermont and results from the other four Hockey East games.",
-      "image": "",
-      "published": "Fri, 06 Mar 2026 20:14:53 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"

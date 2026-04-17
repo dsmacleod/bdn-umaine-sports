@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T12:18:27.492210+00:00",
+  "last_updated": "2026-04-17T03:09:32.473291+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -3729,7 +3729,7 @@
         },
         {
           "date": "Apr 17 (Fri)",
-          "time": "TBD",
+          "time": "6:30 PM",
           "home_away": "Away",
           "opponent": "Sean Collier Invitational",
           "location": "Cambridge, MA",
@@ -3737,29 +3737,20 @@
           "result": ""
         },
         {
-          "date": "Apr 17 (Fri)",
-          "time": "TBD",
-          "home_away": "Away",
-          "opponent": "Jim Kavanagh Legacy Invitational",
-          "location": "Worcester, MA",
-          "tournament": "",
-          "result": ""
-        },
-        {
           "date": "Apr 18 (Sat)",
-          "time": "TBD",
-          "home_away": "Away",
-          "opponent": "Jim Kavanagh Legacy Invitational",
-          "location": "Worcester, MA",
-          "tournament": "",
-          "result": ""
-        },
-        {
-          "date": "Apr 18 (Sat)",
-          "time": "TBD",
+          "time": "10 AM",
           "home_away": "Away",
           "opponent": "Sean Collier Invitational",
           "location": "Cambridge, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 18 (Sat)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "Jim Kavanagh Legacy Invitational",
+          "location": "Worcester, MA",
           "tournament": "",
           "result": ""
         },
@@ -3792,7 +3783,7 @@
         },
         {
           "date": "May 9 (Sat)",
-          "time": "TBD",
+          "time": "10 AM",
           "home_away": "Away",
           "opponent": "America East Outdoor Championships",
           "location": "Lowell, MA",
@@ -3801,7 +3792,7 @@
         },
         {
           "date": "May 10 (Sun)",
-          "time": "TBD",
+          "time": "9 AM",
           "home_away": "Away",
           "opponent": "America East Outdoor Championships",
           "location": "Lowell, MA",
@@ -3839,9 +3830,8 @@
         "16435",
         "16437",
         "16438",
-        "16440",
-        "16441",
         "16439",
+        "16441",
         "16442",
         "16443",
         "16444",
@@ -4024,7 +4014,7 @@
         },
         {
           "date": "Apr 17 (Fri)",
-          "time": "TBD",
+          "time": "6:30 PM",
           "home_away": "Away",
           "opponent": "Sean Collier Invitational",
           "location": "Cambridge, MA",
@@ -4032,29 +4022,20 @@
           "result": ""
         },
         {
-          "date": "Apr 17 (Fri)",
-          "time": "TBD",
-          "home_away": "Away",
-          "opponent": "Jim Kavanagh Legacy Invitational",
-          "location": "Worcester, MA",
-          "tournament": "",
-          "result": ""
-        },
-        {
           "date": "Apr 18 (Sat)",
-          "time": "TBD",
-          "home_away": "Away",
-          "opponent": "Jim Kavanagh Legacy Invitational",
-          "location": "Worcester, MA",
-          "tournament": "",
-          "result": ""
-        },
-        {
-          "date": "Apr 18 (Sat)",
-          "time": "TBD",
+          "time": "10 AM",
           "home_away": "Away",
           "opponent": "Sean Collier Invitational",
           "location": "Cambridge, MA",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Apr 18 (Sat)",
+          "time": "10 AM",
+          "home_away": "Away",
+          "opponent": "Jim Kavanagh Legacy Invitational",
+          "location": "Worcester, MA",
           "tournament": "",
           "result": ""
         },
@@ -4087,7 +4068,7 @@
         },
         {
           "date": "May 9 (Sat)",
-          "time": "TBD",
+          "time": "10 AM",
           "home_away": "Away",
           "opponent": "America East Outdoor Championships",
           "location": "Lowell, MA",
@@ -4096,7 +4077,7 @@
         },
         {
           "date": "May 10 (Sun)",
-          "time": "TBD",
+          "time": "9 AM",
           "home_away": "Away",
           "opponent": "America East Outdoor Championships",
           "location": "Lowell, MA",
@@ -4134,9 +4115,8 @@
         "16454",
         "16455",
         "16456",
-        "16458",
-        "16459",
         "16457",
+        "16459",
         "16460",
         "16461",
         "16462",
