@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T12:15:49.539560+00:00",
+  "last_updated": "2026-04-18T03:08:11.209933+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,11 +1567,11 @@
     },
     "baseball": {
       "record": {
-        "overall": "9-23",
-        "conference": "5-4",
-        "streak": "L1",
+        "overall": "10-23",
+        "conference": "6-4",
+        "streak": "W1",
         "home": "2-1",
-        "away": "6-22",
+        "away": "7-22",
         "neutral": "1-0"
       },
       "games": [
@@ -1879,11 +1879,11 @@
           "opponent": "New Jersey Institute of Technology",
           "location": "Newark, NJ",
           "tournament": "",
-          "result": ""
+          "result": "W 5-3"
         },
         {
           "date": "Apr 18 (Sat)",
-          "time": "6 PM",
+          "time": "2 PM",
           "home_away": "Away",
           "opponent": "New Jersey Institute of Technology",
           "location": "Newark, NJ",
@@ -1891,8 +1891,8 @@
           "result": ""
         },
         {
-          "date": "Apr 19 (Sun)",
-          "time": "Noon",
+          "date": "Apr 18 (Sat)",
+          "time": "6 PM",
           "home_away": "Away",
           "opponent": "New Jersey Institute of Technology",
           "location": "Newark, NJ",
