@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T12:08:19.877690+00:00",
+  "last_updated": "2026-04-19T03:09:20.885003+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,11 +1567,11 @@
     },
     "baseball": {
       "record": {
-        "overall": "10-23",
-        "conference": "6-4",
+        "overall": "11-24",
+        "conference": "7-5",
         "streak": "W1",
         "home": "2-1",
-        "away": "7-22",
+        "away": "8-23",
         "neutral": "1-0"
       },
       "games": [
@@ -1888,7 +1888,7 @@
           "opponent": "New Jersey Institute of Technology",
           "location": "Newark, NJ",
           "tournament": "",
-          "result": ""
+          "result": "L 3-6"
         },
         {
           "date": "Apr 18 (Sat)",
@@ -1897,7 +1897,7 @@
           "opponent": "New Jersey Institute of Technology",
           "location": "Newark, NJ",
           "tournament": "",
-          "result": ""
+          "result": "W 4-2"
         },
         {
           "date": "Apr 21 (Tue)",
@@ -2112,10 +2112,10 @@
     },
     "softball": {
       "record": {
-        "overall": "10-27",
-        "conference": "4-7",
+        "overall": "11-28",
+        "conference": "5-8",
         "streak": "W1",
-        "home": "2-2",
+        "home": "3-3",
         "away": "5-18",
         "neutral": "3-7"
       },
@@ -2487,7 +2487,7 @@
           "opponent": "Binghamton",
           "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
           "tournament": "",
-          "result": ""
+          "result": "L 6-8"
         },
         {
           "date": "Apr 18 (Sat)",
@@ -2496,11 +2496,11 @@
           "opponent": "Binghamton",
           "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
           "tournament": "",
-          "result": ""
+          "result": "W 4-3"
         },
         {
           "date": "Apr 19 (Sun)",
-          "time": "12:00 PM",
+          "time": "9:00 AM",
           "home_away": "Home",
           "opponent": "Binghamton",
           "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",

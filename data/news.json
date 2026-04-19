@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-04-18T12:08:19.877690+00:00",
+  "last_updated": "2026-04-19T03:09:20.885003+00:00",
   "articles": [
+    {
+      "title": "Baseball Splits Saturday Doubleheader at NJIT",
+      "url": "https://goblackbears.com/news/2026/4/18/baseball-splits-saturday-doubleheader-at-njit.aspx",
+      "summary": "The University of Maine baseball program split their Saturday doubleheader with NJIT to grab their third-straight series victory in conference play.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/18/562A8838.jpg",
+      "published": "Sat, 18 Apr 2026 19:17:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine splits with Binghamton in America East play",
+      "url": "https://goblackbears.com/news/2026/4/18/softball-maine-splits-with-binghamton-in-america-east-play.aspx",
+      "summary": "The Black Bears walked it off for a 4-3 win in game two.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/18/SB-6.jpg",
+      "published": "Sat, 18 Apr 2026 18:40:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Erased Early Deficit to Grab Sixth America East Victory of the Season",
       "url": "https://goblackbears.com/news/2026/4/17/baseball-erased-early-deficit-to-grab-sixth-america-east-victory-of-the-season.aspx",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/4/smith-dribbl-ebinghamton.png",
       "published": "Wed, 15 Apr 2026 15:16:00 EST",
       "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women\u2019s Ice Hockey Set to Open Commemorative Lighthouse Jersey Auction, April 22",
-      "url": "https://goblackbears.com/news/2026/4/15/womens-ice-hockey-womens-ice-hockey-set-to-open-commemorative-lighthouse-jersey-auction-april-22.aspx",
-      "summary": "The University of Maine women's ice hockey will open their auction of game-worn, alternate lighthouse jerseys from this past season starting on April 22. The jerseys, made possible through a partnership with KeyBank, were worn twice last season by the Black Bears, including the Maine State Pride game in Portland.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/15/DSC_0404.jpg",
-      "published": "Wed, 15 Apr 2026 14:04:00 EST",
-      "sport": "General, Women's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Krasnow named America East Winter Scholar Athlete",
-      "url": "https://goblackbears.com/news/2026/4/15/womens-track-and-field-krasnow-named-america-east-winter-scholar-athlete.aspx",
-      "summary": "Ruby Krasnow of the University of Maine Indoor Track and Field program was named the 2025-26 America East Female Indoor Track and Field winter scholar-athlete, the conference announced on Wednesday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/8/TRCK_2025_America_East_Indoor_Track_and_Field_Championship_20250223_3092.jpg",
-      "published": "Wed, 15 Apr 2026 14:00:00 EST",
-      "sport": "Women's Track and Field",
       "source": "goblackbears"
     },
     {
@@ -757,6 +757,16 @@
       "author": "Larry Mahoney and Matt Junker"
     },
     {
+      "title": "UMaine football has a quarterback battle this spring",
+      "url": "https://www.bangordailynews.com/2026/04/18/sports/college-football/university-maine-football-quarterbacks-joam40zk0w/",
+      "summary": "Veteran backups Caden Drezek and Eddie Buehler will be competing for the job along with redshirt freshman Michael McMaugh.",
+      "image": "",
+      "published": "Sat, 18 Apr 2026 17:00:00 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine football coach Jordan Stevens among those named to school\u2019s All Quarter-Century team",
       "url": "https://www.bangordailynews.com/2026/04/10/sports/college-football/umaine-football-coach-jordan-stevens-all-quarter-century-team-joam40zk0w/",
       "summary": "The players will be honored at the annual UMaine football alumni dinner in Brighton, Massachusetts, on June 27.",
@@ -922,16 +932,6 @@
       "summary": "No matter what kind of season the University of Maine\u2019s football team is having, Homecoming has been good to the Black Bears in recent years.",
       "image": "",
       "published": "Sat, 25 Oct 2025 21:15:00 +0000",
-      "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Knee injury ends season for 1 of UMaine football\u2019s top offensive weapons",
-      "url": "https://www.bangordailynews.com/2025/10/20/sports/college-football/nick-laughlin-out-for-season-umaine-football/",
-      "summary": "University of Maine running back Nick Laughllin from Cape Elizabeth has been lost for the season due to a knee injury.",
-      "image": "",
-      "published": "Mon, 20 Oct 2025 18:17:24 +0000",
       "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
