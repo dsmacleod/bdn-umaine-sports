@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T12:08:01.920799+00:00",
+  "last_updated": "2026-04-20T03:10:07.237766+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -2112,10 +2112,10 @@
     },
     "softball": {
       "record": {
-        "overall": "11-28",
-        "conference": "5-8",
-        "streak": "W1",
-        "home": "3-3",
+        "overall": "12-28",
+        "conference": "6-8",
+        "streak": "W2",
+        "home": "4-3",
         "away": "5-18",
         "neutral": "3-7"
       },
@@ -2505,7 +2505,7 @@
           "opponent": "Binghamton",
           "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
           "tournament": "",
-          "result": ""
+          "result": "W 11-7"
         },
         {
           "date": "Apr 25 (Sat)",

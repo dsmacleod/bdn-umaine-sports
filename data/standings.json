@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T12:08:01.920799+00:00",
+  "last_updated": "2026-04-20T03:10:07.237766+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -722,6 +722,15 @@
           "is_umaine": false
         },
         {
+          "school": "UMBC",
+          "conference": "7-5",
+          "conference_pct": ".583",
+          "overall": "18-16",
+          "pct": ".583",
+          "streak": "W1",
+          "is_umaine": false
+        },
+        {
           "school": "Maine",
           "conference": "7-5",
           "conference_pct": ".583",
@@ -729,15 +738,6 @@
           "pct": ".583",
           "streak": "W1",
           "is_umaine": true
-        },
-        {
-          "school": "UMBC",
-          "conference": "6-5",
-          "conference_pct": ".545",
-          "overall": "17-16",
-          "pct": ".545",
-          "streak": "L1",
-          "is_umaine": false
         },
         {
           "school": "Bryant",
@@ -749,21 +749,21 @@
           "is_umaine": false
         },
         {
-          "school": "UMass Lowell",
-          "conference": "6-8",
-          "conference_pct": ".429",
-          "overall": "15-19",
-          "pct": ".429",
-          "streak": "W1",
-          "is_umaine": false
-        },
-        {
           "school": "UAlbany",
           "conference": "5-7",
           "conference_pct": ".417",
           "overall": "10-22",
           "pct": ".417",
           "streak": "L2",
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "conference": "6-9",
+          "conference_pct": ".400",
+          "overall": "15-20",
+          "pct": ".400",
+          "streak": "L1",
           "is_umaine": false
         },
         {
@@ -792,11 +792,11 @@
         },
         {
           "school": "Binghamton",
-          "conference": "12-4",
-          "conference_pct": ".750",
-          "overall": "13-21",
-          "pct": ".750",
-          "streak": "L1",
+          "conference": "12-5",
+          "conference_pct": ".706",
+          "overall": "13-22",
+          "pct": ".706",
+          "streak": "L2",
           "is_umaine": false
         },
         {
@@ -819,11 +819,11 @@
         },
         {
           "school": "Maine",
-          "conference": "5-8",
-          "conference_pct": ".385",
-          "overall": "12-28",
-          "pct": ".385",
-          "streak": "W1",
+          "conference": "6-8",
+          "conference_pct": ".429",
+          "overall": "13-28",
+          "pct": ".429",
+          "streak": "W2",
           "is_umaine": true
         },
         {
