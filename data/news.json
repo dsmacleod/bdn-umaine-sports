@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-04-20T12:19:57.467396+00:00",
+  "last_updated": "2026-04-21T03:09:35.434489+00:00",
   "articles": [
+    {
+      "title": "Smith signs with Dandenong Rangers",
+      "url": "https://goblackbears.com/news/2026/4/20/womens-basketball-smith-signs-with-dandenong-rangers.aspx",
+      "summary": "ORONO, Maine -- University of Maine redshirt senior forward, Adrianna Smith, has signed a professional basketball contract with the Dandenong Rangers (Australia).",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/20/adi-dribble-unh.png",
+      "published": "Mon, 20 Apr 2026 11:11:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's Basketball opens auction for pink jerseys",
+      "url": "https://goblackbears.com/news/2026/4/20/womens-basketball-opens-auction-for-pink-jerseys.aspx",
+      "summary": "ORONO, Maine -- This is your chance to purchase your very own special game-worn pink women's basketball jersey!",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/20/Maddie_Fitzpatrick_Adrianna_Smith_2_21_26_vs_UNH_1-pink.png",
+      "published": "Mon, 20 Apr 2026 10:45:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Black Bears head to Rhode Island to face Bryant",
+      "url": "https://goblackbears.com/news/2026/4/20/softball-preview-black-bears-head-to-rhode-island-to-face-bryant.aspx",
+      "summary": "Maine will play a three-game series beginning with a doubleheader on Saturday.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/20/562A3012.jpg",
+      "published": "Mon, 20 Apr 2026 10:20:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
     {
       "title": "Black Bears compete in Jim Kavanagh Legacy Invitational",
       "url": "https://goblackbears.com/news/2026/4/19/womens-track-and-field-black-bears-compete-in-jim-kavanagh-legacy-invitational.aspx",
@@ -62,33 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/18/SB-6.jpg",
       "published": "Sat, 18 Apr 2026 18:40:00 EST",
       "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Erased Early Deficit to Grab Sixth America East Victory of the Season",
-      "url": "https://goblackbears.com/news/2026/4/17/baseball-erased-early-deficit-to-grab-sixth-america-east-victory-of-the-season.aspx",
-      "summary": "The University of Maine baseball program erased a three-run deficit to pick up the series opening win at NJIT on Friday Night.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/17/RC0_1358.jpg",
-      "published": "Fri, 17 Apr 2026 21:32:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Samuel Tremblay named Outstanding Graduating International Student for the Maine Business School",
-      "url": "https://goblackbears.com/news/2026/4/17/football-samuel-tremblay-named-outstanding-graduating-international-student-for-the-maine-business-school.aspx",
-      "summary": "ORONO, Maine -- Samuel Tremblay of Quebec City is the Outstanding Graduating International Student for the Maine Business School. A business administration student majoring in management, Tremblay is a tutor, mentor, Maine Business School ambassador and president of the UMaine chapter of the Beta Gamma Sigma honor society.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/17/Samuel-Tremblay-OGS.jpg",
-      "published": "Fri, 17 Apr 2026 14:16:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Zoe Furber named Outstanding Graduating International Student in the College of Earth, Life, and Health Sciences",
-      "url": "https://goblackbears.com/news/2026/4/17/field-hockey-zoe-furber-named-zoe-furber-of-vancouver-british-columbia-is-the-outstanding-graduating-international-student-in-the-college-of-earth-life-and-health-sciences.aspx",
-      "summary": "ORONO, Maine -- Zoe Furber of Vancouver, British Columbia is the Outstanding Graduating International Student in the College of Earth, Life, and Health Sciences. A double major in marine science and biology with a concentration in marine biology, she has been a member of the UMaine Field Hockey team since 2022 and was appointed captain in 2025.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/17/Zoe-Furber-OGS-v2.jpg",
-      "published": "Fri, 17 Apr 2026 13:31:00 EST",
-      "sport": "Field Hockey",
       "source": "goblackbears"
     },
     {
@@ -254,24 +254,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Preview: Women's Basketball squares off with No. 3 Binghamton in America East semifinal",
-      "url": "https://goblackbears.com/news/2026/3/8/preview-womens-basketball-squares-off-with-no-3-binghamton-in-america-east-semifinal.aspx",
-      "summary": "ORONO, Maine -- The No. 2 seed University of Maine women's basketball team hosts No. 3 Binghamton on Monday, March 9 at 6 p.m. in the semifinal round of the Air Force Reserve America East playoffs. Limited tickets remain and can be purchased at GoBlackBears.com/tickets.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/alvarez-action-2.png",
-      "published": "Sun, 8 Mar 2026 11:16:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "America East semifinal tickets on sale now",
-      "url": "https://goblackbears.com/news/2026/3/6/womens-basketball-america-east-semifinal-tickets-on-sale-now.aspx",
-      "summary": "ORONO, Maine -- Tickets are on sale now for the University of Maine women's basketball team's 2026 Air Force Reserve America East\u00a0semifinal round game which will take place on March 9 at 6 p.m. at Skip Chappelle Court against No. 3 Binghamton.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/landscape.jpg",
-      "published": "Fri, 6 Mar 2026 10:08:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "Men's Basketball has Season come to an end on Saturday in America East Quarterfinals",
       "url": "https://goblackbears.com/news/2026/3/7/mens-basketball-has-season-come-to-an-end-on-saturday-in-america-east-quarterfinals.aspx",
       "summary": "The University of Maine basketball team had their season come to an end as they fell to #3 NJIT, 60-58.",
@@ -350,6 +332,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/26/Ace_Flagg_1_3_26_vs_Bryant_3.jpg",
       "published": "Thu, 26 Feb 2026 20:28:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Samuel Tremblay named Outstanding Graduating International Student for the Maine Business School",
+      "url": "https://goblackbears.com/news/2026/4/17/football-samuel-tremblay-named-outstanding-graduating-international-student-for-the-maine-business-school.aspx",
+      "summary": "ORONO, Maine -- Samuel Tremblay of Quebec City is the Outstanding Graduating International Student for the Maine Business School. A business administration student majoring in management, Tremblay is a tutor, mentor, Maine Business School ambassador and president of the UMaine chapter of the Beta Gamma Sigma honor society.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/17/Samuel-Tremblay-OGS.jpg",
+      "published": "Fri, 17 Apr 2026 14:16:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -625,6 +616,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "UMaine men\u2019s basketball guard transfers to Saint Joseph\u2019s University",
+      "url": "https://www.bangordailynews.com/2026/04/20/sports/college-basketball/logan-carey-umaine-basketball-transfer-saint-josephs/",
+      "summary": "Logan Carey announced on Friday that he is transferring to the Philadelphia school for his final season.",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 19:06:16 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "Here\u2019s what UMaine\u2019s basketball court will look like in new $80 million arena",
       "url": "https://www.bangordailynews.com/2026/04/03/sports/college/umaine-basketball-80-million-remodel/",
       "summary": "The facility is expected to be completed and in use during the 2027-28 basketball season. Construction began this past fall.",
@@ -763,16 +764,6 @@
       "sport": "College Basketball",
       "source": "bdn",
       "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine\u2019s Adrianna Smith named America East player of the year",
-      "url": "https://www.bangordailynews.com/2026/03/04/sports/college-basketball/adrianna-smith-america-east-player-year/",
-      "summary": "On Saturday, Smith became the first player in America East history to register 1,000 career points, 1,000 rebounds and 400 assists.",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 18:51:46 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney and Matt Junker"
     },
     {
       "title": "UMaine football has a quarterback battle this spring",
@@ -955,6 +946,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "UMaine basketball star Adrianna Smith signs contract with Australia league",
+      "url": "https://www.bangordailynews.com/2026/04/20/sports/professional-basketball/umaine-basketball-star-adrianna-smith-signs-with-australia-league/",
+      "summary": "The two-time America East Player of the Year is joining the Dandenong Rangers immediately as they are already five games into their season.",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 20:54:06 +0000",
+      "sport": "Professional Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine softball edges Husson 2-1 on pinch-hit home run",
       "url": "https://www.bangordailynews.com/2026/04/15/sports/college-softball/umaine-softball-edges-husson/",
       "summary": "It was the first time the two neighbors from different divisions had met since 2014. UMaine has won all 16 meetings.",
@@ -970,16 +971,6 @@
       "summary": "Juju Stevens said he and redshirt senior relief pitcher Sebastian Holt have some \u201cunfinished business\u201d this season.",
       "image": "",
       "published": "Wed, 15 Apr 2026 05:00:00 +0000",
-      "sport": "College Baseball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine baseball is finding some wins after slow start",
-      "url": "https://www.bangordailynews.com/2026/04/07/sports/college-baseball/umaine-baseball-wins-after-slow-start-joam40zk0w/",
-      "summary": "Ninth-year UMaine head coach Nick Derba said he feels good about his team\u2019s progress.",
-      "image": "",
-      "published": "Tue, 07 Apr 2026 05:00:00 +0000",
       "sport": "College Baseball",
       "source": "bdn",
       "author": "Larry Mahoney"
