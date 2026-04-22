@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T12:18:04.323040+00:00",
+  "last_updated": "2026-04-22T03:09:51.025862+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,11 +1567,11 @@
     },
     "baseball": {
       "record": {
-        "overall": "11-24",
+        "overall": "12-24",
         "conference": "7-5",
-        "streak": "W1",
+        "streak": "W2",
         "home": "2-1",
-        "away": "8-23",
+        "away": "9-23",
         "neutral": "1-0"
       },
       "games": [
@@ -1906,7 +1906,7 @@
           "opponent": "Boston College",
           "location": "Chestnut Hill, MA",
           "tournament": "",
-          "result": ""
+          "result": "W 6-4"
         },
         {
           "date": "Apr 24 (Fri)",
