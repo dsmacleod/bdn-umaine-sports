@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T03:09:48.203593+00:00",
+  "last_updated": "2026-04-23T12:18:03.521598+00:00",
   "articles": [
     {
       "title": "Saturday in Orono: Baseball, Football, Field Hockey, Spring Sale",
@@ -933,6 +933,16 @@
       "image": "",
       "published": "Sat, 25 Oct 2025 21:15:00 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine baseball\u2019s 1st win over ranked team since 2018 provides momentum for weekend series",
+      "url": "https://www.bangordailynews.com/2026/04/23/sports/college-baseball/umaine-baseball-weekend-series-joam40zk0w/",
+      "summary": "UMaine, 12-24 overall, hosts UMBC for a three-game set this weekend with games at 3 p.m. Friday at 3, Saturday at 1 and Sunday at noon.",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 05:00:00 +0000",
+      "sport": "College Baseball",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
