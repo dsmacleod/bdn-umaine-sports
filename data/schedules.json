@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T12:17:18.811207+00:00",
+  "last_updated": "2026-04-25T03:08:07.244874+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,10 +1567,10 @@
     },
     "baseball": {
       "record": {
-        "overall": "12-24",
-        "conference": "7-5",
-        "streak": "W2",
-        "home": "2-1",
+        "overall": "12-25",
+        "conference": "7-6",
+        "streak": "L1",
+        "home": "2-2",
         "away": "9-23",
         "neutral": "1-0"
       },
@@ -1915,7 +1915,7 @@
           "opponent": "UMBC",
           "location": "Orono, ME (Mahaney Diamond)",
           "tournament": "",
-          "result": ""
+          "result": "L 2-3"
         },
         {
           "date": "Apr 25 (Sat)",

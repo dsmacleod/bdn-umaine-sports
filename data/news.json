@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-04-24T12:17:18.811207+00:00",
+  "last_updated": "2026-04-25T03:08:07.244874+00:00",
   "articles": [
+    {
+      "title": "Baseball Falls in Tight Battle Against UMBC on Friday Afternoon",
+      "url": "https://goblackbears.com/news/2026/4/24/baseball-falls-in-tight-battle-against-umbc-on-friday-afternoon.aspx",
+      "summary": "The University of Maine baseball program fell in a close contest against UMBC on Friday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/24/DSC06382.jpg",
+      "published": "Fri, 24 Apr 2026 18:35:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
     {
       "title": "Saturday in Orono: Baseball, Football, Field Hockey, Spring Sale",
       "url": "https://goblackbears.com/news/2026/4/22/saturday-in-orono-baseball-football-field-hockey-spring-sale.aspx",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/20/Maddie_Fitzpatrick_Adrianna_Smith_2_21_26_vs_UNH_1-pink.png",
       "published": "Mon, 20 Apr 2026 10:45:00 EST",
       "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Black Bears head to Rhode Island to face Bryant",
-      "url": "https://goblackbears.com/news/2026/4/20/softball-preview-black-bears-head-to-rhode-island-to-face-bryant.aspx",
-      "summary": "Maine will play a three-game series beginning with a doubleheader on Saturday.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/20/562A3012.jpg",
-      "published": "Mon, 20 Apr 2026 10:20:00 EST",
-      "sport": "Softball",
       "source": "goblackbears"
     },
     {
@@ -182,6 +182,24 @@
       "source": "goblackbears"
     },
     {
+      "title": "Women's Basketball announces the addition of Aina Real",
+      "url": "https://goblackbears.com/news/2026/4/24/womens-basketball-announces-the-addition-of-aina-real.aspx",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team has announced the addition of Aina Real. Real\u00a0will be eligible to join the Black Bears for the 2026-27 season.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/24/aina-real-action.png",
+      "published": "Fri, 24 Apr 2026 12:19:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's Basketball announces the addition of Zeina Haleem",
+      "url": "https://goblackbears.com/news/2026/4/23/womens-basketball-announces-the-addition-of-zeina-haleem.aspx",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team has announced the addition of Zeina Haleem. Haleem will be eligible to join the Black Bears for the 2026-27 season.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/24/haleem-action.png",
+      "published": "Thu, 23 Apr 2026 11:39:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
       "title": "Smith tabbed America East Women's Basketball Winter Scholar-Athlete Award Recipient",
       "url": "https://goblackbears.com/news/2026/4/15/smith-tabbed-america-east-womens-basketball-winter-scholar-athlete-award-recipient.aspx",
       "summary": "ORONO, Maine -- Adrianna Smith has been named the America East Women's Basketball Winter Scholar Athlete Award recipient, as announced\u00a0by the conference on Wednesday.",
@@ -232,24 +250,6 @@
       "summary": "ORONO, Maine -- University of Maine forward Adrianna Smith has been named a finalist for the Becky Hammon Mid-Major Player of the Year Award presented by Her Hoop Stats.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/11/smith-dribble-semi.png",
       "published": "Wed, 11 Mar 2026 11:00:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Air Force Reserve America East Women's Basketball Championship Central",
-      "url": "https://goblackbears.com/news/2026/3/10/air-force-reserve-america-east-womens-basketball-championship-central.aspx",
-      "summary": "ORONO, Maine -- The No.2 seed University of Maine women's basketball team will meet No. 1 Vermont in the Air Force Reserve America East Championship game on Friday, March 13 at 5 p.m. at Patrick Gymnasium.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/10/semi-group.png",
-      "published": "Tue, 10 Mar 2026 11:03:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Black Bears top Binghamton in America East semifinal, 60-56",
-      "url": "https://goblackbears.com/news/2026/3/9/womens-basketball-black-bears-top-binghamton-in-america-east-semifinal-60-56.aspx",
-      "summary": "ORONO, Maine -- The University of Maine women's basketball team (19-12) earned a spot in the Air Force Reserve America East Championship game after a 60-56 semifinal victory over No. 3 Binghamton on Monday evening.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/9/adi-shot-over-binghamton.png",
-      "published": "Mon, 9 Mar 2026 22:01:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
     },
@@ -607,6 +607,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "UMaine women\u2019s basketball adds Egyptian forward and Spanish guard",
+      "url": "https://www.bangordailynews.com/2026/04/24/sports/college-basketball/umaine-womens-basketball-egyptian-forward-spanish-guard/",
+      "summary": "Zeina Haleem, a 6-foot-3-inch forward from Cairo, is believed to be the first woman from Egypt to play Black Bears basketball.",
+      "image": "",
+      "published": "Fri, 24 Apr 2026 20:41:02 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine men\u2019s basketball guard transfers to Saint Joseph\u2019s University",
       "url": "https://www.bangordailynews.com/2026/04/20/sports/college-basketball/logan-carey-umaine-basketball-transfer-saint-josephs/",
       "summary": "Logan Carey announced on Friday that he is transferring to the Philadelphia school for his final season.",
@@ -747,12 +757,12 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine women\u2019s basketball expects tough playoff test from UNH",
-      "url": "https://www.bangordailynews.com/2026/03/04/sports/college-basketball/umaine-womens-basketball-expects-tough-playoff-test-unh/",
-      "summary": "The Black Bears have 12 consecutive wins over the Wildcats, but nearly lost that streak in a recent meeting.",
+      "title": "UMaine football will play annual spring game Saturday",
+      "url": "https://www.bangordailynews.com/2026/04/24/sports/college-football/umaine-football-spring-game-saturday/",
+      "summary": "The annual game is the first chance to see the team for the upcoming season.",
       "image": "",
-      "published": "Wed, 04 Mar 2026 20:14:48 +0000",
-      "sport": "College Basketball",
+      "published": "Fri, 24 Apr 2026 20:04:04 +0000",
+      "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
@@ -922,16 +932,6 @@
       "summary": "UMaine head coach Jordan Stevens said the biggest reason behind the turnaround is the way his defensive players have improved their tackling.",
       "image": "",
       "published": "Tue, 28 Oct 2025 05:00:00 +0000",
-      "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine football wins ninth straight Homecoming game",
-      "url": "https://www.bangordailynews.com/2025/10/25/sports/college-football/umaine-football-wins-ninth-straight-homecoming/",
-      "summary": "No matter what kind of season the University of Maine\u2019s football team is having, Homecoming has been good to the Black Bears in recent years.",
-      "image": "",
-      "published": "Sat, 25 Oct 2025 21:15:00 +0000",
       "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
