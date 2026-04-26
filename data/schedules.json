@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T12:10:09.613462+00:00",
+  "last_updated": "2026-04-26T03:10:23.907156+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,10 +1567,10 @@
     },
     "baseball": {
       "record": {
-        "overall": "12-25",
-        "conference": "7-6",
-        "streak": "L1",
-        "home": "2-2",
+        "overall": "13-25",
+        "conference": "8-6",
+        "streak": "W1",
+        "home": "3-2",
         "away": "9-23",
         "neutral": "1-0"
       },
@@ -1924,7 +1924,7 @@
           "opponent": "UMBC",
           "location": "Orono, ME (Mahaney Diamond)",
           "tournament": "",
-          "result": ""
+          "result": "W 8-5"
         },
         {
           "date": "Apr 26 (Sun)",
@@ -2112,11 +2112,11 @@
     },
     "softball": {
       "record": {
-        "overall": "12-28",
-        "conference": "6-8",
-        "streak": "W2",
+        "overall": "12-30",
+        "conference": "6-10",
+        "streak": "L2",
         "home": "4-3",
-        "away": "5-18",
+        "away": "5-20",
         "neutral": "3-7"
       },
       "games": [
@@ -2514,7 +2514,7 @@
           "opponent": "Bryant",
           "location": "Smithfield, R.I.",
           "tournament": "",
-          "result": ""
+          "result": "L 4-11"
         },
         {
           "date": "Apr 25 (Sat)",
@@ -2523,7 +2523,7 @@
           "opponent": "Bryant",
           "location": "Smithfield, R.I.",
           "tournament": "",
-          "result": ""
+          "result": "L 3-4"
         },
         {
           "date": "Apr 26 (Sun)",
