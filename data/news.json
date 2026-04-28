@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-04-27T12:27:43.686572+00:00",
+  "last_updated": "2026-04-28T03:11:31.465075+00:00",
   "articles": [
+    {
+      "title": "Day in the Life - Brayden Isaiah",
+      "url": "https://goblackbears.com/news/2026/4/27/football-day-in-the-life-brayden-isaiah.aspx",
+      "summary": "Join Brayden Isaiah as he takes us through 'A Day in the Life' or a Maine Football student-athlete and showcases the full experience of being a Black Bear!",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/27/LindseyPellett-2737.jpg",
+      "published": "Mon, 27 Apr 2026 08:54:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Wins Fifth-Straight Weekend Series with 8-Inning Victory over UMBC",
       "url": "https://goblackbears.com/news/2026/4/26/baseball-wins-fifth-straight-weekend-series-with-8-inning-victory-over-umbc.aspx",
@@ -8,6 +17,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/26/LindseyPellett-9703.jpg",
       "published": "Sun, 26 Apr 2026 15:06:00 EST",
       "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Victoria (Vicky) Tinghitella: Outstanding Graduate Student in Kinesiology and Physical Education",
+      "url": "https://goblackbears.com/news/2026/4/27/field-hockey-victoria-vicky-tinghitella-outstanding-graduate-student-in-kinesiology-and-physical-education.aspx",
+      "summary": "ORONO, Maine -- Victoria Tinghitella of Luj&aacute;n, Buenos Aires, Argentina and former field hockey student-athlete, is the 2026 Outstanding Graduate Student in Kinesiology and Physical Education in the University of Maine College of Education and Human Development.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/27/Tinghitella-web-2.png",
+      "published": "Mon, 27 Apr 2026 14:59:00 EST",
+      "sport": "Field Hockey",
       "source": "goblackbears"
     },
     {
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/24/DSC06382.jpg",
       "published": "Fri, 24 Apr 2026 18:35:00 EST",
       "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Saturday in Orono: Baseball, Football, Field Hockey, Spring Sale",
-      "url": "https://goblackbears.com/news/2026/4/22/saturday-in-orono-baseball-football-field-hockey-spring-sale.aspx",
-      "summary": "ORONO, Maine -- It will be a busy and exciting Saturday on campus this weekend as Black Bear fans have the chance to enjoy a full day of athletics and activities in Orono. All events are free to attend.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/22/UM-Orono-Blaze-2025-0120-campus-sunrise.png",
-      "published": "Wed, 22 Apr 2026 15:29:00 EST",
-      "sport": "Baseball, General",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Maine Day of Giving set for April 29",
-      "url": "https://goblackbears.com/news/2026/4/22/alfond-fund-maine-day-of-giving-set-for-april-29.aspx",
-      "summary": "ORONO, Maine \u2013 Black Bear Nation! The annual Maine Day of Giving is set for April 29 and we need you to join us on this annual day to support our Black Bears!",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/22/MDOG-splash-2026.png",
-      "published": "Wed, 22 Apr 2026 08:34:00 EST",
-      "sport": "Alfond Fund",
       "source": "goblackbears"
     },
     {
@@ -412,15 +412,6 @@
       "summary": "The University of Maine football program has announced their kickoffs for all home games and for CAA road matchups for the 2026 season.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2021/5/27/stadium_lights.jpg",
       "published": "Wed, 25 Mar 2026 14:00:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "UMaine announces Family & Friends, Homecoming Dates",
-      "url": "https://goblackbears.com/news/2026/3/19/football-umaine-announces-family-friends-homecoming-dates.aspx",
-      "summary": "ORONO, Maine \u2013 The University of Maine has announced the 2026 dates for its Family & Friends and Homecoming weekends.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/18/crowd-with-cheer.png",
-      "published": "Thu, 19 Mar 2026 08:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
     },
@@ -955,6 +946,36 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "UMaine baseball wins 4th-straight conference series",
+      "url": "https://www.bangordailynews.com/2026/04/27/sports/college-baseball/umaine-baseball-wins-4th-straight-conference-series/",
+      "summary": "The Black Bears have now won four straight conference series and improved to 9-6 in America East and 14-15 overall.",
+      "image": "",
+      "published": "Mon, 27 Apr 2026 21:01:23 +0000",
+      "sport": "College Baseball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine linebacker signs undrafted free agent deal with Raiders",
+      "url": "https://www.bangordailynews.com/2026/04/27/sports/professional-football/umaine-linebacker-signs-with-raiders/",
+      "summary": "Christian Thomas is currently the only CAA player to either be drafted or signed to an undrafted free agent contract with an NFL team this offseason",
+      "image": "",
+      "published": "Mon, 27 Apr 2026 20:56:44 +0000",
+      "sport": "Professional Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Jeremy Swayman turns ire at Bruins\u2019 bench in 3rd playoff loss to Sabres",
+      "url": "https://www.bangordailynews.com/2026/04/27/sports/professional-ice-hockey/jeremy-swayman-frustration-bruins-loss-sabres/",
+      "summary": "The former UMaine goalie was pulled from Sunday night's game after letting in six goals by Buffalo behind a rough defensive effort from the Bruins.",
+      "image": "",
+      "published": "Mon, 27 Apr 2026 16:27:54 +0000",
+      "sport": "Professional Ice Hockey",
+      "source": "bdn",
+      "author": "Tribune Content Agency"
+    },
+    {
       "title": "UMaine baseball\u2019s 1st win over ranked team since 2018 provides momentum for weekend series",
       "url": "https://www.bangordailynews.com/2026/04/23/sports/college-baseball/umaine-baseball-weekend-series-joam40zk0w/",
       "summary": "UMaine, 12-24 overall, hosts UMBC for a three-game set this weekend with games at 3 p.m. Friday at 3, Saturday at 1 and Sunday at noon.",
@@ -981,16 +1002,6 @@
       "image": "",
       "published": "Mon, 20 Apr 2026 20:54:06 +0000",
       "sport": "Professional Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine softball edges Husson 2-1 on pinch-hit home run",
-      "url": "https://www.bangordailynews.com/2026/04/15/sports/college-softball/umaine-softball-edges-husson/",
-      "summary": "It was the first time the two neighbors from different divisions had met since 2014. UMaine has won all 16 meetings.",
-      "image": "",
-      "published": "Thu, 16 Apr 2026 01:49:31 +0000",
-      "sport": "College Softball",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
