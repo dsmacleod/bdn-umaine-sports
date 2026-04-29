@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T12:31:38.758723+00:00",
+  "last_updated": "2026-04-29T03:11:20.687643+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,10 +1567,10 @@
     },
     "baseball": {
       "record": {
-        "overall": "14-25",
+        "overall": "15-25",
         "conference": "9-6",
-        "streak": "W2",
-        "home": "4-2",
+        "streak": "W3",
+        "home": "5-2",
         "away": "9-23",
         "neutral": "1-0"
       },
@@ -1942,7 +1942,7 @@
           "opponent": "Bowdoin College",
           "location": "Orono, ME (Mahaney Diamond)",
           "tournament": "",
-          "result": ""
+          "result": "W 11-6"
         },
         {
           "date": "Apr 29 (Wed)",

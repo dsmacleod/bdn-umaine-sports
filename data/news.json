@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-28T12:31:38.758723+00:00",
+  "last_updated": "2026-04-29T03:11:20.687643+00:00",
   "articles": [
+    {
+      "title": "Baseball Grabs Win on Tuesday Afternoon",
+      "url": "https://goblackbears.com/news/2026/4/28/baseball-grabs-win-on-tuesday-afternoon.aspx",
+      "summary": "The University of Maine baseball program defeated Bowdoin on Tuesday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/562A4495.jpg",
+      "published": "Tue, 28 Apr 2026 19:06:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Kaelyn Larkin tabbed America East Rookie of the Week",
+      "url": "https://goblackbears.com/news/2026/4/28/softball-kaelyn-larkin-tabbed-america-east-rookie-of-the-week.aspx",
+      "summary": "Larkin hit .600 on the weekend.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/562A1613.jpg",
+      "published": "Tue, 28 Apr 2026 13:00:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Black Bears host UAlbany to close out regular season",
+      "url": "https://goblackbears.com/news/2026/4/28/softball-preview-black-bears-host-ualbany-to-close-out-regular-season.aspx",
+      "summary": "Maine will host the Great Danes for a three-game series.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/20/562A3315.jpg",
+      "published": "Tue, 28 Apr 2026 14:24:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Rasmussen Named America East Player of the Week",
+      "url": "https://goblackbears.com/news/2026/4/28/baseball-rasmussen-named-america-east-player-of-the-week.aspx",
+      "summary": "The America East Conference announced on Tuesday morning that Brody Rasmussen of the University of Maine baseball program was named the conference Player of the Week following his performances against #22 Boston College and UMBC.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/562A4526.jpg",
+      "published": "Tue, 28 Apr 2026 11:00:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
     {
       "title": "Day in the Life - Brayden Isaiah",
       "url": "https://goblackbears.com/news/2026/4/27/football-day-in-the-life-brayden-isaiah.aspx",
@@ -53,42 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/8/TRCK_2025_America_East_Indoor_Track_and_Field_Championship_20250223_3092.jpg",
       "published": "Sat, 25 Apr 2026 22:07:00 EST",
       "sport": "Women's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Track and Field compete at Penn Relays",
-      "url": "https://goblackbears.com/news/2026/4/25/mens-track-and-field-track-and-field-compete-at-penn-relays.aspx",
-      "summary": "The University of Maine Black Bears men's track and field program competed at the Penn Relays from Thursday April 23 through Saturday April 25.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/12/562A9037.jpg",
-      "published": "Sat, 25 Apr 2026 22:04:00 EST",
-      "sport": "Men's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Bulldogs top Black Bears in doubleheader",
-      "url": "https://goblackbears.com/news/2026/4/25/softball-bulldogs-top-black-bears-in-doubleheader.aspx",
-      "summary": "Kaelyn Larkin had four hits on the day.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/25/RC0_6544.jpg",
-      "published": "Sat, 25 Apr 2026 18:03:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Takes Second Game of the Series Against UMBC",
-      "url": "https://goblackbears.com/news/2026/4/25/baseball-takes-second-game-of-the-series-against-umbc.aspx",
-      "summary": "The University of Maine baseball program took the second game of the weekend series against UMBC on Saturday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/25/RC1_8289.jpg",
-      "published": "Sat, 25 Apr 2026 15:58:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Falls in Tight Battle Against UMBC on Friday Afternoon",
-      "url": "https://goblackbears.com/news/2026/4/24/baseball-falls-in-tight-battle-against-umbc-on-friday-afternoon.aspx",
-      "summary": "The University of Maine baseball program fell in a close contest against UMBC on Friday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/24/DSC06382.jpg",
-      "published": "Fri, 24 Apr 2026 18:35:00 EST",
-      "sport": "Baseball",
       "source": "goblackbears"
     },
     {
@@ -416,6 +416,16 @@
       "source": "goblackbears"
     },
     {
+      "title": "UMaine men\u2019s hockey loses top scorer to Penn State",
+      "url": "https://www.bangordailynews.com/2026/04/28/sports/college-ice-hockey/umaine-mens-hockey-justin-poirier-transfers-penn-state/",
+      "summary": "Justin Poirier scored 18 goals in 27 games but missed the last eight games due to a hip injury.",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 20:38:49 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine men\u2019s hockey adds size up front with transfer from Arizona State",
       "url": "https://www.bangordailynews.com/2026/04/21/sports/college-ice-hockey/alfano-transfer-maine-hockey/",
       "summary": "Sam Alfano, a 6-foot-4-inch, 205-pound left winger, was ASU\u2019s fifth-leading scorer this past season.",
@@ -601,16 +611,6 @@
       "summary": "Junior Sully Scholle, senior left wing Owen Fowler and junior right wing Josh Nadeau have been on a tear of late.",
       "image": "",
       "published": "Thu, 12 Mar 2026 05:00:00 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine\u2019s Brandon Holt and Owen Fowler earn Hockey East awards",
-      "url": "https://www.bangordailynews.com/2026/03/11/sports/college-ice-hockey/umaine-hockey-brandon-holt-owen-fowler-awards/",
-      "summary": "Holt was named the league\u2019s best defensive defenseman. Fowler was chosen the co-best defensive forward.",
-      "image": "",
-      "published": "Wed, 11 Mar 2026 18:57:59 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
