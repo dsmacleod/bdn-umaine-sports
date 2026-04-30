@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T12:27:58.379195+00:00",
+  "last_updated": "2026-04-30T03:11:50.137377+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -725,18 +725,18 @@
           "school": "Maine",
           "conference": "9-6",
           "conference_pct": ".600",
-          "overall": "15-25",
+          "overall": "16-25",
           "pct": ".600",
-          "streak": "W3",
+          "streak": "W4",
           "is_umaine": true
         },
         {
           "school": "Bryant",
           "conference": "10-8",
           "conference_pct": ".556",
-          "overall": "22-18",
+          "overall": "22-19",
           "pct": ".556",
-          "streak": "W3",
+          "streak": "L1",
           "is_umaine": false
         },
         {
@@ -770,9 +770,9 @@
           "school": "NJIT",
           "conference": "5-13",
           "conference_pct": ".278",
-          "overall": "14-24",
+          "overall": "14-24-1",
           "pct": ".278",
-          "streak": "W1",
+          "streak": "T1",
           "is_umaine": false
         }
       ]
@@ -785,9 +785,9 @@
           "school": "Bryant x^",
           "conference": "16-4",
           "conference_pct": ".800",
-          "overall": "19-21",
+          "overall": "20-21",
           "pct": ".800",
-          "streak": "W3",
+          "streak": "W4",
           "is_umaine": false
         },
         {

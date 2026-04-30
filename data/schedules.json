@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T12:27:58.379195+00:00",
+  "last_updated": "2026-04-30T03:11:50.137377+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,12 +1567,12 @@
     },
     "baseball": {
       "record": {
-        "overall": "15-25",
+        "overall": "16-25",
         "conference": "9-6",
-        "streak": "W3",
+        "streak": "W4",
         "home": "5-2",
         "away": "9-23",
-        "neutral": "1-0"
+        "neutral": "2-0"
       },
       "games": [
         {
@@ -1951,7 +1951,7 @@
           "opponent": "Northeastern University",
           "location": "Portland, ME (Hadlock Field)",
           "tournament": "",
-          "result": ""
+          "result": "W 5-1"
         },
         {
           "date": "May 1 (Fri)",

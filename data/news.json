@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-04-29T12:27:58.379195+00:00",
+  "last_updated": "2026-04-30T03:11:50.137377+00:00",
   "articles": [
+    {
+      "title": "Baseball Falls in Matchup at Hadlock Field",
+      "url": "https://goblackbears.com/news/2026/4/29/baseball-falls-in-matchup-at-hadlock-field.aspx",
+      "summary": "The University of Maine baseball program fell to Northeastern on Wednesday night at Delta Dental Park at Hadlock Field.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/29/IMG_1810.jpeg",
+      "published": "Wed, 29 Apr 2026 21:06:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine Athletics receives $10 million estate gift from Phillip Morse (\u201864)",
+      "url": "https://goblackbears.com/news/2026/4/29/alfond-fund-maine-athletics-receives-10-million-estate-gift-from-phillip-morse-64.aspx",
+      "summary": "ORONO, Maine \u2013 The University of Maine Foundation and Maine Athletics have announced a $10 million estate gift from Phillip Morse ('64), a transformative commitment that will support current and future capital athletics projects and facility maintenance, as well as efforts to recruit and retain talented student-athletes, coaches and staff while sustaining Maine excellence.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/morse-chappelle-MDOG.png",
+      "published": "Wed, 29 Apr 2026 12:00:00 EST",
+      "sport": "Alfond Fund",
+      "source": "goblackbears"
+    },
     {
       "title": "Support the Black Bears on today's Maine Day of Giving!",
       "url": "https://goblackbears.com/news/2026/4/29/alfond-fund-support-the-black-bears-on-todays-maine-day-of-giving.aspx",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/27/Tinghitella-web-2.png",
       "published": "Mon, 27 Apr 2026 14:59:00 EST",
       "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Black Bears fall to Bulldogs in Sunday finale",
-      "url": "https://goblackbears.com/news/2026/4/26/softball-black-bears-fall-to-bulldogs-in-sunday-finale.aspx",
-      "summary": "Kaelyn Larkin had another multi-hit game.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/26/562A1122.jpg",
-      "published": "Sun, 26 Apr 2026 14:18:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Christian Thomas Signs UDFA Deal with the Las Vegas Raiders",
-      "url": "https://goblackbears.com/news/2026/4/26/football-christian-thomas-signs-udfa-deal-with-the-las-vegas-raiders.aspx",
-      "summary": "Christian Thomas of the University of Maine football program signed an UDFA deal with the Las Vegas Raiders on Saturday night.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/26/Christian_Thomas_9_13_Stonehill_7.jpg",
-      "published": "Sun, 26 Apr 2026 10:00:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -323,6 +323,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/8/562A7844.jpg",
       "published": "Fri, 27 Feb 2026 14:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Christian Thomas Signs UDFA Deal with the Las Vegas Raiders",
+      "url": "https://goblackbears.com/news/2026/4/26/football-christian-thomas-signs-udfa-deal-with-the-las-vegas-raiders.aspx",
+      "summary": "Christian Thomas of the University of Maine football program signed an UDFA deal with the Las Vegas Raiders on Saturday night.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/26/Christian_Thomas_9_13_Stonehill_7.jpg",
+      "published": "Sun, 26 Apr 2026 10:00:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -910,6 +919,26 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "UMaine athletics program receives $10 million gift from longtime donor",
+      "url": "https://www.bangordailynews.com/2026/04/29/sports/umaine-athletics-philip-morse-gift/",
+      "summary": "The $10 million gift will provide longterm maintenance for the Morse Arena, Alfond Stadium and the Alfond Arena and will be used to establish the Morse Recruitment and Retention Fund.",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 21:38:41 +0000",
+      "sport": "Sports",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Former UMaine goalie Jeremy Swayman is a Vezina Trophy finalist",
+      "url": "https://www.bangordailynews.com/2026/04/29/sports/professional-ice-hockey/jeremy-swayman-vezina-trophy-finalist/",
+      "summary": "Other finalists are Ilya Sorokin of the New York Islanders and Andrei Vasilevskiy of the Tampa Bay Lightning.",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 20:07:09 +0000",
+      "sport": "Professional Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine baseball wins 4th-straight conference series",
       "url": "https://www.bangordailynews.com/2026/04/27/sports/college-baseball/umaine-baseball-wins-4th-straight-conference-series/",
       "summary": "The Black Bears have now won four straight conference series and improved to 9-6 in America East and 14-15 overall.",
@@ -956,16 +985,6 @@
       "image": "",
       "published": "Tue, 21 Apr 2026 21:19:08 +0000",
       "sport": "Professional Baseball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine basketball star Adrianna Smith signs contract with Australia league",
-      "url": "https://www.bangordailynews.com/2026/04/20/sports/professional-basketball/umaine-basketball-star-adrianna-smith-signs-with-australia-league/",
-      "summary": "The two-time America East Player of the Year is joining the Dandenong Rangers immediately as they are already five games into their season.",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 20:54:06 +0000",
-      "sport": "Professional Basketball",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
