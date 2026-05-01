@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T12:28:08.831720+00:00",
+  "last_updated": "2026-05-01T03:11:34.371185+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,12 +1567,12 @@
     },
     "baseball": {
       "record": {
-        "overall": "16-25",
+        "overall": "15-26",
         "conference": "9-6",
-        "streak": "W4",
-        "home": "5-2",
+        "streak": "L1",
+        "home": "5-3",
         "away": "9-23",
-        "neutral": "2-0"
+        "neutral": "1-0"
       },
       "games": [
         {
@@ -1947,15 +1947,15 @@
         {
           "date": "Apr 29 (Wed)",
           "time": "6 PM",
-          "home_away": "Neutral",
+          "home_away": "Home",
           "opponent": "Northeastern University",
           "location": "Portland, ME (Hadlock Field)",
           "tournament": "",
-          "result": "W 5-1"
+          "result": "L 1-5"
         },
         {
           "date": "May 1 (Fri)",
-          "time": "6 PM",
+          "time": "3 PM",
           "home_away": "Away",
           "opponent": "Binghamton University",
           "location": "Vestal, NY",
@@ -2096,7 +2096,7 @@
         "16402",
         "16403",
         "16404",
-        "16405",
+        "16498",
         "16406",
         "16407",
         "16408",
