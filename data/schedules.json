@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T12:16:35.983030+00:00",
+  "last_updated": "2026-05-02T03:09:49.181542+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,11 +1567,11 @@
     },
     "baseball": {
       "record": {
-        "overall": "15-26",
-        "conference": "9-6",
-        "streak": "L1",
+        "overall": "16-26",
+        "conference": "10-6",
+        "streak": "W1",
         "home": "5-3",
-        "away": "9-23",
+        "away": "10-23",
         "neutral": "1-0"
       },
       "games": [
@@ -1960,7 +1960,7 @@
           "opponent": "Binghamton University",
           "location": "Vestal, NY",
           "tournament": "",
-          "result": ""
+          "result": "W 9-2"
         },
         {
           "date": "May 2 (Sat)",
@@ -2112,10 +2112,10 @@
     },
     "softball": {
       "record": {
-        "overall": "12-31",
-        "conference": "6-11",
-        "streak": "L3",
-        "home": "4-3",
+        "overall": "12-33",
+        "conference": "6-13",
+        "streak": "L5",
+        "home": "4-5",
         "away": "5-21",
         "neutral": "3-7"
       },
@@ -2541,7 +2541,7 @@
           "opponent": "UAlbany",
           "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
           "tournament": "",
-          "result": ""
+          "result": "L 5-8"
         },
         {
           "date": "May 1 (Fri)",
@@ -2550,7 +2550,7 @@
           "opponent": "UAlbany",
           "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
           "tournament": "",
-          "result": ""
+          "result": "L 0-1"
         },
         {
           "date": "May 2 (Sat)",
