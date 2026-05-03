@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-02T12:14:40.437905+00:00",
+  "last_updated": "2026-05-03T03:11:37.550883+00:00",
   "articles": [
+    {
+      "title": "Baseball Falls in Extra Innings at Binghamton on Saturday Afternoon",
+      "url": "https://goblackbears.com/news/2026/5/2/baseball-falls-in-extra-innings-at-binghamton-on-saturday-afternoon.aspx",
+      "summary": "The University of Maine baseball program fell in extra innings on Saturday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/2/BASE_Maine22026_TF-2__1_.jpg",
+      "published": "Sat, 2 May 2026 17:48:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine falls to UAlbany in regular season finale",
+      "url": "https://goblackbears.com/news/2026/5/2/softball-maine-falls-to-ualbany-in-regular-season-finale.aspx",
+      "summary": "The Black Bears honored the four graduating seniors before the contest.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/2/LindseyPellett-7602.jpg",
+      "published": "Sat, 2 May 2026 14:14:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
     {
       "title": "Great Danes nip Black Bears in conference action",
       "url": "https://goblackbears.com/news/2026/5/1/softball-great-danes-nip-black-bears-in-conference-action.aspx",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/20/562A3315.jpg",
       "published": "Tue, 28 Apr 2026 14:24:00 EST",
       "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Rasmussen Named America East Player of the Week",
-      "url": "https://goblackbears.com/news/2026/4/28/baseball-rasmussen-named-america-east-player-of-the-week.aspx",
-      "summary": "The America East Conference announced on Tuesday morning that Brody Rasmussen of the University of Maine baseball program was named the conference Player of the Week following his performances against #22 Boston College and UMBC.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/562A4526.jpg",
-      "published": "Tue, 28 Apr 2026 11:00:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Day in the Life - Brayden Isaiah",
-      "url": "https://goblackbears.com/news/2026/4/27/football-day-in-the-life-brayden-isaiah.aspx",
-      "summary": "Join Brayden Isaiah as he takes us through 'A Day in the Life' or a Maine Football student-athlete and showcases the full experience of being a Black Bear!",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/27/LindseyPellett-2737.jpg",
-      "published": "Mon, 27 Apr 2026 08:54:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -323,6 +323,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/8/562A7844.jpg",
       "published": "Fri, 27 Feb 2026 14:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Day in the Life - Brayden Isaiah",
+      "url": "https://goblackbears.com/news/2026/4/27/football-day-in-the-life-brayden-isaiah.aspx",
+      "summary": "Join Brayden Isaiah as he takes us through 'A Day in the Life' or a Maine Football student-athlete and showcases the full experience of being a Black Bear!",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/27/LindseyPellett-2737.jpg",
+      "published": "Mon, 27 Apr 2026 08:54:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
