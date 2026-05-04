@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T12:13:26.934698+00:00",
+  "last_updated": "2026-05-04T03:12:11.787998+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,11 +1567,11 @@
     },
     "baseball": {
       "record": {
-        "overall": "16-27",
-        "conference": "10-7",
-        "streak": "L1",
+        "overall": "17-27",
+        "conference": "11-7",
+        "streak": "W1",
         "home": "5-3",
-        "away": "10-24",
+        "away": "11-24",
         "neutral": "1-0"
       },
       "games": [
@@ -1978,7 +1978,7 @@
           "opponent": "Binghamton University",
           "location": "Vestal, NY",
           "tournament": "",
-          "result": ""
+          "result": "W 7-3"
         },
         {
           "date": "May 8 (Fri)",
