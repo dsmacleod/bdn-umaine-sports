@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T12:29:23.543609+00:00",
+  "last_updated": "2026-05-05T03:10:47.222870+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -783,10 +783,10 @@
       "teams": [
         {
           "school": "Bryant x^",
-          "conference": "13-4",
-          "conference_pct": ".765",
+          "conference": "16-4",
+          "conference_pct": ".800",
           "overall": "20-21",
-          "pct": ".765",
+          "pct": ".800",
           "streak": "W4",
           "is_umaine": false
         },
@@ -828,7 +828,7 @@
         },
         {
           "school": "UMBC",
-          "conference": "0-18",
+          "conference": "0-21",
           "conference_pct": ".000",
           "overall": "11-9",
           "pct": ".000",
