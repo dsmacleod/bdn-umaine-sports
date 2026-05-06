@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-05T12:21:06.343280+00:00",
+  "last_updated": "2026-05-06T03:11:54.596936+00:00",
   "articles": [
+    {
+      "title": "Trio of Black Bears earn America East All-Conference accolades",
+      "url": "https://goblackbears.com/news/2026/5/5/softball-black-bears-earn-america-east-all-conference-accolades.aspx",
+      "summary": "Kaelyn Larkin earns Second Team, All-Rookie honors while Alysen Rieth and Keira Inman named All-Academic.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/5/SB_Collage.png",
+      "published": "Tue, 5 May 2026 15:00:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "University of Maine unveils Harold Alfond Athletics Village",
+      "url": "https://goblackbears.com/news/2026/5/5/general-university-of-maine-unveils-harold-alfond-athletics-village.aspx",
+      "summary": "ORONO, Maine \u2013 The University of Maine is unveiling its plans for the Harold Alfond Athletics Village, a transformational hub for all campus Division I athletic venues that will enhance the experiences of Black Bear student-athletes and fans.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/5/alfond-way-web.png",
+      "published": "Tue, 5 May 2026 12:00:00 EST",
+      "sport": "General, Alfond Fund",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Wins Six-Straight Weekend Series with Victory over Binghamton on Sunday",
       "url": "https://goblackbears.com/news/2026/5/3/baseball-wins-six-straight-weekend-series-with-victory-over-binghamton-on-sunday.aspx",
@@ -80,15 +98,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/MDOG-splash-2026-website.png",
       "published": "Wed, 29 Apr 2026 00:00:00 EST",
       "sport": "Baseball, Field Hockey, Football, Men's Basketball, Men's Cross Country, Men's Ice Hockey, Men's Swimming and Diving, Men's Track and Field, Softball, Women's Basketball, Women's Cross Country, Women's Ice Hockey, Women's Soccer, Women's Swimming and Diving, Women's Track and Field, Alfond Fund",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Grabs Win on Tuesday Afternoon",
-      "url": "https://goblackbears.com/news/2026/4/28/baseball-grabs-win-on-tuesday-afternoon.aspx",
-      "summary": "The University of Maine baseball program defeated Bowdoin on Tuesday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/562A4495.jpg",
-      "published": "Tue, 28 Apr 2026 19:06:00 EST",
-      "sport": "Baseball",
       "source": "goblackbears"
     },
     {
@@ -924,6 +933,26 @@
       "image": "",
       "published": "Fri, 31 Oct 2025 20:42:35 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine releases images of planned Alfond athletics village",
+      "url": "https://www.bangordailynews.com/2026/05/05/bangor/bangor-education/umaine-images-harold-alfond-athletics-village/",
+      "summary": "The project will connect the school\u2019s sports facilities with paths, and include new benches, signs, statues and other amenities.",
+      "image": "",
+      "published": "Tue, 05 May 2026 21:53:53 +0000",
+      "sport": "Bangor",
+      "source": "bdn",
+      "author": "Ethan Andrews"
+    },
+    {
+      "title": "UMaine softball prepares for America East tourney",
+      "url": "https://www.bangordailynews.com/2026/05/05/sports/college-softball/umaine-softball-prepares-for-america-east-tourney/",
+      "summary": "The tournament is a five-team affair because the University of Maryland Baltimore County suspended its program after firing its head coach and her assistant-husband for inappropriate behavior.",
+      "image": "",
+      "published": "Tue, 05 May 2026 20:42:54 +0000",
+      "sport": "College Softball",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
