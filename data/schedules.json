@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T12:32:45.180776+00:00",
+  "last_updated": "2026-05-07T03:12:24.824009+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -2112,10 +2112,10 @@
     },
     "softball": {
       "record": {
-        "overall": "12-34",
+        "overall": "12-35",
         "conference": "6-14",
-        "streak": "L6",
-        "home": "4-6",
+        "streak": "L7",
+        "home": "4-7",
         "away": "5-21",
         "neutral": "3-7"
       },
@@ -2564,8 +2564,17 @@
         {
           "date": "May 6 (Wed)",
           "time": "12:30 PM",
-          "home_away": "Neutral",
+          "home_away": "Home",
           "opponent": "Binghamton",
+          "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
+          "tournament": "",
+          "result": "L 5-12"
+        },
+        {
+          "date": "May 7 (Thu)",
+          "time": "1:30 PM",
+          "home_away": "Home",
+          "opponent": "UAlbany",
           "location": "Orono, Maine (Pierre & Catherine Labat Softball Complex)",
           "tournament": "",
           "result": ""
@@ -2622,7 +2631,8 @@
         "16338",
         "16339",
         "16340",
-        "16475"
+        "16475",
+        "16499"
       ]
     },
     "fhockey": {
