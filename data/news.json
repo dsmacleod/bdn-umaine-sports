@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-07T12:33:04.876004+00:00",
+  "last_updated": "2026-05-08T03:10:05.273530+00:00",
   "articles": [
+    {
+      "title": "UAlbany tops Maine in America East elimination game",
+      "url": "https://goblackbears.com/news/2026/5/7/softball-ualbany-tops-maine-in-america-east-elimination-game.aspx",
+      "summary": "The Great Danes pulled out a 3-1 win.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/7/DSC07996.jpeg",
+      "published": "Thu, 7 May 2026 16:53:00 EST",
+      "sport": "Softball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Baseball Hosts UMass Lowell for Senior Day Weekend in Orono",
+      "url": "https://goblackbears.com/news/2026/5/7/preview-baseball-hosts-umass-lowell-for-senior-day-weekend-in-orono.aspx",
+      "summary": "The University of Maine baseball program will host UMass Lowell to kickoff seven-straight home games to conclude the regular season beginning on Friday, May 8.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/7/DSC02246.jpg",
+      "published": "Thu, 7 May 2026 11:00:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
     {
       "title": "Black Bears fall to Bearcats on Day 1 of America East tournament",
       "url": "https://goblackbears.com/news/2026/5/6/softball-black-bears-fall-to-bearcats-on-day-1-of-america-east-tournament.aspx",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/2/LindseyPellett-7602.jpg",
       "published": "Sat, 2 May 2026 14:14:00 EST",
       "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Great Danes nip Black Bears in conference action",
-      "url": "https://goblackbears.com/news/2026/5/1/softball-great-danes-nip-black-bears-in-conference-action.aspx",
-      "summary": "Maine dropped two contests on Friday to UAlbany.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/1/DSC09545.jpeg",
-      "published": "Fri, 1 May 2026 20:40:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Handles Binghamton in Series Opener on Friday Afternoon",
-      "url": "https://goblackbears.com/news/2026/5/1/baseball-handles-binghamton-in-series-opener-on-friday-afternoon.aspx",
-      "summary": "The University of Maine baseball program took the opening game of the series at Binghamton on Friday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/1/LSS06307.jpg",
-      "published": "Fri, 1 May 2026 17:54:00 EST",
-      "sport": "Baseball",
       "source": "goblackbears"
     },
     {
@@ -607,6 +607,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "Kaden Bedard, son of Maine basketball great Andy Bedard, commits to play at UMaine",
+      "url": "https://www.bangordailynews.com/2026/05/07/sports/college-basketball/orono-maine-umaine-basketball-kaden-bedard/",
+      "summary": "Most recently, he starred for the Newman School in Boston.",
+      "image": "",
+      "published": "Thu, 07 May 2026 13:34:22 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "CBS 13"
+    },
+    {
       "title": "UMaine men\u2019s basketball adds 2 forwards after losing top rebounder",
       "url": "https://www.bangordailynews.com/2026/05/04/sports/college-basketball/umaine-mens-basketball-2-new-forwards/",
       "summary": "Keelan Steele has transferred to Mercer University, but Black Bears head coach Chris Markwood has landed two replacements.",
@@ -745,16 +755,6 @@
       "sport": "College Basketball",
       "source": "bdn",
       "author": "Larry Mahoney"
-    },
-    {
-      "title": "Ace Flagg named to all-rookie team amid strong start at UMaine",
-      "url": "https://www.bangordailynews.com/2026/03/06/sports/college-basketball/ace-flagg-umaine-all-rookie-team-joam40zk0w/",
-      "summary": "Current and former coaches have stressed the on-court toughness of the 19-year-old whose nickname is the \"Honey Badger.\"",
-      "image": "",
-      "published": "Fri, 06 Mar 2026 19:47:33 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Matt Junker"
     },
     {
       "title": "Former Leavitt High teammates in prominent roles for UMaine\u00a0football",
@@ -937,6 +937,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "Albany ousts UMaine from America East softball tourney behind Kennebunk native\u2019s 2-hitter",
+      "url": "https://www.bangordailynews.com/2026/05/07/sports/college-softball/albany-ousts-umaine-america-east-softball-tourney/",
+      "summary": "The fifth seed Black Bears concluded the season at 12-36 after losing their eighth straight contest.",
+      "image": "",
+      "published": "Thu, 07 May 2026 22:33:04 +0000",
+      "sport": "College Softball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "Binghamton softball uses 9-run, 4th-inning rally to top UMaine in America East tourney",
       "url": "https://www.bangordailynews.com/2026/05/06/sports/college-softball/binghamton-softball-beats-umaine-america-east-tourney/",
       "summary": "America East Player of the Year Rachel Carey and Megan Wolf each had two-run singles in the decisive uprising.",
@@ -1003,16 +1013,6 @@
       "image": "",
       "published": "Wed, 29 Apr 2026 21:38:41 +0000",
       "sport": "Sports",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Former UMaine goalie Jeremy Swayman is a Vezina Trophy finalist",
-      "url": "https://www.bangordailynews.com/2026/04/29/sports/professional-ice-hockey/jeremy-swayman-vezina-trophy-finalist/",
-      "summary": "Other finalists are Ilya Sorokin of the New York Islanders and Andrei Vasilevskiy of the Tampa Bay Lightning.",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 20:07:09 +0000",
-      "sport": "Professional Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
