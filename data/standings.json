@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T12:15:38.474863+00:00",
+  "last_updated": "2026-05-10T03:12:08.162781+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -723,29 +723,29 @@
         },
         {
           "school": "UMBC",
-          "conference": "11-8",
-          "conference_pct": ".579",
-          "overall": "24-20",
-          "pct": ".579",
-          "streak": "W3",
+          "conference": "12-8",
+          "conference_pct": ".600",
+          "overall": "25-20",
+          "pct": ".600",
+          "streak": "W4",
           "is_umaine": false
         },
         {
           "school": "Maine",
-          "conference": "11-8",
-          "conference_pct": ".579",
-          "overall": "18-27",
-          "pct": ".579",
-          "streak": "L1",
+          "conference": "11-9",
+          "conference_pct": ".550",
+          "overall": "18-28",
+          "pct": ".550",
+          "streak": "L2",
           "is_umaine": true
         },
         {
           "school": "Bryant",
-          "conference": "12-10",
-          "conference_pct": ".545",
-          "overall": "25-21",
-          "pct": ".545",
-          "streak": "L1",
+          "conference": "12-11",
+          "conference_pct": ".522",
+          "overall": "25-22",
+          "pct": ".522",
+          "streak": "L2",
           "is_umaine": false
         },
         {
@@ -759,11 +759,11 @@
         },
         {
           "school": "UMass Lowell",
-          "conference": "7-12",
-          "conference_pct": ".368",
-          "overall": "17-27",
-          "pct": ".368",
-          "streak": "W1",
+          "conference": "8-12",
+          "conference_pct": ".400",
+          "overall": "18-27",
+          "pct": ".400",
+          "streak": "W2",
           "is_umaine": false
         },
         {
@@ -794,9 +794,9 @@
           "school": "Binghamton",
           "conference": "15-5",
           "conference_pct": ".750",
-          "overall": "18-25",
+          "overall": "20-25",
           "pct": ".750",
-          "streak": "W1",
+          "streak": "W3",
           "is_umaine": false
         },
         {
@@ -812,9 +812,9 @@
           "school": "UMass Lowell",
           "conference": "11-10",
           "conference_pct": ".524",
-          "overall": "27-25",
+          "overall": "27-27",
           "pct": ".524",
-          "streak": "W3",
+          "streak": "L2",
           "is_umaine": false
         },
         {

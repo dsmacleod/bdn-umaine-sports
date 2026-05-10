@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T12:15:38.474863+00:00",
+  "last_updated": "2026-05-10T03:12:08.162781+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,10 +1567,10 @@
     },
     "baseball": {
       "record": {
-        "overall": "17-28",
-        "conference": "11-8",
-        "streak": "L1",
-        "home": "5-4",
+        "overall": "17-29",
+        "conference": "11-9",
+        "streak": "L2",
+        "home": "5-5",
         "away": "11-24",
         "neutral": "1-0"
       },
@@ -1996,7 +1996,7 @@
           "opponent": "University of Massachusetts Lowell",
           "location": "Orono, ME (Mahaney Diamond)",
           "tournament": "",
-          "result": ""
+          "result": "L 6-7"
         },
         {
           "date": "May 10 (Sun)",
@@ -3798,7 +3798,7 @@
           "opponent": "America East Outdoor Championships",
           "location": "Lowell, MA",
           "tournament": "",
-          "result": ""
+          "result": "I 18-"
         },
         {
           "date": "May 10 (Sun)",
@@ -4083,7 +4083,7 @@
           "opponent": "America East Outdoor Championships",
           "location": "Lowell, MA",
           "tournament": "",
-          "result": ""
+          "result": "I 17-"
         },
         {
           "date": "May 10 (Sun)",
