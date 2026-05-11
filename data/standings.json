@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T03:14:05.671382+00:00",
+  "last_updated": "2026-05-11T12:54:00.314904+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -530,6 +530,93 @@
             "gf": 61,
             "ga": 113
           },
+          "is_umaine": false
+        }
+      ]
+    },
+    "mbball": {
+      "title": "2025-26 Men's Basketball Standings",
+      "notes": "x- regular-season champions",
+      "teams": [
+        {
+          "school": "UMBC",
+          "conference": "14-2",
+          "conference_pct": ".875",
+          "overall": "24-9",
+          "pct": ".875",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "Vermont",
+          "conference": "12-4",
+          "conference_pct": ".750",
+          "overall": "22-12",
+          "pct": ".750",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "NJIT",
+          "conference": "10-6",
+          "conference_pct": ".625",
+          "overall": "16-17",
+          "pct": ".625",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "conference": "9-7",
+          "conference_pct": ".562",
+          "overall": "15-18",
+          "pct": ".562",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "UAlbany",
+          "conference": "7-9",
+          "conference_pct": ".438",
+          "overall": "11-21",
+          "pct": ".438",
+          "streak": "L2",
+          "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "conference": "6-10",
+          "conference_pct": ".375",
+          "overall": "8-24",
+          "pct": ".375",
+          "streak": "L3",
+          "is_umaine": true
+        },
+        {
+          "school": "New Hampshire",
+          "conference": "5-11",
+          "conference_pct": ".312",
+          "overall": "9-21",
+          "pct": ".312",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "Bryant",
+          "conference": "5-11",
+          "conference_pct": ".312",
+          "overall": "9-22",
+          "pct": ".312",
+          "streak": "L2",
+          "is_umaine": false
+        },
+        {
+          "school": "Binghamton",
+          "conference": "4-12",
+          "conference_pct": ".250",
+          "overall": "8-23",
+          "pct": ".250",
+          "streak": "W2",
           "is_umaine": false
         }
       ]
