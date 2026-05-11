@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-05-10T12:15:12.121905+00:00",
+  "last_updated": "2026-05-11T03:14:05.671382+00:00",
   "articles": [
+    {
+      "title": "Krasnow medals in 5000m run, Women\u2019s track and field ends in 8th at America East Championship",
+      "url": "https://goblackbears.com/news/2026/5/10/womens-track-and-field-krasnow-medals-in-5000m-run-womens-track-and-field-ends-in-8th-at-america-east-championship.aspx",
+      "summary": "Lowell, MA - After day two of the America East Championship, the Maine women's track and field team placed eighth with 40 points.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/10/DSC09239.jpg",
+      "published": "Sun, 10 May 2026 18:14:00 EST",
+      "sport": "Women's Track and Field",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Men\u2019s Track & Field breaks three school records, places 6th at America East Championship",
+      "url": "https://goblackbears.com/news/2026/5/10/mens-track-and-field-mens-track-field-breaks-three-school-records-places-6th-at-america-east-championship.aspx",
+      "summary": "Lowell, MA - The Maine men's track and field team ended in 6th place with 84 points after the America East Championship.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/10/DSC09573.jpg",
+      "published": "Sun, 10 May 2026 18:09:00 EST",
+      "sport": "Men's Track and Field",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Baseball Falls in Series Finale against UMass Lowell on Sunday Afternoon",
+      "url": "https://goblackbears.com/news/2026/5/10/baseball-falls-in-series-finale-against-umass-lowell-on-sunday-afternoon.aspx",
+      "summary": "The University of Maine baseball program dropped the final game of the series against UMass Lowell on Sunday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/10/RC0_7879.jpg",
+      "published": "Sun, 10 May 2026 14:24:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
     {
       "title": "Treacy wins Championship, Garbett Medals in Steeplechase at Day 1 of America East Championships",
       "url": "https://goblackbears.com/news/2026/5/9/womens-track-and-field-treacy-wins-championship-garbett-medals-in-steeplechase-at-day-1-of-america-east-championships.aspx",
@@ -62,33 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/7/DSC07996.jpeg",
       "published": "Thu, 7 May 2026 16:53:00 EST",
       "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Baseball Hosts UMass Lowell for Senior Day Weekend in Orono",
-      "url": "https://goblackbears.com/news/2026/5/7/preview-baseball-hosts-umass-lowell-for-senior-day-weekend-in-orono.aspx",
-      "summary": "The University of Maine baseball program will host UMass Lowell to kickoff seven-straight home games to conclude the regular season beginning on Friday, May 8.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/7/DSC02246.jpg",
-      "published": "Thu, 7 May 2026 11:00:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Black Bears fall to Bearcats on Day 1 of America East tournament",
-      "url": "https://goblackbears.com/news/2026/5/6/softball-black-bears-fall-to-bearcats-on-day-1-of-america-east-tournament.aspx",
-      "summary": "Kaelyn Larkin had three hits for Maine.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/6/DSC00422.jpeg",
-      "published": "Wed, 6 May 2026 15:48:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Track and Field gears up for America East Championships",
-      "url": "https://goblackbears.com/news/2026/5/6/mens-track-and-field-preview-track-and-field-gears-up-for-america-east-championships.aspx",
-      "summary": "The University of Maine track and field program gears up for the America East Outdoor Track and Field Championships on Saturday May 9 and Sunday May 10 at UMass Lowell.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/6/Morin-Cusson.png",
-      "published": "Wed, 6 May 2026 10:26:00 EST",
-      "sport": "Men's Track and Field, Women's Track and Field",
       "source": "goblackbears"
     },
     {
@@ -975,16 +975,6 @@
       "image": "",
       "published": "Mon, 04 May 2026 20:13:54 +0000",
       "sport": "College Baseball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine is 5th seed for next week\u2019s America East softball tourney in Orono",
-      "url": "https://www.bangordailynews.com/2026/05/01/sports/college-softball/umaine-america-east-softball-tourney-preview-joam40zk0w/",
-      "summary": "The double-elimination tournament will begin Wednesday at the Pierre and Catherine Labat Softball Complex on the UMaine campus.",
-      "image": "",
-      "published": "Fri, 01 May 2026 05:00:00 +0000",
-      "sport": "College Softball",
       "source": "bdn",
       "author": "Larry Mahoney"
     }

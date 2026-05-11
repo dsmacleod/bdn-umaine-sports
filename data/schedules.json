@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T12:15:12.121905+00:00",
+  "last_updated": "2026-05-11T03:14:05.671382+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,10 +1567,10 @@
     },
     "baseball": {
       "record": {
-        "overall": "17-29",
-        "conference": "11-9",
-        "streak": "L2",
-        "home": "5-5",
+        "overall": "17-30",
+        "conference": "11-10",
+        "streak": "L3",
+        "home": "5-6",
         "away": "11-24",
         "neutral": "1-0"
       },
@@ -2005,7 +2005,7 @@
           "opponent": "University of Massachusetts Lowell",
           "location": "Orono, ME (Mahaney Diamond)",
           "tournament": "",
-          "result": ""
+          "result": "L 4-5"
         },
         {
           "date": "May 12 (Tue)",
