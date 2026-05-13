@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T12:36:08.308282+00:00",
+  "last_updated": "2026-05-13T03:12:50.972811+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,10 +1567,10 @@
     },
     "baseball": {
       "record": {
-        "overall": "17-30",
+        "overall": "18-30",
         "conference": "11-10",
-        "streak": "L3",
-        "home": "5-6",
+        "streak": "W1",
+        "home": "6-6",
         "away": "11-24",
         "neutral": "1-0"
       },
@@ -2014,7 +2014,7 @@
           "opponent": "Merrimack College",
           "location": "Orono, ME (Mahaney Diamond)",
           "tournament": "",
-          "result": ""
+          "result": "W 14-4"
         },
         {
           "date": "May 14 (Thu)",
