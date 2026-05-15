@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T12:32:40.297073+00:00",
+  "last_updated": "2026-05-15T03:13:17.935776+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -723,12 +723,21 @@
         },
         {
           "school": "UMBC",
-          "conference": "12-9",
-          "conference_pct": ".571",
-          "overall": "25-22",
-          "pct": ".571",
-          "streak": "L2",
+          "conference": "13-9",
+          "conference_pct": ".591",
+          "overall": "26-22",
+          "pct": ".591",
+          "streak": "W1",
           "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "conference": "12-10",
+          "conference_pct": ".545",
+          "overall": "20-29",
+          "pct": ".545",
+          "streak": "W2",
+          "is_umaine": true
         },
         {
           "school": "Bryant",
@@ -738,15 +747,6 @@
           "pct": ".542",
           "streak": "W2",
           "is_umaine": false
-        },
-        {
-          "school": "Maine",
-          "conference": "11-10",
-          "conference_pct": ".524",
-          "overall": "19-29",
-          "pct": ".524",
-          "streak": "W1",
-          "is_umaine": true
         },
         {
           "school": "UMass Lowell",
@@ -759,20 +759,20 @@
         },
         {
           "school": "UAlbany",
-          "conference": "9-12",
-          "conference_pct": ".429",
-          "overall": "15-30",
-          "pct": ".429",
-          "streak": "W2",
+          "conference": "9-13",
+          "conference_pct": ".409",
+          "overall": "15-31",
+          "pct": ".409",
+          "streak": "L1",
           "is_umaine": false
         },
         {
           "school": "NJIT",
-          "conference": "6-15",
-          "conference_pct": ".286",
-          "overall": "16-28-1",
-          "pct": ".286",
-          "streak": "L1",
+          "conference": "6-16",
+          "conference_pct": ".273",
+          "overall": "16-29-1",
+          "pct": ".273",
+          "streak": "L2",
           "is_umaine": false
         }
       ]

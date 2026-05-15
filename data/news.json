@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-05-14T12:32:40.297073+00:00",
+  "last_updated": "2026-05-15T03:13:17.935776+00:00",
   "articles": [
+    {
+      "title": "Baseball Downs UAlbany on Thursday Afternoon",
+      "url": "https://goblackbears.com/news/2026/5/14/baseball-downs-ualbany-on-thursday-afternoon.aspx",
+      "summary": "The University of Maine baseball program defeated UAlbany via mercy rule to kick off their weekend series on Thursday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/14/evansoucymedia-6126.jpg",
+      "published": "Thu, 14 May 2026 15:03:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Legends Weekend: 1983 College World Series Team",
+      "url": "https://goblackbears.com/news/2026/5/14/baseball-legends-weekend-1983-college-world-series-team.aspx",
+      "summary": "ORONO, Maine -- The University of Maine baseball program will proudly celebrate its rich tradition and championship legacy by honoring all seven of its College World Series teams as part of 'Legends Weekend'. Members of each team will be welcomed back to Orono and introduced on field as part of a pregame ceremony on Saturday, May 16 when the Black Bears host UAlbany at 1 p.m.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/14/467_83_Baseball_Team_09_20_1983_001-web.png",
+      "published": "Thu, 14 May 2026 13:53:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Track and Field to host Last Chance Meet",
+      "url": "https://goblackbears.com/news/2026/5/14/mens-track-and-field-preview-track-and-field-to-host-last-chance-meet.aspx",
+      "summary": "The University of Maine Track and Field program is set to host the UMaine Last Chance Meet on Saturday May 16, at the University of Maine New Balance Outdoor Track and Field Complex.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/14/DSC09523.jpg",
+      "published": "Thu, 14 May 2026 13:26:00 EST",
+      "sport": "Men's Track and Field, Women's Track and Field",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Smith nominated for America East Woman of the Year",
+      "url": "https://goblackbears.com/news/2026/5/14/womens-basketball-smith-nominated-for-america-east-woman-of-the-year.aspx",
+      "summary": "ORONO, Maine -- Adrianna Smith has been selected as Maine's nominee for the America East's Woman of the Year honor, as announced by the conference on Thursday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/4/smith-dribbl-ebinghamton.png",
+      "published": "Thu, 14 May 2026 13:25:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Legends Weekend: 1982 College World Series Team",
+      "url": "https://goblackbears.com/news/2026/5/14/baseball-legends-weekend-1982-college-world-series-team.aspx",
+      "summary": "ORONO, Maine -- The University of Maine baseball program will proudly celebrate its rich tradition and championship legacy by honoring all seven of its College World Series teams as part of 'Legends Weekend'. Members of each team will be welcomed back to Orono and introduced on field as part of a pregame ceremony on Saturday, May 16 when the Black Bears host UAlbany at 1 p.m.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/14/Baseball_1982_1_-web.png",
+      "published": "Thu, 14 May 2026 13:10:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Gambardella Nominated for America East Man of the Year",
+      "url": "https://goblackbears.com/news/2026/5/14/baseball-gambardella-nominated-for-america-east-man-of-the-year.aspx",
+      "summary": "The America East Conference announced on Thursday afternoon that Gianni Gambardella was named the University of Maine nominee for the annual Man of the Year award in the conference.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/3/RC0_0891.jpg",
+      "published": "Thu, 14 May 2026 13:00:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Legends Weekend: 1981 College World Series Team",
+      "url": "https://goblackbears.com/news/2026/5/14/baseball-legends-weekend-1981-college-world-series-team.aspx",
+      "summary": "ORONO, Maine -- The University of Maine baseball program will proudly celebrate its rich tradition and championship legacy by honoring all seven of its College World Series teams as part of 'Legends Weekend'. Members of each team will be welcomed back to Orono and introduced on field as part of a pregame ceremony on Saturday, May 16 when the Black Bears host UAlbany at 1 p.m.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/14/144_81_Baseball_Team_04_01_1981_001-web.png",
+      "published": "Thu, 14 May 2026 10:40:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball's First Pitch against UAlbany on Thursday, May 14 has been Moved to 1 PM",
       "url": "https://goblackbears.com/news/2026/5/13/baseballs-first-pitch-against-ualbany-on-thursday-may-14-has-been-moved-to-1-pm.aspx",
@@ -22,73 +85,10 @@
     {
       "title": "Legends Weekend: 1976 College World Series Team",
       "url": "https://goblackbears.com/news/2026/5/12/baseball-legends-weekend-1976-college-world-series-team.aspx",
-      "summary": "ORONO, Maine -- The University of Maine baseball program will proudly celebrate its rich tradition and championship legacy by honoring all seven of its College World Series teams as part of 'Legends Weekend'. Members of each team will be welcomed back to Orono and introduced on field as part of a pregame ceremony on Saturday, May 15 when the Black Bears host UAlbany at 3 p.m.",
+      "summary": "ORONO, Maine -- The University of Maine baseball program will proudly celebrate its rich tradition and championship legacy by honoring all seven of its College World Series teams as part of 'Legends Weekend'. Members of each team will be welcomed back to Orono and introduced on field as part of a pregame ceremony on Saturday, May 16 when the Black Bears host UAlbany at 3 p.m.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/11/249_76_1976_Baseball_Team_05_26_1976_001-web.png",
       "published": "Tue, 12 May 2026 16:49:00 EST",
       "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Legends Weekend: 1964 College World Series Team",
-      "url": "https://goblackbears.com/news/2026/5/12/baseball-legends-weekend-1964-profile.aspx",
-      "summary": "ORONO, Maine -- The University of Maine baseball program will proudly celebrate its rich tradition and championship legacy by honoring all seven of its College World Series teams as part of 'Legends Weekend'. Members of each team will be welcomed back to Orono and introduced on field as part of a pregame ceremony on Saturday, May 16 when the Black Bears host UAlbany at 3 p.m.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/12/1964-team-web.png",
-      "published": "Tue, 12 May 2026 16:18:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Seven inductees highlight 2026 UMaine Sports Hall of Fame class",
-      "url": "https://goblackbears.com/news/2026/5/11/seven-inductees-highlight-2026-umaine-sports-hall-of-fame-class.aspx",
-      "summary": "ORONO, Maine \u2013 The University of Maine Sports Hall of Fame has announced its class of 2026, featuring six individuals who span more than a century of Black Bear history and one legendary team.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/11/249_76_1976_Baseball_Team_05_26_1976_001-web.png",
-      "published": "Mon, 11 May 2026 11:49:00 EST",
-      "sport": "General, Hall of Fame",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Krasnow medals in 5000m run, Women\u2019s track and field ends in 8th at America East Championship",
-      "url": "https://goblackbears.com/news/2026/5/10/womens-track-and-field-krasnow-medals-in-5000m-run-womens-track-and-field-ends-in-8th-at-america-east-championship.aspx",
-      "summary": "Lowell, MA - After day two of the America East Championship, the Maine women's track and field team placed eighth with 40 points.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/10/DSC09239.jpg",
-      "published": "Sun, 10 May 2026 18:14:00 EST",
-      "sport": "Women's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men\u2019s Track & Field breaks three school records, places 6th at America East Championship",
-      "url": "https://goblackbears.com/news/2026/5/10/mens-track-and-field-mens-track-field-breaks-three-school-records-places-6th-at-america-east-championship.aspx",
-      "summary": "Lowell, MA - The Maine men's track and field team ended in 6th place with 84 points after the America East Championship.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/10/DSC09573.jpg",
-      "published": "Sun, 10 May 2026 18:09:00 EST",
-      "sport": "Men's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Falls in Series Finale against UMass Lowell on Sunday Afternoon",
-      "url": "https://goblackbears.com/news/2026/5/10/baseball-falls-in-series-finale-against-umass-lowell-on-sunday-afternoon.aspx",
-      "summary": "The University of Maine baseball program dropped the final game of the series against UMass Lowell on Sunday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/10/RC0_7879.jpg",
-      "published": "Sun, 10 May 2026 14:24:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Treacy wins Championship, Garbett Medals in Steeplechase at Day 1 of America East Championships",
-      "url": "https://goblackbears.com/news/2026/5/9/womens-track-and-field-treacy-wins-championship-garbett-medals-in-steeplechase-at-day-1-of-america-east-championships.aspx",
-      "summary": "After Day 1 of the\u00a0 America East Championships, the Maine women's track and field team is tied for fifth place with 17 points.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/9/DSC08126.jpg",
-      "published": "Sat, 9 May 2026 18:58:00 EST",
-      "sport": "Women's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Rush Breaks School Record in Long Jump, Collins Medals in Day 1 of America East Championships",
-      "url": "https://goblackbears.com/news/2026/5/9/mens-track-and-field-rush-breaks-school-record-in-long-jump-collins-medals-in-day-1-of-america-east-championships.aspx",
-      "summary": "After Day 1 of the\u00a0 America East Championships, the Maine men's track and field team sits in sixth place with 18 points.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/9/DSC07594.jpg",
-      "published": "Sat, 9 May 2026 18:49:00 EST",
-      "sport": "Men's Track and Field",
       "source": "goblackbears"
     },
     {
@@ -241,15 +241,6 @@
       "summary": "ORONO, Maine -- University of Maine forward Adrianna Smith has been named the Eastern College Athletic Conference (ECAC) Player of the Year, as announced on Wednesday, March 25.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/25/smith-dribble-playoffs.png",
       "published": "Wed, 25 Mar 2026 12:07:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's Basketball falls in America East Championship at Vermont",
-      "url": "https://goblackbears.com/news/2026/3/13/womens-basketball-falls-in-america-east-championship-at-vermont.aspx",
-      "summary": "BURLINGTON, Vt. -- Adrianna Smith posted her 58th career double-double but the Black Bears came up short in the America East Championship, falling by a final of 61-43 to No. 1 Vermont on Friday evening at Patrick Gymnasium.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/13/smith-ae-championship.png",
-      "published": "Fri, 13 Mar 2026 19:38:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
     },
@@ -986,16 +977,6 @@
       "sport": "College Softball",
       "source": "bdn",
       "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine releases images of planned Alfond athletics village",
-      "url": "https://www.bangordailynews.com/2026/05/05/bangor/bangor-education/umaine-images-harold-alfond-athletics-village/",
-      "summary": "The project will connect the school\u2019s sports facilities with paths, and include new benches, signs, statues and other amenities.",
-      "image": "",
-      "published": "Tue, 05 May 2026 21:53:53 +0000",
-      "sport": "Bangor",
-      "source": "bdn",
-      "author": "Ethan Andrews"
     }
   ]
 }
