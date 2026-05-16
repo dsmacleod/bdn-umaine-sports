@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T12:33:07.926741+00:00",
+  "last_updated": "2026-05-16T03:10:47.533237+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,10 +1567,10 @@
     },
     "baseball": {
       "record": {
-        "overall": "19-30",
-        "conference": "12-10",
-        "streak": "W2",
-        "home": "7-6",
+        "overall": "20-30",
+        "conference": "13-10",
+        "streak": "W3",
+        "home": "8-6",
         "away": "11-24",
         "neutral": "1-0"
       },
@@ -2032,7 +2032,7 @@
           "opponent": "University at Albany",
           "location": "Orono, ME (Mahaney Diamond)",
           "tournament": "",
-          "result": ""
+          "result": "W 7-5"
         },
         {
           "date": "May 16 (Sat)",
