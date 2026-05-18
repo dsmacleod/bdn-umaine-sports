@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T12:15:49.755455+00:00",
+  "last_updated": "2026-05-18T03:14:32.864383+00:00",
   "articles": [
     {
       "title": "Baseball Sweeps UAlbany to Conclude 2026 Regular Season",
@@ -26,6 +26,24 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/15/Baseball_1986-web.png",
       "published": "Fri, 15 May 2026 10:00:00 EST",
       "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine closes out the season with Last Chance Meet",
+      "url": "https://goblackbears.com/news/2026/5/17/maine-closes-out-the-season-with-last-chance-meet.aspx",
+      "summary": "The University of Maine men's track and field program closed out the spring with the UMaine Last Chance Meet at the New Balance Outdoor Track and Field Complex on Saturday May 16. The Black Bears finished with 262 points.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/17/DSC08977.jpg",
+      "published": "Sun, 17 May 2026 12:56:00 EST",
+      "sport": "Men's Track and Field",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Black Bears finish strong in Last Chance Meet",
+      "url": "https://goblackbears.com/news/2026/5/17/womens-track-and-field-black-bears-finish-strong-in-last-chance-meet.aspx",
+      "summary": "The University of Maine women's track and field program closed out the spring with the\u00a0UMaine\u00a0Last Chance Meet at the New Balance Outdoor Track and Field Complex on Saturday May 16. The Black Bears finished with 285 points.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/17/DSC08094.jpg",
+      "published": "Sun, 17 May 2026 13:39:00 EST",
+      "sport": "Women's Track and Field",
       "source": "goblackbears"
     },
     {
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/4/smith-dribbl-ebinghamton.png",
       "published": "Thu, 14 May 2026 13:25:00 EST",
       "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Legends Weekend: 1982 College World Series Team",
-      "url": "https://goblackbears.com/news/2026/5/14/baseball-legends-weekend-1982-college-world-series-team.aspx",
-      "summary": "ORONO, Maine -- The University of Maine baseball program will proudly celebrate its rich tradition and championship legacy by honoring all seven of its College World Series teams as part of 'Legends Weekend'. Members of each team will be welcomed back to Orono and introduced on field as part of a pregame ceremony on Saturday, May 16 when the Black Bears host UAlbany at 1 p.m.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/14/Baseball_1982_1_-web.png",
-      "published": "Thu, 14 May 2026 13:10:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Gambardella Nominated for America East Man of the Year",
-      "url": "https://goblackbears.com/news/2026/5/14/baseball-gambardella-nominated-for-america-east-man-of-the-year.aspx",
-      "summary": "The America East Conference announced on Thursday afternoon that Gianni Gambardella was named the University of Maine nominee for the annual Man of the Year award in the conference.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/3/RC0_0891.jpg",
-      "published": "Thu, 14 May 2026 13:00:00 EST",
-      "sport": "Baseball",
       "source": "goblackbears"
     },
     {
@@ -919,6 +919,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "UMaine baseball sweeps Albany but misses out on America East tourney bye",
+      "url": "https://www.bangordailynews.com/2026/05/17/sports/college-baseball/umaine-sweep-albany-baseball/",
+      "summary": "UMaine beat Albany 11-6 on Saturday after posting a 12-1 win on Thursday and 7-5 triumph on Friday.",
+      "image": "",
+      "published": "Sun, 17 May 2026 19:36:37 +0000",
+      "sport": "College Baseball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine to honor College World Series baseball teams before Saturday finale",
       "url": "https://www.bangordailynews.com/2026/05/15/sports/college-baseball/umaine-college-world-series-baseball-teams/",
       "summary": "The seven teams are from 1964, 1976, 1981, 1982, 1983, 1984 and 1986.",
@@ -955,16 +965,6 @@
       "image": "",
       "published": "Mon, 11 May 2026 20:29:17 +0000",
       "sport": "College Baseball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Albany ousts UMaine from America East softball tourney behind Kennebunk native\u2019s 2-hitter",
-      "url": "https://www.bangordailynews.com/2026/05/07/sports/college-softball/albany-ousts-umaine-america-east-softball-tourney/",
-      "summary": "The fifth seed Black Bears concluded the season at 12-36 after losing their eighth straight contest.",
-      "image": "",
-      "published": "Thu, 07 May 2026 22:33:04 +0000",
-      "sport": "College Softball",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
