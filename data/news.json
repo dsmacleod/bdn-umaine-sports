@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-05-18T13:06:24.739635+00:00",
+  "last_updated": "2026-05-19T03:13:21.653140+00:00",
   "articles": [
+    {
+      "title": "Stevens and Krieger Earn Weekly Conference Honors",
+      "url": "https://goblackbears.com/news/2026/5/18/baseball-stevens-and-krieger-earn-weekly-conference-honors.aspx",
+      "summary": "The America East Conference announced on Monday morning that Juju Stevens and Jason Krieger of the University of Maine baseball program were named the Player and Pitcher of the Week following their performances against UAlbany on the final weekend of the regular season.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/18/Baseball_POTW_-_JasonArtboard_3.jpg",
+      "published": "Mon, 18 May 2026 11:00:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Sweeps UAlbany to Conclude 2026 Regular Season",
       "url": "https://goblackbears.com/news/2026/5/16/baseball-sweeps-ualbany-to-conclude-2026-regular-season.aspx",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/14/DSC09523.jpg",
       "published": "Thu, 14 May 2026 13:26:00 EST",
       "sport": "Men's Track and Field, Women's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Smith nominated for America East Woman of the Year",
-      "url": "https://goblackbears.com/news/2026/5/14/womens-basketball-smith-nominated-for-america-east-woman-of-the-year.aspx",
-      "summary": "ORONO, Maine -- Adrianna Smith has been selected as Maine's nominee for the America East's Woman of the Year honor, as announced by the conference on Thursday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/4/smith-dribbl-ebinghamton.png",
-      "published": "Thu, 14 May 2026 13:25:00 EST",
-      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -179,6 +179,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/23/JNS4_EP4YoutubeThumbnail.jpg",
       "published": "Tue, 24 Mar 2026 09:00:00 EST",
       "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Smith nominated for America East Woman of the Year",
+      "url": "https://goblackbears.com/news/2026/5/14/womens-basketball-smith-nominated-for-america-east-woman-of-the-year.aspx",
+      "summary": "ORONO, Maine -- Adrianna Smith has been selected as Maine's nominee for the America East's Woman of the Year honor, as announced by the conference on Thursday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/4/smith-dribbl-ebinghamton.png",
+      "published": "Thu, 14 May 2026 13:25:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {

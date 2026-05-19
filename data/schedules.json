@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T13:06:24.739635+00:00",
+  "last_updated": "2026-05-19T03:13:21.653140+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -3817,6 +3817,15 @@
           "location": "Orono, ME (New Balance Outdoor Track and Field Complex)",
           "tournament": "",
           "result": ""
+        },
+        {
+          "date": "May 27 (Wed)",
+          "time": "TBD",
+          "home_away": "Neutral",
+          "opponent": "NCAA Championships - First Round",
+          "location": "Lexington, Ky.",
+          "tournament": "",
+          "result": ""
         }
       ],
       "schedule_id": "3311",
@@ -3847,7 +3856,8 @@
         "16444",
         "16445",
         "16446",
-        "16447"
+        "16447",
+        "16518"
       ]
     },
     "wtrack": {
@@ -4102,6 +4112,15 @@
           "location": "Orono, ME (New Balance Outdoor Track and Field Complex)",
           "tournament": "",
           "result": ""
+        },
+        {
+          "date": "May 27 (Wed)",
+          "time": "TBD",
+          "home_away": "Neutral",
+          "opponent": "NCAA Championships - First Round",
+          "location": "Lexington, Ky.",
+          "tournament": "",
+          "result": ""
         }
       ],
       "schedule_id": "3312",
@@ -4132,7 +4151,8 @@
         "16462",
         "16463",
         "16464",
-        "16465"
+        "16465",
+        "16521"
       ]
     }
   }
