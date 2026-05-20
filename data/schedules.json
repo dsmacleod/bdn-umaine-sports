@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T12:58:23.628808+00:00",
+  "last_updated": "2026-05-20T03:13:23.247863+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -2045,9 +2045,9 @@
         },
         {
           "date": "May 20 (Wed)",
-          "time": "TBA",
-          "home_away": "Away",
-          "opponent": "America East Tournament",
+          "time": "5 PM",
+          "home_away": "Neutral",
+          "opponent": "University at Albany",
           "location": "Vestel, NY",
           "tournament": "",
           "result": ""

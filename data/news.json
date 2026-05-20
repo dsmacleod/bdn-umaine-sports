@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-19T12:58:23.628808+00:00",
+  "last_updated": "2026-05-20T03:13:23.247863+00:00",
   "articles": [
+    {
+      "title": "St. Denis Named America East Rookie of the Year",
+      "url": "https://goblackbears.com/news/2026/5/19/baseball-st-denis-named-america-east-rookie-of-the-year.aspx",
+      "summary": "The America East Conference announced their 2026 regular season awards winners on Tuesday afternoon. Hunter St. Denis headlines the Black Bears award winners as he earns one of the four major awards, being named the 2026 America East Rookie of the Year. St. Denis, Jason Krieger, Juju Stevens and Albert De La Rosa all earned a spot on an All-Conference Team while Troy Carpenter joined St. Denis on the All-Rookie Team.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/19/562A4563.jpg",
+      "published": "Tue, 19 May 2026 15:00:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine Athletics mourns the passing of Richard Todd ('72)",
+      "url": "https://goblackbears.com/news/2026/5/19/football-maine-athletics-mourns-the-pass-of-dick-todd-72.aspx",
+      "summary": "Orono, Maine \u2013 The University of Maine athletics department was saddened to learn of the passing of offensive lineman/defensive tackle, Richard 'Dick' Todd ('72).",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/19/35_306_8_71_Richard_Todd_08_27_1971_001-web.png",
+      "published": "Tue, 19 May 2026 10:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
     {
       "title": "Stevens and Krieger Earn Weekly Conference Honors",
       "url": "https://goblackbears.com/news/2026/5/18/baseball-stevens-and-krieger-earn-weekly-conference-honors.aspx",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/14/evansoucymedia-6126.jpg",
       "published": "Thu, 14 May 2026 15:03:00 EST",
       "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Legends Weekend: 1983 College World Series Team",
-      "url": "https://goblackbears.com/news/2026/5/14/baseball-legends-weekend-1983-college-world-series-team.aspx",
-      "summary": "ORONO, Maine -- The University of Maine baseball program will proudly celebrate its rich tradition and championship legacy by honoring all seven of its College World Series teams as part of 'Legends Weekend'. Members of each team will be welcomed back to Orono and introduced on field as part of a pregame ceremony on Saturday, May 16 when the Black Bears host UAlbany at 1 p.m.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/14/467_83_Baseball_Team_09_20_1983_001-web.png",
-      "published": "Thu, 14 May 2026 13:53:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Track and Field to host Last Chance Meet",
-      "url": "https://goblackbears.com/news/2026/5/14/mens-track-and-field-preview-track-and-field-to-host-last-chance-meet.aspx",
-      "summary": "The University of Maine Track and Field program is set to host the UMaine Last Chance Meet on Saturday May 16, at the University of Maine New Balance Outdoor Track and Field Complex.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/14/DSC09523.jpg",
-      "published": "Thu, 14 May 2026 13:26:00 EST",
-      "sport": "Men's Track and Field, Women's Track and Field",
       "source": "goblackbears"
     },
     {
@@ -924,6 +924,16 @@
       "image": "",
       "published": "Fri, 31 Oct 2025 20:42:35 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine baseball freshman named America East Rookie of the Year",
+      "url": "https://www.bangordailynews.com/2026/05/19/sports/college-baseball/umaine-baseball-freshman-america-east-rookie-of-the-year-joam40zk0w/",
+      "summary": "Hunter St. Denis became the first Black Bear since 2007 to receive the honor.",
+      "image": "",
+      "published": "Tue, 19 May 2026 22:12:21 +0000",
+      "sport": "College Baseball",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
