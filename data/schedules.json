@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T12:46:40.503889+00:00",
+  "last_updated": "2026-05-21T03:13:52.973768+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,12 +1567,12 @@
     },
     "baseball": {
       "record": {
-        "overall": "21-30",
+        "overall": "22-30",
         "conference": "14-10",
-        "streak": "W4",
+        "streak": "W5",
         "home": "9-6",
         "away": "11-24",
-        "neutral": "1-0"
+        "neutral": "2-0"
       },
       "games": [
         {
@@ -2050,6 +2050,15 @@
           "opponent": "University at Albany",
           "location": "Vestel, NY",
           "tournament": "",
+          "result": "W 11-5"
+        },
+        {
+          "date": "May 21 (Thu)",
+          "time": "3 PM",
+          "home_away": "Neutral",
+          "opponent": "UMBC",
+          "location": "Vestel, N.Y.",
+          "tournament": "",
           "result": ""
         }
       ],
@@ -2107,7 +2116,8 @@
         "16413",
         "16414",
         "16415",
-        "16416"
+        "16416",
+        "16553"
       ]
     },
     "softball": {

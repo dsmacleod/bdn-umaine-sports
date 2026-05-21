@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-05-20T12:46:40.503889+00:00",
+  "last_updated": "2026-05-21T03:13:52.973768+00:00",
   "articles": [
+    {
+      "title": "Baseball Defeats UAlbany to Advance to the Second Day of the America East Championship",
+      "url": "https://goblackbears.com/news/2026/5/20/baseball-defeats-ualbany-to-advance-to-the-second-day-of-the-america-east-championship.aspx",
+      "summary": "The University of Maine baseball program advanced to the second day of the America East Tournament as they defeated UAlbany on Wednesday Night.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/20/_DSC5470.jpg",
+      "published": "Wed, 20 May 2026 20:31:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
     {
       "title": "St. Denis Named America East Rookie of the Year",
       "url": "https://goblackbears.com/news/2026/5/19/baseball-st-denis-named-america-east-rookie-of-the-year.aspx",
@@ -79,15 +88,6 @@
       "summary": "ORONO, Maine -- The University of Maine baseball program will proudly celebrate its rich tradition and championship legacy by honoring all seven of its College World Series teams as part of 'Legends Weekend'. Members of each team will be welcomed back to Orono and introduced on field as part of a pregame ceremony on Saturday, May 16 when the Black Bears host UAlbany at 1 p.m.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/15/257_84_1984_Baseball_Team_05_02_1984_001-web.png",
       "published": "Fri, 15 May 2026 09:52:00 EST",
-      "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball Downs UAlbany on Thursday Afternoon",
-      "url": "https://goblackbears.com/news/2026/5/14/baseball-downs-ualbany-on-thursday-afternoon.aspx",
-      "summary": "The University of Maine baseball program defeated UAlbany via mercy rule to kick off their weekend series on Thursday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/14/evansoucymedia-6126.jpg",
-      "published": "Thu, 14 May 2026 15:03:00 EST",
       "sport": "Baseball",
       "source": "goblackbears"
     },
@@ -924,6 +924,26 @@
       "image": "",
       "published": "Fri, 31 Oct 2025 20:42:35 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine baseball thumps Albany in America East play-in game, faces UMBC on Thursday",
+      "url": "https://www.bangordailynews.com/2026/05/20/sports/college-baseball/umaine-baseball-thumps-albany/",
+      "summary": "The third time was a charm for the Black Bears as they roughed up America East Pitcher of the Year Dylan Banner to the tune of 15 hits and 11 runs in just 5 \u2154 innings.",
+      "image": "",
+      "published": "Thu, 21 May 2026 01:28:09 +0000",
+      "sport": "College Baseball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "2 freshmen power UMaine baseball\u2019s offense as it prepares for tourney play-in game",
+      "url": "https://www.bangordailynews.com/2026/05/20/sports/college-baseball/umaine-baseball-offense-freshman-hunter-st-denis-troy-carpenter/",
+      "summary": "They both played at prestigious baseball academies in Florida last season and have made major impacts for the Black Bears.",
+      "image": "",
+      "published": "Wed, 20 May 2026 13:42:48 +0000",
+      "sport": "College Baseball",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
