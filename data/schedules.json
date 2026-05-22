@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T13:00:22.480420+00:00",
+  "last_updated": "2026-05-22T03:13:54.264670+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,12 +1567,12 @@
     },
     "baseball": {
       "record": {
-        "overall": "22-30",
+        "overall": "23-30",
         "conference": "14-10",
-        "streak": "W5",
+        "streak": "W6",
         "home": "9-6",
         "away": "11-24",
-        "neutral": "2-0"
+        "neutral": "3-0"
       },
       "games": [
         {
@@ -2059,6 +2059,15 @@
           "opponent": "UMBC",
           "location": "Vestel, N.Y.",
           "tournament": "",
+          "result": "W 5-4"
+        },
+        {
+          "date": "May 22 (Fri)",
+          "time": "1 PM",
+          "home_away": "Neutral",
+          "opponent": "Binghamton University",
+          "location": "Vestel, N.Y.",
+          "tournament": "",
           "result": ""
         }
       ],
@@ -2117,7 +2126,8 @@
         "16414",
         "16415",
         "16416",
-        "16553"
+        "16553",
+        "16554"
       ]
     },
     "softball": {
