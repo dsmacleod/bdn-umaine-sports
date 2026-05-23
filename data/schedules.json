@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T12:44:27.256868+00:00",
+  "last_updated": "2026-05-23T03:11:01.775226+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,12 +1567,12 @@
     },
     "baseball": {
       "record": {
-        "overall": "23-30",
+        "overall": "24-31",
         "conference": "14-10",
-        "streak": "W6",
+        "streak": "W1",
         "home": "9-6",
         "away": "11-24",
-        "neutral": "3-0"
+        "neutral": "4-1"
       },
       "games": [
         {
@@ -2068,6 +2068,24 @@
           "opponent": "Binghamton University",
           "location": "Vestel, N.Y.",
           "tournament": "",
+          "result": "L 5-6"
+        },
+        {
+          "date": "May 22 (Fri)",
+          "time": "5 PM",
+          "home_away": "Neutral",
+          "opponent": "UMBC",
+          "location": "Vestel, N.Y.",
+          "tournament": "",
+          "result": "W 11-6"
+        },
+        {
+          "date": "May 23 (Sat)",
+          "time": "1 PM",
+          "home_away": "Neutral",
+          "opponent": "Binghamton University",
+          "location": "Vestel, N.Y.",
+          "tournament": "",
           "result": ""
         }
       ],
@@ -2127,7 +2145,9 @@
         "16415",
         "16416",
         "16553",
-        "16554"
+        "16554",
+        "16557",
+        "16558"
       ]
     },
     "softball": {
@@ -3840,9 +3860,18 @@
         },
         {
           "date": "May 27 (Wed)",
-          "time": "TBD",
+          "time": "6:30 PM",
           "home_away": "Neutral",
-          "opponent": "NCAA Championships - First Round",
+          "opponent": "NCAA Championships - First Round (Shot Put)",
+          "location": "Lexington, Ky.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 29 (Fri)",
+          "time": "6:00 PM",
+          "home_away": "Neutral",
+          "opponent": "NCAA Championships - First Round (Triple Jump)",
           "location": "Lexington, Ky.",
           "tournament": "",
           "result": ""
@@ -3877,7 +3906,8 @@
         "16445",
         "16446",
         "16447",
-        "16518"
+        "16518",
+        "16555"
       ]
     },
     "wtrack": {
@@ -4134,10 +4164,19 @@
           "result": ""
         },
         {
-          "date": "May 27 (Wed)",
-          "time": "TBD",
+          "date": "May 28 (Thu)",
+          "time": "9:10 PM",
           "home_away": "Neutral",
-          "opponent": "NCAA Championships - First Round",
+          "opponent": "NCAA Championships - First Round (10,000m)",
+          "location": "Lexington, Ky.",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "May 30 (Sat)",
+          "time": "5:40 PM",
+          "home_away": "Neutral",
+          "opponent": "NCAA Championships - First Round (5,000m/3,000m steeple)",
           "location": "Lexington, Ky.",
           "tournament": "",
           "result": ""
@@ -4172,7 +4211,8 @@
         "16463",
         "16464",
         "16465",
-        "16521"
+        "16521",
+        "16556"
       ]
     }
   }

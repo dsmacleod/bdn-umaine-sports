@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-22T12:44:27.256868+00:00",
+  "last_updated": "2026-05-23T03:11:01.775226+00:00",
   "articles": [
+    {
+      "title": "Baseball Advances to the America East Championship Game",
+      "url": "https://goblackbears.com/news/2026/5/22/baseball-advances-to-the-america-east-championship-game.aspx",
+      "summary": "The University of Maine baseball program kept their America East Championship bid alive as they split their action on Friday to advance to the final day of the America East Tournament as they lost to #1 Binghamton before defeating #2 UMBC.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/22/_DSC5962.jpg",
+      "published": "Fri, 22 May 2026 20:04:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Four Black Bears set to compete at NCAA Outdoor East First Round",
+      "url": "https://goblackbears.com/news/2026/5/22/mens-track-and-field-four-black-bears-set-to-compete-at-ncaa-outdoor-east-first-round.aspx",
+      "summary": "ORONO, Maine -- Four members of Maine's track & field programs have earned berths to compete at the 2026 NCAA Outdoor Track & Field East First Rounds, hosted in Lexington, Ky.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/14/krasnow-action.png",
+      "published": "Fri, 22 May 2026 13:43:00 EST",
+      "sport": "Men's Track and Field, Women's Track and Field",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball Takes Down #2 UMBC to Advance to Friday of the America East Championships",
       "url": "https://goblackbears.com/news/2026/5/21/baseball-takes-down-3-umbc-to-advance-to-friday-of-the-america-east-championships.aspx",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/15/Baseball_1986-web.png",
       "published": "Fri, 15 May 2026 10:00:00 EST",
       "sport": "Baseball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Maine closes out the season with Last Chance Meet",
-      "url": "https://goblackbears.com/news/2026/5/17/maine-closes-out-the-season-with-last-chance-meet.aspx",
-      "summary": "The University of Maine men's track and field program closed out the spring with the UMaine Last Chance Meet at the New Balance Outdoor Track and Field Complex on Saturday May 16. The Black Bears finished with 262 points.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/17/DSC08977.jpg",
-      "published": "Sun, 17 May 2026 12:56:00 EST",
-      "sport": "Men's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Black Bears finish strong in Last Chance Meet",
-      "url": "https://goblackbears.com/news/2026/5/17/womens-track-and-field-black-bears-finish-strong-in-last-chance-meet.aspx",
-      "summary": "The University of Maine women's track and field program closed out the spring with the\u00a0UMaine\u00a0Last Chance Meet at the New Balance Outdoor Track and Field Complex on Saturday May 16. The Black Bears finished with 285 points.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/17/DSC08094.jpg",
-      "published": "Sun, 17 May 2026 13:39:00 EST",
-      "sport": "Women's Track and Field",
       "source": "goblackbears"
     },
     {
@@ -924,6 +924,26 @@
       "image": "",
       "published": "Fri, 31 Oct 2025 20:42:35 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine baseball bounces back from tough loss to oust UMBC in America East tourney",
+      "url": "https://www.bangordailynews.com/2026/05/22/sports/college-baseball/umaine-baseball-bounces-back-beats-umbc-america-east-tourney/",
+      "summary": "Third seed UMaine will now have to beat top seed and defending champ Binghamton twice on Saturday to win the tournament.",
+      "image": "",
+      "published": "Sat, 23 May 2026 01:00:47 +0000",
+      "sport": "College Baseball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "9th-inning wildness allows Binghamton baseball to rally past UMaine in AE tourney",
+      "url": "https://www.bangordailynews.com/2026/05/22/sports/college-baseball/binghamton-baseball-beats-umaine-ae-tourney/",
+      "summary": "The Black Bears are now facing off against the University of Maryland Baltimore County in a second Friday game.",
+      "image": "",
+      "published": "Fri, 22 May 2026 21:29:33 +0000",
+      "sport": "College Baseball",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
