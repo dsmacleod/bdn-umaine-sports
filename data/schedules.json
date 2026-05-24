@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T12:16:26.704090+00:00",
+  "last_updated": "2026-05-24T03:13:11.375213+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -1567,12 +1567,12 @@
     },
     "baseball": {
       "record": {
-        "overall": "24-31",
+        "overall": "24-32",
         "conference": "14-10",
-        "streak": "W1",
+        "streak": "L1",
         "home": "9-6",
         "away": "11-24",
-        "neutral": "4-1"
+        "neutral": "4-2"
       },
       "games": [
         {
@@ -2048,7 +2048,7 @@
           "time": "5 PM",
           "home_away": "Neutral",
           "opponent": "University at Albany",
-          "location": "Vestel, NY",
+          "location": "Vestal, NY",
           "tournament": "",
           "result": "W 11-5"
         },
@@ -2057,7 +2057,7 @@
           "time": "3 PM",
           "home_away": "Neutral",
           "opponent": "UMBC",
-          "location": "Vestel, N.Y.",
+          "location": "Vestal, N.Y.",
           "tournament": "",
           "result": "W 5-4"
         },
@@ -2066,7 +2066,7 @@
           "time": "1 PM",
           "home_away": "Neutral",
           "opponent": "Binghamton University",
-          "location": "Vestel, N.Y.",
+          "location": "Vestal, N.Y.",
           "tournament": "",
           "result": "L 5-6"
         },
@@ -2075,18 +2075,18 @@
           "time": "5 PM",
           "home_away": "Neutral",
           "opponent": "UMBC",
-          "location": "Vestel, N.Y.",
+          "location": "Vestal, N.Y.",
           "tournament": "",
           "result": "W 11-6"
         },
         {
           "date": "May 23 (Sat)",
-          "time": "1 PM",
+          "time": "8 PM",
           "home_away": "Neutral",
           "opponent": "Binghamton University",
-          "location": "Vestel, N.Y.",
+          "location": "Vestal, N.Y.",
           "tournament": "",
-          "result": ""
+          "result": "L 3-7"
         }
       ],
       "schedule_id": "3314",

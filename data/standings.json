@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T12:16:26.704090+00:00",
+  "last_updated": "2026-05-24T03:13:11.375213+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -716,9 +716,9 @@
           "school": "Binghamton",
           "conference": "17-7",
           "conference_pct": ".708",
-          "overall": "30-20",
+          "overall": "31-20",
           "pct": ".708",
-          "streak": "W3",
+          "streak": "W4",
           "is_umaine": false
         },
         {
@@ -734,9 +734,9 @@
           "school": "Maine",
           "conference": "14-10",
           "conference_pct": ".583",
-          "overall": "25-30",
+          "overall": "25-31",
           "pct": ".583",
-          "streak": "W1",
+          "streak": "L1",
           "is_umaine": true
         },
         {
