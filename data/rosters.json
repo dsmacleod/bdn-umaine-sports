@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T13:22:58.059608+00:00",
+  "last_updated": "2026-06-09T03:13:09.591428+00:00",
   "sports": {
     "mhockey": [
       {
@@ -748,6 +748,19 @@
         "url": "/sports/football/roster/eddie-buehler/13121"
       },
       {
+        "player_id": "13293",
+        "name": "Jeremiah McGill",
+        "number": "2",
+        "position": "Defensive Back",
+        "height": "6'0\"",
+        "weight": "",
+        "year": "Gr.",
+        "hometown": "Miami, FL",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/football/roster/jeremiah-mcgill/13293"
+      },
+      {
         "player_id": "13122",
         "name": "Daniel Batch",
         "number": "3",
@@ -772,6 +785,19 @@
         "previous_school": "",
         "headshot": "",
         "url": "/sports/football/roster/malik-mcneely/13123"
+      },
+      {
+        "player_id": "13150",
+        "name": "Rashawn Marshall",
+        "number": "5",
+        "position": "Running Back",
+        "height": "5'10\"",
+        "weight": "",
+        "year": "R-So.",
+        "hometown": "Newark, N.J.",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/football/roster/rashawn-marshall/13150"
       },
       {
         "player_id": "13124",
@@ -904,19 +930,6 @@
         "url": "/sports/football/roster/kevin-jackson/13134"
       },
       {
-        "player_id": "13133",
-        "name": "Jonah Richardson",
-        "number": "13",
-        "position": "Defensive Back",
-        "height": "6'1\"",
-        "weight": "",
-        "year": "Fr.",
-        "hometown": "Boxford, MA",
-        "previous_school": "",
-        "headshot": "",
-        "url": "/sports/football/roster/jonah-richardson/13133"
-      },
-      {
         "player_id": "13135",
         "name": "Alex Nash-Lally",
         "number": "14",
@@ -944,7 +957,7 @@
       },
       {
         "player_id": "13137",
-        "name": "Jake T. Kucera",
+        "name": "Jake Kucera",
         "number": "15",
         "position": "Defensive Back",
         "height": "5'10\"",
@@ -953,7 +966,7 @@
         "hometown": "Downingtown, Pa.",
         "previous_school": "",
         "headshot": "",
-        "url": "/sports/football/roster/jake-t-kucera/13137"
+        "url": "/sports/football/roster/jake-kucera/13137"
       },
       {
         "player_id": "13138",
@@ -1099,6 +1112,19 @@
         "url": "/sports/football/roster/shane-keyes-wilson/13148"
       },
       {
+        "player_id": "13198",
+        "name": "Ty Boone",
+        "number": "23",
+        "position": "Wide Receiver",
+        "height": "5'11\"",
+        "weight": "",
+        "year": "Fr.",
+        "hometown": "Stillwater Lake, Nova Scotia",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/football/roster/ty-boone/13198"
+      },
+      {
         "player_id": "13149",
         "name": "Ronalon Renwick",
         "number": "23",
@@ -1112,17 +1138,17 @@
         "url": "/sports/football/roster/ronalon-renwick/13149"
       },
       {
-        "player_id": "13150",
-        "name": "Rashawn Marshall",
+        "player_id": "13294",
+        "name": "Amahj Walker",
         "number": "24",
-        "position": "Running Back",
-        "height": "5'10\"",
+        "position": "Defensive Back",
+        "height": "6'0\"",
         "weight": "",
-        "year": "R-So.",
-        "hometown": "Newark, N.J.",
+        "year": "R-Jr.",
+        "hometown": "York, PA",
         "previous_school": "",
         "headshot": "",
-        "url": "/sports/football/roster/rashawn-marshall/13150"
+        "url": "/sports/football/roster/amahj-walker/13294"
       },
       {
         "player_id": "13151",
@@ -1177,17 +1203,17 @@
         "url": "/sports/football/roster/aamir-dunbar/13154"
       },
       {
-        "player_id": "13155",
-        "name": "Symon Sathler",
+        "player_id": "13133",
+        "name": "Jonah Richardson",
         "number": "28",
-        "position": "Running Back",
-        "height": "5'10\"",
+        "position": "Defensive Back",
+        "height": "6'1\"",
         "weight": "",
-        "year": "R-Sr.",
-        "hometown": "Woburn, Mass.",
+        "year": "Fr.",
+        "hometown": "Boxford, MA",
         "previous_school": "",
         "headshot": "",
-        "url": "/sports/football/roster/symon-sathler/13155"
+        "url": "/sports/football/roster/jonah-richardson/13133"
       },
       {
         "player_id": "13156",
@@ -1307,6 +1333,19 @@
         "url": "/sports/football/roster/kash-grewal/13164"
       },
       {
+        "player_id": "13295",
+        "name": "Aidan Winter",
+        "number": "38",
+        "position": "Running Back",
+        "height": "6'1\"",
+        "weight": "",
+        "year": "Fr.",
+        "hometown": "Babylon, N.Y.",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/football/roster/aidan-winter/13295"
+      },
+      {
         "player_id": "13165",
         "name": "Amari Mack",
         "number": "39",
@@ -1398,19 +1437,6 @@
         "url": "/sports/football/roster/omar-aboutoui/13171"
       },
       {
-        "player_id": "13172",
-        "name": "Ian Friend",
-        "number": "46",
-        "position": "Linebacker",
-        "height": "",
-        "weight": "",
-        "year": "Fr.",
-        "hometown": "",
-        "previous_school": "",
-        "headshot": "",
-        "url": "/sports/football/roster/ian-friend/13172"
-      },
-      {
         "player_id": "13173",
         "name": "Tony Bongomin",
         "number": "47",
@@ -1422,6 +1448,32 @@
         "previous_school": "",
         "headshot": "",
         "url": "/sports/football/roster/tony-bongomin/13173"
+      },
+      {
+        "player_id": "13296",
+        "name": "Elijah Alvarado",
+        "number": "48",
+        "position": "Linebacker",
+        "height": "6'2\"",
+        "weight": "",
+        "year": "R-So.",
+        "hometown": "Goodyear, AZ",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/football/roster/elijah-alvarado/13296"
+      },
+      {
+        "player_id": "13297",
+        "name": "Justin Mucerino",
+        "number": "50",
+        "position": "Long Snapper",
+        "height": "5'10\"",
+        "weight": "",
+        "year": "R-So.",
+        "hometown": "Fort Worth, TX",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/football/roster/justin-mucerino/13297"
       },
       {
         "player_id": "13174",
@@ -1749,17 +1801,30 @@
         "url": "/sports/football/roster/connor-hepperlen/13197"
       },
       {
-        "player_id": "13198",
-        "name": "Ty Boone",
-        "number": "87",
-        "position": "Wide Receiver",
-        "height": "5'11\"",
+        "player_id": "13299",
+        "name": "Alexander Perez-Munoz",
+        "number": "86",
+        "position": "Tight End",
+        "height": "6'5\"",
         "weight": "",
         "year": "Fr.",
-        "hometown": "Stillwater Lake, Nova Scotia",
+        "hometown": "West New York, N.J.",
         "previous_school": "",
         "headshot": "",
-        "url": "/sports/football/roster/ty-boone/13198"
+        "url": "/sports/football/roster/alexander-perez-munoz/13299"
+      },
+      {
+        "player_id": "13298",
+        "name": "Isaiah Jones",
+        "number": "87",
+        "position": "Tight End",
+        "height": "6'4\"",
+        "weight": "",
+        "year": "R-So.",
+        "hometown": "Columbia, S.C.",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/football/roster/isaiah-jones/13298"
       },
       {
         "player_id": "13200",
@@ -2091,186 +2156,173 @@
     ],
     "wbball": [
       {
-        "player_id": "12198",
+        "player_id": "13310",
+        "name": "Ayla Corrigale",
+        "number": "1/1",
+        "position": "Guard",
+        "height": "5'7\"",
+        "weight": "",
+        "year": "Fr.",
+        "hometown": "Orangeville, Ontario",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/womens-basketball/roster/ayla-corrigale/13310"
+      },
+      {
+        "player_id": "13308",
         "name": "Emmie Streams",
         "number": "2",
         "position": "Guard",
         "height": "5'4\"",
         "weight": "",
-        "year": "Jr.",
+        "year": "Sr.",
         "hometown": "Veazie, Maine",
         "previous_school": "",
         "headshot": "/images/2025/8/20/Headshots_Emmie_Streams_2.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/emmie-streams/12198"
+        "url": "/sports/womens-basketball/roster/emmie-streams/13308"
       },
       {
-        "player_id": "12193",
+        "player_id": "13300",
         "name": "Izzy Allen",
         "number": "3",
         "position": "Full Bio",
         "height": "5'11\"",
         "weight": "",
-        "year": "So.",
+        "year": "Jr.",
         "hometown": "Corinth, Maine",
         "previous_school": "",
         "headshot": "/images/2025/8/20/Headshots_Izzy_Allen_3.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/izzy-allen/12193"
+        "url": "/sports/womens-basketball/roster/izzy-allen/13300"
       },
       {
-        "player_id": "12195",
-        "name": "Amiyah Donaldson",
-        "number": "5",
-        "position": "Guard",
-        "height": "5'7\"",
-        "weight": "",
-        "year": "R-Sr.",
-        "hometown": "Cleveland, Ohio",
-        "previous_school": "",
-        "headshot": "/images/2025/8/20/Headshots_Amiyah_Donaldson_5.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/amiyah-donaldson/12195"
-      },
-      {
-        "player_id": "12194",
-        "name": "Asta Blauenfeldt",
-        "number": "6",
-        "position": "Guard",
-        "height": "5'6\"",
-        "weight": "",
-        "year": "Sr.",
-        "hometown": "Kongens Lyngby, Denmark",
-        "previous_school": "",
-        "headshot": "/images/2025/8/20/Headshots_Asta_Blauenfeldt_6.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/asta-blauenfeldt/12194"
-      },
-      {
-        "player_id": "12200",
+        "player_id": "13304",
         "name": "Lizzy Gruber",
         "number": "8",
         "position": "Center",
         "height": "6'4\"",
         "weight": "",
-        "year": "Jr.",
+        "year": "Sr.",
         "hometown": "Gardiner, Maine",
         "previous_school": "",
         "headshot": "/images/2025/8/20/Headshots_Lizzy_Gruber_8.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/lizzy-gruber/12200"
+        "url": "/sports/womens-basketball/roster/lizzy-gruber/13304"
       },
       {
-        "player_id": "12199",
-        "name": "Sarah Talon",
-        "number": "12",
+        "player_id": "13311",
+        "name": "Ava Sewall",
+        "number": "10/10",
         "position": "Guard",
-        "height": "5'10\"",
+        "height": "5'9\"",
         "weight": "",
-        "year": "Sr.",
-        "hometown": "Windham, Maine",
+        "year": "Fr.",
+        "hometown": "Annandale, Va.",
         "previous_school": "",
-        "headshot": "/images/2025/8/20/Headshots_Sarah_Talon_12.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/sarah-talon/12199"
+        "headshot": "",
+        "url": "/sports/womens-basketball/roster/ava-sewall/13311"
       },
       {
-        "player_id": "12203",
+        "player_id": "13306",
         "name": "Abby Price",
         "number": "15",
         "position": "Guard",
         "height": "5'11\"",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "Boca Raton, Fla.",
         "previous_school": "",
         "headshot": "/images/2025/8/20/Headshots_Abby_Price_15.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/abby-price/12203"
+        "url": "/sports/womens-basketball/roster/abby-price/13306"
       },
       {
-        "player_id": "12196",
+        "player_id": "13312",
+        "name": "Zeina Haleem",
+        "number": "17/17",
+        "position": "Forward",
+        "height": "6'3\"",
+        "weight": "",
+        "year": "Fr.",
+        "hometown": "Cairo, Egypt",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/womens-basketball/roster/zeina-haleem/13312"
+      },
+      {
+        "player_id": "13303",
         "name": "Maddie Fitzpatrick",
         "number": "23",
         "position": "Guard",
         "height": "5'11\"",
         "weight": "",
-        "year": "R-Fr.",
+        "year": "R-So.",
         "hometown": "Cumberland, Maine",
         "previous_school": "",
         "headshot": "/images/2025/8/20/Headshots_Maddie_Fitzpatrick_23.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/maddie-fitzpatrick/12196"
+        "url": "/sports/womens-basketball/roster/maddie-fitzpatrick/13303"
       },
       {
-        "player_id": "12201",
+        "player_id": "13302",
         "name": "Bailey Breen",
         "number": "31",
         "position": "Forward",
         "height": "6'3\"",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "South Thomaston, Maine",
         "previous_school": "",
         "headshot": "/images/2025/8/20/Headshots_Bailey_Breen_31.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/bailey-breen/12201"
+        "url": "/sports/womens-basketball/roster/bailey-breen/13302"
       },
       {
-        "player_id": "12204",
+        "player_id": "13301",
         "name": "Olivia Alvarez",
         "number": "32",
         "position": "Guard",
         "height": "5'8\"",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "Las Rozas, Madrid, Spain",
         "previous_school": "",
         "headshot": "/images/2025/8/20/Headshots_Olivia_Alvarez_Tirado_32.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/olivia-alvarez/12204"
+        "url": "/sports/womens-basketball/roster/olivia-alvarez/13301"
       },
       {
-        "player_id": "12197",
-        "name": "Adrianna Smith",
-        "number": "33",
-        "position": "Forward",
-        "height": "6'0\"",
-        "weight": "",
-        "year": "R-Sr.",
-        "hometown": "Reston, Va.",
-        "previous_school": "",
-        "headshot": "/images/2025/8/20/Headshots_Adrianna_Smith_33.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/adrianna-smith/12197"
-      },
-      {
-        "player_id": "12202",
+        "player_id": "13305",
         "name": "Mackenzie Mori",
         "number": "34",
         "position": "Guard/Forward",
         "height": "5'11\"",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "Wethersfield, Conn.",
         "previous_school": "",
         "headshot": "/images/2025/8/20/Headshots_Mackenzie_Mori_34.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/mackenzie-mori/12202"
+        "url": "/sports/womens-basketball/roster/mackenzie-mori/13305"
       },
       {
-        "player_id": "12205",
+        "player_id": "13309",
         "name": "Lala Woods",
         "number": "35",
         "position": "Guard",
         "height": "5'8\"",
         "weight": "",
-        "year": "Fr.",
+        "year": "So.",
         "hometown": "Wheeling, W.Va.",
         "previous_school": "",
         "headshot": "/images/2025/8/20/Headshots_Lala_Woods_35.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/lala-woods/12205"
+        "url": "/sports/womens-basketball/roster/lala-woods/13309"
       },
       {
-        "player_id": "12211",
+        "player_id": "13307",
         "name": "Kaliyah Sain",
         "number": "45",
         "position": "Forward",
         "height": "6'0\"",
         "weight": "",
-        "year": "Jr.",
+        "year": "Sr.",
         "hometown": "Cedar Rapids, Iowa",
         "previous_school": "",
         "headshot": "/images/2025/8/20/Headshots_Kaliyah_Sain_45.jpg?width=80&quality=90",
-        "url": "/sports/womens-basketball/roster/kaliyah-sain/12211"
+        "url": "/sports/womens-basketball/roster/kaliyah-sain/13307"
       }
     ],
     "baseball": [

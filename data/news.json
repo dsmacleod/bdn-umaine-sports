@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-06-08T13:22:58.059608+00:00",
+  "last_updated": "2026-06-09T03:13:09.591428+00:00",
   "articles": [
+    {
+      "title": "Maine Athletics launches 'Go Blue Friday' summer series",
+      "url": "https://goblackbears.com/news/2026/6/8/general-maine-athletics-launches-go-blue-friday-summer-series.aspx",
+      "summary": "ORONO, Maine \u2013 Maine Athletics is excited to announce its &quot;Go Blue Friday&quot; summer series, bringing fans together at partnering locations throughout the offseason with community events across the region.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/8/field-house-campus.png",
+      "published": "Mon, 8 Jun 2026 10:31:00 EST",
+      "sport": "General",
+      "source": "goblackbears"
+    },
     {
       "title": "Treacy and Krasnow wrap up NCAA Regionals",
       "url": "https://goblackbears.com/news/2026/5/31/womens-track-and-field-treacy-and-krasnow-wrap-up-ncaa-regionals.aspx",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/23/overview-campus-3.23.26.png",
       "published": "Fri, 29 May 2026 14:38:00 EST",
       "sport": "General",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball has season come to an end in America East Championship Game",
-      "url": "https://goblackbears.com/news/2026/5/23/baseball-has-season-come-to-an-end-in-america-east-championship-game.aspx",
-      "summary": "The University of Maine baseball program had their season come to an end on Saturday night as they were eliminated by #1 Binghamton in the America East Championship.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/23/BTP_0468.jpg",
-      "published": "Sat, 23 May 2026 23:04:00 EST",
-      "sport": "Baseball",
       "source": "goblackbears"
     },
     {
@@ -928,6 +928,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "Orono girls win 6th state C track title in 7 years while Bangor Christian boys win 1st ever",
+      "url": "https://www.bangordailynews.com/2026/06/08/sports/orono-girls-win-6th-state-c-track-title-in-7-years-while-bangor-christian-boys-win-1st-ever/",
+      "summary": "For the Orono High School girls outdoor track team, winning a state title is expected. Not so for the Bangor Christian boys.",
+      "image": "",
+      "published": "Mon, 08 Jun 2026 21:30:29 +0000",
+      "sport": "Sports",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "Orono\u2019s Ruth White headed to NCAA Nationals after placing in 10,000-meter",
       "url": "https://www.bangordailynews.com/2026/05/29/sports/ruth-white-unh-10000m/",
       "summary": "The UNH sophomore track standout entered the race seeded number 27 and finished ninth.",
@@ -1033,16 +1043,6 @@
       "summary": "He hasn\u2019t allowed more than three earned runs in a start and has held opponents to two earned runs or less in six of those eight outings.",
       "image": "",
       "published": "Tue, 19 May 2026 05:00:00 +0000",
-      "sport": "College Baseball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine baseball sweeps Albany but misses out on America East tourney bye",
-      "url": "https://www.bangordailynews.com/2026/05/17/sports/college-baseball/umaine-sweep-albany-baseball/",
-      "summary": "UMaine beat Albany 11-6 on Saturday after posting a 12-1 win on Thursday and 7-5 triumph on Friday.",
-      "image": "",
-      "published": "Sun, 17 May 2026 19:36:37 +0000",
       "sport": "College Baseball",
       "source": "bdn",
       "author": "Larry Mahoney"
