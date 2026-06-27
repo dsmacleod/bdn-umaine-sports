@@ -1,350 +1,160 @@
 {
-  "last_updated": "2026-06-26T12:38:31.317828+00:00",
+  "last_updated": "2026-06-27T03:11:55.117077+00:00",
   "games": {
     "mhockey": [
       {
         "home": {
-          "name": "Maine",
-          "score": "2",
-          "id": "MNE",
-          "record": "0-0-0",
-          "periods": [
-            {
-              "period": "1",
-              "score": "0"
-            },
-            {
-              "period": "2",
-              "score": "1"
-            },
-            {
-              "period": "3",
-              "score": "1"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Rousseau, Mathis",
-              "stat": "S",
-              "value": "19"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
         "away": {
-          "name": "New Hampshire",
-          "score": "2",
-          "id": "UNH",
-          "record": "0-0-0",
-          "periods": [
-            {
-              "period": "1",
-              "score": "1"
-            },
-            {
-              "period": "2",
-              "score": "1"
-            },
-            {
-              "period": "3",
-              "score": "0"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Chauvette, Kyle",
-              "stat": "S",
-              "value": "16"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
-        "location": "Brunswick, Maine",
-        "attendance": "2000",
+        "location": "",
+        "attendance": "",
         "recap": {
-          "headline": "UNH, Maine battle to 2-2 tie in preseason Buffalo Wild Wings Border Battle",
-          "teaser": "Simon Motew and Max Scott scored for Maine.",
-          "date": "2025-10-03T22:48:00",
-          "image": "/images/2025/10/3/Untitled-1.png",
-          "url": "/news/2025/10/3/mens-ice-hockey-unh-maine-battle-to-2-2-tie-in-preseason-buffalo-wild-wings-border-battle.aspx"
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
         },
-        "result_status": "T",
-        "url": "https://goblackbears.com/boxscore.aspx?id=16191&path=mhockey",
-        "game_id": "16191",
+        "result_status": "",
+        "url": "",
+        "game_id": "16517",
         "sport": "mhockey"
       },
       {
         "home": {
-          "name": "Maine",
-          "score": "5",
-          "id": "MNE",
-          "record": "1-0-0",
-          "periods": [
-            {
-              "period": "1",
-              "score": "1"
-            },
-            {
-              "period": "2",
-              "score": "3"
-            },
-            {
-              "period": "3",
-              "score": "1"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Boija, Albin",
-              "stat": "S",
-              "value": "18"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
         "away": {
-          "name": "Holy Cross",
-          "score": "2",
-          "id": "HCR",
-          "record": "0-2-0",
-          "periods": [
-            {
-              "period": "1",
-              "score": "0"
-            },
-            {
-              "period": "2",
-              "score": "1"
-            },
-            {
-              "period": "3",
-              "score": "1"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Hogg, Louden",
-              "stat": "S",
-              "value": "16"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
-        "location": "Orono, Maine",
-        "attendance": "4980",
+        "location": "",
+        "attendance": "",
         "recap": {
-          "headline": "Poirier nets hat trick as Maine tops Holy Cross in season opener",
-          "teaser": "Justin Poirier recorded a hat trick in a 5-2 win.",
-          "date": "2025-10-10T22:28:00",
-          "image": "/images/2025/10/10/IMG_2970.jpg",
-          "url": "/news/2025/10/10/mens-ice-hockey-poirier-nets-hat-trick-as-maine-tops-holy-cross-in-season-opener.aspx"
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
         },
-        "result_status": "W",
-        "url": "https://goblackbears.com/boxscore.aspx?id=16070&path=mhockey",
-        "game_id": "16070",
+        "result_status": "",
+        "url": "",
+        "game_id": "16519",
         "sport": "mhockey"
       },
       {
         "home": {
-          "name": "Maine",
-          "score": "6",
-          "id": "MNE",
-          "record": "2-0-0",
-          "periods": [
-            {
-              "period": "1",
-              "score": "1"
-            },
-            {
-              "period": "2",
-              "score": "2"
-            },
-            {
-              "period": "3",
-              "score": "3"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Boija, Albin",
-              "stat": "S",
-              "value": "22"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
         "away": {
-          "name": "Holy Cross",
-          "score": "0",
-          "id": "HCR",
-          "record": "0-3-0",
-          "periods": [
-            {
-              "period": "1",
-              "score": "0"
-            },
-            {
-              "period": "2",
-              "score": "0"
-            },
-            {
-              "period": "3",
-              "score": "0"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Leroux, Danick",
-              "stat": "S",
-              "value": "14"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
-        "location": "Orono, Maine",
-        "attendance": "4980",
+        "location": "",
+        "attendance": "",
         "recap": {
-          "headline": "Black Bears sweep weekend series with Crusaders",
-          "teaser": "Josh Nadeau had two points while Albin Boija had a 22-save shutout.",
-          "date": "2025-10-11T23:35:00",
-          "image": "/images/2025/10/11/MIH_Lipinski.png",
-          "url": "/news/2025/10/11/mens-ice-hockey-black-bears-sweep-weekend-series-with-crusaders.aspx"
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
         },
-        "result_status": "W",
-        "url": "https://goblackbears.com/boxscore.aspx?id=16071&path=mhockey",
-        "game_id": "16071",
+        "result_status": "",
+        "url": "",
+        "game_id": "16520",
         "sport": "mhockey"
       },
       {
         "home": {
-          "name": "Quinnipiac",
-          "score": "4",
-          "id": "QUI",
-          "record": "2-1-1",
-          "periods": [
-            {
-              "period": "1",
-              "score": "0"
-            },
-            {
-              "period": "2",
-              "score": "2"
-            },
-            {
-              "period": "3",
-              "score": "2"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Marinov, Matej",
-              "stat": "S",
-              "value": "18"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
         "away": {
-          "name": "Maine",
-          "score": "4",
-          "id": "MNE",
-          "record": "2-0-1",
-          "periods": [
-            {
-              "period": "1",
-              "score": "3"
-            },
-            {
-              "period": "2",
-              "score": "1"
-            },
-            {
-              "period": "3",
-              "score": "0"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Boija, Albin",
-              "stat": "S",
-              "value": "35"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
-        "location": "Hamden, Connecticut",
-        "attendance": "3625",
+        "location": "",
+        "attendance": "",
         "recap": {
-          "headline": "Black Bears, Bobcats battle to tie in non-conference action",
-          "teaser": "Four different Black Bears scored in the 4-4 tie.",
-          "date": "2025-10-17T21:54:00",
-          "image": "/images/2025/10/17/Untitled-1.png",
-          "url": "/news/2025/10/17/mens-ice-hockey-black-bears-bobcats-battle-to-tie-in-non-conference-action.aspx"
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
         },
-        "result_status": "T",
-        "url": "https://goblackbears.com/boxscore.aspx?id=16072&path=mhockey",
-        "game_id": "16072",
+        "result_status": "",
+        "url": "",
+        "game_id": "16522",
         "sport": "mhockey"
       },
       {
         "home": {
-          "name": "Quinnipiac",
-          "score": "4",
-          "id": "QUI",
-          "record": "3-1-1",
-          "periods": [
-            {
-              "period": "1",
-              "score": "1"
-            },
-            {
-              "period": "2",
-              "score": "1"
-            },
-            {
-              "period": "3",
-              "score": "2"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Marinov, Matej",
-              "stat": "S",
-              "value": "19"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
         "away": {
-          "name": "Maine",
-          "score": "0",
-          "id": "MAI",
-          "record": "2-1-1",
-          "periods": [
-            {
-              "period": "1",
-              "score": "0"
-            },
-            {
-              "period": "2",
-              "score": "0"
-            },
-            {
-              "period": "3",
-              "score": "0"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Rousseau, Mathis",
-              "stat": "S",
-              "value": "29"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
-        "location": "Hamden, Connecticut",
-        "attendance": "3625",
+        "location": "",
+        "attendance": "",
         "recap": {
-          "headline": "Bobcats trip up Black Bears in non-conference action",
-          "teaser": "The Black Bears fell to the Bobcats in non-conference road action.",
-          "date": "2025-10-18T18:25:00",
-          "image": "/images/2025/10/18/_PEV4978_TCbed.jpg",
-          "url": "/news/2025/10/18/mens-ice-hockey-maine-quinnipaic-recap.aspx"
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
         },
-        "result_status": "L",
-        "url": "https://goblackbears.com/boxscore.aspx?id=16073&path=mhockey",
-        "game_id": "16073",
+        "result_status": "",
+        "url": "",
+        "game_id": "16523",
         "sport": "mhockey"
       }
     ],
