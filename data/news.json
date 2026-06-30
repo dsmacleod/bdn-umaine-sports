@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-06-29T13:22:58.481611+00:00",
+  "last_updated": "2026-06-30T03:12:45.538219+00:00",
   "articles": [
+    {
+      "title": "Black Bears place six on AHCA All-American Scholar list",
+      "url": "https://goblackbears.com/news/2026/6/29/womens-ice-hockey-black-bears-place-six-on-ahca-all-american-scholar-list.aspx",
+      "summary": "Six members of the women's ice hockey program earned the academic honor.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/795603815-img_3936.jpg",
+      "published": "Mon, 29 Jun 2026 15:17:00 EST",
+      "sport": "Women's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Six Black Bears named AHCA All-American Scholars",
+      "url": "https://goblackbears.com/news/2026/6/29/mens-ice-hockey-six-black-bears-named-ahca-all-american-scholars.aspx",
+      "summary": "Brandon Holt and Thomas Freel became four-time honorees.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/29/Untitled-1.png",
+      "published": "Mon, 29 Jun 2026 14:53:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Jack Cosgrove to be inducted into Maine Football's 'Ring of Honor'",
+      "url": "https://goblackbears.com/news/2026/6/29/jack-cosgrove-to-be-inducted-into-maine-footballs-ring-of-honor.aspx",
+      "summary": "ORONO, Maine \u2013 The University of Maine athletic department is proud to announce that Jack Cosgrove will be inducted into UMaine football's prestigious Ring of Honor during the upcoming 2026 season.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/29/Cosgrove_speaking_bench-2026.png",
+      "published": "Mon, 29 Jun 2026 14:36:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
     {
       "title": "Two Black Bears named America East All Academic",
       "url": "https://goblackbears.com/news/2026/6/26/mens-track-and-field-two-black-bears-named-america-east-all-academic.aspx",
@@ -62,33 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/17/Homecoming_Alfond_Stadium-1.jpg",
       "published": "Fri, 12 Jun 2026 13:00:00 EST",
       "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Maine Athletics launches 'Go Blue Friday' summer series",
-      "url": "https://goblackbears.com/news/2026/6/8/general-maine-athletics-launches-go-blue-friday-summer-series.aspx",
-      "summary": "ORONO, Maine \u2013 Maine Athletics is excited to announce its &quot;Go Blue Friday&quot; summer series, bringing fans together at partnering locations throughout the offseason with community events across the region.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/8/field-house-campus.png",
-      "published": "Mon, 8 Jun 2026 10:31:00 EST",
-      "sport": "General",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Treacy and Krasnow wrap up NCAA Regionals",
-      "url": "https://goblackbears.com/news/2026/5/31/womens-track-and-field-treacy-and-krasnow-wrap-up-ncaa-regionals.aspx",
-      "summary": "Veselja Treacy and Ruby Krasnow of the Maine women's track and field program competed in the final day of the NCAA Regionals on Saturday May 30.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/31/IMG_1889.jpg",
-      "published": "Sun, 31 May 2026 11:52:00 EST",
-      "sport": "Women's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Morin competes in Triple Jump at NCAA Regionals",
-      "url": "https://goblackbears.com/news/2026/5/29/mens-track-and-field-morin-competes-in-triple-jump-at-ncaa-regionals.aspx",
-      "summary": "Maine junior Conor Morin competed in the NCAA East Regional Triple Jump on Friday evening.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/29/0W7A6091.png",
-      "published": "Fri, 29 May 2026 21:09:00 EST",
-      "sport": "Men's Track and Field",
       "source": "goblackbears"
     },
     {
@@ -160,15 +160,6 @@
       "summary": "Freel captained the Black Bears this season after serving as an alternate captain during the 2024-25 season.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/25/_MG_1486.jpg",
       "published": "Fri, 27 Mar 2026 20:21:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Josh Nadeau signs professional contract with Laval Rocket",
-      "url": "https://goblackbears.com/news/2026/3/25/mens-ice-hockey-josh-nadeau-signs-professional-contract-with-laval-rocket.aspx",
-      "summary": "Laval is the top affiliate of the National Hockey League's Montreal Canadiens.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/25/IMG_8986.jpg",
-      "published": "Wed, 25 Mar 2026 17:17:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
     },
@@ -380,13 +371,14 @@
       "source": "goblackbears"
     },
     {
-      "title": "UMaine Football All Quarter-Century Team Announced",
-      "url": "https://goblackbears.com/news/2026/4/10/umaine-football-all-quarter-century-team-announced.aspx",
-      "summary": "The UMaine All Quarter-Century Team honors 63 former Black Bears who were the top players at their respective positions during their time at UMaine.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2016/11/22/untitled_95.JPG",
-      "published": "Fri, 10 Apr 2026 12:30:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
+      "title": "UMaine men\u2019s hockey lands 1st-round\u00a0NHL draft pick",
+      "url": "https://www.bangordailynews.com/2026/06/29/sports/college-ice-hockey/umaine-mens-hockey-lands-1st-round-nhl-draft-pick/",
+      "summary": "Maksim Sokolovskii has verbally committed to UMaine beginning with the 2027-28 season.",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 20:07:25 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine women\u2019s ice hockey coach tapped for assistant coaching spot on PWHL Detroit expansion team",
@@ -574,16 +566,6 @@
       "summary": "If the fifth-seeded Black Bears can beat fourth seed Boston College in Friday\u2019s 7 p.m. Hockey East quarterfinals, they'll make it to the Hockey East semifinal.",
       "image": "",
       "published": "Thu, 12 Mar 2026 22:05:00 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine hockey\u2019s top scorer not expected back this season due to undisclosed injury",
-      "url": "https://www.bangordailynews.com/2026/03/12/sports/college-ice-hockey/justin-poirer-out-season-umaine-mens-hockey/",
-      "summary": "Justin Poirer has five multiple-goal games, including three two-goal games in a row in an overtime victory over UMass Lowell and a sweep of Lindenwood.",
-      "image": "",
-      "published": "Thu, 12 Mar 2026 16:35:21 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
