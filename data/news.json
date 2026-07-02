@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-07-01T12:53:30.746409+00:00",
+  "last_updated": "2026-07-02T03:11:08.755369+00:00",
   "articles": [
+    {
+      "title": "Chris Mantis to Compete in NBA Summer League with the Minnesota Timberwolves",
+      "url": "https://goblackbears.com/news/2026/7/1/mens-basketball-chris-mantis-to-compete-in-nba-summer-league-with-the-minnesota-timberwolves.aspx",
+      "summary": "Former UMaine men's basketball player and current member of the Capital City Go-Go will be competing for a spot on an NBA roster this summer as he is set to join the Minnesota Timberwolves for the NBA Summer League.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/2/1/Chris_Mantis_11_04_Duke_12.jpg",
+      "published": "Wed, 1 Jul 2026 09:00:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "Black Bears place six on AHCA All-American Scholar list",
       "url": "https://goblackbears.com/news/2026/6/29/womens-ice-hockey-black-bears-place-six-on-ahca-all-american-scholar-list.aspx",
@@ -26,6 +35,24 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/29/Cosgrove_speaking_bench-2026.png",
       "published": "Mon, 29 Jun 2026 14:36:00 EST",
       "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's Basketball to take on Siena, Merrimack in Inaugural America East \u2013 Metro Challenge",
+      "url": "https://goblackbears.com/news/2026/7/1/womens-basketball-to-take-on-siena-merrimack-in-inaugural-america-east-metro-challenge.aspx",
+      "summary": "ORONO, Maine -- The America East Conference and Metro Conference announced the participating schools and the full schedule of games for the inaugural America East \u2013 Metro Basketball Challenge, set for the start of the 2026 women's basketball seasons.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/woods-dribble-ualbany.png",
+      "published": "Wed, 1 Jul 2026 09:36:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Men's Basketball to take on Sacred Heart, Manhattan in Inaugural America East \u2013 Metro Challenge",
+      "url": "https://goblackbears.com/news/2026/7/1/mens-basketball-to-take-on-sacred-heart-manhattan-in-inaugural-america-east-metro-challenge.aspx",
+      "summary": "ORONO, Maine -- The America East Conference and Metro Conference announced the participating schools and the full schedule of games for the inaugural America East \u2013 Metro Basketball Challenge, set for the start of the 2026 men's basketball seasons.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/26/Ace_Flagg_1_3_26_vs_Bryant_3.jpg",
+      "published": "Wed, 1 Jul 2026 09:54:00 EST",
+      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -62,33 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/16/857099020-rc0_8470.jpg",
       "published": "Wed, 24 Jun 2026 09:00:00 EST",
       "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Twenty three Black Bears named America East Presidential Scholars",
-      "url": "https://goblackbears.com/news/2026/6/22/academic-support-services-twenty-three-black-bears-named-america-east-presidential-scholars.aspx",
-      "summary": "BOSTON \u2013 The America East Conference announced on Monday that 23 student-athletes from the University of Maine have been named\u00a0America East Presidential Scholar-Athletes\u00a0for their outstanding academic achievements throughout their collegiate careers. Maine's 23 honorees marked the second highest total of honorees among America East member institutions.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/5/19/OakTree-26829637784_529f32a89a_k-1648x960.jpg",
-      "published": "Mon, 22 Jun 2026 16:40:00 EST",
-      "sport": "Academic Support Services",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Garbett Set for USATF U20 Outdoor Championships",
-      "url": "https://goblackbears.com/news/2026/6/17/womens-track-and-field-garbett-set-for-nike-outdoor-nationals.aspx",
-      "summary": "Garbett will compete in the Women's 3000m Steeplchase",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/17/DSC08095.jpg",
-      "published": "Wed, 17 Jun 2026 15:00:00 EST",
-      "sport": "Women's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Season Tickets for Football are on Sale",
-      "url": "https://goblackbears.com/news/2026/6/12/season-tickets-for-football-are-on-sale.aspx",
-      "summary": "The University of Maine football program is on sale with their season tickets for the 2026 season.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/17/Homecoming_Alfond_Stadium-1.jpg",
-      "published": "Fri, 12 Jun 2026 13:00:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -218,15 +218,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Smith tabbed America East Women's Basketball Winter Scholar-Athlete Award Recipient",
-      "url": "https://goblackbears.com/news/2026/4/15/smith-tabbed-america-east-womens-basketball-winter-scholar-athlete-award-recipient.aspx",
-      "summary": "ORONO, Maine -- Adrianna Smith has been named the America East Women's Basketball Winter Scholar Athlete Award recipient, as announced\u00a0by the conference on Wednesday.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/4/smith-dribbl-ebinghamton.png",
-      "published": "Wed, 15 Apr 2026 15:16:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "Maine Athletics reveals Chappelle Court design, additional details for Morse Arena",
       "url": "https://goblackbears.com/news/2026/4/3/mens-basketball-maine-athletics-reveals-chappelle-court-design-additional-details-for-morse-arena.aspx",
       "summary": "ORONO, Maine \u2013 The University of Maine on Friday, April 3 announced additional plans for the interior design of Morse Arena, the new 106,000-square-foot basketball and football operations venue made possible by a $10 million gift from 1964 UMaine graduates Phillip and Susan Morse.",
@@ -290,21 +281,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "Men's Basketball Falls at Binghamton on Saturday Afternoon",
-      "url": "https://goblackbears.com/news/2026/2/28/mens-basketball-falls-at-binghamton-on-saturday-afternoon.aspx",
-      "summary": "The University of Maine basketball team was defeated by Binghamton on Saturday afternoon, 74-67.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/15/Keelan_Steele_12_13_vs_Canisus_3.jpg",
-      "published": "Sat, 28 Feb 2026 16:10:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's Basketball Wraps up Final Road Trip of the Regular Season at Binghamton",
-      "url": "https://goblackbears.com/news/2026/2/27/mens-basketball-wraps-up-final-road-trip-of-the-regular-season-at-binghamton.aspx",
-      "summary": "The Black Bears won their second-straight America East game as they took down UAlbany, 70-59.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/8/562A7844.jpg",
-      "published": "Fri, 27 Feb 2026 14:00:00 EST",
-      "sport": "Men's Basketball",
+      "title": "Season Tickets for Football are on Sale",
+      "url": "https://goblackbears.com/news/2026/6/12/season-tickets-for-football-are-on-sale.aspx",
+      "summary": "The University of Maine football program is on sale with their season tickets for the 2026 season.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/17/Homecoming_Alfond_Stadium-1.jpg",
+      "published": "Fri, 12 Jun 2026 13:00:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -369,6 +351,16 @@
       "published": "Fri, 17 Apr 2026 09:50:00 EST",
       "sport": "Football",
       "source": "goblackbears"
+    },
+    {
+      "title": "UMaine men\u2019s hockey will play most of its non-conference games\u00a0at home this season",
+      "url": "https://www.bangordailynews.com/2026/07/01/sports/college-ice-hockey/umaine-men-hockey-non-conference-game-schedule-2026-27-season/",
+      "summary": "Headlining the list of non-conference games will be a two-game home series against perennial NCAA championship contender Quinnipiac on Oct. 9-10.",
+      "image": "",
+      "published": "Wed, 01 Jul 2026 15:17:41 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine men\u2019s hockey lands 1st-round\u00a0NHL draft pick",
@@ -561,16 +553,6 @@
       "author": "Matt Junker"
     },
     {
-      "title": "UMaine hockey players know they are 1 win away from filling the TD Garden again",
-      "url": "https://www.bangordailynews.com/2026/03/12/sports/college-ice-hockey/umaine-hockey-hockey-east-quarterfinal-vs-boston-college-n6hjn1me0n/",
-      "summary": "If the fifth-seeded Black Bears can beat fourth seed Boston College in Friday\u2019s 7 p.m. Hockey East quarterfinals, they'll make it to the Hockey East semifinal.",
-      "image": "",
-      "published": "Thu, 12 Mar 2026 22:05:00 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "UMaine women\u2019s basketball adds guard from Arizona Christian",
       "url": "https://www.bangordailynews.com/2026/06/11/sports/college-basketball/umaine-womens-basketball-adds-guard-from-arizona-christian/",
       "summary": "Taylor Schwab, who will be a junior, was the Firestorm\u2019s second-leading scorer this past season.",
@@ -717,6 +699,16 @@
       "image": "",
       "published": "Tue, 10 Mar 2026 20:01:40 +0000",
       "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Jack Cosgrove\u00a0to become 6th inductee into UMaine\u00a0football\u2019s Ring of Honor",
+      "url": "https://www.bangordailynews.com/2026/07/01/sports/maine-jack-cosgrove-umaine-football-ring-of-honor-induction/",
+      "summary": "Cosgrove, who leads all UMaine head coaches in wins, had nine winning seasons during his 23 years at the helm of the football program.",
+      "image": "",
+      "published": "Wed, 01 Jul 2026 15:47:43 +0000",
+      "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
@@ -886,16 +878,6 @@
       "summary": "It is the first five-game winning streak for UMaine since the 2018 season, when the Black Bears reached the Football Championship Subdivision playoff semifinals.",
       "image": "",
       "published": "Sat, 01 Nov 2025 21:33:21 +0000",
-      "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Top Canadian kicking prospect has been perfect so far for UMaine football",
-      "url": "https://www.bangordailynews.com/2025/10/31/sports/college-football/top-canadian-kicking-prospect-has-been-perfect-so-far-for-umaine-football/",
-      "summary": "There has been one player who has been the model of consistency: placekicker Sam Tremblay.",
-      "image": "",
-      "published": "Fri, 31 Oct 2025 20:42:35 +0000",
       "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
