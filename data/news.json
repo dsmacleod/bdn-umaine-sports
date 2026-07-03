@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-02T12:36:14.938902+00:00",
+  "last_updated": "2026-07-03T03:08:47.920502+00:00",
   "articles": [
+    {
+      "title": "UMaine Day with the Portland Sea Dogs set for Aug. 14",
+      "url": "https://goblackbears.com/news/2026/7/1/baseball-umaine-day-with-the-portland-sea-dogs-set-for-aug-14.aspx",
+      "summary": "ORONO, Maine \u2013 Black Bear Nation! Join us on Friday, Aug. 14 as we celebrate UMaine Day when the Portland Sea Dogs host Binghamton at 6 p.m. at Delta Dental Park at Hadlock Field.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/1/bananas-slugger.png",
+      "published": "Wed, 1 Jul 2026 16:15:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Black Bears finalize 2026-27 roster additions",
+      "url": "https://goblackbears.com/news/2026/7/2/mens-ice-hockey-black-bears-finalize-2026-27-roster-additions.aspx",
+      "summary": "There are seven forwards, six defenseman and two goaltenders among the newcomers",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/28/RC0_7663.jpg",
+      "published": "Thu, 2 Jul 2026 10:00:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Chris Mantis to Compete in NBA Summer League with the Minnesota Timberwolves",
       "url": "https://goblackbears.com/news/2026/7/1/mens-basketball-chris-mantis-to-compete-in-nba-summer-league-with-the-minnesota-timberwolves.aspx",
@@ -74,24 +92,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Eight former Black Bears competing professionally overseas",
-      "url": "https://goblackbears.com/news/2026/6/26/womens-basketball-eight-former-black-bears-competing-professionally-overseas.aspx",
-      "summary": "ORONO, Maine -- Eight former members of the University of Maine women's basketball team are currently active at the professional level overseas.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2019/1/17/Koizar_NE_1.jpg",
-      "published": "Fri, 26 Jun 2026 11:23:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Softball adds two transfers in Patton, Habkirk",
-      "url": "https://goblackbears.com/news/2026/6/24/softball-adds-two-transfers-in-patton-habkirk.aspx",
-      "summary": "A pitcher and a utility player make their way to Orono.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/16/857099020-rc0_8470.jpg",
-      "published": "Wed, 24 Jun 2026 09:00:00 EST",
-      "sport": "Softball",
-      "source": "goblackbears"
-    },
-    {
       "title": "Holt, Smith recipients of 2026 'M' Club Dean Smith Awards",
       "url": "https://goblackbears.com/news/2026/5/7/general-holt-smith-recipients-of-2026-m-club-dean-smith-awards.aspx",
       "summary": "ORONO, Maine \u2013 The University of Maine Athletic Department is proud to announce that Brandon Holt (men's ice hockey) and Adrianna Smith (women's basketball) are the recipients of the 2026 'M' Club Dean Smith awards.",
@@ -155,12 +155,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "Thomas Freel signs professional contract with Iowa Heartlanders",
-      "url": "https://goblackbears.com/news/2026/3/27/mens-ice-hockey-thomas-freel-signs-professional-contract-with-iowa-heartlanders.aspx",
-      "summary": "Freel captained the Black Bears this season after serving as an alternate captain during the 2024-25 season.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/25/_MG_1486.jpg",
-      "published": "Fri, 27 Mar 2026 20:21:00 EST",
-      "sport": "Men's Ice Hockey",
+      "title": "Eight former Black Bears competing professionally overseas",
+      "url": "https://goblackbears.com/news/2026/6/26/womens-basketball-eight-former-black-bears-competing-professionally-overseas.aspx",
+      "summary": "ORONO, Maine -- Eight former members of the University of Maine women's basketball team are currently active at the professional level overseas.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2019/1/17/Koizar_NE_1.jpg",
+      "published": "Fri, 26 Jun 2026 11:23:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -879,6 +879,16 @@
       "image": "",
       "published": "Sat, 01 Nov 2025 21:33:21 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Chris Mantis becomes 1st former UMaine player to make NBA Summer League roster",
+      "url": "https://www.bangordailynews.com/2026/07/02/sports/professional-basketball/chris-mantis-former-umaine-player-nba-summer-league/",
+      "summary": "The 6-foot-7 forward from Lowell, Indiana, played for the Capital City Go-Go in the NBA\u2019s developmental G League this past season.",
+      "image": "",
+      "published": "Thu, 02 Jul 2026 22:12:05 +0000",
+      "sport": "Professional Basketball",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
