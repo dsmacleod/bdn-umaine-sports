@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T13:10:54.990882+00:00",
+  "last_updated": "2026-07-07T03:09:46.881021+00:00",
   "sports": {
     "mhockey": [
       {
@@ -3163,6 +3163,19 @@
         "url": "/sports/field-hockey/roster/jayde-temby/13117"
       },
       {
+        "player_id": "13317",
+        "name": "Heidi Fletcher",
+        "number": "2",
+        "position": "Midfielder",
+        "height": "5'7\"",
+        "weight": "",
+        "year": "Fr.",
+        "hometown": "York, England",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/field-hockey/roster/heidi-fletcher/13317"
+      },
+      {
         "player_id": "13107",
         "name": "Floor Dijkhuizen",
         "number": "3",
@@ -3174,6 +3187,19 @@
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Dijkhuizen.jpg?width=80&quality=90",
         "url": "/sports/field-hockey/roster/floor-dijkhuizen/13107"
+      },
+      {
+        "player_id": "13321",
+        "name": "Fiona G\u00fcensch",
+        "number": "4",
+        "position": "Goalkeeper",
+        "height": "5'5\"",
+        "weight": "",
+        "year": "Fr.",
+        "hometown": "Germany",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/field-hockey/roster/fiona-g-ensch/13321"
       },
       {
         "player_id": "13105",
@@ -3239,6 +3265,19 @@
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Kuefler.jpg?width=80&quality=90",
         "url": "/sports/field-hockey/roster/saylor-kuefler/13110"
+      },
+      {
+        "player_id": "13318",
+        "name": "Charlotte McNeill",
+        "number": "11",
+        "position": "Forward",
+        "height": "5'5\"",
+        "weight": "",
+        "year": "Fr.",
+        "hometown": "Harleysville, PA",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/field-hockey/roster/charlotte-mcneill/13318"
       },
       {
         "player_id": "13109",
@@ -3332,6 +3371,19 @@
         "url": "/sports/field-hockey/roster/gabrielle-sousa/13115"
       },
       {
+        "player_id": "13319",
+        "name": "Luisa M\u00fcller",
+        "number": "22",
+        "position": "Back",
+        "height": "6'0\"",
+        "weight": "",
+        "year": "Fr.",
+        "hometown": "Munich, Bavaria",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/field-hockey/roster/luisa-m-ller/13319"
+      },
+      {
         "player_id": "13112",
         "name": "Eloise Penty",
         "number": "24",
@@ -3343,6 +3395,19 @@
         "previous_school": "",
         "headshot": "/images/2025/8/11/Headshots_Penty.jpg?width=80&quality=90",
         "url": "/sports/field-hockey/roster/eloise-penty/13112"
+      },
+      {
+        "player_id": "13320",
+        "name": "Annabel Halkes",
+        "number": "33",
+        "position": "Goalkeeper",
+        "height": "5'9\"",
+        "weight": "",
+        "year": "Fr.",
+        "hometown": "Haarlem, Netherland",
+        "previous_school": "",
+        "headshot": "",
+        "url": "/sports/field-hockey/roster/annabel-halkes/13320"
       }
     ],
     "wsoc": [
