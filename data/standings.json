@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T03:09:06.122512+00:00",
+  "last_updated": "2026-07-10T03:08:58.406587+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -898,88 +898,70 @@
       ]
     },
     "wsoc": {
-      "title": "2025 Women's Soccer Standings",
-      "notes": "x - secured America East Championship berth",
+      "title": "2026 Women's Soccer Standings",
+      "notes": "",
       "teams": [
         {
           "school": "Binghamton",
-          "conference": "5-0-3",
-          "conference_pct": ".812",
-          "overall": "10-2-5",
-          "pct": ".812",
-          "streak": "L1",
-          "is_umaine": false
-        },
-        {
-          "school": "Vermont",
-          "conference": "5-1-2",
-          "conference_pct": ".750",
-          "overall": "8-4-6",
-          "pct": ".750",
-          "streak": "T1",
-          "is_umaine": false
-        },
-        {
-          "school": "UMass Lowell",
-          "conference": "3-2-3",
-          "conference_pct": ".562",
-          "overall": "6-5-6",
-          "pct": ".562",
-          "streak": "T2",
-          "is_umaine": false
-        },
-        {
-          "school": "Maine",
-          "conference": "3-3-2",
-          "conference_pct": ".500",
-          "overall": "6-7-4",
-          "pct": ".500",
-          "streak": "T1",
-          "is_umaine": true
-        },
-        {
-          "school": "New Hampshire",
-          "conference": "2-2-4",
-          "conference_pct": ".500",
-          "overall": "4-6-7",
-          "pct": ".500",
-          "streak": "L2",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
           "is_umaine": false
         },
         {
           "school": "Bryant",
-          "conference": "2-2-4",
-          "conference_pct": ".500",
-          "overall": "5-5-8",
-          "pct": ".500",
-          "streak": "L1",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
           "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": true
         },
         {
           "school": "NJIT",
-          "conference": "2-3-3",
-          "conference_pct": ".438",
-          "overall": "7-5-6",
-          "pct": ".438",
-          "streak": "W2",
-          "is_umaine": false
-        },
-        {
-          "school": "UMBC",
-          "conference": "2-5-1",
-          "conference_pct": ".312",
-          "overall": "6-8-4",
-          "pct": ".312",
-          "streak": "L1",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
           "is_umaine": false
         },
         {
           "school": "UAlbany",
-          "conference": "1-7",
-          "conference_pct": ".125",
-          "overall": "2-13-2",
-          "pct": ".125",
-          "streak": "L7",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": false
+        },
+        {
+          "school": "UMBC",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
           "is_umaine": false
         }
       ]

@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-07-09T03:09:06.122512+00:00",
+  "last_updated": "2026-07-10T03:08:58.406587+00:00",
   "articles": [
+    {
+      "title": "Field Hockey finalizes 2026 roster",
+      "url": "https://goblackbears.com/news/2026/7/9/untitled-story.aspx",
+      "summary": "ORONO, Maine \u2013 University of Maine field hockey head coach Josette Babineau has announced the addition of five student-athletes to the roster.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/9/babineau-pose.png",
+      "published": "Thu, 9 Jul 2026 10:20:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Black Bears part of three-way share of America East Walter Harrison Academic Cup title",
       "url": "https://goblackbears.com/news/2026/7/7/academic-support-services-black-bears-part-of-three-way-share-of-america-east-walter-harrison-academic-cup-title.aspx",
@@ -83,15 +92,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Women's Basketball to take on Siena, Merrimack in Inaugural America East \u2013 Metro Challenge",
-      "url": "https://goblackbears.com/news/2026/7/1/womens-basketball-to-take-on-siena-merrimack-in-inaugural-america-east-metro-challenge.aspx",
-      "summary": "ORONO, Maine -- The America East Conference and Metro Conference announced the participating schools and the full schedule of games for the inaugural America East \u2013 Metro Basketball Challenge, set for the start of the 2026 women's basketball seasons.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/woods-dribble-ualbany.png",
-      "published": "Wed, 1 Jul 2026 09:36:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "Maine men's hockey unveils 2026-27 schedule",
       "url": "https://goblackbears.com/news/2026/6/26/mens-ice-hockey-maine-mens-hockey-unveils-2026-27-schedule.aspx",
       "summary": "The 2026-27 slate will feature 19 games at Alfond Arena.",
@@ -152,6 +152,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/1/IMG_0247.jpg",
       "published": "Thu, 2 Apr 2026 14:30:00 EST",
       "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's Basketball to take on Siena, Merrimack in Inaugural America East \u2013 Metro Challenge",
+      "url": "https://goblackbears.com/news/2026/7/1/womens-basketball-to-take-on-siena-merrimack-in-inaugural-america-east-metro-challenge.aspx",
+      "summary": "ORONO, Maine -- The America East Conference and Metro Conference announced the participating schools and the full schedule of games for the inaugural America East \u2013 Metro Basketball Challenge, set for the start of the 2026 women's basketball seasons.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/woods-dribble-ualbany.png",
+      "published": "Wed, 1 Jul 2026 09:36:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
