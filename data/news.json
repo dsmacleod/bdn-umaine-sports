@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-07-14T12:24:41.653149+00:00",
+  "last_updated": "2026-07-15T03:06:14.216442+00:00",
   "articles": [
+    {
+      "title": "Black Bears finalize 2026 roster",
+      "url": "https://goblackbears.com/news/2026/7/14/womens-soccer-black-bears-finalize-2026-roster.aspx",
+      "summary": "The six-member class of 2030 joins two mid-year transfers.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/5/562A0076.jpg",
+      "published": "Tue, 14 Jul 2026 09:00:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
     {
       "title": "WATCH: Morse Arena Summer Update - 2026",
       "url": "https://goblackbears.com/news/2026/7/13/mens-basketball-watch-morse-arena-summer-update-2026.aspx",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/28/RC0_7663.jpg",
       "published": "Thu, 2 Jul 2026 10:00:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Chris Mantis to Compete in NBA Summer League with the Minnesota Timberwolves",
-      "url": "https://goblackbears.com/news/2026/7/1/mens-basketball-chris-mantis-to-compete-in-nba-summer-league-with-the-minnesota-timberwolves.aspx",
-      "summary": "Former UMaine men's basketball player and current member of the Capital City Go-Go will be competing for a spot on an NBA roster this summer as he is set to join the Minnesota Timberwolves for the NBA Summer League.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/2/1/Chris_Mantis_11_04_Duke_12.jpg",
-      "published": "Wed, 1 Jul 2026 09:00:00 EST",
-      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -232,6 +232,15 @@
       "summary": "ORONO, Maine -- The America East Conference and Metro Conference announced the participating schools and the full schedule of games for the inaugural America East \u2013 Metro Basketball Challenge, set for the start of the 2026 men's basketball seasons.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/26/Ace_Flagg_1_3_26_vs_Bryant_3.jpg",
       "published": "Wed, 1 Jul 2026 09:54:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Chris Mantis to Compete in NBA Summer League with the Minnesota Timberwolves",
+      "url": "https://goblackbears.com/news/2026/7/1/mens-basketball-chris-mantis-to-compete-in-nba-summer-league-with-the-minnesota-timberwolves.aspx",
+      "summary": "Former UMaine men's basketball player and current member of the Capital City Go-Go will be competing for a spot on an NBA roster this summer as he is set to join the Minnesota Timberwolves for the NBA Summer League.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/2/1/Chris_Mantis_11_04_Duke_12.jpg",
+      "published": "Wed, 1 Jul 2026 09:00:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
     },
