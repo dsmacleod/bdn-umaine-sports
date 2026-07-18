@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T12:23:20.648093+00:00",
+  "last_updated": "2026-07-18T03:05:30.008054+00:00",
   "games": {
     "mhockey": [
       {
@@ -2268,382 +2268,157 @@
     "wsoc": [
       {
         "home": {
-          "name": "Maine",
-          "score": "0",
-          "id": "MNE",
-          "record": "(0-1-0, 0-0-0)",
-          "periods": [
-            {
-              "period": "1",
-              "score": "0"
-            },
-            {
-              "period": "2",
-              "score": "0"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Wilson, Grace",
-              "stat": "S",
-              "value": "2"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
         "away": {
-          "name": "Rhode Island",
-          "score": "2",
-          "id": "URI",
-          "record": "(2-0-0, 0-0-0)",
-          "periods": [
-            {
-              "period": "1",
-              "score": "0"
-            },
-            {
-              "period": "2",
-              "score": "2"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "MacDonald, Lauren",
-              "stat": "G",
-              "value": "1"
-            },
-            {
-              "name": "Rosenfeld, Jill",
-              "stat": "A",
-              "value": "1"
-            },
-            {
-              "name": "Eden, Dani",
-              "stat": "S",
-              "value": "4"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
-        "location": "Orono, Maine",
-        "attendance": "231",
+        "location": "",
+        "attendance": "",
         "recap": {
-          "headline": "Maine falls in season opener to Rhode Island",
-          "teaser": "The Rams scored twice in the second half.",
-          "date": "2025-08-17T14:37:00",
-          "image": "/images/2025/8/17/772976353-dsc01330.jpeg",
-          "url": "/news/2025/8/17/womens-soccer-maine-falls-in-season-opener-to-uri.aspx"
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
         },
-        "result_status": "L",
-        "url": "https://goblackbears.com/boxscore.aspx?id=16055&path=wsoc",
-        "game_id": "16055",
+        "result_status": "",
+        "url": "",
+        "game_id": "16501",
         "sport": "wsoc"
       },
       {
         "home": {
-          "name": "Maine",
-          "score": "1",
-          "id": "MNE",
-          "record": "(0-2-0, 0-0-0)",
-          "periods": [
-            {
-              "period": "1",
-              "score": "0"
-            },
-            {
-              "period": "2",
-              "score": "1"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Nicholson, Emma",
-              "stat": "G",
-              "value": "1"
-            },
-            {
-              "name": "Johnson, Grace",
-              "stat": "A",
-              "value": "1"
-            },
-            {
-              "name": "Wilson, Grace",
-              "stat": "S",
-              "value": "3"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
         "away": {
-          "name": "Boston University",
-          "score": "3",
-          "id": "BU",
-          "record": "(2-1-0, 0-0-0)",
-          "periods": [
-            {
-              "period": "1",
-              "score": "2"
-            },
-            {
-              "period": "2",
-              "score": "1"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Gianino, Giulianna",
-              "stat": "G",
-              "value": "2"
-            },
-            {
-              "name": "Kennedy, Ciara",
-              "stat": "A",
-              "value": "1"
-            },
-            {
-              "name": "Shobeiri, Susan",
-              "stat": "S",
-              "value": "2"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
-        "location": "Orono, Maine",
-        "attendance": "251",
+        "location": "",
+        "attendance": "",
         "recap": {
-          "headline": "Nicholson scores first career goal, Maine falls to BU",
-          "teaser": "Emma Nicholson scored her first career goal as Maine fell in non-conference action.",
-          "date": "2025-08-24T14:44:00",
-          "image": "/images/2025/8/24/775404499-dsc02255.jpg",
-          "url": "/news/2025/8/24/womens-soccer-nicholson-scores-first-career-goal-but-maine-falls-to-bu.aspx"
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
         },
-        "result_status": "L",
-        "url": "https://goblackbears.com/boxscore.aspx?id=16057&path=wsoc",
-        "game_id": "16057",
+        "result_status": "",
+        "url": "",
+        "game_id": "16502",
         "sport": "wsoc"
       },
       {
         "home": {
-          "name": "Merrimack",
-          "score": "2",
-          "id": "MC",
-          "record": "(1-2-1, 0-0-0)",
-          "periods": [
-            {
-              "period": "1",
-              "score": "2"
-            },
-            {
-              "period": "2",
-              "score": "0"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Cook, Lily",
-              "stat": "G",
-              "value": "1"
-            },
-            {
-              "name": "Christensen, Caleigh",
-              "stat": "A",
-              "value": "1"
-            },
-            {
-              "name": "Brewi, Kaitlyn",
-              "stat": "S",
-              "value": "10"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
         "away": {
-          "name": "Maine",
-          "score": "3",
-          "id": "UME",
-          "record": "(1-2-0, 0-0-0)",
-          "periods": [
-            {
-              "period": "1",
-              "score": "2"
-            },
-            {
-              "period": "2",
-              "score": "1"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Bernetti, Meghan",
-              "stat": "G",
-              "value": "1"
-            },
-            {
-              "name": "Dungey, Victoria",
-              "stat": "A",
-              "value": "1"
-            },
-            {
-              "name": "Wilson, Grace",
-              "stat": "S",
-              "value": "4"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
-        "location": "0",
-        "attendance": "197",
+        "location": "",
+        "attendance": "",
         "recap": {
-          "headline": "Black Bears earn road win at Merrimack",
-          "teaser": "Three Black Bears scored in the win.",
-          "date": "2025-08-28T19:27:00",
-          "image": "/images/2025/8/28/WSOC_Lossius.png",
-          "url": "/news/2025/8/28/womens-soccer-black-bears-earn-road-win-at-merrimack.aspx"
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
         },
-        "result_status": "W",
-        "url": "https://goblackbears.com/boxscore.aspx?id=16058&path=wsoc",
-        "game_id": "16058",
+        "result_status": "",
+        "url": "",
+        "game_id": "16503",
         "sport": "wsoc"
       },
       {
         "home": {
-          "name": "Army West Point",
-          "score": "2",
-          "id": "AWP",
-          "record": "(4-1-1, 0-0-0)",
-          "periods": [
-            {
-              "period": "1",
-              "score": "0"
-            },
-            {
-              "period": "2",
-              "score": "2"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Rogers, Sabrina",
-              "stat": "G",
-              "value": "2"
-            },
-            {
-              "name": "Follenweider, Jordan",
-              "stat": "A",
-              "value": "1"
-            },
-            {
-              "name": "Dail, Karalyn",
-              "stat": "S",
-              "value": "2"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
         "away": {
-          "name": "Maine",
-          "score": "2",
-          "id": "UM",
-          "record": "(1-2-1, 0-0-0)",
-          "periods": [
-            {
-              "period": "1",
-              "score": "0"
-            },
-            {
-              "period": "2",
-              "score": "2"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Thornton, Abbey",
-              "stat": "G",
-              "value": "1"
-            },
-            {
-              "name": "Dungey, Victoria",
-              "stat": "A",
-              "value": "1"
-            },
-            {
-              "name": "Wilson, Grace",
-              "stat": "S",
-              "value": "6"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
-        "location": "West Point, NY",
-        "attendance": "1139",
+        "location": "",
+        "attendance": "",
         "recap": {
-          "headline": "Black Knights, Black Bears battle to 2-2 tie",
-          "teaser": "Emma Nicholson and Abbey Thornton scored for Maine.",
-          "date": "2025-08-31T13:24:00",
-          "image": "/images/2025/8/13/WSOC_Michaud_g65XX.png",
-          "url": "/news/2025/8/31/womens-soccer-black-bears-black-knights-battle-to-2-2-tie.aspx"
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
         },
-        "result_status": "T",
-        "url": "https://goblackbears.com/boxscore.aspx?id=16059&path=wsoc",
-        "game_id": "16059",
+        "result_status": "",
+        "url": "",
+        "game_id": "16504",
         "sport": "wsoc"
       },
       {
         "home": {
-          "name": "Maine",
-          "score": "0",
-          "id": "Maine",
-          "record": "(1-3-1, 0-0-0)",
-          "periods": [
-            {
-              "period": "1",
-              "score": "0"
-            },
-            {
-              "period": "2",
-              "score": "0"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Wilson, Grace",
-              "stat": "S",
-              "value": "4"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
         "away": {
-          "name": "Holy Cross",
-          "score": "1",
-          "id": "HCR",
-          "record": "(3-3-1, 0-0-0)",
-          "periods": [
-            {
-              "period": "1",
-              "score": "1"
-            },
-            {
-              "period": "2",
-              "score": "0"
-            }
-          ],
-          "leaders": [
-            {
-              "name": "Halligan, Sam",
-              "stat": "G",
-              "value": "1"
-            },
-            {
-              "name": "Haesche, Aubrey",
-              "stat": "S",
-              "value": "9"
-            }
-          ]
+          "name": "",
+          "score": "",
+          "id": "",
+          "record": "",
+          "periods": [],
+          "leaders": []
         },
-        "location": "Orono",
-        "attendance": "136",
+        "location": "",
+        "attendance": "",
         "recap": {
-          "headline": "Black Bears fall to Crusaders in non-conference action",
-          "teaser": "The visitors scored late in the first half for a 1-0 win.",
-          "date": "2025-09-07T15:21:00",
-          "image": "/images/2025/9/7/780392199-_0z85969.jpg",
-          "url": "/news/2025/9/7/womens-soccer-black-bears-fall-to-crusaders-in-non-conference-action.aspx"
+          "headline": "",
+          "teaser": "",
+          "date": "",
+          "image": "",
+          "url": ""
         },
-        "result_status": "L",
-        "url": "https://goblackbears.com/boxscore.aspx?id=16060&path=wsoc",
-        "game_id": "16060",
+        "result_status": "",
+        "url": "",
+        "game_id": "16505",
         "sport": "wsoc"
       }
     ]

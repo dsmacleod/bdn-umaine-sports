@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-07-17T12:23:20.648093+00:00",
+  "last_updated": "2026-07-18T03:05:30.008054+00:00",
   "articles": [
+    {
+      "title": "Maine women's soccer announces 2026 schedule",
+      "url": "https://goblackbears.com/news/2026/7/17/womens-soccer-maine-womens-soccer-announces-2026-schedule.aspx",
+      "summary": "The Black Bears open up the season at Rhode Island on Aug. 12.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/5/562A1269.jpg",
+      "published": "Fri, 17 Jul 2026 09:00:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
     {
       "title": "Two more transfers join the Black Bears",
       "url": "https://goblackbears.com/news/2026/7/16/softball-two-more-transfers-join-the-black-bears.aspx",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/6/fogler-library-fall-2026.png",
       "published": "Tue, 7 Jul 2026 14:00:00 EST",
       "sport": "General, Academic Support Services",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Seventeen Black Bears named to Hockey East All-Academic Team",
-      "url": "https://goblackbears.com/news/2026/7/6/womens-ice-hockey-seventeen-black-bears-named-to-hockey-east-all-academic-team.aspx",
-      "summary": "Julia Bachetti was named to the Hockey East All-Academic All-Star Team",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/2/_MG_8959.jpg",
-      "published": "Mon, 6 Jul 2026 10:01:00 EST",
-      "sport": "Women's Ice Hockey",
       "source": "goblackbears"
     },
     {
@@ -908,6 +908,16 @@
       "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
+    },
+    {
+      "title": "Cooper and Ace Flagg are hosting another youth basketball camp at UMaine",
+      "url": "https://www.bangordailynews.com/2026/07/17/sports/professional-basketball/orono-maine-umaine-cooper-ace-flagg-procamps-youth-basketball-camp/",
+      "summary": "It\u2019s the third year in a row that the Flagg brothers are hosting the event\u00a0at the University of Maine in Orono.",
+      "image": "",
+      "published": "Fri, 17 Jul 2026 17:46:57 +0000",
+      "sport": "Professional Basketball",
+      "source": "bdn",
+      "author": "Christopher Burns"
     },
     {
       "title": "Gifted newcomers join veteran UMaine women\u2019s soccer team\u00a0seeking 4th title\u00a0in row",
