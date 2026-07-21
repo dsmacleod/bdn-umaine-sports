@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T12:40:28.339403+00:00",
+  "last_updated": "2026-07-21T03:06:50.912799+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -838,69 +838,27 @@
       ]
     },
     "fhockey": {
-      "title": "2025 Field Hockey Standings",
+      "title": "2026 Field Hockey Standings",
       "notes": "",
       "teams": [
         {
-          "school": "New Hampshire",
-          "conference": "4-1",
-          "conference_pct": ".800",
-          "overall": "12-7",
-          "pct": ".800",
-          "streak": "L1",
-          "is_umaine": false
-        },
-        {
           "school": "Vermont",
-          "conference": "4-1",
-          "conference_pct": ".800",
-          "overall": "11-8",
-          "pct": ".800",
-          "streak": "L1",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
           "is_umaine": false
-        },
-        {
-          "school": "UAlbany",
-          "conference": "3-2",
-          "conference_pct": ".600",
-          "overall": "12-7",
-          "pct": ".600",
-          "streak": "L1",
-          "is_umaine": false
-        },
-        {
-          "school": "UMass Lowell",
-          "conference": "3-2",
-          "conference_pct": ".600",
-          "overall": "8-10",
-          "pct": ".600",
-          "streak": "L3",
-          "is_umaine": false
-        },
-        {
-          "school": "Maine",
-          "conference": "1-4",
-          "conference_pct": ".200",
-          "overall": "7-12",
-          "pct": ".200",
-          "streak": "L1",
-          "is_umaine": true
         },
         {
           "school": "Bryant",
-          "conference": "0-5",
+          "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "4-14",
+          "overall": "0-0",
           "pct": ".000",
-          "streak": "L2",
+          "streak": "",
           "is_umaine": false
-        }
-      ]
-    },
-    "wsoc": {
-      "title": "2026 Women's Soccer Standings",
-      "notes": "",
-      "teams": [
+        },
         {
           "school": "New Hampshire",
           "conference": "0-0",
@@ -910,6 +868,30 @@
           "streak": "",
           "is_umaine": false
         },
+        {
+          "school": "UAlbany",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": false
+        }
+      ]
+    },
+    "wsoc": {
+      "title": "2026 Women's Soccer Standings",
+      "notes": "",
+      "teams": [
         {
           "school": "Binghamton",
           "conference": "0-0",
@@ -936,6 +918,15 @@
           "pct": ".000",
           "streak": "",
           "is_umaine": true
+        },
+        {
+          "school": "New Hampshire",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": false
         },
         {
           "school": "NJIT",

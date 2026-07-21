@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T12:40:28.339403+00:00",
+  "last_updated": "2026-07-21T03:06:50.912799+00:00",
   "sports": {
     "mhockey": {
       "record": {
@@ -133,6 +133,15 @@
           "home_away": "Home",
           "opponent": "Boston College",
           "location": "Orono, Maine (Harold Alfond Sports Arena)",
+          "tournament": "",
+          "result": ""
+        },
+        {
+          "date": "Nov 28 (Sat)",
+          "time": "12:00 PM",
+          "home_away": "Neutral",
+          "opponent": "Cornell",
+          "location": "New York, N.Y.",
           "tournament": "",
           "result": ""
         },
@@ -324,6 +333,7 @@
         "16530",
         "16531",
         "16532",
+        "16533",
         "16534",
         "16535",
         "16536",
@@ -2645,7 +2655,7 @@
         },
         {
           "date": "Oct 18 (Sun)",
-          "time": "TBA",
+          "time": "2:00 PM",
           "home_away": "Away",
           "opponent": "New Hampshire",
           "location": "Durham, N.H.",
