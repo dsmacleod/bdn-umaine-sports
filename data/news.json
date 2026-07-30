@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-07-29T12:37:22.325839+00:00",
+  "last_updated": "2026-07-30T03:06:14.487670+00:00",
   "articles": [
+    {
+      "title": "Men's Basketball Announces their 2026-27 Non-Conference Schedule",
+      "url": "https://goblackbears.com/news/2026/7/29/mens-basketball-announces-their-2026-27-non-conference-schedule",
+      "summary": "The University of Maine men's basketball program has announced their 2026-27 non-conference schedule. The Black Bears will play 16 games, which includes six home games to all be played on Skip Chappelle Court at Memorial Gym.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/29/Maine_Men_s_Basketball_-_2026-27_Non-Conference_Schedule.png",
+      "published": "Wed, 29 Jul 2026 13:00:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "WATCH: Alex Gettens Introductory Press Conference",
       "url": "https://goblackbears.com/news/2026/7/28/womens-ice-hockey-watch-alex-gettens-introductory-press-conference",
@@ -80,15 +89,6 @@
       "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/30/streams-dribble-BU.png",
       "published": "Wed, 22 Jul 2026 12:06:00 EST",
       "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Four Black Bears Named to Preseason All-CAA Team",
-      "url": "https://goblackbears.com/news/2026/7/22/football-four-black-bears-named-to-preseason-all-caa-team",
-      "summary": "The CAA announced their Preseason All-Conference teams on Wednesday morning prior to the CAA Media Day. The University of Maine was represented by four student-athletes, two on offense and two on defense, along with three honorable mentions on the team.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/22/Artboard_1.png",
-      "published": "Wed, 22 Jul 2026 09:30:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -299,12 +299,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "Men's Basketball falls in Regular Season Finale on Tuesday Night",
-      "url": "https://goblackbears.com/news/2026/3/3/mens-basketball-falls-in-regular-season-finale-on-tuesday-night",
-      "summary": "The University of Maine basketball team fell in the regular season finale on Tuesday night, 67-56.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/3/RC0_7435.jpg",
-      "published": "Tue, 3 Mar 2026 21:28:00 EST",
-      "sport": "Men's Basketball",
+      "title": "Four Black Bears Named to Preseason All-CAA Team",
+      "url": "https://goblackbears.com/news/2026/7/22/football-four-black-bears-named-to-preseason-all-caa-team",
+      "summary": "The CAA announced their Preseason All-Conference teams on Wednesday morning prior to the CAA Media Day. The University of Maine was represented by four student-athletes, two on offense and two on defense, along with three honorable mentions on the team.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/22/Artboard_1.png",
+      "published": "Wed, 22 Jul 2026 09:30:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -351,6 +351,16 @@
       "published": "Fri, 12 Jun 2026 13:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
+    },
+    {
+      "title": "New UMaine women\u2019s hockey coach has high expectations for the program",
+      "url": "https://www.bangordailynews.com/2026/07/29/sports/college-ice-hockey/umaine-womens-hockey-new-coach-alex-gettens/",
+      "summary": "Alex Gettens wants to turn the women's squad into an aggressive, in-your-face team.",
+      "image": "",
+      "published": "Wed, 29 Jul 2026 14:50:35 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine men\u2019s hockey will play at Madison Square Garden for 1st time",
@@ -543,16 +553,6 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine hockey defenseman beginning pro career with Maine Mariners",
-      "url": "https://www.bangordailynews.com/2026/03/18/sports/college-ice-hockey/umaine-hockey-defenseman-beginning-pro-career-with-maine-mariners/",
-      "summary": "Brandon Chabrier signed with the Portland team on Tuesday evening.",
-      "image": "",
-      "published": "Wed, 18 Mar 2026 20:28:06 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "UMaine women\u2019s basketball nonconference schedule features 4 NCAA tourney teams",
       "url": "https://www.bangordailynews.com/2026/07/27/sports/college-basketball/umaine-womens-basketball-nonconference-schedule/",
       "summary": "Additionally, the Black Bears' will face three other teams that made it to post-season tournaments last season.",
@@ -699,6 +699,16 @@
       "image": "",
       "published": "Fri, 13 Mar 2026 05:00:00 +0000",
       "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine running back Rashawn Marshall looking to add more physicality to his game",
+      "url": "https://www.bangordailynews.com/2026/07/29/sports/college-football/umaine-running-back-rashawn-marshall/",
+      "summary": "The Newark, New Jersey, native was the Black Bears' second leading rusher last season and was third in receptions.",
+      "image": "",
+      "published": "Wed, 29 Jul 2026 20:12:38 +0000",
+      "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
@@ -873,16 +883,6 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine football defeats Stony Brook for its 5th win in a row",
-      "url": "https://www.bangordailynews.com/2025/11/01/sports/college-football/umaine-football-defeats-stony-brook-for-its-5th-win-in-a-row/",
-      "summary": "It is the first five-game winning streak for UMaine since the 2018 season, when the Black Bears reached the Football Championship Subdivision playoff semifinals.",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 21:33:21 +0000",
-      "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "Cooper and Ace Flagg are hosting another youth basketball camp at UMaine",
       "url": "https://www.bangordailynews.com/2026/07/17/sports/professional-basketball/orono-maine-umaine-cooper-ace-flagg-procamps-youth-basketball-camp/",
       "summary": "It\u2019s the third year in a row that the Flagg brothers are hosting the event\u00a0at the University of Maine in Orono.",
@@ -919,16 +919,6 @@
       "image": "",
       "published": "Fri, 10 Jul 2026 19:52:52 +0000",
       "sport": "Sports",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine freshman slugger who led America East in homers is transferring",
-      "url": "https://www.bangordailynews.com/2026/07/08/sports/college-baseball/umaine-baseball-troy-carpenter-transferring/",
-      "summary": "Troy Carpenter led America East in homers with 16 and earned a spot on the league\u2019s All-Rookie team this past spring.",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 20:24:17 +0000",
-      "sport": "College Baseball",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
