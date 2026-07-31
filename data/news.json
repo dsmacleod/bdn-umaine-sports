@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-30T12:31:07.605486+00:00",
+  "last_updated": "2026-07-31T03:07:19.326867+00:00",
   "articles": [
+    {
+      "title": "Reinwald, Grisdale named #AEWSOC Preseason All-Conference",
+      "url": "https://goblackbears.com/news/2026/7/30/womens-soccer-reinwald-grisdale-named-aewsoc-preseason-all-conference",
+      "summary": "Maine was tabbed first in the preseason coaches' poll.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/5/562A0916.jpg",
+      "published": "Thu, 30 Jul 2026 12:00:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's hockey announces 2026-27 schedule",
+      "url": "https://goblackbears.com/news/2026/7/30/womens-ice-hockey-maine-womens-hockey-announces-2026-27-schedule",
+      "summary": "Maine will host 17 regular season contests at Alfond Arena.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/29/IMG_9867.jpg",
+      "published": "Thu, 30 Jul 2026 09:00:00 EST",
+      "sport": "Women's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Men's Basketball Announces their 2026-27 Non-Conference Schedule",
       "url": "https://goblackbears.com/news/2026/7/29/mens-basketball-announces-their-2026-27-non-conference-schedule",
@@ -70,24 +88,6 @@
       "summary": "ORONO, Maine -- After putting together one of the most dominant women's basketball seasons in league history, Adrianna Smith has been named the 2025-26 America East Female Scholar-Athlete of the Year, as announced by the league on Thursday afternoon.",
       "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/23/smith-dribble-new-website.png",
       "published": "Thu, 23 Jul 2026 15:51:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Watch: CAA Football Media Day",
-      "url": "https://goblackbears.com/news/2026/7/22/watch-caa-football-media-day",
-      "summary": "CAA Football Media Day - Jordan Stevens, Brayden Isaiah and Anthony Iliano",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/17/Jordan_Stevens_11_15_vs_Rhode_Island_3_b6b66.jpg",
-      "published": "Wed, 22 Jul 2026 14:49:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's Basketball announces non-conference schedule",
-      "url": "https://goblackbears.com/news/2026/7/22/womens-basketball-announces-non-conference-schedule",
-      "summary": "ORONO, Maine -- The University of Maine women's basketball team announced its non-conference schedule on Wednesday. The Black Bears will host seven non-conference games, including one in Portland, Maine, and officially tip-off the 2026-27 season on Nov. 5 in Orono.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/30/streams-dribble-BU.png",
-      "published": "Wed, 22 Jul 2026 12:06:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
     },
@@ -170,6 +170,15 @@
       "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/9/Untitled-1.png",
       "published": "Fri, 10 Apr 2026 20:50:00 EST",
       "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's Basketball announces non-conference schedule",
+      "url": "https://goblackbears.com/news/2026/7/22/womens-basketball-announces-non-conference-schedule",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team announced its non-conference schedule on Wednesday. The Black Bears will host seven non-conference games, including one in Portland, Maine, and officially tip-off the 2026-27 season on Nov. 5 in Orono.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/30/streams-dribble-BU.png",
+      "published": "Wed, 22 Jul 2026 12:06:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -296,6 +305,15 @@
       "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/Artboard_1.png",
       "published": "Fri, 6 Mar 2026 11:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Watch: CAA Football Media Day",
+      "url": "https://goblackbears.com/news/2026/7/22/watch-caa-football-media-day",
+      "summary": "CAA Football Media Day - Jordan Stevens, Brayden Isaiah and Anthony Iliano",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/17/Jordan_Stevens_11_15_vs_Rhode_Island_3_b6b66.jpg",
+      "published": "Wed, 22 Jul 2026 14:49:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -883,6 +901,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "UMaine women\u2019s soccer picked to win 4th-straight league title in preseason poll",
+      "url": "https://www.bangordailynews.com/2026/07/30/sports/college-soccer/umaine-womens-soccer-season-outlook-poll/",
+      "summary": "The Black Bears received four first-place votes and 60 points to edge out Binghamton, which also earned four first-place votes but wound up with 58 points.",
+      "image": "",
+      "published": "Thu, 30 Jul 2026 21:36:37 +0000",
+      "sport": "College Soccer",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "Cooper and Ace Flagg are hosting another youth basketball camp at UMaine",
       "url": "https://www.bangordailynews.com/2026/07/17/sports/professional-basketball/orono-maine-umaine-cooper-ace-flagg-procamps-youth-basketball-camp/",
       "summary": "It\u2019s the third year in a row that the Flagg brothers are hosting the event\u00a0at the University of Maine in Orono.",
@@ -899,26 +927,6 @@
       "image": "",
       "published": "Thu, 16 Jul 2026 05:00:00 +0000",
       "sport": "College Soccer",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine pitcher Jason Krieger drafted by Yankees",
-      "url": "https://www.bangordailynews.com/2026/07/13/sports/professional-baseball/umaine-pitcher-jason-krieger-drafted-by-yankees/",
-      "summary": "The junior right-hander was drafted in the 17th round over the weekend and has signed with the team, according to UMaine head coach Nick Derba.",
-      "image": "",
-      "published": "Mon, 13 Jul 2026 19:24:25 +0000",
-      "sport": "Professional Baseball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Ruth White named top America East outdoor track scholar-athlete of the year",
-      "url": "https://www.bangordailynews.com/2026/07/10/sports/ruth-white-named-top-america-east-outdoor-track-scholar-athlete-of-the-year/",
-      "summary": "The 20-year-old Orono native is the eighth University of New Hampshire woman to earn the honor.",
-      "image": "",
-      "published": "Fri, 10 Jul 2026 19:52:52 +0000",
-      "sport": "Sports",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
