@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-03T12:59:26.761753+00:00",
+  "last_updated": "2026-08-04T03:06:36.947233+00:00",
   "articles": [
+    {
+      "title": "Iliano and Tremblay Named Phil Steele Preseason All-Americans",
+      "url": "https://goblackbears.com/news/2026/8/3/football-iliano-and-tremblay-named-phil-steele-preseason-all-americans",
+      "summary": "It was announced on Monday that both Anthony Iliano and Samuel Tremblay of the University of Maine football program were named Phil Steele Preseason All-Americans. Iliano was named to the Third-Team for the second time this preseason (first by FCS Stats Perform) while Tremblay was named to the Fourth-Team for the first time in his career.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/3/Tremblay_Iliano.png",
+      "published": "Mon, 3 Aug 2026 11:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
     {
       "title": "Women\u2019s ice hockey single-game tickets on sale Aug. 25, priority purchase dates announced",
       "url": "https://goblackbears.com/news/2026/7/31/womens-ice-hockey-womens-ice-hockey-single-game-tickets-on-sale-aug-25-priority-purchase-dates-announced",
@@ -79,15 +88,6 @@
       "summary": "The University of Maine football program has announced their camp schedule for the 2026 season.",
       "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/24/029A6260.jpg",
       "published": "Fri, 24 Jul 2026 14:00:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "43 Black Bears Named to CAA Spring Commissioner's Honor Roll",
-      "url": "https://goblackbears.com/news/2026/7/24/football-43-black-bears-named-to-caa-spring-commissioners-honor-roll",
-      "summary": "The CAA announced on Friday morning their 2026 Spring Commissioner's Honor Roll, where the Black Bears were represented by 43 student-athletes.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2016/5/4/alfond_stadium_web.jpg",
-      "published": "Fri, 24 Jul 2026 09:30:00 EST",
       "sport": "Football",
       "source": "goblackbears"
     },
@@ -317,6 +317,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "43 Black Bears Named to CAA Spring Commissioner's Honor Roll",
+      "url": "https://goblackbears.com/news/2026/7/24/football-43-black-bears-named-to-caa-spring-commissioners-honor-roll",
+      "summary": "The CAA announced on Friday morning their 2026 Spring Commissioner's Honor Roll, where the Black Bears were represented by 43 student-athletes.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2016/5/4/alfond_stadium_web.jpg",
+      "published": "Fri, 24 Jul 2026 09:30:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
       "title": "Watch: CAA Football Media Day",
       "url": "https://goblackbears.com/news/2026/7/22/watch-caa-football-media-day",
       "summary": "CAA Football Media Day - Jordan Stevens, Brayden Isaiah and Anthony Iliano",
@@ -367,15 +376,6 @@
       "summary": "ORONO, Maine \u2013 The University of Maine athletic department is proud to announce that Jack Cosgrove will be inducted into UMaine football's prestigious Ring of Honor during the upcoming 2026 season.",
       "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/29/Cosgrove_speaking_bench-2026.png",
       "published": "Mon, 29 Jun 2026 14:36:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Season Tickets for Football are on Sale",
-      "url": "https://goblackbears.com/news/2026/6/12/season-tickets-for-football-are-on-sale",
-      "summary": "The University of Maine football program is on sale with their season tickets for the 2026 season.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/17/Homecoming_Alfond_Stadium-1.jpg",
-      "published": "Fri, 12 Jun 2026 13:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
     },
@@ -906,6 +906,16 @@
       "image": "",
       "published": "Tue, 04 Nov 2025 06:00:00 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Former UMaine star Jeremy Pena is on a hot streak for the Houston Astros",
+      "url": "https://www.bangordailynews.com/2026/08/03/sports/professional-baseball/jeremy-pena-hot-streak-houston-astros/",
+      "summary": "The 28-year-old Pena, a former All-America East selection, had four games with three hits and four with two during his streak entering Monday night\u2019s game against Toronto.",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 21:27:45 +0000",
+      "sport": "Professional Baseball",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
