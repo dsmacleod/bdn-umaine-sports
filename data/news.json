@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-05T12:33:04.162156+00:00",
+  "last_updated": "2026-08-06T05:17:07.682889+00:00",
   "articles": [
+    {
+      "title": "Maine field hockey announces 2026 schedule",
+      "url": "https://goblackbears.com/news/2026/8/5/field-hockey-maine-field-hockey-announces-2026-schedule",
+      "summary": "ORONO, Maine -- The University of Maine field hockey program announced its schedule for the upcoming 2026 season on Wednesday.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/23/brynn-bu.png",
+      "published": "Wed, 5 Aug 2026 15:06:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Iliano and Tremblay Named Phil Steele Preseason All-Americans",
       "url": "https://goblackbears.com/news/2026/8/3/football-iliano-and-tremblay-named-phil-steele-preseason-all-americans",
@@ -80,15 +89,6 @@
       "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/20/NEW_Web.png",
       "published": "Mon, 20 Jul 2026 14:00:00 EST",
       "sport": "Women's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football Announces Camp Schedule for 2026",
-      "url": "https://goblackbears.com/news/2026/7/24/football-announces-camp-schedule-for-2026",
-      "summary": "The University of Maine football program has announced their camp schedule for the 2026 season.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/24/029A6260.jpg",
-      "published": "Fri, 24 Jul 2026 14:00:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -314,6 +314,15 @@
       "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/Artboard_1.png",
       "published": "Fri, 6 Mar 2026 11:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Football Announces Camp Schedule for 2026",
+      "url": "https://goblackbears.com/news/2026/7/24/football-announces-camp-schedule-for-2026",
+      "summary": "The University of Maine football program has announced their camp schedule for the 2026 season.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/24/029A6260.jpg",
+      "published": "Fri, 24 Jul 2026 14:00:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -906,6 +915,16 @@
       "image": "",
       "published": "Tue, 04 Nov 2025 06:00:00 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine field hockey seeks bounceback season after underwhelming 2025 campaign",
+      "url": "https://www.bangordailynews.com/2026/08/05/sports/college-field-hockey/umaine-field-hockey-seeks-bounceback-season/",
+      "summary": "The Black Bears have struggled of late, going just 7-12 in their last 19 conference regular season games.",
+      "image": "",
+      "published": "Wed, 05 Aug 2026 18:24:04 +0000",
+      "sport": "College Field Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
