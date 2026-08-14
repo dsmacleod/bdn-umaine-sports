@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T12:44:43.650987+00:00",
+  "last_updated": "2026-08-14T04:08:48.682871+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -902,6 +902,33 @@
       "notes": "",
       "teams": [
         {
+          "school": "Binghamton",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "1-0",
+          "pct": ".000",
+          "streak": "W1",
+          "is_umaine": false
+        },
+        {
+          "school": "UMBC",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "1-0",
+          "pct": ".000",
+          "streak": "W1",
+          "is_umaine": false
+        },
+        {
+          "school": "New Hampshire",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0-1",
+          "pct": ".000",
+          "streak": "T1",
+          "is_umaine": false
+        },
+        {
           "school": "UMass Lowell",
           "conference": "0-0",
           "conference_pct": ".000",
@@ -917,15 +944,6 @@
           "overall": "0-0-1",
           "pct": ".000",
           "streak": "T1",
-          "is_umaine": false
-        },
-        {
-          "school": "Binghamton",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "0-0",
-          "pct": ".000",
-          "streak": "",
           "is_umaine": false
         },
         {
@@ -947,15 +965,6 @@
           "is_umaine": true
         },
         {
-          "school": "New Hampshire",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "0-0",
-          "pct": ".000",
-          "streak": "",
-          "is_umaine": false
-        },
-        {
           "school": "NJIT",
           "conference": "0-0",
           "conference_pct": ".000",
@@ -966,15 +975,6 @@
         },
         {
           "school": "UAlbany",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "0-0",
-          "pct": ".000",
-          "streak": "",
-          "is_umaine": false
-        },
-        {
-          "school": "UMBC",
           "conference": "0-0",
           "conference_pct": ".000",
           "overall": "0-0",
