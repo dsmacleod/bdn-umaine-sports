@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T12:18:28.171587+00:00",
+  "last_updated": "2026-08-17T02:59:30.816496+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -905,22 +905,31 @@
           "school": "Binghamton",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "1-0",
+          "overall": "2-0",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "W2",
           "is_umaine": false
         },
         {
           "school": "UMBC",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "1-0",
+          "overall": "2-0",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "W2",
           "is_umaine": false
         },
         {
-          "school": "New Hampshire",
+          "school": "Bryant",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0-1",
+          "pct": ".000",
+          "streak": "T1",
+          "is_umaine": false
+        },
+        {
+          "school": "NJIT",
           "conference": "0-0",
           "conference_pct": ".000",
           "overall": "0-0-1",
@@ -932,27 +941,27 @@
           "school": "UMass Lowell",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "0-0-1",
+          "overall": "0-1-1",
           "pct": ".000",
-          "streak": "T1",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "New Hampshire",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-1-1",
+          "pct": ".000",
+          "streak": "L1",
           "is_umaine": false
         },
         {
           "school": "Vermont",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "0-0-1",
+          "overall": "0-1-1",
           "pct": ".000",
-          "streak": "T1",
-          "is_umaine": false
-        },
-        {
-          "school": "Bryant",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "0-0",
-          "pct": ".000",
-          "streak": "",
+          "streak": "L1",
           "is_umaine": false
         },
         {
@@ -965,21 +974,12 @@
           "is_umaine": true
         },
         {
-          "school": "NJIT",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "0-0",
-          "pct": ".000",
-          "streak": "",
-          "is_umaine": false
-        },
-        {
           "school": "UAlbany",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "0-0",
+          "overall": "0-1",
           "pct": ".000",
-          "streak": "",
+          "streak": "L1",
           "is_umaine": false
         }
       ]
