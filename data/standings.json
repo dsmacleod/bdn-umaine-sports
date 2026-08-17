@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T02:59:30.816496+00:00",
+  "last_updated": "2026-08-17T12:21:54.328272+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -938,7 +938,7 @@
           "is_umaine": false
         },
         {
-          "school": "UMass Lowell",
+          "school": "New Hampshire",
           "conference": "0-0",
           "conference_pct": ".000",
           "overall": "0-1-1",
@@ -947,7 +947,7 @@
           "is_umaine": false
         },
         {
-          "school": "New Hampshire",
+          "school": "UMass Lowell",
           "conference": "0-0",
           "conference_pct": ".000",
           "overall": "0-1-1",
