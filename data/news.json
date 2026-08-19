@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-08-18T12:23:54.119257+00:00",
+  "last_updated": "2026-08-19T02:56:54.872092+00:00",
   "articles": [
+    {
+      "title": "WATCH: Inside the Huddle - New Balance Community Day",
+      "url": "https://goblackbears.com/news/2026/8/18/watch-inside-the-huddle-new-balance-community-day",
+      "summary": "WATERVILLE, Maine -- University of Maine student-athletes and coaches assembled at the Alfond Youth & Community Center on Aug. 5 for the annual New Balance Community Day.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/18/DSC05542.jpg",
+      "published": "Tue, 18 Aug 2026 15:28:00 EST",
+      "sport": "General",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Men's Basketball Announces Conference Schedule",
+      "url": "https://goblackbears.com/news/2026/8/18/mens-basketball-announces-conference-schedule",
+      "summary": "The America East Conference announced the 2026-27 schedule for league play on Tuesday afternoon. The University of Maine men's basketball program will begin America East action on January 2 and conclude the regular season on March 2.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/18/Caleb_Crawford_1.24.26_vs_Binghamton_2.jpg",
+      "published": "Tue, 18 Aug 2026 12:00:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's Basketball announces America East conference dates, full schedule",
+      "url": "https://goblackbears.com/news/2026/8/18/womens-basketball-announces-conference-dates-full-schedule",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team announced its 2026-27 schedule on Tuesday afternoon.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/alvarez-action-2.png",
+      "published": "Tue, 18 Aug 2026 12:00:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Maine set to host Mercer, Sacred Heart at New Balance Soccer Complex",
       "url": "https://goblackbears.com/news/2026/8/17/womens-soccer-preview-maine-set-to-host-mercer-sacred-heart-at-new-balance-soccer-complex",
@@ -71,24 +98,6 @@
       "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/5/Artboard_1.png",
       "published": "Fri, 7 Aug 2026 10:30:00 EST",
       "sport": "General, Men's Ice Hockey, Women's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Maine field hockey announces 2026 schedule",
-      "url": "https://goblackbears.com/news/2026/8/5/field-hockey-maine-field-hockey-announces-2026-schedule",
-      "summary": "ORONO, Maine -- The University of Maine field hockey program announced its schedule for the upcoming 2026 season on Wednesday.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/23/brynn-bu.png",
-      "published": "Wed, 5 Aug 2026 15:06:00 EST",
-      "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Annual Meet the Bears Event Set for Aug. 16",
-      "url": "https://goblackbears.com/news/2026/8/6/football-annual-meet-the-bears-event-set-for-aug-16",
-      "summary": "The University of Maine football team's annual Meet the Bears night, presented by the Maine Dairy and Nutrition Council, returns on Sunday, Aug. 16\u00a0on Morse Field at Alfond Stadium at 5:30 p.m.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/24/029A6260.jpg",
-      "published": "Thu, 6 Aug 2026 14:00:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -317,12 +326,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "Three Black Bears earn America East Regular Season Honors",
-      "url": "https://goblackbears.com/news/2026/3/6/mens-basketball-three-black-bears-earn-america-east-regular-season-honors",
-      "summary": "The America East Conference announced on Friday morning that three Black Bears from the University of Maine men's basketball program earned an honor for their performances throughout the 2025-26 regular season.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/Artboard_1.png",
-      "published": "Fri, 6 Mar 2026 11:00:00 EST",
-      "sport": "Men's Basketball",
+      "title": "Annual Meet the Bears Event Set for Aug. 16",
+      "url": "https://goblackbears.com/news/2026/8/6/football-annual-meet-the-bears-event-set-for-aug-16",
+      "summary": "The University of Maine football team's annual Meet the Bears night, presented by the Maine Dairy and Nutrition Council, returns on Sunday, Aug. 16\u00a0on Morse Field at Alfond Stadium at 5:30 p.m.",
+      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/24/029A6260.jpg",
+      "published": "Thu, 6 Aug 2026 14:00:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -739,6 +748,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "Rhode Island native Eddie Buehler wins UMaine\u2019s starting quarterback job",
+      "url": "https://www.bangordailynews.com/2026/08/18/sports/college-football/eddie-buehler-umaine-starting-quarterback/",
+      "summary": "Eddie Buehler won a three-man battle for the job and will be taking snaps from center for the first time on Thursday, Aug. 27.",
+      "image": "",
+      "published": "Tue, 18 Aug 2026 20:51:02 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine defensive end considers the sack \u2018the best play in football\u2019",
       "url": "https://www.bangordailynews.com/2026/08/14/sports/college-football/umaine-football-chris-bacon-defensive-end-sacking/",
       "summary": "Chris Bacon has evolved into a force to be reckoned with for the Black Bears.",
@@ -909,16 +928,6 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "Don\u2019t tell UMaine football, but every game is a playoff game from here on out",
-      "url": "https://www.bangordailynews.com/2025/11/12/sports/college-football/umaine-football-playoff-math/",
-      "summary": "Technically, Saturday\u2019s University of Maine home football game is a regular season contest. But for all intents and purposes it\u2019s a playoff game for the Black Bears.",
-      "image": "",
-      "published": "Wed, 12 Nov 2025 19:19:12 +0000",
-      "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "Pictures: Cooper and Ace Flagg host basketball camp for hundreds of Maine kids",
       "url": "https://www.bangordailynews.com/2026/08/16/sports/professional-basketball/flagg-brothers-maine-basketball-camp/",
       "summary": "NBA star Cooper Flagg returned to Maine this weekend with his twin brother Ace for their third annual Flagg Brothers Basketball ProCamp, working with hundreds of young players ages 6 to 13 at the New Balance Fieldhouse and Memorial Gym on the University of Maine campus in Orono. Cooper, the Dallas Mavericks&#8217; 2026 NBA Rookie [&#8230;]",
@@ -967,16 +976,6 @@
       "sport": "Sports",
       "source": "bdn",
       "author": "Michael Shepherd"
-    },
-    {
-      "title": "UMaine women\u2019s soccer picked to win 4th-straight league title in preseason poll",
-      "url": "https://www.bangordailynews.com/2026/07/30/sports/college-soccer/umaine-womens-soccer-season-outlook-poll/",
-      "summary": "The Black Bears received four first-place votes and 60 points to edge out Binghamton, which also earned four first-place votes but wound up with 58 points.",
-      "image": "",
-      "published": "Thu, 30 Jul 2026 21:36:37 +0000",
-      "sport": "College Soccer",
-      "source": "bdn",
-      "author": "Larry Mahoney"
     }
   ]
 }
