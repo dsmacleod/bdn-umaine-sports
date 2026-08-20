@@ -1,38 +1,38 @@
 {
-  "last_updated": "2026-08-20T02:56:38.447459+00:00",
+  "last_updated": "2026-08-20T12:26:04.852652+00:00",
   "articles": [
     {
       "title": "WATCH: Inside the Huddle - New Balance Community Day",
       "url": "https://goblackbears.com/news/2026/8/18/watch-inside-the-huddle-new-balance-community-day",
       "summary": "WATERVILLE, Maine -- University of Maine student-athletes and coaches assembled at the Alfond Youth & Community Center on Aug. 5 for the annual New Balance Community Day.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/18/DSC05542.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/18/DSC05542.jpg",
       "published": "Tue, 18 Aug 2026 15:28:00 EST",
       "sport": "General",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's Basketball Announces Conference Schedule",
-      "url": "https://goblackbears.com/news/2026/8/18/mens-basketball-announces-conference-schedule",
-      "summary": "The America East Conference announced the 2026-27 schedule for league play on Tuesday afternoon. The University of Maine men's basketball program will begin America East action on January 2 and conclude the regular season on March 2.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/18/Caleb_Crawford_1.24.26_vs_Binghamton_2.jpg",
-      "published": "Tue, 18 Aug 2026 12:00:00 EST",
-      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
       "title": "Women's Basketball announces America East conference dates, full schedule",
       "url": "https://goblackbears.com/news/2026/8/18/womens-basketball-announces-conference-dates-full-schedule",
       "summary": "ORONO, Maine -- The University of Maine women's basketball team announced its 2026-27 schedule on Tuesday afternoon.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/alvarez-action-2.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/alvarez-action-2.png",
       "published": "Tue, 18 Aug 2026 12:00:00 EST",
       "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Men's Basketball Announces Conference Schedule",
+      "url": "https://goblackbears.com/news/2026/8/18/mens-basketball-announces-conference-schedule",
+      "summary": "The America East Conference announced the 2026-27 schedule for league play on Tuesday afternoon. The University of Maine men's basketball program will begin America East action on January 2 and conclude the regular season on March 2.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/18/Caleb_Crawford_1.24.26_vs_Binghamton_2.jpg",
+      "published": "Tue, 18 Aug 2026 12:00:00 EST",
+      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
       "title": "PREVIEW: Maine set to host Mercer, Sacred Heart at New Balance Soccer Complex",
       "url": "https://goblackbears.com/news/2026/8/17/womens-soccer-preview-maine-set-to-host-mercer-sacred-heart-at-new-balance-soccer-complex",
       "summary": "Maine will host Mercer at 7 p.m. on Thursday, Aug. 20.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/14/_PEV8569.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/14/_PEV8569.jpg",
       "published": "Mon, 17 Aug 2026 13:00:00 EST",
       "sport": "Women's Soccer",
       "source": "goblackbears"
@@ -41,7 +41,7 @@
       "title": "Bouchard Cleaning and Restoration new title sponsor of football tailgate lot",
       "url": "https://goblackbears.com/news/2026/8/17/general-bouchard-cleaning-and-restoration-new-title-sponsor-football-tailgate-lot",
       "summary": "ORONO, Maine \u2013 University of Maine Athletics and its multimedia rights holder, Van Wagner, today announced Bouchard Cleaning and Restoration as the new title sponsor of its football tailgate lot on gameday in Orono.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/17/Bouchard_2_1_.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/17/Bouchard_2_1_.jpg",
       "published": "Mon, 17 Aug 2026 06:39:00 EST",
       "sport": "General",
       "source": "goblackbears"
@@ -50,7 +50,7 @@
       "title": "Women\u2019s soccer announces 2026 promotional schedule",
       "url": "https://goblackbears.com/news/2026/8/13/womens-soccer-womens-soccer-announces-2026-promotional-schedule",
       "summary": "The Black Bears open up the home slate against Mercer at 7 p.m. Thursday, Aug. 20.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/15/789997711-dsc09673__1_.jpeg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/15/789997711-dsc09673__1_.jpeg",
       "published": "Thu, 13 Aug 2026 12:01:00 EST",
       "sport": "Women's Soccer",
       "source": "goblackbears"
@@ -59,43 +59,43 @@
       "title": "Maine falls at URI in season opener",
       "url": "https://goblackbears.com/news/2026/8/12/womens-soccer-maine-falls-at-uri-in-season-opener",
       "summary": "The Rams picked up a 1-0 win at the URI Soccer Complex.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/12/_PEV8758.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/12/_PEV8758.jpg",
       "published": "Wed, 12 Aug 2026 23:13:00 EST",
       "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Women's soccer kicks off 2026 season at URI on Wednesday",
-      "url": "https://goblackbears.com/news/2026/8/10/womens-soccer-preview-womens-soccer-kicks-off-2206-season-at-uri-on-thursday",
-      "summary": "The Black Bears and Rams kickoff at 7 p.m. at URI Soccer Complex.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/10/0H7A0771.jpg",
-      "published": "Mon, 10 Aug 2026 14:13:00 EST",
-      "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football Single Game Tickets are on Sale",
-      "url": "https://goblackbears.com/news/2026/8/11/football-single-game-tickets-are-on-sale",
-      "summary": "The University of Maine football program has gone on sale for single game tickets for the 2026 season.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/17/Homecoming_Alfond_Stadium-1.jpg",
-      "published": "Tue, 11 Aug 2026 10:00:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
       "title": "Kowalewski, Kuefler, Penty named America East Field Hockey Preseason All-Conference",
       "url": "https://goblackbears.com/news/2026/8/11/kowalewski-kuefler-penty-named-america-east-field-hockey-preseason-all-conference",
       "summary": "BOSTON -- Nicole Kowalewski, Saylor Kuefler, and Eloise Penty were named to the America East Field Hockey Preseason All-Conference Team on Tuesday. The Black Bears were picked to finish fourth in the preseason poll, as voted on by the coaches.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/21/Nicole-K-Action.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/21/Nicole-K-Action.png",
       "published": "Tue, 11 Aug 2026 10:37:00 EST",
       "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Football Single Game Tickets are on Sale",
+      "url": "https://goblackbears.com/news/2026/8/11/football-single-game-tickets-are-on-sale",
+      "summary": "The University of Maine football program has gone on sale for single game tickets for the 2026 season.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/17/Homecoming_Alfond_Stadium-1.jpg",
+      "published": "Tue, 11 Aug 2026 10:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: Women's soccer kicks off 2026 season at URI on Wednesday",
+      "url": "https://goblackbears.com/news/2026/8/10/womens-soccer-preview-womens-soccer-kicks-off-2206-season-at-uri-on-thursday",
+      "summary": "The Black Bears and Rams kickoff at 7 p.m. at URI Soccer Complex.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/10/0H7A0771.jpg",
+      "published": "Mon, 10 Aug 2026 14:13:00 EST",
+      "sport": "Women's Soccer",
       "source": "goblackbears"
     },
     {
       "title": "Maine Athletics to Celebrate 50th Anniversary of Alfond Arena in 2026-27 Season",
       "url": "https://goblackbears.com/news/2026/8/7/general-maine-athletics-to-celebrate-50th-anniversary-of-alfond-arena-throughout-2026-27-season",
       "summary": "One of college hockey's most iconic venues will be honored throughout the 2026-27 season with celebrations recognizing its history and legacy.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/5/Artboard_1.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/5/Artboard_1.png",
       "published": "Fri, 7 Aug 2026 10:30:00 EST",
       "sport": "General, Men's Ice Hockey, Women's Ice Hockey",
       "source": "goblackbears"
@@ -104,7 +104,7 @@
       "title": "Men\u2019s ice hockey single-game tickets on sale Aug. 25, priority purchase dates announced",
       "url": "https://goblackbears.com/news/2026/7/27/mens-ice-hockey-mens-ice-hockey-single-game-tickets-on-sale-aug-25-priority-purchase-dates-announced",
       "summary": "Single game tickets go on sale Aug. 25!",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/21/Untitled-1.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/21/Untitled-1.png",
       "published": "Mon, 27 Jul 2026 10:00:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
@@ -113,7 +113,7 @@
       "title": "Tickets for Maine Men's Hockey at Madison Square Garden On Sale at Noon!",
       "url": "https://goblackbears.com/news/2026/7/22/mens-ice-hockey-don-t-miss-the-black-bears-at-madison-square-garden-tickets-on-sale-wednesday",
       "summary": "Tickets go on sale at 10 a.m. at GoBlackBears.com/MIHTickets",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/21/Sully_Scholle_3_28_Cornell_1.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/21/Sully_Scholle_3_28_Cornell_1.jpg",
       "published": "Wed, 22 Jul 2026 06:45:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
@@ -122,7 +122,7 @@
       "title": "Men's Hockey to Face Cornell in Frozen Apple at Madison Square Garden on Nov. 28",
       "url": "https://goblackbears.com/news/2026/7/20/mens-ice-hockey-mens-hockey-to-face-cornell-in-frozen-apple-at-madison-square-garden-on-nov-28",
       "summary": "Maine and Cornell will clash in non-conference action at the World's Most Famous Arena.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/19/MIH_MSG.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/19/MIH_MSG.png",
       "published": "Mon, 20 Jul 2026 12:00:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
@@ -131,7 +131,7 @@
       "title": "Twenty-Three Black Bears named to Hockey East All-Academic Team",
       "url": "https://goblackbears.com/news/2026/7/6/mens-ice-hockey-twenty-three-black-bears-named-to-hockey-east-all-academic-team",
       "summary": "Thomas Freel and Jeremy Langlois were named to the Hockey East All-Academic All-Star Team.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/21/MIH_Huddle1.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/21/MIH_Huddle1.png",
       "published": "Mon, 6 Jul 2026 10:01:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
@@ -140,7 +140,7 @@
       "title": "Black Bears finalize 2026-27 roster additions",
       "url": "https://goblackbears.com/news/2026/7/2/mens-ice-hockey-black-bears-finalize-2026-27-roster-additions",
       "summary": "There are seven forwards, six defenseman and two goaltenders among the newcomers",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/28/RC0_7663.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/28/RC0_7663.jpg",
       "published": "Thu, 2 Jul 2026 10:00:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
@@ -149,7 +149,7 @@
       "title": "Six Black Bears named AHCA All-American Scholars",
       "url": "https://goblackbears.com/news/2026/6/29/mens-ice-hockey-six-black-bears-named-ahca-all-american-scholars",
       "summary": "Brandon Holt and Thomas Freel became four-time honorees.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/29/Untitled-1.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/29/Untitled-1.png",
       "published": "Mon, 29 Jun 2026 14:53:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
@@ -158,7 +158,7 @@
       "title": "Maine men's hockey unveils 2026-27 schedule",
       "url": "https://goblackbears.com/news/2026/6/26/mens-ice-hockey-maine-mens-hockey-unveils-2026-27-schedule",
       "summary": "The 2026-27 slate will feature 19 games at Alfond Arena.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/28/LindseyPellett-2667.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/28/LindseyPellett-2667.jpg",
       "published": "Fri, 26 Jun 2026 11:00:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
@@ -167,7 +167,7 @@
       "title": "Holt, Smith recipients of 2026 'M' Club Dean Smith Awards",
       "url": "https://goblackbears.com/news/2026/5/7/general-holt-smith-recipients-of-2026-m-club-dean-smith-awards",
       "summary": "ORONO, Maine \u2013 The University of Maine Athletic Department is proud to announce that Brandon Holt (men's ice hockey) and Adrianna Smith (women's basketball) are the recipients of the 2026 'M' Club Dean Smith awards.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/7/landscape.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/7/landscape.jpg",
       "published": "Thu, 7 May 2026 15:30:00 EST",
       "sport": "General, Men's Ice Hockey, Women's Basketball",
       "source": "goblackbears"
@@ -176,7 +176,7 @@
       "title": "Support the Black Bears on today's Maine Day of Giving!",
       "url": "https://goblackbears.com/news/2026/4/29/alfond-fund-support-the-black-bears-on-todays-maine-day-of-giving",
       "summary": "Maine Athletics thanks you in advance for your contributions to today's annual Maine Day of Giving!",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/MDOG-splash-2026-website.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/MDOG-splash-2026-website.png",
       "published": "Wed, 29 Apr 2026 00:00:00 EST",
       "sport": "Baseball, Field Hockey, Football, Men's Basketball, Men's Cross Country, Men's Ice Hockey, Men's Swimming and Diving, Men's Track and Field, Softball, Women's Basketball, Women's Cross Country, Women's Ice Hockey, Women's Soccer, Women's Swimming and Diving, Women's Track and Field, Alfond Fund",
       "source": "goblackbears"
@@ -185,7 +185,7 @@
       "title": "Adrianna Smith named America East 2025-26 Female Scholar-Athlete of the Year",
       "url": "https://goblackbears.com/news/2026/7/23/womens-basketball-adrianna-smith-named-america-east-2025-26-female-scholar-athlete-of-the-year",
       "summary": "ORONO, Maine -- After putting together one of the most dominant women's basketball seasons in league history, Adrianna Smith has been named the 2025-26 America East Female Scholar-Athlete of the Year, as announced by the league on Thursday afternoon.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/23/smith-dribble-new-website.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/23/smith-dribble-new-website.png",
       "published": "Thu, 23 Jul 2026 15:51:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
@@ -194,7 +194,7 @@
       "title": "Women's Basketball announces non-conference schedule",
       "url": "https://goblackbears.com/news/2026/7/22/womens-basketball-announces-non-conference-schedule",
       "summary": "ORONO, Maine -- The University of Maine women's basketball team announced its non-conference schedule on Wednesday. The Black Bears will host seven non-conference games, including one in Portland, Maine, and officially tip-off the 2026-27 season on Nov. 5 in Orono.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/30/streams-dribble-BU.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/30/streams-dribble-BU.png",
       "published": "Wed, 22 Jul 2026 12:06:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
@@ -203,7 +203,7 @@
       "title": "Women's Basketball tabbed 7th in WBCA Academic Top 25 Team Honor Roll",
       "url": "https://goblackbears.com/news/2026/7/21/womens-basketball-tabbed-7th-in-wbca-academic-top-25-team-honor-roll",
       "summary": "ORONO, Maine -- The University of Maine women's basketball team checked in seventh in the 2025-26 Women's Basketball Coaches Association Academic Top 25 Team Honor Rolls, as announced by the WBCA on Tuesday, July 21. The Black Bears finished seventh among NCAA Division I members with a 3.777 cumulative team grade point average.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/27/wbb-huddle-stonehill.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/27/wbb-huddle-stonehill.png",
       "published": "Tue, 21 Jul 2026 13:38:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
@@ -212,7 +212,7 @@
       "title": "Women's Basketball Season Tickets on Sale Now",
       "url": "https://goblackbears.com/news/2026/7/20/womens-basketball-season-tickets-on-sale-now",
       "summary": "ORONO, Maine \u2013 Season tickets for the 2026-27 women's basketball campaign are on sale now. Fans are encouraged to act fast to secure seats for the upcoming season as availability is limited.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/16/woods-albany-action.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/16/woods-albany-action.png",
       "published": "Mon, 20 Jul 2026 10:00:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
@@ -221,7 +221,7 @@
       "title": "WATCH: Morse Arena Summer Update - 2026",
       "url": "https://goblackbears.com/news/2026/7/13/mens-basketball-watch-morse-arena-summer-update-2026",
       "summary": "ORONO, Maine --\u00a0The future is taking shape! Every day brings new progress on Morse Arena and its neighboring lots, and we can't wait to welcome Black Bear Nation through the gates!",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/13/drone-summer-2026.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/13/drone-summer-2026.png",
       "published": "Mon, 13 Jul 2026 13:24:00 EST",
       "sport": "Football, Men's Basketball, Women's Basketball",
       "source": "goblackbears"
@@ -230,7 +230,7 @@
       "title": "Women's Basketball to take on Siena, Merrimack in Inaugural America East \u2013 Metro Challenge",
       "url": "https://goblackbears.com/news/2026/7/1/womens-basketball-to-take-on-siena-merrimack-in-inaugural-america-east-metro-challenge",
       "summary": "ORONO, Maine -- The America East Conference and Metro Conference announced the participating schools and the full schedule of games for the inaugural America East \u2013 Metro Basketball Challenge, set for the start of the 2026 women's basketball seasons.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/woods-dribble-ualbany.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/woods-dribble-ualbany.png",
       "published": "Wed, 1 Jul 2026 09:36:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
@@ -239,7 +239,7 @@
       "title": "Eight former Black Bears competing professionally overseas",
       "url": "https://goblackbears.com/news/2026/6/26/womens-basketball-eight-former-black-bears-competing-professionally-overseas",
       "summary": "ORONO, Maine -- Eight former members of the University of Maine women's basketball team are currently active at the professional level overseas.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2019/1/17/Koizar_NE_1.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2019/1/17/Koizar_NE_1.jpg",
       "published": "Fri, 26 Jun 2026 11:23:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
@@ -248,7 +248,7 @@
       "title": "Women's Basketball announces the addition of Taylor Schwab",
       "url": "https://goblackbears.com/news/2026/6/9/womens-basketball-announces-the-addition-of-taylor-schwab",
       "summary": "ORONO, Maine -- The University of Maine women's basketball team has announced the addition of Taylor Schwab. Schwab, a junior transfer, will be eligible to join the Black Bears for the 2026-27 season.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/9/schwab-action.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/9/schwab-action.png",
       "published": "Tue, 9 Jun 2026 16:40:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
@@ -257,7 +257,7 @@
       "title": "Smith nominated for America East Woman of the Year",
       "url": "https://goblackbears.com/news/2026/5/14/womens-basketball-smith-nominated-for-america-east-woman-of-the-year",
       "summary": "ORONO, Maine -- Adrianna Smith has been selected as Maine's nominee for the America East's Woman of the Year honor, as announced by the conference on Thursday afternoon.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/4/smith-dribbl-ebinghamton.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/4/smith-dribbl-ebinghamton.png",
       "published": "Thu, 14 May 2026 13:25:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
@@ -266,7 +266,7 @@
       "title": "Men's Basketball Announces their 2026-27 Non-Conference Schedule",
       "url": "https://goblackbears.com/news/2026/7/29/mens-basketball-announces-their-2026-27-non-conference-schedule",
       "summary": "The University of Maine men's basketball program has announced their 2026-27 non-conference schedule. The Black Bears will play 16 games, which includes six home games to all be played on Skip Chappelle Court at Memorial Gym.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/29/Maine_Men_s_Basketball_-_2026-27_Non-Conference_Schedule.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/29/Maine_Men_s_Basketball_-_2026-27_Non-Conference_Schedule.png",
       "published": "Wed, 29 Jul 2026 13:00:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
@@ -275,7 +275,7 @@
       "title": "Men's Basketball Season Tickets on Sale",
       "url": "https://goblackbears.com/news/2026/7/20/mens-basketball-season-tickets-on-sale",
       "summary": "Season tickets for the 2026-27 Maine men's basketball season are\u00a0on sale now.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/Ace_Flagg_1.24.26_vs_Binghamton_21_WRovH.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/Ace_Flagg_1.24.26_vs_Binghamton_21_WRovH.jpg",
       "published": "Mon, 20 Jul 2026 10:00:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
@@ -284,7 +284,7 @@
       "title": "Men's Basketball to take on Sacred Heart, Manhattan in Inaugural America East \u2013 Metro Challenge",
       "url": "https://goblackbears.com/news/2026/7/1/mens-basketball-to-take-on-sacred-heart-manhattan-in-inaugural-america-east-metro-challenge",
       "summary": "ORONO, Maine -- The America East Conference and Metro Conference announced the participating schools and the full schedule of games for the inaugural America East \u2013 Metro Basketball Challenge, set for the start of the 2026 men's basketball seasons.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/26/Ace_Flagg_1_3_26_vs_Bryant_3.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/26/Ace_Flagg_1_3_26_vs_Bryant_3.jpg",
       "published": "Wed, 1 Jul 2026 09:54:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
@@ -293,7 +293,7 @@
       "title": "Chris Mantis to Compete in NBA Summer League with the Minnesota Timberwolves",
       "url": "https://goblackbears.com/news/2026/7/1/mens-basketball-chris-mantis-to-compete-in-nba-summer-league-with-the-minnesota-timberwolves",
       "summary": "Former UMaine men's basketball player and current member of the Capital City Go-Go will be competing for a spot on an NBA roster this summer as he is set to join the Minnesota Timberwolves for the NBA Summer League.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/2/1/Chris_Mantis_11_04_Duke_12.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/2/1/Chris_Mantis_11_04_Duke_12.jpg",
       "published": "Wed, 1 Jul 2026 09:00:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
@@ -302,7 +302,7 @@
       "title": "Maine Athletics reveals Chappelle Court design, additional details for Morse Arena",
       "url": "https://goblackbears.com/news/2026/4/3/mens-basketball-maine-athletics-reveals-chappelle-court-design-additional-details-for-morse-arena",
       "summary": "ORONO, Maine \u2013 The University of Maine on Friday, April 3 announced additional plans for the interior design of Morse Arena, the new 106,000-square-foot basketball and football operations venue made possible by a $10 million gift from 1964 UMaine graduates Phillip and Susan Morse.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/2/Bowl_Seating_-_web.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/2/Bowl_Seating_-_web.png",
       "published": "Fri, 3 Apr 2026 08:42:00 EST",
       "sport": "Football, Men's Basketball, Women's Basketball",
       "source": "goblackbears"
@@ -311,7 +311,7 @@
       "title": "Men's Basketball has Season come to an end on Saturday in America East Quarterfinals",
       "url": "https://goblackbears.com/news/2026/3/7/mens-basketball-has-season-come-to-an-end-on-saturday-in-america-east-quarterfinals",
       "summary": "The University of Maine basketball team had their season come to an end as they fell to #3 NJIT, 60-58.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/7/KIP_5942.JPG",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/7/KIP_5942.JPG",
       "published": "Sat, 7 Mar 2026 18:33:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
@@ -320,7 +320,7 @@
       "title": "Preview: Black Bears Head to NJIT for America East Quarterfinals",
       "url": "https://goblackbears.com/news/2026/3/6/mens-basketball-preview-black-bears-head-to-njit-for-america-east-quarterfinals",
       "summary": "The University of Maine men's basketball team begins their America East Playoffs on Saturday, March 7 at NJIT.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/Mekhi_Gray_3.3.26_vs_UMass_Lowell_5.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/Mekhi_Gray_3.3.26_vs_UMass_Lowell_5.jpg",
       "published": "Fri, 6 Mar 2026 14:00:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
@@ -329,7 +329,7 @@
       "title": "Annual Meet the Bears Event Set for Aug. 16",
       "url": "https://goblackbears.com/news/2026/8/6/football-annual-meet-the-bears-event-set-for-aug-16",
       "summary": "The University of Maine football team's annual Meet the Bears night, presented by the Maine Dairy and Nutrition Council, returns on Sunday, Aug. 16\u00a0on Morse Field at Alfond Stadium at 5:30 p.m.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/24/029A6260.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/24/029A6260.jpg",
       "published": "Thu, 6 Aug 2026 14:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
@@ -338,7 +338,7 @@
       "title": "Iliano and Tremblay Named Phil Steele Preseason All-Americans",
       "url": "https://goblackbears.com/news/2026/8/3/football-iliano-and-tremblay-named-phil-steele-preseason-all-americans",
       "summary": "It was announced on Monday that both Anthony Iliano and Samuel Tremblay of the University of Maine football program were named Phil Steele Preseason All-Americans. Iliano was named to the Third-Team for the second time this preseason (first by FCS Stats Perform) while Tremblay was named to the Fourth-Team for the first time in his career.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/3/Tremblay_Iliano.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/3/Tremblay_Iliano.png",
       "published": "Mon, 3 Aug 2026 11:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
@@ -347,7 +347,7 @@
       "title": "Football Announces Camp Schedule for 2026",
       "url": "https://goblackbears.com/news/2026/7/24/football-announces-camp-schedule-for-2026",
       "summary": "The University of Maine football program has announced their camp schedule for the 2026 season.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/24/029A6260.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/24/029A6260.jpg",
       "published": "Fri, 24 Jul 2026 14:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
@@ -356,7 +356,7 @@
       "title": "43 Black Bears Named to CAA Spring Commissioner's Honor Roll",
       "url": "https://goblackbears.com/news/2026/7/24/football-43-black-bears-named-to-caa-spring-commissioners-honor-roll",
       "summary": "The CAA announced on Friday morning their 2026 Spring Commissioner's Honor Roll, where the Black Bears were represented by 43 student-athletes.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2016/5/4/alfond_stadium_web.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2016/5/4/alfond_stadium_web.jpg",
       "published": "Fri, 24 Jul 2026 09:30:00 EST",
       "sport": "Football",
       "source": "goblackbears"
@@ -365,7 +365,7 @@
       "title": "Watch: CAA Football Media Day",
       "url": "https://goblackbears.com/news/2026/7/22/watch-caa-football-media-day",
       "summary": "CAA Football Media Day - Jordan Stevens, Brayden Isaiah and Anthony Iliano",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/17/Jordan_Stevens_11_15_vs_Rhode_Island_3_b6b66.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/17/Jordan_Stevens_11_15_vs_Rhode_Island_3_b6b66.jpg",
       "published": "Wed, 22 Jul 2026 14:49:00 EST",
       "sport": "Football",
       "source": "goblackbears"
@@ -374,7 +374,7 @@
       "title": "Four Black Bears Named to Preseason All-CAA Team",
       "url": "https://goblackbears.com/news/2026/7/22/football-four-black-bears-named-to-preseason-all-caa-team",
       "summary": "The CAA announced their Preseason All-Conference teams on Wednesday morning prior to the CAA Media Day. The University of Maine was represented by four student-athletes, two on offense and two on defense, along with three honorable mentions on the team.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/22/Artboard_1.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/22/Artboard_1.png",
       "published": "Wed, 22 Jul 2026 09:30:00 EST",
       "sport": "Football",
       "source": "goblackbears"
@@ -383,7 +383,7 @@
       "title": "Football Presale for Single Game Tickets is set to begin on July 28",
       "url": "https://goblackbears.com/news/2026/7/21/football-presale-for-single-game-tickets-is-set-to-begin-on-july-28",
       "summary": "The University of Maine football program has gone on presale for single game tickets for the 2026 season. The presale will last until Monday, Aug. 10 before single game tickets go on sale to the public beginning on Tuesday, Aug. 11.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2021/5/27/stadium_lights.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2021/5/27/stadium_lights.jpg",
       "published": "Tue, 21 Jul 2026 13:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
@@ -392,7 +392,7 @@
       "title": "Iliano Named a Nominee for the Allstate Good Works Team",
       "url": "https://goblackbears.com/news/2026/7/20/football-iliano-named-a-nominee-for-the-all-state-good-works-team",
       "summary": "Anthony Iliano of the University of Maine football program was named a Nominee for the All State Good Works Team on Monday, July 20.",
-      "image": "https://admin.goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/20/Anthony_Iliano_11_9_Bryant_1.jpg",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/20/Anthony_Iliano_11_9_Bryant_1.jpg",
       "published": "Mon, 20 Jul 2026 12:40:00 EST",
       "sport": "Football",
       "source": "goblackbears"
@@ -924,6 +924,16 @@
       "image": "",
       "published": "Sat, 15 Nov 2025 21:15:33 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine women\u2019s soccer playing home opener against Mercer on Thursday",
+      "url": "https://www.bangordailynews.com/2026/08/20/sports/college-soccer/umaine-womens-soccer-home-opener-against-mercer-joam40zk0w/",
+      "summary": "The defending three-time America East champion Black Bears open a three-game homestand Thursday against Mercer University in Orono.",
+      "image": "",
+      "published": "Thu, 20 Aug 2026 05:00:00 +0000",
+      "sport": "College Soccer",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
