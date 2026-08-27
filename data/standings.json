@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T12:24:13.775833+00:00",
+  "last_updated": "2026-08-27T21:26:20.791524+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -914,9 +914,9 @@
           "school": "UMBC",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "3-0-1",
+          "overall": "3-1-1",
           "pct": ".000",
-          "streak": "T1",
+          "streak": "L1",
           "is_umaine": false
         },
         {
