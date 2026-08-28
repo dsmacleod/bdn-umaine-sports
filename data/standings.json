@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T13:52:13.822210+00:00",
+  "last_updated": "2026-08-28T21:35:00.123701+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -842,39 +842,21 @@
       "notes": "",
       "teams": [
         {
-          "school": "Bryant",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "0-0",
-          "pct": ".000",
-          "streak": "",
-          "is_umaine": false
-        },
-        {
-          "school": "Maine",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "0-0",
-          "pct": ".000",
-          "streak": "",
-          "is_umaine": true
-        },
-        {
-          "school": "New Hampshire",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "0-0",
-          "pct": ".000",
-          "streak": "",
-          "is_umaine": false
-        },
-        {
           "school": "UAlbany",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "0-0",
+          "overall": "1-0",
           "pct": ".000",
-          "streak": "",
+          "streak": "W1",
+          "is_umaine": false
+        },
+        {
+          "school": "Vermont",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "1-0",
+          "pct": ".000",
+          "streak": "W1",
           "is_umaine": false
         },
         {
@@ -887,12 +869,30 @@
           "is_umaine": false
         },
         {
-          "school": "Vermont",
+          "school": "Bryant",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "0-0",
+          "overall": "0-1",
           "pct": ".000",
-          "streak": "",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-1",
+          "pct": ".000",
+          "streak": "L1",
+          "is_umaine": true
+        },
+        {
+          "school": "New Hampshire",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-1",
+          "pct": ".000",
+          "streak": "L1",
           "is_umaine": false
         }
       ]

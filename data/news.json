@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-28T13:52:13.822210+00:00",
+  "last_updated": "2026-08-28T21:35:00.123701+00:00",
   "articles": [
+    {
+      "title": "Field Hockey drops season opener to No. 8 Liberty",
+      "url": "https://goblackbears.com/news/2026/8/28/field-hockey-drops-season-opener-to-no-8-liberty",
+      "summary": "Orono, Maine -- The University of Maine field hockey team dropped its season opener by a final of 5-0 to No. 8 Liberty on Friday afternoon at the UMaine Field Hockey Complex.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/8/26/Saylor_Kuefler_-website.png",
+      "published": "Fri, 28 Aug 2026 14:22:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Football takes opening night victory at Towson in CAA action",
       "url": "https://goblackbears.com/news/2026/8/27/football-takes-opening-night-victory-at-towson-in-caa-action",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/23/IMG_2798.jpeg",
       "published": "Sun, 23 Aug 2026 14:35:00 EST",
       "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "From the NFL to philosophy: Mike DeVito tackles life\u2019s toughest questions at UMaine",
-      "url": "https://goblackbears.com/news/2026/8/21/football-from-the-nfl-to-philosophy-mike-devito-tackles-lifes-toughest-questions-at-umaine",
-      "summary": "ORONO, Maine -- Mike DeVito waited until the second-down play was over, dropped to the turf at Lucas Oil Stadium and grabbed his leg.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/21/081326_AK_DSC04370-e1787317409179.jpg",
-      "published": "Fri, 21 Aug 2026 14:57:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -341,6 +341,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/Mekhi_Gray_3.3.26_vs_UMass_Lowell_5.jpg",
       "published": "Fri, 6 Mar 2026 14:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "From the NFL to philosophy: Mike DeVito tackles life\u2019s toughest questions at UMaine",
+      "url": "https://goblackbears.com/news/2026/8/21/football-from-the-nfl-to-philosophy-mike-devito-tackles-lifes-toughest-questions-at-umaine",
+      "summary": "ORONO, Maine -- Mike DeVito waited until the second-down play was over, dropped to the turf at Lucas Oil Stadium and grabbed his leg.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/21/081326_AK_DSC04370-e1787317409179.jpg",
+      "published": "Fri, 21 Aug 2026 14:57:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
