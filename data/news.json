@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-02T15:37:02.483038+00:00",
+  "last_updated": "2026-09-03T06:55:26.248942+00:00",
   "articles": [
+    {
+      "title": "Football to host annual 'Cub Club Day' on Sept. 12",
+      "url": "https://goblackbears.com/news/2026/9/2/football-to-host-annual-cub-club-day-on-sept-12",
+      "summary": "Orono, Maine -- Calling all Bananas Cub Club members!",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/0C695F53-3CA3-4395-8125-9FF6F01C50B3.jpg",
+      "published": "Wed, 2 Sep 2026 22:46:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's Cross Country ranked #13 in USTFCCCA preseason poll",
+      "url": "https://goblackbears.com/news/2026/9/2/womens-cross-country-ranked-13-in-ustfccca-preseason-poll",
+      "summary": "The University of Maine women's cross country program was ranked No. 13 in the United States Track and Field and Cross Country Coaches Association's preseason poll for the Northeast region.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/31/womens-cross-country-champions.png",
+      "published": "Wed, 2 Sep 2026 12:10:00 EST",
+      "sport": "Women's Cross Country",
+      "source": "goblackbears"
+    },
     {
       "title": "Maine Athletics partners with WVII ABC 7, WFVX FOX 22 to air field hockey, women's soccer",
       "url": "https://goblackbears.com/news/2026/9/1/field-hockey-maine-athletics-partners-with-wvii-abc-7-wfvx-fox-22-to-air-field-hockey-womens-soccer",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2024/9/22/562A0268.jpg",
       "published": "Sun, 30 Aug 2026 13:52:00 EST",
       "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Field Hockey drops season opener to No. 8 Liberty",
-      "url": "https://goblackbears.com/news/2026/8/28/field-hockey-drops-season-opener-to-no-8-liberty",
-      "summary": "Orono, Maine -- The University of Maine field hockey team dropped its season opener by a final of 5-0 to No. 8 Liberty on Friday afternoon at the UMaine Field Hockey Complex.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/8/26/Saylor_Kuefler_-website.png",
-      "published": "Fri, 28 Aug 2026 14:22:00 EST",
-      "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football takes opening night victory at Towson in CAA action",
-      "url": "https://goblackbears.com/news/2026/8/27/football-takes-opening-night-victory-at-towson-in-caa-action",
-      "summary": "The University of Maine football program took down Towson on the opening night of the college football season, 21-18.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/27/DSC00077.jpg",
-      "published": "Thu, 27 Aug 2026 22:02:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -344,6 +344,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "Football takes opening night victory at Towson in CAA action",
+      "url": "https://goblackbears.com/news/2026/8/27/football-takes-opening-night-victory-at-towson-in-caa-action",
+      "summary": "The University of Maine football program took down Towson on the opening night of the college football season, 21-18.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/27/DSC00077.jpg",
+      "published": "Thu, 27 Aug 2026 22:02:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
       "title": "PREVIEW: Football opens up 2026 season at Towson on Thursday night",
       "url": "https://goblackbears.com/news/2026/8/25/preview-football-opens-up-2026-season-at-towson-on-thursday-night",
       "summary": "The University of Maine football program is set to begin the 2026 season on Thursday night as they travel to Towson for a CAA matchup.",
@@ -394,15 +403,6 @@
       "summary": "It was announced on Monday that both Anthony Iliano and Samuel Tremblay of the University of Maine football program were named Phil Steele Preseason All-Americans. Iliano was named to the Third-Team for the second time this preseason (first by FCS Stats Perform) while Tremblay was named to the Fourth-Team for the first time in his career.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/3/Tremblay_Iliano.png",
       "published": "Mon, 3 Aug 2026 11:00:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football Announces Camp Schedule for 2026",
-      "url": "https://goblackbears.com/news/2026/7/24/football-announces-camp-schedule-for-2026",
-      "summary": "The University of Maine football program has announced their camp schedule for the 2026 season.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/24/029A6260.jpg",
-      "published": "Fri, 24 Jul 2026 14:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
     },
@@ -937,6 +937,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "Former UMaine standout Zavier Scott signs with Chicago Bears",
+      "url": "https://www.bangordailynews.com/2026/09/02/sports/professional-football/zavier-scott-signs-with-chicago-bears/",
+      "summary": "The 27-year-old former Black Bears' running back-wide receiver played for the Minnesota Vikings last season but was waived by the team earlier this week.",
+      "image": "",
+      "published": "Wed, 02 Sep 2026 20:33:36 +0000",
+      "sport": "Professional Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "Former UMaine quarterback Joe Fagnano earns NFL job with Ravens",
       "url": "https://www.bangordailynews.com/2026/08/31/sports/professional-football/joe-fagnano-baltimore-ravens/",
       "summary": "Fagnano, an undrafted free agent, capped an outstanding preseason by completing 19 of 27 passes for 162 yards in a 41-3 win over the Washington Commanders.",
@@ -983,26 +993,6 @@
       "image": "",
       "published": "Thu, 20 Aug 2026 05:00:00 +0000",
       "sport": "College Soccer",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Pictures: Cooper and Ace Flagg host basketball camp for hundreds of Maine kids",
-      "url": "https://www.bangordailynews.com/2026/08/16/sports/professional-basketball/flagg-brothers-maine-basketball-camp/",
-      "summary": "NBA star Cooper Flagg returned to Maine this weekend with his twin brother Ace for their third annual Flagg Brothers Basketball ProCamp, working with hundreds of young players ages 6 to 13 at the New Balance Fieldhouse and Memorial Gym on the University of Maine campus in Orono. Cooper, the Dallas Mavericks&#8217; 2026 NBA Rookie [&#8230;]",
-      "image": "",
-      "published": "Sun, 16 Aug 2026 14:51:31 +0000",
-      "sport": "Professional Basketball",
-      "source": "bdn",
-      "author": "Wendy Watkins"
-    },
-    {
-      "title": "Flagg twins give back to Maine\u2019s youngsters through basketball camp\u00a0in Orono",
-      "url": "https://www.bangordailynews.com/2026/08/15/sports/professional-sports/flagg-twins-give-back-to-maines-youngsters-through-basketball-camp-in-orono/",
-      "summary": "\u201cWe want them to soak it all in,\" Cooper Flagg said. \"When I was young, I didn\u2019t have a chance to have this kind of experience or exposure to players like this.\"",
-      "image": "",
-      "published": "Sun, 16 Aug 2026 02:18:26 +0000",
-      "sport": "Professional Sports",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
