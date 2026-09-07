@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-09-06T14:37:02.202230+00:00",
+  "last_updated": "2026-09-07T07:03:52.371010+00:00",
   "articles": [
+    {
+      "title": "Stanford\u2019s OT winner lifts Maine to 1-0 victory",
+      "url": "https://goblackbears.com/news/2026/9/6/field-hockey-stanfords-ot-winner-lifts-maine-to-1-0-victory",
+      "summary": "The University of Maine field hockey team defeated the Davidson Wildcats, 1-0 in overtime, on Sunday at the UMaine Field Hockey Complex.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/6/LindseyPellett-6992.jpg",
+      "published": "Sun, 6 Sep 2026 13:03:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Football falls at App State on Saturday afternoon",
       "url": "https://goblackbears.com/news/2026/9/5/football-falls-at-app-state-on-saturday-afternoon",
@@ -79,15 +88,6 @@
       "summary": "The University of Maine football program heads to App State on Saturday, Sept. 5 for their first matchup against an FBS opponent in 2026.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/DSC00028.jpg",
       "published": "Thu, 3 Sep 2026 15:30:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football to host annual 'Cub Club Day' on Sept. 12",
-      "url": "https://goblackbears.com/news/2026/9/2/football-to-host-annual-cub-club-day-on-sept-12",
-      "summary": "Orono, Maine -- Calling all Bananas Cub Club members!",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2016/11/2/untitled_128.JPG",
-      "published": "Wed, 2 Sep 2026 22:46:00 EST",
       "sport": "Football",
       "source": "goblackbears"
     },
@@ -344,6 +344,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "Football to host annual 'Cub Club Day' on Sept. 12",
+      "url": "https://goblackbears.com/news/2026/9/2/football-to-host-annual-cub-club-day-on-sept-12",
+      "summary": "Orono, Maine -- Calling all Bananas Cub Club members!",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2016/11/2/untitled_128.JPG",
+      "published": "Wed, 2 Sep 2026 22:46:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
       "title": "WATCH: Week one CAA media call with Coach Stevens",
       "url": "https://goblackbears.com/news/2026/8/31/football-watch-week-one-caa-media-call-with-coach-stevens",
       "summary": "CAA week one media call with Coach Stevens.",
@@ -387,6 +396,16 @@
       "published": "Mon, 24 Aug 2026 23:17:00 EST",
       "sport": "Football",
       "source": "goblackbears"
+    },
+    {
+      "title": "Fowler named UMaine hockey captain",
+      "url": "https://www.bangordailynews.com/2026/09/06/sports/college-ice-hockey/owen-fowler-umaine-hockey-captain/",
+      "summary": "Graduate student left wing Owen Fowler was named UMaine's men\u2019s hockey captain, with senior centers Sully Scholle and Max Scott as assistants.",
+      "image": "",
+      "published": "Sun, 06 Sep 2026 18:19:55 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "New UMaine women\u2019s hockey coach has high expectations for the program",
@@ -574,16 +593,6 @@
       "summary": "The 22-year-old said he felt it was time to \u201cmove up to the next level\u201d after three years in Orono.",
       "image": "",
       "published": "Thu, 26 Mar 2026 16:30:09 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "After disappointing year for UMaine hockey, Albin Boija is coming back with a mission",
-      "url": "https://www.bangordailynews.com/2026/03/24/sports/college-ice-hockey/albin-boija-umaine-return/",
-      "summary": "Boija, who will be a senior, lost his job to freshman Mathis Rousseau at the end of this past season.",
-      "image": "",
-      "published": "Tue, 24 Mar 2026 05:00:00 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
@@ -965,16 +974,6 @@
       "image": "",
       "published": "Fri, 28 Aug 2026 05:00:00 +0000",
       "sport": "College Field Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Former UMaine football teammates face each other in NFL preseason game",
-      "url": "https://www.bangordailynews.com/2026/08/24/sports/professional-football/former-umaine-teammates-nfl-preseason-game/",
-      "summary": "Joe Fagnano\u2019s Baltimore Ravens beat Zavier Scott\u2019s Minnesota Vikings 13-3 at U.S. Bank Stadium in Minneapolis.",
-      "image": "",
-      "published": "Mon, 24 Aug 2026 21:18:34 +0000",
-      "sport": "Professional Football",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
