@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T07:03:49.936327+00:00",
+  "last_updated": "2026-09-10T15:29:09.521522+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -530,6 +530,93 @@
             "gf": 0,
             "ga": 0
           },
+          "is_umaine": false
+        }
+      ]
+    },
+    "mbball": {
+      "title": "2026-27 Men's Basketball Standings",
+      "notes": "",
+      "teams": [
+        {
+          "school": "Binghamton",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": false
+        },
+        {
+          "school": "Bryant",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": true
+        },
+        {
+          "school": "New Hampshire",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": false
+        },
+        {
+          "school": "NJIT",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": false
+        },
+        {
+          "school": "UAlbany",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": false
+        },
+        {
+          "school": "UMBC",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
+          "is_umaine": false
+        },
+        {
+          "school": "Vermont",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "0-0",
+          "pct": ".000",
+          "streak": "",
           "is_umaine": false
         }
       ]
