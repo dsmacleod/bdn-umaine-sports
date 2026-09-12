@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-11T15:31:00.578662+00:00",
+  "last_updated": "2026-09-12T06:55:54.456912+00:00",
   "articles": [
+    {
+      "title": "Maine Athletics to honor longtime employee, Hall of Famer Ann England-Maxim on Saturday",
+      "url": "https://goblackbears.com/news/2026/9/11/general-maine-athletics-to-recognized-longtime-employee-hall-of-famer-ann-maxim-on-saturday",
+      "summary": "Orono, Maine -- Maine Athletics is proud to celebrate the career of longtime UMaine employee, and University of Maine Sports Hall of Famer, Ann England-Maxim ('84) as part of Saturday's football game as the Black Bears square off against Merrimack at 5 p.m.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/11/maxim-web.png",
+      "published": "Fri, 11 Sep 2026 16:16:00 EST",
+      "sport": "General",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Field Hockey falls to Boston College",
+      "url": "https://goblackbears.com/news/2026/9/11/field-hockey-falls-to-boston-college",
+      "summary": "The University of Maine field hockey program fell to Boston College on Friday afternoon by a score of 5-0.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/11/ZZZ09850-413.jpg",
+      "published": "Fri, 11 Sep 2026 14:15:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Preview: Black Bears host Merrimack in home opener for Football",
       "url": "https://goblackbears.com/news/2026/9/11/preview-black-bears-host-merrimack-in-home-opener-for-football",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/8/562A9333.jpg",
       "published": "Tue, 8 Sep 2026 11:00:00 EST",
       "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Women's soccer closes out non-conference play at Providence, Holy Cross",
-      "url": "https://goblackbears.com/news/2026/9/7/womens-soccer-preview-womens-soccer-closes-out-non-conference-play-at-providence-holy-cross",
-      "summary": "The women's soccer team will close out non-conference play with a pair of road games this week, traveling to face Providence and Holy Cross.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/25/562A8800.jpg",
-      "published": "Mon, 7 Sep 2026 14:23:00 EST",
-      "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Spectacular drone light show returns to campus following Football on Sept. 12",
-      "url": "https://goblackbears.com/news/2026/9/7/spectacular-drone-light-show-returns-to-campus-following-football-on-sept-12",
-      "summary": "Orono, Maine -- After providing breathtaking drone lights shows during last year's Homecoming festivities, Grizzly Entertainment Drone Light Shows will return to light up the sky this Saturday, Sept. 12, following Maine's home opener football game against Merrimack which is slated to begin at 5 p.m.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/17/First_Practice_on_New_Turf_-_maine_logo-web.png",
-      "published": "Mon, 7 Sep 2026 11:59:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -350,6 +350,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/Mekhi_Gray_3.3.26_vs_UMass_Lowell_5.jpg",
       "published": "Fri, 6 Mar 2026 14:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Spectacular drone light show returns to campus following Football on Sept. 12",
+      "url": "https://goblackbears.com/news/2026/9/7/spectacular-drone-light-show-returns-to-campus-following-football-on-sept-12",
+      "summary": "Orono, Maine -- After providing breathtaking drone lights shows during last year's Homecoming festivities, Grizzly Entertainment Drone Light Shows will return to light up the sky this Saturday, Sept. 12, following Maine's home opener football game against Merrimack which is slated to begin at 5 p.m.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/17/First_Practice_on_New_Turf_-_maine_logo-web.png",
+      "published": "Mon, 7 Sep 2026 11:59:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -747,6 +756,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "UMaine football seeking rare win in home opener Saturday night",
+      "url": "https://www.bangordailynews.com/2026/09/12/sports/college-football/umaine-football-home-opener-saturday-joam40zk0w/",
+      "summary": "The Black Bears lost four of their last five home openers, including to heavy underdog Stonehill a year ago.",
+      "image": "",
+      "published": "Sat, 12 Sep 2026 05:00:00 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine football linebacker tied for solo tackle lead in FCS",
       "url": "https://www.bangordailynews.com/2026/09/11/sports/college-football/sam-oppenheimer-umaine-football-fcs-joam40zk0w/",
       "summary": "Sam Oppenheimer earned a starting berth this season, and, through the first two games, he is making the most of the opportunity.",
@@ -927,16 +946,6 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine football coach Jordan Stevens among those named to school\u2019s All Quarter-Century team",
-      "url": "https://www.bangordailynews.com/2026/04/10/sports/college-football/umaine-football-coach-jordan-stevens-all-quarter-century-team-joam40zk0w/",
-      "summary": "The players will be honored at the annual UMaine football alumni dinner in Brighton, Massachusetts, on June 27.",
-      "image": "",
-      "published": "Fri, 10 Apr 2026 05:00:00 +0000",
-      "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "Fox 22 and ABC 7 to televise UMaine field hockey and soccer games for 1st time",
       "url": "https://www.bangordailynews.com/2026/09/04/sports/college-field-hockey/fox-22-abc-7-televise-umaine-field-hockey-and-soccer/",
       "summary": "Four Black Bears field hockey games and one women\u2019s soccer game will be broadcast on the sister stations.",
@@ -963,16 +972,6 @@
       "image": "",
       "published": "Mon, 31 Aug 2026 20:59:10 +0000",
       "sport": "Professional Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine field hockey opens season at home against 2 nationally ranked teams",
-      "url": "https://www.bangordailynews.com/2026/08/28/sports/college-field-hockey/umaine-field-hockey-opening-at-home-2-nationally-ranked-teams-joam40zk0w/",
-      "summary": "A pair of nationally ranked teams will invade the University of Maine Field Hockey Complex this weekend as the Black Bears open their season against No. 8 Liberty University on Friday and No. 15 UMass on Sunday. Both games begin at noon. Liberty and UMass will square off at noon Saturday. Liberty is the defending [&#8230;]",
-      "image": "",
-      "published": "Fri, 28 Aug 2026 05:00:00 +0000",
-      "sport": "College Field Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
