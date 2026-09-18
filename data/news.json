@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-09-18T07:07:30.625127+00:00",
+  "last_updated": "2026-09-18T15:26:42.796415+00:00",
   "articles": [
+    {
+      "title": "Women's hockey adds Taylor Leech to coaching staff",
+      "url": "https://goblackbears.com/news/2026/9/18/womens-ice-hockey-womens-hockey-adds-taylor-leech-to-coaching-staff",
+      "summary": "The University of Maine women's ice hockey program announced the addition of Taylor Leech to Alex Gettens' coaching staff as an assistant coach, as announced on Thursday.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/17/IMG_3544-2.jpg",
+      "published": "Fri, 18 Sep 2026 09:00:00 EST",
+      "sport": "Women's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Football heads to Boston College for Saturday matchup",
       "url": "https://goblackbears.com/news/2026/9/17/football-heads-to-boston-college-for-saturday-matchup",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/13/0H7A1229.jpg",
       "published": "Sun, 13 Sep 2026 16:44:00 EST",
       "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football falls in home opener against Merrimack",
-      "url": "https://goblackbears.com/news/2026/9/12/football-falls-in-home-opener-against-merrimack",
-      "summary": "The University of Maine football program fell to Merrimack in their home opener on Saturday night.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/12/DSC02248.jpeg",
-      "published": "Sat, 12 Sep 2026 20:43:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -350,6 +350,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/Mekhi_Gray_3.3.26_vs_UMass_Lowell_5.jpg",
       "published": "Fri, 6 Mar 2026 14:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Football falls in home opener against Merrimack",
+      "url": "https://goblackbears.com/news/2026/9/12/football-falls-in-home-opener-against-merrimack",
+      "summary": "The University of Maine football program fell to Merrimack in their home opener on Saturday night.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/12/DSC02248.jpeg",
+      "published": "Sat, 12 Sep 2026 20:43:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
