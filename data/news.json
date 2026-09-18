@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-09-17T15:52:53.300662+00:00",
+  "last_updated": "2026-09-18T07:07:30.625127+00:00",
   "articles": [
+    {
+      "title": "Football heads to Boston College for Saturday matchup",
+      "url": "https://goblackbears.com/news/2026/9/17/football-heads-to-boston-college-for-saturday-matchup",
+      "summary": "The University of Maine football program heads to Boston College on Saturday, Sept. 19.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/16/562A3666.jpg",
+      "published": "Thu, 17 Sep 2026 14:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Cross Country to compete in Maine State Meet",
       "url": "https://goblackbears.com/news/2026/9/15/mens-cross-country-preview-cross-country-to-compete-in-maine-state-meet",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/12/DSC02248.jpeg",
       "published": "Sat, 12 Sep 2026 20:43:00 EST",
       "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Maine Athletics to honor longtime employee, Hall of Famer Ann England-Maxim on Saturday",
-      "url": "https://goblackbears.com/news/2026/9/11/general-maine-athletics-to-recognized-longtime-employee-hall-of-famer-ann-maxim-on-saturday",
-      "summary": "Orono, Maine -- Maine Athletics is proud to celebrate the career of longtime UMaine employee, and University of Maine Sports Hall of Famer, Ann England-Maxim ('84) as part of Saturday's football game as the Black Bears square off against Merrimack at 5 p.m.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/11/maxim-web.png",
-      "published": "Fri, 11 Sep 2026 16:16:00 EST",
-      "sport": "General",
       "source": "goblackbears"
     },
     {
@@ -425,13 +425,14 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Football heads to App State for first FBS matchup of the season",
-      "url": "https://goblackbears.com/news/2026/9/3/football-heads-to-app-state-for-first-fbs-matchup-of-the-season",
-      "summary": "The University of Maine football program heads to App State on Saturday, Sept. 5 for their first matchup against an FBS opponent in 2026.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/DSC00028.jpg",
-      "published": "Thu, 3 Sep 2026 15:30:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
+      "title": "UMaine men\u2019s hockey picked 7th in Hockey East preseason coaches poll",
+      "url": "https://www.bangordailynews.com/2026/09/17/sports/college-ice-hockey/umaine-hockey-east-preseason-coaches-poll/",
+      "summary": "The women\u2019s team, under first-year head coach Alex Gettens, was chosen to finish eighth in the 10-team league.",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 19:01:49 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "Fowler named UMaine hockey captain",
@@ -619,16 +620,6 @@
       "summary": "Frank Djurasevic has signed a contract with the American Hockey League\u2019s Toronto Marlies, and is the second UMaine player to sign a professional contract.",
       "image": "",
       "published": "Fri, 27 Mar 2026 21:09:03 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Why Josh Nadeau made a \u2018tough decision\u2019 to leave UMaine hockey for the AHL",
-      "url": "https://www.bangordailynews.com/2026/03/26/sports/college-ice-hockey/umaine-hockey-josh-nadeau-ahl-departure/",
-      "summary": "The 22-year-old said he felt it was time to \u201cmove up to the next level\u201d after three years in Orono.",
-      "image": "",
-      "published": "Thu, 26 Mar 2026 16:30:09 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
@@ -960,16 +951,6 @@
       "image": "",
       "published": "Sun, 13 Sep 2026 00:55:03 +0000",
       "sport": "Sports",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Fox 22 and ABC 7 to televise UMaine field hockey and soccer games for 1st time",
-      "url": "https://www.bangordailynews.com/2026/09/04/sports/college-field-hockey/fox-22-abc-7-televise-umaine-field-hockey-and-soccer/",
-      "summary": "Four Black Bears field hockey games and one women\u2019s soccer game will be broadcast on the sister stations.",
-      "image": "",
-      "published": "Fri, 04 Sep 2026 18:05:24 +0000",
-      "sport": "College Field Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
