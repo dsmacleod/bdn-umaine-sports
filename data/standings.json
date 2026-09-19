@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T15:26:42.796415+00:00",
+  "last_updated": "2026-09-19T07:05:21.632348+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -851,21 +851,12 @@
           "is_umaine": false
         },
         {
-          "school": "UAlbany",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "3-2",
-          "pct": ".000",
-          "streak": "L2",
-          "is_umaine": false
-        },
-        {
           "school": "Bryant",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "3-3",
+          "overall": "4-3",
           "pct": ".000",
-          "streak": "L1",
+          "streak": "W1",
           "is_umaine": false
         },
         {
@@ -876,6 +867,15 @@
           "pct": ".000",
           "streak": "W1",
           "is_umaine": true
+        },
+        {
+          "school": "UAlbany",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "3-3",
+          "pct": ".000",
+          "streak": "L3",
+          "is_umaine": false
         },
         {
           "school": "UMass Lowell",
