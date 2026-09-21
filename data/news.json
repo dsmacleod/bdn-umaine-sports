@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-20T15:05:31.076829+00:00",
+  "last_updated": "2026-09-21T07:41:28.703481+00:00",
   "articles": [
+    {
+      "title": "Kowalewski scores as Maine shuts out Dartmouth, 1-0",
+      "url": "https://goblackbears.com/news/2026/9/20/field-hockey-kowalewski-scores-as-maine-shuts-out-dartmouth-1-0",
+      "summary": "The University of Maine field hockey program defeated Dartmouth at the UMaine Field Hockey Complex by a score of 1-0 on Sunday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/20/DSC09779.jpg",
+      "published": "Sun, 20 Sep 2026 15:54:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Black Bears earn shutout victory over Great Danes in America East opener",
+      "url": "https://goblackbears.com/news/2026/9/20/womens-soccer-black-bears-earn-shutout-victory-over-great-danes-in-america-east-opener",
+      "summary": "Elena Barenberg made five saves for the shutout in the 2-0 win.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/20/562A4423.jpg",
+      "published": "Sun, 20 Sep 2026 15:34:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
     {
       "title": "Ross finishes top five, Maine competes in Maine State Meet",
       "url": "https://goblackbears.com/news/2026/9/19/mens-cross-country-ross-finishes-top-five-maine-competes-in-maine-state-meet",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/9/28/DSC06217.jpeg",
       "published": "Tue, 15 Sep 2026 14:19:00 EST",
       "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Halkes named America East Goaltender and Rookie of the Week",
-      "url": "https://goblackbears.com/news/2026/9/15/field-hockey-halkes-named-america-east-goaltender-and-rookie-of-the-week",
-      "summary": "Annabel Halkes\u00a0of the University of Maine field hockey program has been named the America East Goalkeeper and Rookie of the Week, the conference announced on Tuesday.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/8/562A1654.jpg",
-      "published": "Tue, 15 Sep 2026 11:00:00 EST",
-      "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Maine, UNH meet in preseason action on Saturday",
-      "url": "https://goblackbears.com/news/2026/9/15/womens-ice-hockey-preview-maine-unh-meet-in-preseason-action-on-saturday",
-      "summary": "The University of Maine women's ice hockey team will take on New Hampshire in a Buffalo Wild Wings Border Battle scrimmage at 2 p.m. on Saturday, Sept. 19 at Alfond Arena.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2024/12/5/IMG_1213.jpg",
-      "published": "Tue, 15 Sep 2026 10:54:00 EST",
-      "sport": "Women's Ice Hockey",
       "source": "goblackbears"
     },
     {
@@ -931,6 +931,16 @@
       "image": "",
       "published": "Thu, 06 Aug 2026 14:55:19 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Substitute\u2019s goal helps UMaine soccer win conference opener",
+      "url": "https://www.bangordailynews.com/2026/09/20/sports/college-soccer/substitutes-goal-helps-umaine-soccer-earn-win-in-conference-opener/",
+      "summary": "It took University of Maine junior midfielder Emma Nicholson just 3:49 to put her stamp on the Black Bears\u2019 America East opener against Albany.",
+      "image": "",
+      "published": "Sun, 20 Sep 2026 21:43:45 +0000",
+      "sport": "College Soccer",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
