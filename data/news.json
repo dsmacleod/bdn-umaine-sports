@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-22T07:23:30.084645+00:00",
+  "last_updated": "2026-09-22T15:56:56.155767+00:00",
   "articles": [
+    {
+      "title": "Halkes tabbed with America East weekly honor",
+      "url": "https://goblackbears.com/news/2026/9/22/field-hockey-halkes-tabbed-with-america-east-weekly-honor",
+      "summary": "Annabel Halkes of the University of Maine field hockey program was named the America East Goalkeeper and Rookie of the Week as announced Tuesday morning, the conference announced.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/8/562A1654.jpg",
+      "published": "Tue, 22 Sep 2026 11:00:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: River Hawks up next for women's soccer",
+      "url": "https://goblackbears.com/news/2026/9/22/womens-soccer-preview-river-hawks-up-next-for-womens-soccer",
+      "summary": "Maine will host UMass Lowell at 12 p.m. on Sunday, Sept. 27.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/25/WSOC_Johnson_ce69X.jpg",
+      "published": "Tue, 22 Sep 2026 09:01:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
     {
       "title": "Wool earns America East weekly honor",
       "url": "https://goblackbears.com/news/2026/9/21/womens-cross-country-wool-earns-america-east-weekly-honor",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/19/WIH_BoarderGoalUNH.jpeg",
       "published": "Sat, 19 Sep 2026 16:46:00 EST",
       "sport": "Women's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's hockey adds Taylor Leech to coaching staff",
-      "url": "https://goblackbears.com/news/2026/9/18/womens-ice-hockey-womens-hockey-adds-taylor-leech-to-coaching-staff",
-      "summary": "The University of Maine women's ice hockey program announced the addition of Taylor Leech to Alex Gettens' coaching staff as an assistant coach, as announced on Thursday.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/17/IMG_3544-2.jpg",
-      "published": "Fri, 18 Sep 2026 09:00:00 EST",
-      "sport": "Women's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Football heads to Boston College for Saturday matchup",
-      "url": "https://goblackbears.com/news/2026/9/17/football-heads-to-boston-college-for-saturday-matchup",
-      "summary": "The University of Maine football program heads to Boston College on Saturday, Sept. 19.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/16/562A3666.jpg",
-      "published": "Thu, 17 Sep 2026 14:00:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -350,6 +350,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/Mekhi_Gray_3.3.26_vs_UMass_Lowell_5.jpg",
       "published": "Fri, 6 Mar 2026 14:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: Football heads to Boston College for Saturday matchup",
+      "url": "https://goblackbears.com/news/2026/9/17/football-heads-to-boston-college-for-saturday-matchup",
+      "summary": "The University of Maine football program heads to Boston College on Saturday, Sept. 19.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/16/562A3666.jpg",
+      "published": "Thu, 17 Sep 2026 14:00:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
