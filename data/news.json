@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T15:46:24.275934+00:00",
+  "last_updated": "2026-09-24T07:17:51.008287+00:00",
   "articles": [
     {
       "title": "Black Bears Coaches Show 2026-27 Dates",
@@ -8,6 +8,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/9/15/_PEV9596.jpg",
       "published": "Wed, 23 Sep 2026 10:56:00 EST",
       "sport": "General",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: Maine hosts #6 Quinnipiac to open 2026-27 season",
+      "url": "https://goblackbears.com/news/2026/9/23/womens-ice-hockey-preview-maine-hosts-6-quinnipiac-to-open-2026-27-season",
+      "summary": "The University of Maine women's ice hockey team will open up play this weekend when it hosts #6 Quinnipiac for a pair of games to open the 2026-27 season.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/23/IMG_4497.jpg",
+      "published": "Wed, 23 Sep 2026 10:16:00 EST",
+      "sport": "Women's Ice Hockey",
       "source": "goblackbears"
     },
     {
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/4/562A1008.jpg",
       "published": "Sat, 19 Sep 2026 17:17:00 EST",
       "sport": "Men's Cross Country",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football has strong showing at FBS opponent Boston College on Saturday Afternoon",
-      "url": "https://goblackbears.com/news/2026/9/19/football-has-strong-showing-at-fbs-opponent-boston-college-on-saturday-afternoon",
-      "summary": "The University of Maine football program put up a strong fight at FBS opponent, Boston College on Saturday afternoon, coming up just short in the comeback effort.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/19/DSC00417.jpg",
-      "published": "Sat, 19 Sep 2026 17:16:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -353,6 +353,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "Football has strong showing at FBS opponent Boston College on Saturday Afternoon",
+      "url": "https://goblackbears.com/news/2026/9/19/football-has-strong-showing-at-fbs-opponent-boston-college-on-saturday-afternoon",
+      "summary": "The University of Maine football program put up a strong fight at FBS opponent, Boston College on Saturday afternoon, coming up just short in the comeback effort.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/19/DSC00417.jpg",
+      "published": "Sat, 19 Sep 2026 17:16:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
       "title": "PREVIEW: Football heads to Boston College for Saturday matchup",
       "url": "https://goblackbears.com/news/2026/9/17/football-heads-to-boston-college-for-saturday-matchup",
       "summary": "The University of Maine football program heads to Boston College on Saturday, Sept. 19.",
@@ -432,6 +441,16 @@
       "published": "Fri, 4 Sep 2026 12:41:00 EST",
       "sport": "Football",
       "source": "goblackbears"
+    },
+    {
+      "title": "UMaine hockey goalie Albin Boija looking for bounceback\u00a0season",
+      "url": "https://www.bangordailynews.com/2026/09/24/sports/college-ice-hockey/umaine-hockey-goalie-albin-boija-joam40zk0w/",
+      "summary": "Boija lost his staring position last season and is now competing with two newcomers to UMaine for the starting goalie job this season.",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 05:00:00 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine men\u2019s hockey will enter the season outside top 20 in national poll",
@@ -619,16 +638,6 @@
       "summary": "Fowler has a fifth year of eligibility because he was injured and sat out his second season at UMass Lowell as a medical redshirt before transferring to UMaine.",
       "image": "",
       "published": "Fri, 10 Apr 2026 20:52:06 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Former UMaine hockey player from Market Basket family donates $500K to program",
-      "url": "https://www.bangordailynews.com/2026/04/10/sports/college-ice-hockey/arthur-demoulas-umaine-hockey-gift/",
-      "summary": "Arthur S. Demoulas was a freshman in UMaine's first men\u2019s hockey team in the new era in 1977-78 and has been a supporter ever since.",
-      "image": "",
-      "published": "Fri, 10 Apr 2026 20:31:44 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
