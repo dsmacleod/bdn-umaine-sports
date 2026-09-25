@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T16:07:59.967016+00:00",
+  "last_updated": "2026-09-25T07:12:02.928271+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -398,12 +398,12 @@
             "ga": 0
           },
           "overall": {
-            "gp": 0,
+            "gp": 1,
             "w": 0,
-            "l": 0,
+            "l": 1,
             "t": 0,
-            "gf": 0,
-            "ga": 0
+            "gf": 2,
+            "ga": 3
           },
           "is_umaine": false
         },
