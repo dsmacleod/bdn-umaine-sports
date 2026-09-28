@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-27T16:01:07.274179+00:00",
+  "last_updated": "2026-09-28T08:18:40.725340+00:00",
   "articles": [
+    {
+      "title": "Field Hockey falls at Towson",
+      "url": "https://goblackbears.com/news/2026/9/27/field-hockey-falls-at-towson",
+      "summary": "The University of Maine field hockey program fell to Towson on Sunday afternoon by a score of 1-0.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/9/562A1355.jpg",
+      "published": "Sun, 27 Sep 2026 15:42:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "River Hawks, Black Bears play to 1-1 tie",
+      "url": "https://goblackbears.com/news/2026/9/27/womens-soccer-river-hawks-black-bears-play-to-1-1-tie",
+      "summary": "Luise Reinwald scored for Maine.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/27/DSC02034.jpeg",
+      "published": "Sun, 27 Sep 2026 14:38:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
     {
       "title": "Women's hockey falls to #6 Quinnipiac in non-conference action",
       "url": "https://goblackbears.com/news/2026/9/26/womens-ice-hockey-womens-hockey-falls-to-6-quinnipiac-in-non-conference-action",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/23/DSC00245.jpg",
       "published": "Thu, 24 Sep 2026 14:00:00 EST",
       "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football to host annual Military Appreciation Game on Oct. 3",
-      "url": "https://goblackbears.com/news/2026/9/24/football-to-host-annual-military-appreciation-game-on-oct-3",
-      "summary": "The University of Maine athletics department is proud to once again bring to our service men and women its Military Appreciation Series, presented by General Dynamics Bath Iron Works.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/4/football-cheer-stadium-edit.png",
-      "published": "Thu, 24 Sep 2026 08:00:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Black Bears Coaches Show 2026-27 Dates",
-      "url": "https://goblackbears.com/news/2026/9/23/general-black-bears-coaches-show-2026-27-dates",
-      "summary": "ORONO, Maine -- The Black Bears Coaches Show returns for the 2026-27 season and will take place live at Sea Dog Brewing Company in Bangor.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/9/15/_PEV9596.jpg",
-      "published": "Wed, 23 Sep 2026 10:56:00 EST",
-      "sport": "General",
       "source": "goblackbears"
     },
     {
@@ -332,6 +332,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/6/Mekhi_Gray_3.3.26_vs_UMass_Lowell_5.jpg",
       "published": "Fri, 6 Mar 2026 14:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Football to host annual Military Appreciation Game on Oct. 3",
+      "url": "https://goblackbears.com/news/2026/9/24/football-to-host-annual-military-appreciation-game-on-oct-3",
+      "summary": "The University of Maine athletics department is proud to once again bring to our service men and women its Military Appreciation Series, presented by General Dynamics Bath Iron Works.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/4/football-cheer-stadium-edit.png",
+      "published": "Thu, 24 Sep 2026 08:00:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
