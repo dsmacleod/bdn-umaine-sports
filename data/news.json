@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-01T08:24:00.066714+00:00",
+  "last_updated": "2026-10-01T17:42:51.476180+00:00",
   "articles": [
+    {
+      "title": "Baseball announces fourth annual \"Gloves for Good\" Drive",
+      "url": "https://goblackbears.com/news/2026/10/1/baseball-announces-fourth-annual-gloves-for-good-drive",
+      "summary": "The University of Maine baseball program has announced that the fourth annual \"Gloves for Good\" drive will run\u00a0from Oct. 1- Oct. 31. The drive will be accepting monetary donations that will be used to purchase baseball gloves for families and little league programs in the\u00a0communities throughout Maine.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/1/Gloves_for_Good.png",
+      "published": "Thu, 1 Oct 2026 09:00:00 EST",
+      "sport": "Baseball",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Maine opens America East play against UAlbany",
       "url": "https://goblackbears.com/news/2026/9/30/field-hockey-preview-maine-opens-america-east-play-against-ualbany",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/30/sain-UIC.png",
       "published": "Mon, 28 Sep 2026 11:30:00 EST",
       "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "America East announces men's basketball preseason poll",
-      "url": "https://goblackbears.com/news/2026/9/28/mens-basketball-america-east-announces-mens-basketball-preseason-poll",
-      "summary": "The America East announced the men's basketball preseason poll for the 2026-27 season on Monday morning.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/28/Killian_Gribben_3_15_Championships_7__1_.jpg",
-      "published": "Mon, 28 Sep 2026 09:00:00 EST",
-      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -242,6 +242,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2019/1/17/Koizar_NE_1.jpg",
       "published": "Fri, 26 Jun 2026 11:23:00 EST",
       "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "America East announces men's basketball preseason poll",
+      "url": "https://goblackbears.com/news/2026/9/28/mens-basketball-america-east-announces-mens-basketball-preseason-poll",
+      "summary": "The America East announced the men's basketball preseason poll for the 2026-27 season on Monday morning.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/28/Killian_Gribben_3_15_Championships_7__1_.jpg",
+      "published": "Mon, 28 Sep 2026 09:00:00 EST",
+      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
