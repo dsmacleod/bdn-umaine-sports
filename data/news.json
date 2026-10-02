@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-10-01T17:42:51.476180+00:00",
+  "last_updated": "2026-10-02T08:00:02.246984+00:00",
   "articles": [
+    {
+      "title": "Stephanie Jacob scores game winning goal in 4-3 win",
+      "url": "https://goblackbears.com/news/2026/10/1/womens-ice-hockey-stephanie-jacob-scores-game-winning-goal-in-4-3-win",
+      "summary": "The University of Maine women's hockey program defeated St. Lawrence 4-3 on Thursday night at Alfond Arena.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/1/IMG_6870.jpg",
+      "published": "Thu, 1 Oct 2026 20:41:00 EST",
+      "sport": "Women's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: Black Bears host Sacred Heart in CAA matchup",
+      "url": "https://goblackbears.com/news/2026/10/1/football-preview-black-bears-host-sacred-heart-in-caa-matchup",
+      "summary": "The University of Maine football program is set to host Sacred Heart on Saturday, Oct. 3 as part of Friends and Family weekend at UMaine.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/30/562A3635.jpg",
+      "published": "Thu, 1 Oct 2026 15:30:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: Cross Country to compete in Paul Short Run",
+      "url": "https://goblackbears.com/news/2026/10/1/mens-cross-country-preview-cross-country-to-compete-in-paul-short-run",
+      "summary": "The University of Maine cross country programs will travel to Lehigh University to compete in the Paul Short Run on Friday Oct. 2.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/21/WXC_Wool.jpg",
+      "published": "Thu, 1 Oct 2026 13:21:00 EST",
+      "sport": "Men's Cross Country, Women's Cross Country",
+      "source": "goblackbears"
+    },
     {
       "title": "Baseball announces fourth annual \"Gloves for Good\" Drive",
       "url": "https://goblackbears.com/news/2026/10/1/baseball-announces-fourth-annual-gloves-for-good-drive",
@@ -65,30 +92,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Women's soccer heads to Vermont to face Catamounts",
-      "url": "https://goblackbears.com/news/2026/9/29/womens-soccer-preview-black-bears-head-to-vermont-to-face-catamounts",
-      "summary": "Kickoff is set for 3 p.m. at Virtue Field.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/25/562A8000.jpg",
-      "published": "Tue, 29 Sep 2026 09:00:00 EST",
-      "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
       "title": "PREVIEW: Men's hockey opens up 50th season at Holy Cross",
       "url": "https://goblackbears.com/news/2026/9/28/mens-ice-hockey-preview-mens-hockey-opens-up-50th-season-at-holy-cross",
       "summary": "The Black Bears and Crusaders will meet on Friday and Saturday in Worcester.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/28/IMG_9813.jpg",
       "published": "Mon, 28 Sep 2026 14:05:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's Basketball selected fourth in America East preseason poll",
-      "url": "https://goblackbears.com/news/2026/9/28/womens-basketball-selected-fourth-in-america-east-preseason-poll",
-      "summary": "The University of Maine women's basketball team has been selected fourth in the America East Preseason Poll, as announced as part of the America East Media Day on Sept. 28.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/30/sain-UIC.png",
-      "published": "Mon, 28 Sep 2026 11:30:00 EST",
-      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -170,6 +179,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/21/MIH_Huddle1.png",
       "published": "Mon, 6 Jul 2026 10:01:00 EST",
       "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's Basketball selected fourth in America East preseason poll",
+      "url": "https://goblackbears.com/news/2026/9/28/womens-basketball-selected-fourth-in-america-east-preseason-poll",
+      "summary": "The University of Maine women's basketball team has been selected fourth in the America East Preseason Poll, as announced as part of the America East Media Day on Sept. 28.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/30/sain-UIC.png",
+      "published": "Mon, 28 Sep 2026 11:30:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -398,13 +416,14 @@
       "source": "goblackbears"
     },
     {
-      "title": "Spectacular drone light show returns to campus following Football on Sept. 12",
-      "url": "https://goblackbears.com/news/2026/9/7/spectacular-drone-light-show-returns-to-campus-following-football-on-sept-12",
-      "summary": "Orono, Maine -- After providing breathtaking drone lights shows during last year's Homecoming festivities, Grizzly Entertainment Drone Light Shows will return to light up the sky this Saturday, Sept. 12, following Maine's home opener football game against Merrimack which is slated to begin at 5 p.m.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/17/First_Practice_on_New_Turf_-_maine_logo-web.png",
-      "published": "Mon, 7 Sep 2026 11:59:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
+      "title": "UMaine men\u2019s hockey seeking bounceback season as it prepares for opening weekend",
+      "url": "https://www.bangordailynews.com/2026/10/01/sports/college-ice-hockey/umaine-mens-hockey-prepares-for-opening-weekend/",
+      "summary": "\u201cWe\u2019re trying to find the soul of our program again,\u201d sixth-year head coach Ben Barr said.",
+      "image": "",
+      "published": "Thu, 01 Oct 2026 18:37:19 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "New coach, UMaine women\u2019s ice hockey team hosting Quinnipiac this weekend",
@@ -592,16 +611,6 @@
       "summary": "Brandon Holt led the Black Bears in scoring with 32 points on six goals and 26 assists. All are career-highs as were his 47 blocked shots.",
       "image": "",
       "published": "Tue, 14 Apr 2026 19:16:06 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "9 UMaine men\u2019s hockey players enter transfer\u00a0portal",
-      "url": "https://www.bangordailynews.com/2026/04/13/sports/college-ice-hockey/umaine-mens-hockey-players-enter-transfer-portal/",
-      "summary": "The group includes two goalies and follows a disappointing 18-14-3 season for the Black Bears.",
-      "image": "",
-      "published": "Mon, 13 Apr 2026 18:57:25 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
