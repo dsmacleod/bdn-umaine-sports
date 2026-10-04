@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-03T15:24:49.542915+00:00",
+  "last_updated": "2026-10-04T07:50:23.764979+00:00",
   "articles": [
+    {
+      "title": "Crusaders sneak past Black Bears in OT",
+      "url": "https://goblackbears.com/news/2026/10/3/mens-ice-hockey-crusaders-get-past-black-bears-in-ot",
+      "summary": "Isa Parekh and Lee Parks scored for Maine in the loss.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/3/_PEV0105.jpg",
+      "published": "Sat, 3 Oct 2026 21:48:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Klimpke scores twice, Maine tops Holy Cross in season opener",
       "url": "https://goblackbears.com/news/2026/10/2/mens-ice-hockey-klimpke-scores-twice-maine-tops-holy-cross-in-season-opener",
@@ -83,15 +92,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Women's hockey adds Ally Johnson to coaching staff",
-      "url": "https://goblackbears.com/news/2026/9/29/womens-ice-hockey-womens-hockey-adds-ally-johnson-to-coaching-staff",
-      "summary": "The University of Maine women's ice hockey program has announced the addition of Ally Johnson to Alex Gettens' coaching staff as an assistant coach, as announced on Tuesday.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/29/IMG_5803.png",
-      "published": "Tue, 29 Sep 2026 15:07:00 EST",
-      "sport": "Women's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
       "title": "PREVIEW: Men's hockey opens up 50th season at Holy Cross",
       "url": "https://goblackbears.com/news/2026/9/28/mens-ice-hockey-preview-mens-hockey-opens-up-50th-season-at-holy-cross",
       "summary": "The Black Bears and Crusaders will meet on Friday and Saturday in Worcester.",
@@ -160,15 +160,6 @@
       "summary": "Tickets go on sale at 10 a.m. at GoBlackBears.com/MIHTickets",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/21/Sully_Scholle_3_28_Cornell_1.jpg",
       "published": "Wed, 22 Jul 2026 06:45:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's Hockey to Face Cornell in Frozen Apple at Madison Square Garden on Nov. 28",
-      "url": "https://goblackbears.com/news/2026/7/20/mens-ice-hockey-mens-hockey-to-face-cornell-in-frozen-apple-at-madison-square-garden-on-nov-28",
-      "summary": "Maine and Cornell will clash in non-conference action at the World's Most Famous Arena.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/19/MIH_MSG.png",
-      "published": "Mon, 20 Jul 2026 12:00:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
     },
@@ -425,6 +416,16 @@
       "source": "goblackbears"
     },
     {
+      "title": "UMaine men\u2019s hockey falls in OT against Holy\u00a0Cross after late rally",
+      "url": "https://www.bangordailynews.com/2026/10/03/sports/college-ice-hockey/umaine-mens-hockey-falls-in-ot-against-holy-cross-after-late-rally/",
+      "summary": "A dramatic late rally by the University of Maine men\u2019s hockey team went for nought on Saturday night.",
+      "image": "",
+      "published": "Sun, 04 Oct 2026 02:44:39 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine men\u2019s hockey opens 50th season with win over Holy Cross",
       "url": "https://www.bangordailynews.com/2026/10/03/sports/college-ice-hockey/umaine-mens-hockey-opens-50th-season-win-over-holy-cross/",
       "summary": "The University of Maine\u2019s men\u2019s hockey team earned a 4-1 victory Friday, with the two teams set to play again Saturday night in Worcester, Mass.",
@@ -615,16 +616,6 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine men\u2019s hockey adds 6 players in transfer portal including 2 from rival schools",
-      "url": "https://www.bangordailynews.com/2026/04/16/sports/college-ice-hockey/umaine-hockey-team-transfers/",
-      "summary": "Sophomore right wing Lee Parks from UMass Lowell and sophomore defenseman Alexander Bales from Providence College will join the Black Bears.",
-      "image": "",
-      "published": "Thu, 16 Apr 2026 16:05:45 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "UMaine women\u2019s basketball picked 4th in America East preseason poll",
       "url": "https://www.bangordailynews.com/2026/09/29/sports/college-basketball/umaine-womens-basketball-america-east-preseason-poll-fourth/",
       "summary": "But the Black Bears have to replace its top three scorers, Adrianna Smith, Asta Blauenfeldt and Sarah Talon, from last season's team.",
@@ -761,6 +752,16 @@
       "image": "",
       "published": "Wed, 25 Mar 2026 19:16:16 +0000",
       "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Sacred Heart football rallies to beat UMaine",
+      "url": "https://www.bangordailynews.com/2026/10/03/sports/college-football/sacred-heart-football-rallies-to-beat-umaine/",
+      "summary": "Sacred Heart overcame a nine-point deficit to beat the reeling University of Maine\u2019s Black Bears 24-16.",
+      "image": "",
+      "published": "Sat, 03 Oct 2026 22:55:27 +0000",
+      "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
@@ -915,16 +916,6 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine football builds 21-0 lead in victory over Towson",
-      "url": "https://www.bangordailynews.com/2026/08/27/sports/college-football/umaine-football-clinging-to-six-point-lead-in-fourth-quarter-lighting-delay-at-towson/",
-      "summary": "The game went into a lightning delay with 13:20 left in the fourth quarter with Towson having the ball at UMaine\u2019s 23-yard line.",
-      "image": "",
-      "published": "Fri, 28 Aug 2026 01:18:56 +0000",
-      "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "Former UMaine 2-sport star Jack Leggett earns prestigious Clemson honor",
       "url": "https://www.bangordailynews.com/2026/10/03/sports/college-baseball/jack-leggett-clemson-baseball-ring-of-honor-joam40zk0w/",
       "summary": "Jack Leggett was a three-time All-Yankee Conference infielder at UMaine and a three-time All-Yankee Conference defensive back and placekicker in football.",
@@ -940,16 +931,6 @@
       "summary": "Hurricanes head coach Rod Brind\u2019Amour said the decision to send the 21-year-old down was \u201ctough.\u201d",
       "image": "",
       "published": "Tue, 29 Sep 2026 21:21:16 +0000",
-      "sport": "Professional Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Bradly Nadeau among several former UMaine players seeking NHL roster spot",
-      "url": "https://www.bangordailynews.com/2026/09/23/sports/professional-ice-hockey/bradly-nadeau-seeking-nhl-roster-spot-joam40zk0w/",
-      "summary": "His 59 goals for the Chicago Wolves over the previous two seasons is third most among all AHL players.",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 05:00:00 +0000",
       "sport": "Professional Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
