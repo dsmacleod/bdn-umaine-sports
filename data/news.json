@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-04T16:09:29.682229+00:00",
+  "last_updated": "2026-10-05T08:28:49.334219+00:00",
   "articles": [
+    {
+      "title": "Women's soccer unbeaten streak snapped at Vermont",
+      "url": "https://goblackbears.com/news/2026/10/4/womens-soccer-maines-unbeaten-streak-snapped-at-vermont",
+      "summary": "The Black Bears fell, 2-1, to the Catamounts.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/4/562A8621.jpg",
+      "published": "Sun, 4 Oct 2026 17:26:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
     {
       "title": "2026-27 Maine men's hockey gameday information",
       "url": "https://goblackbears.com/news/2026/10/4/mens-ice-hockey-2026-27-maine-mens-hockey-gameday-information",
@@ -11,7 +20,7 @@
       "source": "goblackbears"
     },
     {
-      "title": "Crusaders sneak past Black Bears in OT",
+      "title": "Crusaders sneak past men's hockey in OT",
       "url": "https://goblackbears.com/news/2026/10/3/mens-ice-hockey-crusaders-get-past-black-bears-in-ot",
       "summary": "Isa Parekh and Lee Parks scored for Maine in the loss.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/3/_PEV0105.jpg",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/21/WXC_Wool.jpg",
       "published": "Thu, 1 Oct 2026 13:21:00 EST",
       "sport": "Men's Cross Country, Women's Cross Country",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Baseball announces fourth annual \"Gloves for Good\" Drive",
-      "url": "https://goblackbears.com/news/2026/10/1/baseball-announces-fourth-annual-gloves-for-good-drive",
-      "summary": "The University of Maine baseball program has announced that the fourth annual \"Gloves for Good\" drive will run\u00a0from Oct. 1- Oct. 31. The drive will be accepting monetary donations that will be used to purchase baseball gloves for families and little league programs in the\u00a0communities throughout Maine.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/1/Gloves_for_Good.png",
-      "published": "Thu, 1 Oct 2026 09:00:00 EST",
-      "sport": "Baseball",
       "source": "goblackbears"
     },
     {
@@ -883,16 +883,6 @@
       "summary": "The Black Bears made two game-changing defensive plays late in the fourth quarter to preserve the victory over Towson University.",
       "image": "",
       "published": "Tue, 01 Sep 2026 19:18:10 +0000",
-      "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "4 UMaine home football games to be televised on local TV stations",
-      "url": "https://www.bangordailynews.com/2026/08/29/sports/college-football/4-umaine-home-football-games-local-tv-stations-joam40zk0w/",
-      "summary": "The four UMaine football games will come against Sacred Heart, Bryant, Campbell and the University of New Hampshire.",
-      "image": "",
-      "published": "Sat, 29 Aug 2026 05:00:00 +0000",
       "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
