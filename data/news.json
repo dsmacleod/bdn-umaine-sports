@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-06T17:36:00.350274+00:00",
+  "last_updated": "2026-10-07T08:13:26.978860+00:00",
   "articles": [
+    {
+      "title": "PREVIEW: Women\u2019s soccer hosts NJIT on Sunday Senior Day",
+      "url": "https://goblackbears.com/news/2026/10/6/womens-soccer-preview-womens-soccer-hosts-njit-on-sunday-senior-day",
+      "summary": "Sunday's game will serve as Maine's Senior Day, with the graduating student-athletes honored in a pre-game ceremony.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/4/_PEV9130.jpg",
+      "published": "Tue, 6 Oct 2026 18:00:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: Maine travels to East West Showcase in Minnesota",
+      "url": "https://goblackbears.com/news/2026/10/6/womens-ice-hockey-preview-maine-travels-to-east-west-showcase-in-minnesota",
+      "summary": "The University of Maine women's hockey program will hit the road for the first time this season and compete in the East West Showcase hosted by the University of Minnesota on Friday Oct. 9 and Saturday Oct. 10.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/6/IMG_6746.jpg",
+      "published": "Tue, 6 Oct 2026 11:45:00 EST",
+      "sport": "Women's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Halkes named America East Goalkeeper of the Week",
       "url": "https://goblackbears.com/news/2026/10/6/field-hockey-halkes-named-america-east-goalkeeper-of-the-week",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/2/_PEV9863.jpg",
       "published": "Fri, 2 Oct 2026 22:23:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Field Hockey defeats UAlbany, 3-1",
-      "url": "https://goblackbears.com/news/2026/10/2/field-hockey-defeats-ualbany-3-1",
-      "summary": "The University of Maine field hockey team defeated UAlbany, 3-1, on Friday afternoon at the UMaine Field Hockey Complex.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/2/Kuefler-Dartmouth.png",
-      "published": "Fri, 2 Oct 2026 18:25:00 EST",
-      "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Maine falls to St. Lawrence in non-conference action",
-      "url": "https://goblackbears.com/news/2026/10/2/womens-ice-hockey-maine-falls-to-st-lawrence-in-non-conference-action",
-      "summary": "The University of Maine women's hockey program\u00a0were defeated\u00a0by St. Lawrence 3-0 on Friday afternoon at Alfond Arena.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/2/DSC04382-2.jpg",
-      "published": "Fri, 2 Oct 2026 17:22:00 EST",
-      "sport": "Women's Ice Hockey",
       "source": "goblackbears"
     },
     {
@@ -389,6 +389,16 @@
       "source": "goblackbears"
     },
     {
+      "title": "Strong effort brings mixed results for UMaine men\u2019s hockey in opening weekend",
+      "url": "https://www.bangordailynews.com/2026/10/06/sports/college-ice-hockey/umaine-mens-hockey-opening-weekend/",
+      "summary": "The Black Bears play their home-opening series this weekend against what is likely the best team on their schedule: the sixth-ranked Quinnipiac University Bobcats.",
+      "image": "",
+      "published": "Tue, 06 Oct 2026 18:15:41 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine men\u2019s hockey falls in OT against Holy\u00a0Cross after late rally",
       "url": "https://www.bangordailynews.com/2026/10/03/sports/college-ice-hockey/umaine-mens-hockey-falls-in-ot-against-holy-cross-after-late-rally/",
       "summary": "A dramatic late rally by the University of Maine men\u2019s hockey team went for nought on Saturday night.",
@@ -574,16 +584,6 @@
       "summary": "Sam Alfano, a 6-foot-4-inch, 205-pound left winger, was ASU\u2019s fifth-leading scorer this past season.",
       "image": "",
       "published": "Tue, 21 Apr 2026 19:13:31 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine\u00a0men\u2019s hockey navigates new transfer landscape while seeking bounceback season",
-      "url": "https://www.bangordailynews.com/2026/04/17/sports/college-ice-hockey/umaine-mens-hockey-navigating-nil-off-season/",
-      "summary": "Amateurism has been replaced by professionalism in college sports, which has led to a flurry of offseason activity that mimics trades and contract wars in pro sports.",
-      "image": "",
-      "published": "Fri, 17 Apr 2026 05:00:00 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
