@@ -1,11 +1,61 @@
 {
-  "last_updated": "2026-10-08T18:09:43.590602+00:00",
+  "last_updated": "2026-10-09T08:32:52.831465+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
         {
-          "school": "Boston College",
+          "school": "Merrimack",
           "rank": 1,
+          "conference": {
+            "gp": 1,
+            "pts": 2,
+            "w": 0,
+            "l": 0,
+            "t": 1,
+            "ow": 0,
+            "ol": 0,
+            "sw": 1,
+            "gf": 3,
+            "ga": 3
+          },
+          "overall": {
+            "gp": 2,
+            "w": 0,
+            "l": 1,
+            "t": 1,
+            "gf": 6,
+            "ga": 9
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "New Hampshire",
+          "rank": 2,
+          "conference": {
+            "gp": 1,
+            "pts": 1,
+            "w": 0,
+            "l": 0,
+            "t": 1,
+            "ow": 0,
+            "ol": 0,
+            "sw": 0,
+            "gf": 3,
+            "ga": 3
+          },
+          "overall": {
+            "gp": 2,
+            "w": 0,
+            "l": 1,
+            "t": 1,
+            "gf": 5,
+            "ga": 13
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Boston College",
+          "rank": 3,
           "conference": {
             "gp": 0,
             "pts": 0,
@@ -100,56 +150,6 @@
             "t": 0,
             "gf": 1,
             "ga": 8
-          },
-          "is_umaine": false
-        },
-        {
-          "school": "Merrimack",
-          "rank": null,
-          "conference": {
-            "gp": 0,
-            "pts": 0,
-            "w": 0,
-            "l": 0,
-            "t": 0,
-            "ow": 0,
-            "ol": 0,
-            "sw": 0,
-            "gf": 0,
-            "ga": 0
-          },
-          "overall": {
-            "gp": 1,
-            "w": 0,
-            "l": 1,
-            "t": 0,
-            "gf": 3,
-            "ga": 6
-          },
-          "is_umaine": false
-        },
-        {
-          "school": "New Hampshire",
-          "rank": null,
-          "conference": {
-            "gp": 0,
-            "pts": 0,
-            "w": 0,
-            "l": 0,
-            "t": 0,
-            "ow": 0,
-            "ol": 0,
-            "sw": 0,
-            "gf": 0,
-            "ga": 0
-          },
-          "overall": {
-            "gp": 1,
-            "w": 0,
-            "l": 1,
-            "t": 0,
-            "gf": 2,
-            "ga": 10
           },
           "is_umaine": false
         },
