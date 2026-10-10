@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-10-09T17:43:15.765530+00:00",
+  "last_updated": "2026-10-10T08:09:55.130084+00:00",
   "articles": [
+    {
+      "title": "#6 Bobcats sneak past Black Bears, 2-1",
+      "url": "https://goblackbears.com/news/2026/10/10/mens-ice-hockey-6-bobcats-sneak-past-black-bears-2-1",
+      "summary": "Lee Parks scored for Maine in the loss.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/9/922726973-lindseypellett-3761.jpg",
+      "published": "Sat, 10 Oct 2026 00:03:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine falls to #3 Minnesota in East West Showcase",
+      "url": "https://goblackbears.com/news/2026/10/9/womens-ice-hockey-maine-blanked-by-3-minnesota-in-east-west-showcase",
+      "summary": "The University of Maine women's hockey program\u00a0were defeated\u00a0by #3 Minnesota\u00a04-0 on Friday night\u00a0at Ridder\u00a0Arena.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/23/IMG_4497_EafmE.jpg",
+      "published": "Fri, 9 Oct 2026 22:13:00 EST",
+      "sport": "Women's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Field Hockey falls in overtime to New Hampshire",
+      "url": "https://goblackbears.com/news/2026/10/9/field-hockey-falls-in-overtime-to-new-hampshire",
+      "summary": "The University of Maine field hockey program fell 4-3 in overtime to the University of New Hampshire, Friday afternoon at the UMaine Field Hockey Complex.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/9/DSC02552.jpg",
+      "published": "Fri, 9 Oct 2026 21:59:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Parking Information for Oct. 9 Athletics Events",
       "url": "https://goblackbears.com/news/2026/10/9/general-parking-information-for-oct-9-athletics-events",
@@ -65,15 +92,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Halkes named America East Goalkeeper of the Week",
-      "url": "https://goblackbears.com/news/2026/10/6/field-hockey-halkes-named-america-east-goalkeeper-of-the-week",
-      "summary": "Annabel Halkes of the University of Maine field hockey program was named the America East Goalkeeper of the Week, the conference announced Tuesday morning.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/8/562A1654.jpg",
-      "published": "Tue, 6 Oct 2026 11:00:00 EST",
-      "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
       "title": "Men's hockey 2026-27 promotional schedule announced",
       "url": "https://goblackbears.com/news/2026/10/6/mens-ice-hockey-mens-hockey-2026-27-promotional-schedule-announced",
       "summary": "Skate with the Bears returns Dec. 19!",
@@ -124,15 +142,6 @@
       "summary": "The Black Bears and Crusaders will meet on Friday and Saturday in Worcester.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/28/IMG_9813.jpg",
       "published": "Mon, 28 Sep 2026 14:05:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Maine men\u2019s ice hockey 2026-27 ticket procedures",
-      "url": "https://goblackbears.com/news/2026/9/25/mens-ice-hockey-maine-mens-ice-hockey-2026-27-ticket-procedures",
-      "summary": "General ticket information and student ticket information for the 2026-27 season.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/RC0_3925.jpg",
-      "published": "Fri, 25 Sep 2026 12:00:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
     },
@@ -398,6 +407,16 @@
       "source": "goblackbears"
     },
     {
+      "title": "Quinnipiac\u00a0hockey edges UMaine",
+      "url": "https://www.bangordailynews.com/2026/10/09/sports/college-ice-hockey/quinnipiac-hockey-edges-umaine/",
+      "summary": "The Black Bears kept the high-scoring Bobcats to two goals but came up short in the final tally.",
+      "image": "",
+      "published": "Sat, 10 Oct 2026 01:53:27 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "Hockey defenseman Isa Parekh finds early success after transferring to UMaine",
       "url": "https://www.bangordailynews.com/2026/10/09/sports/college-ice-hockey/umaine-mens-hockey-isa-parekh-defenseman-transfer/",
       "summary": "The defenseman is tied for the lead scorer for the Black Bears.",
@@ -583,16 +602,6 @@
       "summary": "Headlining the list of non-conference games will be a two-game home series against perennial NCAA championship contender Quinnipiac on Oct. 9-10.",
       "image": "",
       "published": "Wed, 01 Jul 2026 15:17:41 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine men\u2019s hockey lands 1st-round\u00a0NHL draft pick",
-      "url": "https://www.bangordailynews.com/2026/06/29/sports/college-ice-hockey/umaine-mens-hockey-lands-1st-round-nhl-draft-pick/",
-      "summary": "Maksim Sokolovskii has verbally committed to UMaine beginning with the 2027-28 season.",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 20:07:25 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
@@ -894,16 +903,6 @@
       "image": "",
       "published": "Sat, 03 Oct 2026 05:00:00 +0000",
       "sport": "College Baseball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Former UMaine star Bradly Nadeau sent down to AHL despite strong showing for Hurricanes",
-      "url": "https://www.bangordailynews.com/2026/09/29/sports/professional-ice-hockey/bradly-nadeau-sent-down-to-ahl/",
-      "summary": "Hurricanes head coach Rod Brind\u2019Amour said the decision to send the 21-year-old down was \u201ctough.\u201d",
-      "image": "",
-      "published": "Tue, 29 Sep 2026 21:21:16 +0000",
-      "sport": "Professional Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
