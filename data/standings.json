@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T08:21:42.387742+00:00",
+  "last_updated": "2026-10-11T17:00:29.656033+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -854,9 +854,9 @@
           "school": "Vermont",
           "conference": "1-1",
           "conference_pct": ".500",
-          "overall": "9-2",
+          "overall": "10-2",
           "pct": ".500",
-          "streak": "W2",
+          "streak": "W3",
           "is_umaine": false
         },
         {
@@ -890,9 +890,9 @@
           "school": "Bryant",
           "conference": "0-2",
           "conference_pct": ".000",
-          "overall": "6-5",
+          "overall": "6-6",
           "pct": ".000",
-          "streak": "L1",
+          "streak": "L2",
           "is_umaine": false
         }
       ]
