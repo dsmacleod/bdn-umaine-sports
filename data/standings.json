@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T17:00:29.656033+00:00",
+  "last_updated": "2026-10-12T08:43:19.490536+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -283,8 +283,33 @@
     "whockey": {
       "teams": [
         {
-          "school": "Boston University",
+          "school": "Northeastern",
           "rank": 1,
+          "conference": {
+            "gp": 2,
+            "pts": 6,
+            "w": 2,
+            "l": 0,
+            "t": 0,
+            "ow": 0,
+            "ol": 0,
+            "sw": 0,
+            "gf": 8,
+            "ga": 3
+          },
+          "overall": {
+            "gp": 3,
+            "w": 2,
+            "l": 1,
+            "t": 0,
+            "gf": 9,
+            "ga": 5
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Boston University",
+          "rank": 2,
           "conference": {
             "gp": 2,
             "pts": 5,
@@ -309,7 +334,7 @@
         },
         {
           "school": "Boston College",
-          "rank": 2,
+          "rank": 3,
           "conference": {
             "gp": 2,
             "pts": 4,
@@ -329,31 +354,6 @@
             "t": 0,
             "gf": 22,
             "ga": 4
-          },
-          "is_umaine": false
-        },
-        {
-          "school": "Northeastern",
-          "rank": 3,
-          "conference": {
-            "gp": 1,
-            "pts": 3,
-            "w": 1,
-            "l": 0,
-            "t": 0,
-            "ow": 0,
-            "ol": 0,
-            "sw": 0,
-            "gf": 2,
-            "ga": 0
-          },
-          "overall": {
-            "gp": 2,
-            "w": 1,
-            "l": 1,
-            "t": 0,
-            "gf": 3,
-            "ga": 2
           },
           "is_umaine": false
         },
@@ -386,24 +386,24 @@
           "school": "New Hampshire",
           "rank": 5,
           "conference": {
-            "gp": 1,
+            "gp": 2,
             "pts": 1,
             "w": 0,
-            "l": 0,
+            "l": 1,
             "t": 1,
             "ow": 0,
             "ol": 0,
             "sw": 0,
-            "gf": 4,
-            "ga": 4
+            "gf": 7,
+            "ga": 10
           },
           "overall": {
-            "gp": 5,
+            "gp": 6,
             "w": 2,
-            "l": 2,
+            "l": 3,
             "t": 1,
-            "gf": 15,
-            "ga": 16
+            "gf": 18,
+            "ga": 22
           },
           "is_umaine": false
         },
@@ -845,9 +845,9 @@
           "school": "New Hampshire",
           "conference": "2-0",
           "conference_pct": "1.000",
-          "overall": "3-6",
+          "overall": "4-6",
           "pct": "1.000",
-          "streak": "W1",
+          "streak": "W2",
           "is_umaine": false
         },
         {
@@ -860,30 +860,30 @@
           "is_umaine": false
         },
         {
-          "school": "UMass Lowell",
-          "conference": "1-1",
-          "conference_pct": ".500",
-          "overall": "6-6",
-          "pct": ".500",
-          "streak": "L2",
-          "is_umaine": false
-        },
-        {
           "school": "UAlbany",
           "conference": "1-1",
           "conference_pct": ".500",
-          "overall": "5-5",
+          "overall": "6-5",
           "pct": ".500",
-          "streak": "W2",
+          "streak": "W3",
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "conference": "1-1",
+          "conference_pct": ".500",
+          "overall": "7-6",
+          "pct": ".500",
+          "streak": "W1",
           "is_umaine": false
         },
         {
           "school": "Maine",
           "conference": "1-1",
           "conference_pct": ".500",
-          "overall": "5-6",
+          "overall": "6-6",
           "pct": ".500",
-          "streak": "L1",
+          "streak": "W1",
           "is_umaine": true
         },
         {
@@ -911,15 +911,6 @@
           "is_umaine": false
         },
         {
-          "school": "Vermont",
-          "conference": "2-0-1",
-          "conference_pct": ".833",
-          "overall": "4-4-4",
-          "pct": ".833",
-          "streak": "W1",
-          "is_umaine": false
-        },
-        {
           "school": "UMBC",
           "conference": "3-1",
           "conference_pct": ".750",
@@ -929,48 +920,57 @@
           "is_umaine": false
         },
         {
-          "school": "Bryant",
-          "conference": "2-1",
-          "conference_pct": ".667",
-          "overall": "4-5-2",
-          "pct": ".667",
-          "streak": "W2",
+          "school": "Vermont",
+          "conference": "2-0-2",
+          "conference_pct": ".750",
+          "overall": "4-4-5",
+          "pct": ".750",
+          "streak": "T1",
           "is_umaine": false
         },
         {
           "school": "Maine",
-          "conference": "1-1-1",
-          "conference_pct": ".500",
-          "overall": "4-4-3",
-          "pct": ".500",
-          "streak": "L1",
+          "conference": "2-1-1",
+          "conference_pct": ".625",
+          "overall": "5-4-3",
+          "pct": ".625",
+          "streak": "W1",
           "is_umaine": true
         },
         {
-          "school": "UMass Lowell",
-          "conference": "0-0-3",
-          "conference_pct": ".500",
-          "overall": "3-4-4",
-          "pct": ".500",
-          "streak": "T3",
-          "is_umaine": false
-        },
-        {
-          "school": "NJIT",
-          "conference": "1-3",
-          "conference_pct": ".250",
-          "overall": "4-7-1",
-          "pct": ".250",
-          "streak": "L3",
+          "school": "Bryant",
+          "conference": "2-1-1",
+          "conference_pct": ".625",
+          "overall": "4-5-3",
+          "pct": ".625",
+          "streak": "T1",
           "is_umaine": false
         },
         {
           "school": "UAlbany",
-          "conference": "1-3",
-          "conference_pct": ".250",
-          "overall": "3-7-1",
-          "pct": ".250",
-          "streak": "L2",
+          "conference": "2-3",
+          "conference_pct": ".400",
+          "overall": "4-7-1",
+          "pct": ".400",
+          "streak": "W1",
+          "is_umaine": false
+        },
+        {
+          "school": "UMass Lowell",
+          "conference": "0-1-3",
+          "conference_pct": ".375",
+          "overall": "3-5-4",
+          "pct": ".375",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "NJIT",
+          "conference": "1-4",
+          "conference_pct": ".200",
+          "overall": "4-8-1",
+          "pct": ".200",
+          "streak": "L4",
           "is_umaine": false
         },
         {
