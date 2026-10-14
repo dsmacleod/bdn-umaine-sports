@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-14T07:10:32.089539+00:00",
+  "last_updated": "2026-10-14T16:10:03.118752+00:00",
   "articles": [
+    {
+      "title": "Hockey East announces first-half NESN slate for 2026-27",
+      "url": "https://goblackbears.com/news/2026/10/14/mens-ice-hockey-hockey-east-announces-first-half-nesn-slate-of-2026-27",
+      "summary": "Maine men's and women's hockey will appear a combined six times in the first half.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/21/MIH_Crowd3.png",
+      "published": "Wed, 14 Oct 2026 11:00:00 EST",
+      "sport": "Men's Ice Hockey, Women's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Support, encouragement helped propel Pat O\u2019Malley to success in the running world",
+      "url": "https://goblackbears.com/news/2026/10/14/hall-of-fame-support-encouragement-helped-propel-pat-o-malley-to-success-in-the-running-world",
+      "summary": "Orono, Maine -- As a senior at Piscataquis Community High School in Guilford, Pat O'Malley made a decision that would change his life.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/14/OMalley-website.png",
+      "published": "Wed, 14 Oct 2026 09:33:00 EST",
+      "sport": "Men's Cross Country, Hall of Fame",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Field Hockey to face Bryant and Northeastern",
       "url": "https://goblackbears.com/news/2026/10/13/preview-field-hockey-to-face-bryant-and-northeastern",
@@ -74,24 +92,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Maine tops Merrimack in non-conference action",
-      "url": "https://goblackbears.com/news/2026/10/11/field-hockey-maine-tops-merrimack-in-non-conference-action",
-      "summary": "The University of Maine field hockey program defeated Merrimack 3-0 at the UMaine Field Hockey Complex on Sunday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/11/922883482-dsc_0463.jpeg",
-      "published": "Sun, 11 Oct 2026 16:45:00 EST",
-      "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's soccer tops NJIT, 2-0",
-      "url": "https://goblackbears.com/news/2026/10/11/womens-soccer-womens-soccer-tops-njit-2-0",
-      "summary": "Isabella Meadows and Abbey Thornton scored for Maine.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/11/1000019982.jpg",
-      "published": "Sun, 11 Oct 2026 14:52:00 EST",
-      "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
       "title": "Men's hockey takes down #6 Quinnipiac",
       "url": "https://goblackbears.com/news/2026/10/10/mens-ice-hockey-mens-hockey-takes-down-6-quinnipiac",
       "summary": "The Black Bears earned a 5-3 win.",
@@ -160,15 +160,6 @@
       "summary": "Isa Parekh and Lee Parks scored for Maine in the loss.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/3/_PEV0105.jpg",
       "published": "Sat, 3 Oct 2026 21:48:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Klimpke scores twice, Maine tops Holy Cross in season opener",
-      "url": "https://goblackbears.com/news/2026/10/2/mens-ice-hockey-klimpke-scores-twice-maine-tops-holy-cross-in-season-opener",
-      "summary": "Tanner Klimpke had two goals, Albin Boija had 18 saves.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/2/_PEV9863.jpg",
-      "published": "Fri, 2 Oct 2026 22:23:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
     },
