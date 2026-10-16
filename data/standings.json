@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T15:58:18.197619+00:00",
+  "last_updated": "2026-10-16T06:46:52.596243+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -69,11 +69,11 @@
             "ga": 0
           },
           "overall": {
-            "gp": 1,
-            "w": 0,
+            "gp": 2,
+            "w": 1,
             "l": 1,
             "t": 0,
-            "gf": 2,
+            "gf": 6,
             "ga": 3
           },
           "is_umaine": false
@@ -398,12 +398,12 @@
             "ga": 10
           },
           "overall": {
-            "gp": 6,
-            "w": 2,
+            "gp": 7,
+            "w": 3,
             "l": 3,
             "t": 1,
-            "gf": 18,
-            "ga": 22
+            "gf": 21,
+            "ga": 23
           },
           "is_umaine": false
         },
@@ -903,20 +903,11 @@
       "teams": [
         {
           "school": "Binghamton",
-          "conference": "3-0-1",
-          "conference_pct": ".875",
-          "overall": "7-2-3",
-          "pct": ".875",
-          "streak": "W3",
-          "is_umaine": false
-        },
-        {
-          "school": "UMBC",
-          "conference": "3-1",
-          "conference_pct": ".750",
-          "overall": "9-3-2",
-          "pct": ".750",
-          "streak": "W3",
+          "conference": "3-0-2",
+          "conference_pct": ".800",
+          "overall": "7-2-4",
+          "pct": ".800",
+          "streak": "T1",
           "is_umaine": false
         },
         {
@@ -925,6 +916,15 @@
           "conference_pct": ".750",
           "overall": "4-4-5",
           "pct": ".750",
+          "streak": "T1",
+          "is_umaine": false
+        },
+        {
+          "school": "UMBC",
+          "conference": "3-1-1",
+          "conference_pct": ".700",
+          "overall": "9-3-3",
+          "pct": ".700",
           "streak": "T1",
           "is_umaine": false
         },
