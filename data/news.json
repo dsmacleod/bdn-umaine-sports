@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-17T14:38:48.254343+00:00",
+  "last_updated": "2026-10-18T07:00:10.527720+00:00",
   "articles": [
+    {
+      "title": "Maine sweeps Rensselaer",
+      "url": "https://goblackbears.com/news/2026/10/17/womens-ice-hockey-maine-sweeps-rensselaer",
+      "summary": "The University of Maine women's hockey program defeated Rensselaer 3-1 in non-conference action at the Houston Field House Saturday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/17/IMG_8802.jpeg",
+      "published": "Sat, 17 Oct 2026 17:12:00 EST",
+      "sport": "Women's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Women's Swimming & Diving Sweeps Events vs. Maine Maritime Academy",
       "url": "https://goblackbears.com/news/2026/10/17/womens-swimming-and-diving-womens-swimming-diving-sweeps-events-vs-maine-maritime-academy",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2024/10/18/Welsh-action.png",
       "published": "Thu, 15 Oct 2026 23:00:00 EST",
       "sport": "Men's Swimming and Diving, Women's Swimming and Diving",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Football hosts Bryant for its Breast Cancer Awareness Game",
-      "url": "https://goblackbears.com/news/2026/10/15/preview-football-hosts-bryant-for-their-breast-cancer-awareness-game",
-      "summary": "The University of Maine football program is set to host Bryant on Saturday, Oct. 17 for their annual Breast Cancer Awareness Game and the student \"Stein Game\".",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/15/562A7928.jpg",
-      "published": "Thu, 15 Oct 2026 13:00:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -332,6 +332,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/2/Bowl_Seating_-_web.png",
       "published": "Fri, 3 Apr 2026 08:42:00 EST",
       "sport": "Football, Men's Basketball, Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Football hosts Bryant for its Breast Cancer Awareness Game",
+      "url": "https://goblackbears.com/news/2026/10/15/preview-football-hosts-bryant-for-their-breast-cancer-awareness-game",
+      "summary": "The University of Maine football program is set to host Bryant on Saturday, Oct. 17 for their annual Breast Cancer Awareness Game and the student \"Stein Game\".",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/15/562A7928.jpg",
+      "published": "Thu, 15 Oct 2026 13:00:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -902,6 +911,16 @@
       "image": "",
       "published": "Fri, 11 Sep 2026 05:00:00 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Bryant deals UMaine football a sixth straight loss",
+      "url": "https://www.bangordailynews.com/2026/10/17/sports/umaine-sports/bryant-deals-umaine-football-a-sixth-straight-loss/",
+      "summary": "UMaine is ranked last in the Coastal Athletic Association with averages of 14.5 points and 270.2 total yards per game.",
+      "image": "",
+      "published": "Sat, 17 Oct 2026 22:49:06 +0000",
+      "sport": "Sports",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
