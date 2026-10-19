@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-10-18T15:05:32.374182+00:00",
+  "last_updated": "2026-10-19T07:22:54.131931+00:00",
   "articles": [
+    {
+      "title": "Field Hockey falls to Northeastern",
+      "url": "https://goblackbears.com/news/2026/10/18/field-hockey-falls-to-northeastern",
+      "summary": "The University of Maine field hockey program fell to Northeastern on Sunday afternoon by a score of 3-1.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/1/562A0079.jpg",
+      "published": "Sun, 18 Oct 2026 18:28:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Meadows' brace powers women's soccer to win at UNH",
+      "url": "https://goblackbears.com/news/2026/10/18/womens-soccer-meadows-brace-powers-womens-soccer-to-win-at-unh",
+      "summary": "Isabella Meadows scored twice as Maine picked up a 2-1 win.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/18/AEM_202610182730.jpg",
+      "published": "Sun, 18 Oct 2026 16:17:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Macnamara leads Maine at ECAC Championships",
+      "url": "https://goblackbears.com/news/2026/10/17/womens-cross-country-macnamara-leads-maine-at-ecac-championships",
+      "summary": "The University of Maine women's cross country program finished 12th out of 26 teams at the ECAC Championships on Saturday afternoon with a total of 323 points.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/4/562A0643.jpg",
+      "published": "Sat, 17 Oct 2026 18:45:00 EST",
+      "sport": "Women's Cross Country",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Keller Leads Maine at IC4A Championships",
+      "url": "https://goblackbears.com/news/2026/10/17/mens-cross-country-keller-leads-maine-at-ic4a-championships",
+      "summary": "The University of Maine men's cross country program finished 17th at the IC4A Championships on Saturday afternoon with a total of 433 points.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/4/562A0831__1_.jpg",
+      "published": "Sat, 17 Oct 2026 18:30:00 EST",
+      "sport": "Men's Cross Country",
+      "source": "goblackbears"
+    },
     {
       "title": "Maine sweeps Rensselaer",
       "url": "https://goblackbears.com/news/2026/10/17/womens-ice-hockey-maine-sweeps-rensselaer",
@@ -56,39 +92,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "Hall of Fame Profile: Rich Miller\u2019s passion for diving produced numerous standouts during Hall of Fame career at UMaine",
-      "url": "https://goblackbears.com/news/2026/10/16/hall-of-fame-profile-rich-millers-passion-for-diving-produced-numerous-standouts-during-hall-of-fame-career-at-umaine",
-      "summary": "ORONO, Maine -- In 1972, Rich Miller received a call from Alan Switzer, who had recently been hired to lead the new swimming program at the University of Maine. He was looking for a diving coach.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/16/rich-miller-web.png",
-      "published": "Fri, 16 Oct 2026 13:44:00 EST",
-      "sport": "Men's Swimming and Diving, Women's Swimming and Diving, Hall of Fame",
-      "source": "goblackbears"
-    },
-    {
       "title": "Hall of Fame Profile: Hockey star Cory Larose \u2018stubborn enough to keep going\u2019 \u2014 all the way to the UMaine Sports Hall of Fame",
       "url": "https://goblackbears.com/news/2026/10/16/hall-of-fame-profile-hockey-star-cory-larose-stubborn-enough-to-keep-going-all-the-way-to-the-umaine-sports-hall-of-fame",
       "summary": "ORONO, Maine -- Cory Larose enjoyed a successful hockey career growing up on the banks of the famed Restigouche River in Campbellton, New Brunswick.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/16/Cory-Larose-action.png",
       "published": "Fri, 16 Oct 2026 13:20:00 EST",
       "sport": "Men's Ice Hockey, Hall of Fame",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Hall of Fame Profile: Defensive prowess set the tone for Spaniard Blanca Millan\u2019s Hall of Fame UMaine basketball career",
-      "url": "https://goblackbears.com/news/2026/10/16/hall-of-fame-profile-defensive-prowess-set-the-tone-for-spaniard-blanca-millans-hall-of-fame-umaine-basketball-career",
-      "summary": "ORONO, Maine -- Blanca Millan Modia knew she needed to play college basketball in the United States to prepare herself for a professional career in Europe. But she wasn't overly excited about the prospect.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2019/1/12/Millan_UAlbany.jpg",
-      "published": "Fri, 16 Oct 2026 10:55:00 EST",
-      "sport": "Women's Basketball, Hall of Fame",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Swim & Dive opens season Friday with Maine Maritime Academy",
-      "url": "https://goblackbears.com/news/2026/10/15/womens-swimming-and-diving-swim-dive-opens-season-friday-with-maine-maritime-academy",
-      "summary": "ORONO, Maine -- The University of Maine swimming & diving team will open its 2026-27 season on Friday evening when it hosts Maine Maritime Academy at 6 p.m. from Wallace Pool.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2024/10/18/Welsh-action.png",
-      "published": "Thu, 15 Oct 2026 23:00:00 EST",
-      "sport": "Men's Swimming and Diving, Women's Swimming and Diving",
       "source": "goblackbears"
     },
     {
@@ -170,6 +179,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/4/Starters.png",
       "published": "Sun, 4 Oct 2026 10:51:00 EST",
       "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Hall of Fame Profile: Defensive prowess set the tone for Spaniard Blanca Millan\u2019s Hall of Fame UMaine basketball career",
+      "url": "https://goblackbears.com/news/2026/10/16/hall-of-fame-profile-defensive-prowess-set-the-tone-for-spaniard-blanca-millans-hall-of-fame-umaine-basketball-career",
+      "summary": "ORONO, Maine -- Blanca Millan Modia knew she needed to play college basketball in the United States to prepare herself for a professional career in Europe. But she wasn't overly excited about the prospect.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2019/1/12/Millan_UAlbany.jpg",
+      "published": "Fri, 16 Oct 2026 10:55:00 EST",
+      "sport": "Women's Basketball, Hall of Fame",
       "source": "goblackbears"
     },
     {
