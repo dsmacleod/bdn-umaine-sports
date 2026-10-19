@@ -1,8 +1,26 @@
 {
-  "last_updated": "2026-10-19T07:22:54.131931+00:00",
+  "last_updated": "2026-10-19T17:57:15.655456+00:00",
   "articles": [
     {
-      "title": "Field Hockey falls to Northeastern",
+      "title": "Podewell, Sundby tabbed Hockey East award winners",
+      "url": "https://goblackbears.com/news/2026/10/19/womens-ice-hockey-podewell-sundby-tabbed-hockey-east-award-winners",
+      "summary": "Mackenzie Podewell and Kendall Sundby\u00a0of the University of Maine women's hockey program were announced as Hockey East weekly award winners, the conference announced on Monday.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/19/SunnyPodes.png",
+      "published": "Mon, 19 Oct 2026 13:00:00 EST",
+      "sport": "Women's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "America East tabs Meadows Co-Offensive Player of the Week",
+      "url": "https://goblackbears.com/news/2026/10/19/womens-soccer-america-east-tabs-meadows-co-offensive-player-of-the-week",
+      "summary": "Isabella Meadows scored twice for Maine in a win at UNH.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/19/562A8767.jpg",
+      "published": "Mon, 19 Oct 2026 11:00:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Field hockey falls to Northeastern",
       "url": "https://goblackbears.com/news/2026/10/18/field-hockey-falls-to-northeastern",
       "summary": "The University of Maine field hockey program fell to Northeastern on Sunday afternoon by a score of 3-1.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/1/562A0079.jpg",
@@ -38,6 +56,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "Football falls against Bryant on Saturday afternoon",
+      "url": "https://goblackbears.com/news/2026/10/17/football-falls-against-bryant-on-saturday-afternoon",
+      "summary": "The University of Maine football program was defeated by Bryant on Saturday afternoon, 17-14.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/19/562A3275.jpg",
+      "published": "Sat, 17 Oct 2026 18:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
       "title": "Maine sweeps Rensselaer",
       "url": "https://goblackbears.com/news/2026/10/17/womens-ice-hockey-maine-sweeps-rensselaer",
       "summary": "The University of Maine women's hockey program defeated Rensselaer 3-1 in non-conference action at the Houston Field House Saturday afternoon.",
@@ -62,33 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/9/23/Polzin.jpg",
       "published": "Sat, 17 Oct 2026 09:00:00 EST",
       "sport": "Men's Swimming and Diving",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Three points from Podewell helps Black Bears past Engineers",
-      "url": "https://goblackbears.com/news/2026/10/16/womens-ice-hockey-three-points-from-podewell-helps-black-bears-past-engineers",
-      "summary": "The University of Maine women's hockey program defeated\u00a0Rensselaer 5-3 in non-conference action at the Houston Field House Friday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/16/IMG_8219.jpg",
-      "published": "Fri, 16 Oct 2026 18:54:00 EST",
-      "sport": "Women's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Halkes, Kuefler lead field hockey to shutout victory at Bryant",
-      "url": "https://goblackbears.com/news/2026/10/16/field-hockey-halkes-kuefler-lead-field-hockey-to-shutout-victory-at-bryant",
-      "summary": "Halkes made a career-high 13 saves in the game.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/16/562A6792.jpg",
-      "published": "Fri, 16 Oct 2026 16:46:00 EST",
-      "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Hall of Fame Profile: Dominating pitchers, leadership, camaraderie propelled 1976 UMaine baseball team into the record books",
-      "url": "https://goblackbears.com/news/2026/10/16/hall-of-fame-dominating-pitchers-leadership-camaraderie-propelled-1976-umaine-baseball-team-into-the-record-books",
-      "summary": "ORONO, Maine -- The 1975 baseball season ended on a sour note for the University of Maine. Coach John Winkin's team came up one win shy of reaching the College World Series.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/16/1976-team-photo-web.png",
-      "published": "Fri, 16 Oct 2026 13:57:00 EST",
-      "sport": "Baseball, Hall of Fame",
       "source": "goblackbears"
     },
     {
@@ -430,15 +430,6 @@
       "summary": "The University of Maine football program put up a strong fight at FBS opponent, Boston College on Saturday afternoon, coming up just short in the comeback effort.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/19/DSC00417.jpg",
       "published": "Sat, 19 Sep 2026 17:16:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Football heads to Boston College for Saturday matchup",
-      "url": "https://goblackbears.com/news/2026/9/17/football-heads-to-boston-college-for-saturday-matchup",
-      "summary": "The University of Maine football program heads to Boston College on Saturday, Sept. 19.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/16/562A3666.jpg",
-      "published": "Thu, 17 Sep 2026 14:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
     },
