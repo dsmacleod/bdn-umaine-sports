@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-20T07:14:06.662143+00:00",
+  "last_updated": "2026-10-20T16:01:12.825350+00:00",
   "articles": [
+    {
+      "title": "Halkes tabbed America East Goalkeeper of the Week",
+      "url": "https://goblackbears.com/news/2026/10/20/field-hockey-halkes-tabbed-america-east-goalkeeper-of-the-week",
+      "summary": "University of Maine field hockey freshman Annabel Halkes has been named the America East Goalkeeper of the Week, as announced by the conference on Tuesday morning.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/8/562A1654.jpg",
+      "published": "Tue, 20 Oct 2026 11:00:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Women\u2019s soccer set for two-game week with Bryant, Binghamton",
       "url": "https://goblackbears.com/news/2026/10/19/womens-soccer-preview-womens-soccer-set-for-two-game-week-with-bryant-binghamton",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/4/562A0831__1_.jpg",
       "published": "Sat, 17 Oct 2026 18:30:00 EST",
       "sport": "Men's Cross Country",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football falls against Bryant on Saturday afternoon",
-      "url": "https://goblackbears.com/news/2026/10/17/football-falls-against-bryant-on-saturday-afternoon",
-      "summary": "The University of Maine football program was defeated by Bryant on Saturday afternoon, 17-14.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/19/562A3275.jpg",
-      "published": "Sat, 17 Oct 2026 18:00:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -341,6 +341,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/2/Bowl_Seating_-_web.png",
       "published": "Fri, 3 Apr 2026 08:42:00 EST",
       "sport": "Football, Men's Basketball, Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Football falls against Bryant on Saturday afternoon",
+      "url": "https://goblackbears.com/news/2026/10/17/football-falls-against-bryant-on-saturday-afternoon",
+      "summary": "The University of Maine football program was defeated by Bryant on Saturday afternoon, 17-14.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/19/562A3275.jpg",
+      "published": "Sat, 17 Oct 2026 18:00:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -765,7 +774,7 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "Turnovers were UMaine football\u2019s undoing as it loses its 6th straight",
+      "title": "Turnovers were UMaine football\u2019s undoing in its 6th-straight loss",
       "url": "https://www.bangordailynews.com/2026/10/20/sports/college-football/umaine-football-loses-6th-straight-joam40zk0w/",
       "summary": "Three lost fumbles, two by slotback/running back Nick Laughlin and another by quarterback Caden Drezek, proved costly.",
       "image": "",
