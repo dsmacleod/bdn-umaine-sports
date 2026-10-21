@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-21T07:09:03.486732+00:00",
+  "last_updated": "2026-10-21T16:17:59.697288+00:00",
   "articles": [
+    {
+      "title": "\"All We Got. All We Need.\" Episode 2 \"Captains\"",
+      "url": "https://goblackbears.com/news/2026/10/21/football-all-we-got-all-we-need-episode-2-captains",
+      "summary": "Episode 2 of \"All We Got. All We Need.\" focuses of the captains of the 2026 Black Bear football program, Anthony Iliano and Kye Pressley, along with what it means to be a captain for the Maine football program.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/9/Screenshot_2026-10-09_at_7.37.42_AM.png",
+      "published": "Wed, 21 Oct 2026 09:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Field Hockey travels to UMass Lowell",
       "url": "https://goblackbears.com/news/2026/10/20/preview-field-hockey-travels-to-umass-lowell",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/18/AEM_202610182730.jpg",
       "published": "Sun, 18 Oct 2026 16:17:00 EST",
       "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Macnamara leads Maine at ECAC Championships",
-      "url": "https://goblackbears.com/news/2026/10/17/womens-cross-country-macnamara-leads-maine-at-ecac-championships",
-      "summary": "The University of Maine women's cross country program finished 12th out of 26 teams at the ECAC Championships on Saturday afternoon with a total of 323 points.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/4/562A0643.jpg",
-      "published": "Sat, 17 Oct 2026 18:45:00 EST",
-      "sport": "Women's Cross Country",
       "source": "goblackbears"
     },
     {
@@ -421,15 +421,6 @@
       "summary": "The University of Maine athletics department is proud to once again bring to our service men and women its Military Appreciation Series, presented by General Dynamics Bath Iron Works.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/4/football-cheer-stadium-edit.png",
       "published": "Thu, 24 Sep 2026 08:00:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football has strong showing at FBS opponent Boston College on Saturday Afternoon",
-      "url": "https://goblackbears.com/news/2026/9/19/football-has-strong-showing-at-fbs-opponent-boston-college-on-saturday-afternoon",
-      "summary": "The University of Maine football program put up a strong fight at FBS opponent, Boston College on Saturday afternoon, coming up just short in the comeback effort.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/19/DSC00417.jpg",
-      "published": "Sat, 19 Sep 2026 17:16:00 EST",
       "sport": "Football",
       "source": "goblackbears"
     },
