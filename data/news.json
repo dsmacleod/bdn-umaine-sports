@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-21T16:17:59.697288+00:00",
+  "last_updated": "2026-10-22T07:11:24.009192+00:00",
   "articles": [
+    {
+      "title": "Women's Basketball to host Fairfield in Portland, tickets on sale now",
+      "url": "https://goblackbears.com/news/2026/10/21/womens-basketball-to-host-fairfield-in-portland-tickets-on-sale-now",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team will be taking its show on the road when it hosts Fairfield on Dec. 9 in Portland at the Portland Expo. Tip-off is set for 6 p.m. and tickets are on sale now.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/alvarez-action-2.png",
+      "published": "Wed, 21 Oct 2026 15:01:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "\"All We Got. All We Need.\" Episode 2 \"Captains\"",
       "url": "https://goblackbears.com/news/2026/10/21/football-all-we-got-all-we-need-episode-2-captains",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/1/562A0079.jpg",
       "published": "Sun, 18 Oct 2026 18:28:00 EST",
       "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Meadows' brace powers women's soccer to win at UNH",
-      "url": "https://goblackbears.com/news/2026/10/18/womens-soccer-meadows-brace-powers-womens-soccer-to-win-at-unh",
-      "summary": "Isabella Meadows scored twice as Maine picked up a 2-1 win.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/18/AEM_202610182730.jpg",
-      "published": "Sun, 18 Oct 2026 16:17:00 EST",
-      "sport": "Women's Soccer",
       "source": "goblackbears"
     },
     {
@@ -254,15 +254,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "WATCH: Morse Arena Summer Update - 2026",
-      "url": "https://goblackbears.com/news/2026/7/13/mens-basketball-watch-morse-arena-summer-update-2026",
-      "summary": "ORONO, Maine --\u00a0The future is taking shape! Every day brings new progress on Morse Arena and its neighboring lots, and we can't wait to welcome Black Bear Nation through the gates!",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/13/drone-summer-2026.png",
-      "published": "Mon, 13 Jul 2026 13:24:00 EST",
-      "sport": "Football, Men's Basketball, Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "Single game tickets for men's basketball are on sale",
       "url": "https://goblackbears.com/news/2026/9/29/mens-basketball-single-game-tickets-for-mens-basketball-are-on-sale",
       "summary": "Maine men's\u00a0basketball single game tickets are on sale now! All games in the 2026-27\u00a0season will take place at 'The Pit' inside Memorial Gymnasium on the campus of UMaine.",
@@ -305,6 +296,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/Ace_Flagg_1.24.26_vs_Binghamton_21_WRovH.jpg",
       "published": "Mon, 20 Jul 2026 10:00:00 EST",
       "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "WATCH: Morse Arena Summer Update - 2026",
+      "url": "https://goblackbears.com/news/2026/7/13/mens-basketball-watch-morse-arena-summer-update-2026",
+      "summary": "ORONO, Maine --\u00a0The future is taking shape! Every day brings new progress on Morse Arena and its neighboring lots, and we can't wait to welcome Black Bear Nation through the gates!",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/13/drone-summer-2026.png",
+      "published": "Mon, 13 Jul 2026 13:24:00 EST",
+      "sport": "Football, Men's Basketball, Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -423,6 +423,16 @@
       "published": "Thu, 24 Sep 2026 08:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
+    },
+    {
+      "title": "UMaine defenseman brings extensive pro experience to Black Bears",
+      "url": "https://www.bangordailynews.com/2026/10/22/sports/college-ice-hockey/umaine-hockey-defenseman-dru-krebs-joam40zk0w/",
+      "summary": "Dru Krebs\u2019 resume is different from most college hockey players'.",
+      "image": "",
+      "published": "Thu, 22 Oct 2026 05:00:00 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "Hockey transfer Lee Parks having immediate effect at UMaine with 3-game goals\u00a0streak",
@@ -613,16 +623,6 @@
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Ethan Andrews"
-    },
-    {
-      "title": "UMaine men\u2019s hockey focuses on work ethic, team chemistry during summer workouts",
-      "url": "https://www.bangordailynews.com/2026/07/20/sports/umaine-sports/umaine-mens-hockey-team-workouts-work-ethic-team-chemistry-joam40zk0w/",
-      "summary": "The team has 15 newcomers this season with a goal of returning the program to its blue-collar ideology and outwork-the-opponent mentality.",
-      "image": "",
-      "published": "Mon, 20 Jul 2026 05:00:00 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
     },
     {
       "title": "Top returning scorer for UMaine women\u2019s basketball is a \u2018real threat in America East\u2019",
