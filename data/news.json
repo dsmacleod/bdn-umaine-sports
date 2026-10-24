@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-23T16:06:52.771390+00:00",
+  "last_updated": "2026-10-24T06:55:12.372141+00:00",
   "articles": [
+    {
+      "title": "Men's hockey, Wickstr\u00f6m Stumer blank Colgate",
+      "url": "https://goblackbears.com/news/2026/10/23/mens-ice-hockey-mens-hockey-wickstr-m-stumer-blank-colgate",
+      "summary": "Wickstr&ouml;m Stumer made 24 saves as the Black Bears topped Colgate, 3-0.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/23/IMG_5994.jpg",
+      "published": "Fri, 23 Oct 2026 22:15:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Field Hockey falls to UMass Lowell in conference action",
+      "url": "https://goblackbears.com/news/2026/10/23/field-hockey-falls-to-umass-lowell-in-conference-action",
+      "summary": "The University of Maine field hockey program fell to UMass Lowell by a score of 4-1 on Friday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/9/DSC02552.jpg",
+      "published": "Fri, 23 Oct 2026 16:37:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Bulldogs get past Black Bears, 1-0",
       "url": "https://goblackbears.com/news/2026/10/22/womens-soccer-bulldogs-get-past-black-bears-1-0",
@@ -71,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/25/WSOC_Grisdale_uuavp.jpg",
       "published": "Mon, 19 Oct 2026 16:20:00 EST",
       "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Morrow, Tripp sweep Rookie of the Week honors",
-      "url": "https://goblackbears.com/news/2026/10/19/mens-cross-country-morrow-tripp-sweep-rookie-of-the-week-honors",
-      "summary": "University of Maine cross country freshmen Kai Morrow and Maggie Tripp have been named the America East Male and Female Rookies of the Week, respectively, as announced by the conference on Monday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/19/562A0854.jpeg",
-      "published": "Mon, 19 Oct 2026 15:00:00 EST",
-      "sport": "Men's Cross Country, Women's Cross Country",
       "source": "goblackbears"
     },
     {
@@ -160,15 +169,6 @@
       "summary": "Skate with the Bears returns Dec. 19!",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/25/Teddy_Bear_Toss_12_7_Stonehill_3.jpg",
       "published": "Tue, 6 Oct 2026 10:00:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Men's hockey set to host Quinnipiac in home opener",
-      "url": "https://goblackbears.com/news/2026/10/5/mens-ice-hockey-preview-maine-set-to-host-quinnipiac-in-home-opener",
-      "summary": "Maine and Quinnipiac will meet at 7 p.m. on both Friday, Oct. 9 and Saturday, Oct. 10 at Alfond Arena.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/2/Alfond_02_15_25_UNH_6.jpg",
-      "published": "Mon, 5 Oct 2026 13:00:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
     },
@@ -407,6 +407,16 @@
       "source": "goblackbears"
     },
     {
+      "title": "UMaine goalie Wickstrom Stumer shuts out Colgate",
+      "url": "https://www.bangordailynews.com/2026/10/23/sports/college-ice-hockey/umaine-goalie-wickstrom-stumer-shuts-out-colgate/",
+      "summary": "It was the second career shutout for the Canisius University transfer from Stockholm, Sweden.",
+      "image": "",
+      "published": "Sat, 24 Oct 2026 01:41:33 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine men\u2019s hockey hosting Colgate on Homecoming weekend",
       "url": "https://www.bangordailynews.com/2026/10/22/sports/college-ice-hockey/umaine-mens-hockey-homecoming-colgate-two-game-series/",
       "summary": "This will be the third time in four years the Black Bears and Raiders will be meeting for a two-game set in Orono.",
@@ -597,12 +607,12 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine men\u2019s hockey will play at Madison Square Garden for 1st time",
-      "url": "https://www.bangordailynews.com/2026/07/28/sports/college-ice-hockey/umaine-mens-hockey-madison-square-garden/",
-      "summary": "The Black Bears will face Cornell at the storied NYC arena on Saturday, Nov. 28.",
+      "title": "UMaine, Husson men\u2019s basketball facing off in exhibition game Sunday",
+      "url": "https://www.bangordailynews.com/2026/10/24/sports/college-basketball/umaine-husson-mens-basketball-exhibition-game-joam40zk0w/",
+      "summary": "The teams played an exhibition game a year ago at the Cross Insurance Center in Bangor, with UMaine triumphing 89-47.",
       "image": "",
-      "published": "Tue, 28 Jul 2026 18:17:17 +0000",
-      "sport": "College Ice Hockey",
+      "published": "Sat, 24 Oct 2026 05:00:00 +0000",
+      "sport": "College Basketball",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
@@ -747,12 +757,12 @@
       "author": "Matt Junker"
     },
     {
-      "title": "UMaine basketball\u2019s Adrianna Smith wins another player of the year award",
-      "url": "https://www.bangordailynews.com/2026/03/25/sports/college-basketball/umaine-basketball-adrianna-smith-player-of-the-year/",
-      "summary": "The 6-foot native of Reston, Virginia, finished the season as the America East leader in scoring, rebounding, assists, and double-doubles.",
+      "title": "UMaine football hosting Campbell for Homecoming game",
+      "url": "https://www.bangordailynews.com/2026/10/23/sports/college-football/umaine-football-campbell-university-homecoming-game-2026/",
+      "summary": "UMaine is 0-3 at home this season and facing a Campbell team that boasts one of the nation\u2019s most potent offenses.",
       "image": "",
-      "published": "Wed, 25 Mar 2026 19:16:16 +0000",
-      "sport": "College Basketball",
+      "published": "Fri, 23 Oct 2026 17:56:30 +0000",
+      "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
@@ -897,16 +907,6 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine football seeking rare win in home opener Saturday night",
-      "url": "https://www.bangordailynews.com/2026/09/12/sports/college-football/umaine-football-home-opener-saturday-joam40zk0w/",
-      "summary": "The Black Bears lost four of their last five home openers, including to heavy underdog Stonehill a year ago.",
-      "image": "",
-      "published": "Sat, 12 Sep 2026 05:00:00 +0000",
-      "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "Bryant deals UMaine football a sixth straight loss",
       "url": "https://www.bangordailynews.com/2026/10/17/sports/umaine-sports/bryant-deals-umaine-football-a-sixth-straight-loss/",
       "summary": "UMaine is ranked last in the Coastal Athletic Association with averages of 14.5 points and 270.2 total yards per game.",
@@ -923,16 +923,6 @@
       "image": "",
       "published": "Thu, 15 Oct 2026 18:17:28 +0000",
       "sport": "Professional Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine hockey rallies to upend No. 6 Quinnipiac",
-      "url": "https://www.bangordailynews.com/2026/10/10/sports/umaine-hockey-rallies-to-upend-no-6-quinnipiac/",
-      "summary": "The University of Maine rallied from a 3-2 deficit to edge sixth-ranked Quinnipiac 5-3 at Alfond Arena on Saturday night.",
-      "image": "",
-      "published": "Sun, 11 Oct 2026 02:00:22 +0000",
-      "sport": "Sports",
       "source": "bdn",
       "author": "Larry Mahoney"
     }

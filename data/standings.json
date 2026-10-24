@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T16:06:52.771390+00:00",
+  "last_updated": "2026-10-24T06:55:12.372141+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -19,12 +19,12 @@
             "ga": 3
           },
           "overall": {
-            "gp": 3,
-            "w": 1,
+            "gp": 4,
+            "w": 2,
             "l": 2,
             "t": 0,
-            "gf": 3,
-            "ga": 6
+            "gf": 5,
+            "ga": 7
           },
           "is_umaine": false
         },
@@ -79,8 +79,33 @@
           "is_umaine": false
         },
         {
+          "school": "Providence",
+          "rank": null,
+          "conference": {
+            "gp": 1,
+            "pts": 3,
+            "w": 1,
+            "l": 0,
+            "t": 0,
+            "ow": 0,
+            "ol": 0,
+            "sw": 0,
+            "gf": 3,
+            "ga": 0
+          },
+          "overall": {
+            "gp": 4,
+            "w": 4,
+            "l": 0,
+            "t": 0,
+            "gf": 16,
+            "ga": 4
+          },
+          "is_umaine": false
+        },
+        {
           "school": "UConn",
-          "rank": 4,
+          "rank": 5,
           "conference": {
             "gp": 1,
             "pts": 2,
@@ -119,18 +144,18 @@
             "ga": 3
           },
           "overall": {
-            "gp": 4,
-            "w": 2,
+            "gp": 5,
+            "w": 3,
             "l": 1,
             "t": 1,
-            "gf": 18,
-            "ga": 14
+            "gf": 20,
+            "ga": 15
           },
           "is_umaine": false
         },
         {
           "school": "New Hampshire",
-          "rank": 6,
+          "rank": 7,
           "conference": {
             "gp": 1,
             "pts": 1,
@@ -144,18 +169,18 @@
             "ga": 3
           },
           "overall": {
-            "gp": 4,
-            "w": 2,
+            "gp": 5,
+            "w": 3,
             "l": 1,
             "t": 1,
-            "gf": 12,
+            "gf": 13,
             "ga": 15
           },
           "is_umaine": false
         },
         {
           "school": "Boston College",
-          "rank": 7,
+          "rank": 8,
           "conference": {
             "gp": 0,
             "pts": 0,
@@ -169,12 +194,12 @@
             "ga": 0
           },
           "overall": {
-            "gp": 3,
+            "gp": 4,
             "w": 1,
-            "l": 2,
+            "l": 3,
             "t": 0,
-            "gf": 9,
-            "ga": 8
+            "gf": 11,
+            "ga": 13
           },
           "is_umaine": false
         },
@@ -194,11 +219,11 @@
             "ga": 0
           },
           "overall": {
-            "gp": 4,
-            "w": 2,
+            "gp": 5,
+            "w": 3,
             "l": 2,
             "t": 0,
-            "gf": 12,
+            "gf": 15,
             "ga": 9
           },
           "is_umaine": true
@@ -229,52 +254,27 @@
           "is_umaine": false
         },
         {
-          "school": "Providence",
-          "rank": null,
-          "conference": {
-            "gp": 0,
-            "pts": 0,
-            "w": 0,
-            "l": 0,
-            "t": 0,
-            "ow": 0,
-            "ol": 0,
-            "sw": 0,
-            "gf": 0,
-            "ga": 0
-          },
-          "overall": {
-            "gp": 3,
-            "w": 3,
-            "l": 0,
-            "t": 0,
-            "gf": 13,
-            "ga": 4
-          },
-          "is_umaine": false
-        },
-        {
           "school": "UMass Lowell",
           "rank": null,
           "conference": {
-            "gp": 0,
+            "gp": 1,
             "pts": 0,
             "w": 0,
-            "l": 0,
+            "l": 1,
             "t": 0,
             "ow": 0,
             "ol": 0,
             "sw": 0,
             "gf": 0,
-            "ga": 0
+            "ga": 3
           },
           "overall": {
-            "gp": 4,
+            "gp": 5,
             "w": 1,
-            "l": 3,
+            "l": 4,
             "t": 0,
             "gf": 12,
-            "ga": 14
+            "ga": 17
           },
           "is_umaine": false
         }
@@ -298,11 +298,11 @@
             "ga": 4
           },
           "overall": {
-            "gp": 4,
-            "w": 3,
+            "gp": 5,
+            "w": 4,
             "l": 1,
             "t": 0,
-            "gf": 27,
+            "gf": 29,
             "ga": 4
           },
           "is_umaine": false
@@ -323,11 +323,11 @@
             "ga": 3
           },
           "overall": {
-            "gp": 5,
-            "w": 3,
+            "gp": 6,
+            "w": 4,
             "l": 1,
             "t": 1,
-            "gf": 16,
+            "gf": 21,
             "ga": 8
           },
           "is_umaine": false
@@ -348,12 +348,12 @@
             "ga": 5
           },
           "overall": {
-            "gp": 6,
+            "gp": 7,
             "w": 1,
-            "l": 4,
+            "l": 5,
             "t": 1,
-            "gf": 7,
-            "ga": 19
+            "gf": 9,
+            "ga": 22
           },
           "is_umaine": false
         },
@@ -373,12 +373,12 @@
             "ga": 4
           },
           "overall": {
-            "gp": 6,
+            "gp": 7,
             "w": 3,
-            "l": 3,
+            "l": 4,
             "t": 0,
-            "gf": 12,
-            "ga": 15
+            "gf": 13,
+            "ga": 20
           },
           "is_umaine": false
         },
@@ -398,11 +398,11 @@
             "ga": 10
           },
           "overall": {
-            "gp": 8,
-            "w": 3,
+            "gp": 9,
+            "w": 4,
             "l": 4,
             "t": 1,
-            "gf": 23,
+            "gf": 29,
             "ga": 26
           },
           "is_umaine": false
@@ -423,12 +423,12 @@
             "ga": 5
           },
           "overall": {
-            "gp": 7,
+            "gp": 8,
             "w": 1,
             "l": 4,
-            "t": 2,
-            "gf": 13,
-            "ga": 22
+            "t": 3,
+            "gf": 14,
+            "ga": 23
           },
           "is_umaine": false
         },
@@ -473,11 +473,11 @@
             "ga": 5
           },
           "overall": {
-            "gp": 5,
-            "w": 1,
+            "gp": 6,
+            "w": 2,
             "l": 4,
             "t": 0,
-            "gf": 9,
+            "gf": 12,
             "ga": 16
           },
           "is_umaine": false
@@ -498,12 +498,12 @@
             "ga": 0
           },
           "overall": {
-            "gp": 6,
-            "w": 2,
+            "gp": 7,
+            "w": 3,
             "l": 4,
             "t": 0,
-            "gf": 17,
-            "ga": 18
+            "gf": 20,
+            "ga": 19
           },
           "is_umaine": false
         },
@@ -843,56 +843,56 @@
       "teams": [
         {
           "school": "UAlbany",
-          "conference": "2-1",
-          "conference_pct": ".667",
-          "overall": "8-5",
-          "pct": ".667",
-          "streak": "W5",
+          "conference": "3-1",
+          "conference_pct": ".750",
+          "overall": "9-5",
+          "pct": ".750",
+          "streak": "W6",
           "is_umaine": false
         },
         {
           "school": "UMass Lowell",
-          "conference": "2-1",
-          "conference_pct": ".667",
-          "overall": "8-7",
-          "pct": ".667",
-          "streak": "L1",
-          "is_umaine": false
-        },
-        {
-          "school": "Maine",
-          "conference": "2-1",
-          "conference_pct": ".667",
-          "overall": "7-7",
-          "pct": ".667",
-          "streak": "L1",
-          "is_umaine": true
-        },
-        {
-          "school": "New Hampshire",
-          "conference": "2-1",
-          "conference_pct": ".667",
-          "overall": "4-8",
-          "pct": ".667",
-          "streak": "L2",
+          "conference": "3-1",
+          "conference_pct": ".750",
+          "overall": "9-7",
+          "pct": ".750",
+          "streak": "W1",
           "is_umaine": false
         },
         {
           "school": "Vermont",
-          "conference": "1-2",
-          "conference_pct": ".333",
-          "overall": "10-4",
-          "pct": ".333",
+          "conference": "2-2",
+          "conference_pct": ".500",
+          "overall": "11-4",
+          "pct": ".500",
+          "streak": "W1",
+          "is_umaine": false
+        },
+        {
+          "school": "Maine",
+          "conference": "2-2",
+          "conference_pct": ".500",
+          "overall": "7-8",
+          "pct": ".500",
           "streak": "L2",
+          "is_umaine": true
+        },
+        {
+          "school": "New Hampshire",
+          "conference": "2-2",
+          "conference_pct": ".500",
+          "overall": "4-9",
+          "pct": ".500",
+          "streak": "L3",
           "is_umaine": false
         },
         {
           "school": "Bryant",
-          "conference": "0-3",
+          "conference": "0-4",
           "conference_pct": ".000",
-          "overall": "7-7",
+          "overall": "7-8",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "L1",
           "is_umaine": false
         }
       ]
