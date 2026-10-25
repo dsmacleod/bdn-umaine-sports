@@ -1,11 +1,61 @@
 {
-  "last_updated": "2026-10-24T15:03:25.687875+00:00",
+  "last_updated": "2026-10-25T07:19:25.362658+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
         {
-          "school": "Vermont",
+          "school": "Boston University",
           "rank": 1,
+          "conference": {
+            "gp": 4,
+            "pts": 6,
+            "w": 2,
+            "l": 2,
+            "t": 0,
+            "ow": 1,
+            "ol": 1,
+            "sw": 0,
+            "gf": 13,
+            "ga": 11
+          },
+          "overall": {
+            "gp": 6,
+            "w": 4,
+            "l": 2,
+            "t": 0,
+            "gf": 19,
+            "ga": 12
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Providence",
+          "rank": null,
+          "conference": {
+            "gp": 2,
+            "pts": 6,
+            "w": 2,
+            "l": 0,
+            "t": 0,
+            "ow": 0,
+            "ol": 0,
+            "sw": 0,
+            "gf": 8,
+            "ga": 2
+          },
+          "overall": {
+            "gp": 5,
+            "w": 5,
+            "l": 0,
+            "t": 0,
+            "gf": 21,
+            "ga": 6
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Vermont",
+          "rank": 3,
           "conference": {
             "gp": 2,
             "pts": 4,
@@ -29,33 +79,8 @@
           "is_umaine": false
         },
         {
-          "school": "Boston University",
-          "rank": 2,
-          "conference": {
-            "gp": 3,
-            "pts": 3,
-            "w": 1,
-            "l": 2,
-            "t": 0,
-            "ow": 1,
-            "ol": 1,
-            "sw": 0,
-            "gf": 7,
-            "ga": 8
-          },
-          "overall": {
-            "gp": 5,
-            "w": 3,
-            "l": 2,
-            "t": 0,
-            "gf": 13,
-            "ga": 9
-          },
-          "is_umaine": false
-        },
-        {
           "school": "Massachusetts",
-          "rank": null,
+          "rank": 4,
           "conference": {
             "gp": 1,
             "pts": 3,
@@ -69,37 +94,12 @@
             "ga": 1
           },
           "overall": {
-            "gp": 6,
-            "w": 2,
+            "gp": 7,
+            "w": 3,
             "l": 3,
             "t": 1,
-            "gf": 13,
-            "ga": 16
-          },
-          "is_umaine": false
-        },
-        {
-          "school": "Providence",
-          "rank": null,
-          "conference": {
-            "gp": 1,
-            "pts": 3,
-            "w": 1,
-            "l": 0,
-            "t": 0,
-            "ow": 0,
-            "ol": 0,
-            "sw": 0,
-            "gf": 3,
-            "ga": 0
-          },
-          "overall": {
-            "gp": 4,
-            "w": 4,
-            "l": 0,
-            "t": 0,
-            "gf": 16,
-            "ga": 4
+            "gf": 18,
+            "ga": 19
           },
           "is_umaine": false
         },
@@ -107,24 +107,24 @@
           "school": "UConn",
           "rank": 5,
           "conference": {
-            "gp": 1,
+            "gp": 2,
             "pts": 2,
             "w": 1,
-            "l": 0,
+            "l": 1,
             "t": 0,
             "ow": 1,
             "ol": 0,
             "sw": 0,
-            "gf": 5,
-            "ga": 4
+            "gf": 8,
+            "ga": 10
           },
           "overall": {
-            "gp": 5,
+            "gp": 6,
             "w": 3,
-            "l": 2,
+            "l": 3,
             "t": 0,
-            "gf": 14,
-            "ga": 16
+            "gf": 17,
+            "ga": 22
           },
           "is_umaine": false
         },
@@ -144,12 +144,12 @@
             "ga": 3
           },
           "overall": {
-            "gp": 5,
-            "w": 3,
+            "gp": 6,
+            "w": 4,
             "l": 1,
             "t": 1,
-            "gf": 20,
-            "ga": 15
+            "gf": 26,
+            "ga": 18
           },
           "is_umaine": false
         },
@@ -169,12 +169,12 @@
             "ga": 3
           },
           "overall": {
-            "gp": 5,
+            "gp": 6,
             "w": 3,
-            "l": 1,
+            "l": 2,
             "t": 1,
-            "gf": 13,
-            "ga": 15
+            "gf": 14,
+            "ga": 17
           },
           "is_umaine": false
         },
@@ -194,12 +194,12 @@
             "ga": 0
           },
           "overall": {
-            "gp": 4,
+            "gp": 5,
             "w": 1,
             "l": 3,
-            "t": 0,
-            "gf": 11,
-            "ga": 13
+            "t": 1,
+            "gf": 13,
+            "ga": 15
           },
           "is_umaine": false
         },
@@ -219,11 +219,11 @@
             "ga": 0
           },
           "overall": {
-            "gp": 5,
-            "w": 3,
+            "gp": 6,
+            "w": 4,
             "l": 2,
             "t": 0,
-            "gf": 15,
+            "gf": 18,
             "ga": 9
           },
           "is_umaine": true
@@ -257,24 +257,24 @@
           "school": "UMass Lowell",
           "rank": null,
           "conference": {
-            "gp": 1,
+            "gp": 2,
             "pts": 0,
             "w": 0,
-            "l": 1,
+            "l": 2,
             "t": 0,
             "ow": 0,
             "ol": 0,
             "sw": 0,
-            "gf": 0,
-            "ga": 3
+            "gf": 2,
+            "ga": 8
           },
           "overall": {
-            "gp": 5,
+            "gp": 6,
             "w": 1,
-            "l": 4,
+            "l": 5,
             "t": 0,
-            "gf": 12,
-            "ga": 17
+            "gf": 14,
+            "ga": 22
           },
           "is_umaine": false
         }
@@ -298,12 +298,12 @@
             "ga": 4
           },
           "overall": {
-            "gp": 5,
+            "gp": 6,
             "w": 4,
-            "l": 1,
+            "l": 2,
             "t": 0,
-            "gf": 29,
-            "ga": 4
+            "gf": 32,
+            "ga": 9
           },
           "is_umaine": false
         },
@@ -323,12 +323,12 @@
             "ga": 3
           },
           "overall": {
-            "gp": 6,
-            "w": 4,
+            "gp": 7,
+            "w": 5,
             "l": 1,
             "t": 1,
-            "gf": 21,
-            "ga": 8
+            "gf": 29,
+            "ga": 9
           },
           "is_umaine": false
         },
@@ -348,12 +348,12 @@
             "ga": 5
           },
           "overall": {
-            "gp": 7,
-            "w": 1,
+            "gp": 8,
+            "w": 2,
             "l": 5,
             "t": 1,
-            "gf": 9,
-            "ga": 22
+            "gf": 11,
+            "ga": 23
           },
           "is_umaine": false
         },
@@ -373,12 +373,12 @@
             "ga": 4
           },
           "overall": {
-            "gp": 7,
+            "gp": 8,
             "w": 3,
-            "l": 4,
+            "l": 5,
             "t": 0,
-            "gf": 13,
-            "ga": 20
+            "gf": 14,
+            "ga": 26
           },
           "is_umaine": false
         },
@@ -398,11 +398,11 @@
             "ga": 10
           },
           "overall": {
-            "gp": 9,
-            "w": 4,
+            "gp": 10,
+            "w": 5,
             "l": 4,
             "t": 1,
-            "gf": 29,
+            "gf": 32,
             "ga": 26
           },
           "is_umaine": false
@@ -423,12 +423,12 @@
             "ga": 5
           },
           "overall": {
-            "gp": 8,
-            "w": 1,
+            "gp": 9,
+            "w": 2,
             "l": 4,
             "t": 3,
-            "gf": 14,
-            "ga": 23
+            "gf": 16,
+            "ga": 24
           },
           "is_umaine": false
         },
@@ -473,11 +473,11 @@
             "ga": 5
           },
           "overall": {
-            "gp": 6,
-            "w": 2,
+            "gp": 7,
+            "w": 3,
             "l": 4,
             "t": 0,
-            "gf": 12,
+            "gf": 20,
             "ga": 16
           },
           "is_umaine": false
@@ -498,12 +498,12 @@
             "ga": 0
           },
           "overall": {
-            "gp": 7,
+            "gp": 8,
             "w": 3,
             "l": 4,
-            "t": 0,
-            "gf": 20,
-            "ga": 19
+            "t": 1,
+            "gf": 21,
+            "ga": 20
           },
           "is_umaine": false
         },
