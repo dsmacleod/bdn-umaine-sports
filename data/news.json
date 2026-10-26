@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-25T15:15:34.755713+00:00",
+  "last_updated": "2026-10-26T07:28:31.904984+00:00",
   "articles": [
+    {
+      "title": "PREVIEW: Men's hockey begins conference play at Boston University",
+      "url": "https://goblackbears.com/news/2026/10/25/mens-ice-hockey-preview-mens-hockey-begins-conference-play-at-boston-university",
+      "summary": "The Black Bears and Terriers will meet on Friday, Oct. 30 and Saturday, Oct. 31.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/25/IMG_4988.jpg",
+      "published": "Sun, 25 Oct 2026 15:26:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's soccer, Binghamton battle to 2-2 tie",
+      "url": "https://goblackbears.com/news/2026/10/25/womens-soccer-womens-soccer-binghamton-battle-to-2-2-tie",
+      "summary": "Aja Turner had one goal and one assist for Maine.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/25/DSC06107.jpg",
+      "published": "Sun, 25 Oct 2026 14:52:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
     {
       "title": "Men's hockey completes weekend sweep of Colgate",
       "url": "https://goblackbears.com/news/2026/10/24/mens-ice-hockey-mens-hockey-completes-weekend-sweep-of-colgate",
@@ -74,24 +92,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "\"All We Got. All We Need.\" Episode 2 \"Captains\"",
-      "url": "https://goblackbears.com/news/2026/10/21/football-all-we-got-all-we-need-episode-2-captains",
-      "summary": "Episode 2 of \"All We Got. All We Need.\" focuses of the captains of the 2026 Black Bear football program, Anthony Iliano and Kye Pressley, along with what it means to be a captain for the Maine football program.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/9/Screenshot_2026-10-09_at_7.37.42_AM.png",
-      "published": "Wed, 21 Oct 2026 09:00:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Field Hockey travels to UMass Lowell",
-      "url": "https://goblackbears.com/news/2026/10/20/preview-field-hockey-travels-to-umass-lowell",
-      "summary": "The University of Maine field hockey program will hit the road to face America East opponent UMass Lowell on Friday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/25/ZZZ00213-446.jpg",
-      "published": "Tue, 20 Oct 2026 11:11:00 EST",
-      "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
       "title": "PREVIEW: Men's hockey hosts Colgate on homecoming weekend",
       "url": "https://goblackbears.com/news/2026/10/19/mens-ice-hockey-preview-mens-hockey-hosts-colgate-on-homecoming-weekend",
       "summary": "Maine and Colgate will meet at 7 p.m. on Friday and Saturday at Alfond Arena.",
@@ -151,15 +151,6 @@
       "summary": "Go inside and behind the scenes of Maine men's ice hockey with 'Journey North'",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/8/JNS5_THUMBNAIL_EP1.jpg",
       "published": "Thu, 8 Oct 2026 13:00:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's Ice Hockey to hold 'Cancer Awareness Night', jersey auction",
-      "url": "https://goblackbears.com/news/2026/10/7/mens-ice-hockey-to-hold-cancer-awareness-night-jersey-auction",
-      "summary": "ORONO, Maine \u2013 The University of Maine and the Northern Light Eastern Maine Medical Center Lafayette Family Cancer Institute are proud to announce details of its 'Cancer Awareness Night' to be held on Saturday, Oct. 10 at Alfond Arena when the men's ice hockey team takes on Quinnipiac at 7 p.m.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/7/CTC-Auction-Image.png",
-      "published": "Wed, 7 Oct 2026 10:22:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
     },
@@ -323,6 +314,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/MDOG-splash-2026-website.png",
       "published": "Wed, 29 Apr 2026 00:00:00 EST",
       "sport": "Baseball, Field Hockey, Football, Men's Basketball, Men's Cross Country, Men's Ice Hockey, Men's Swimming and Diving, Men's Track and Field, Softball, Women's Basketball, Women's Cross Country, Women's Ice Hockey, Women's Soccer, Women's Swimming and Diving, Women's Track and Field, Alfond Fund",
+      "source": "goblackbears"
+    },
+    {
+      "title": "\"All We Got. All We Need.\" Episode 2 \"Captains\"",
+      "url": "https://goblackbears.com/news/2026/10/21/football-all-we-got-all-we-need-episode-2-captains",
+      "summary": "Episode 2 of \"All We Got. All We Need.\" focuses of the captains of the 2026 Black Bear football program, Anthony Iliano and Kye Pressley, along with what it means to be a captain for the Maine football program.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/9/Screenshot_2026-10-09_at_7.37.42_AM.png",
+      "published": "Wed, 21 Oct 2026 09:00:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
