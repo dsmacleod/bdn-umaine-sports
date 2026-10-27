@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-10-27T07:23:27.553037+00:00",
+  "last_updated": "2026-10-27T17:01:01.406603+00:00",
   "articles": [
+    {
+      "title": "PREVIEW: Cross Country to compete in America East Championships",
+      "url": "https://goblackbears.com/news/2026/10/27/womens-cross-country-preview-cross-country-to-compete-in-america-east-championships",
+      "summary": "The University of Maine cross country programs will compete in the America East Championships hosted by UAlbany on Saturday Oct. 30.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/4/562A0643.jpg",
+      "published": "Tue, 27 Oct 2026 11:25:00 EST",
+      "sport": "Men's Cross Country, Women's Cross Country",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: Maine hosts Vermont for Senior Day",
+      "url": "https://goblackbears.com/news/2026/10/27/field-hockey-preview-maine-hosts-vermont-for-senior-day",
+      "summary": "The University of Maine field hockey program will host Vermont for Senior Day. The game will be available to watch on America East and Fox 22 for local audiences.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/6/LindseyPellett-6992.jpg",
+      "published": "Tue, 27 Oct 2026 10:26:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: Black Bears, Friars open up Hockey East play",
+      "url": "https://goblackbears.com/news/2026/10/27/womens-ice-hockey-preview-black-bears-friars-open-up-hockey-east-play",
+      "summary": "The University of Maine women's hockey program returns home after a bye week to open up Hockey East play against Providence at Alfond Arena.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/16/IMG_8219.jpg",
+      "published": "Tue, 27 Oct 2026 09:24:00 EST",
+      "sport": "Women's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Men's hockey begins conference play at Boston University",
       "url": "https://goblackbears.com/news/2026/10/25/mens-ice-hockey-preview-mens-hockey-begins-conference-play-at-boston-university",
@@ -65,33 +92,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Men's basketball to hold open exhibition with Husson on Sunday afternoon",
-      "url": "https://goblackbears.com/news/2026/10/22/mens-basketball-preview-mens-basketball-to-hold-open-exhibition-with-husson-on-sunday-afternoon",
-      "summary": "The University of Maine men's basketball program is set to host Husson in an open exhibition on Sunday, Oct. 25 at 4:30 PM.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/Ace_Flagg_1.24.26_vs_Binghamton_21__1__vTdhr.jpg",
-      "published": "Thu, 22 Oct 2026 15:00:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Football hosts Campbell for Homecoming weekend",
-      "url": "https://goblackbears.com/news/2026/10/22/preview-football-hosts-campbell-for-homecoming-weekend",
-      "summary": "The University of Maine football program will play host to #13/16 Campbell on homecoming weekend in Orono on Saturday, Oct. 24.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/562A2679_RD4Si.jpg",
-      "published": "Thu, 22 Oct 2026 13:00:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's Basketball to host Fairfield in Portland, tickets on sale now",
-      "url": "https://goblackbears.com/news/2026/10/21/womens-basketball-to-host-fairfield-in-portland-tickets-on-sale-now",
-      "summary": "ORONO, Maine -- The University of Maine women's basketball team will be taking its show on the road when it hosts Fairfield on Dec. 9 in Portland at the Portland Expo. Tip-off is set for 6 p.m. and tickets are on sale now.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/alvarez-action-2.png",
-      "published": "Wed, 21 Oct 2026 15:01:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "PREVIEW: Men's hockey hosts Colgate on homecoming weekend",
       "url": "https://goblackbears.com/news/2026/10/19/mens-ice-hockey-preview-mens-hockey-hosts-colgate-on-homecoming-weekend",
       "summary": "Maine and Colgate will meet at 7 p.m. on Friday and Saturday at Alfond Arena.",
@@ -152,6 +152,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/8/JNS5_THUMBNAIL_EP1.jpg",
       "published": "Thu, 8 Oct 2026 13:00:00 EST",
       "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's Basketball to host Fairfield in Portland, tickets on sale now",
+      "url": "https://goblackbears.com/news/2026/10/21/womens-basketball-to-host-fairfield-in-portland-tickets-on-sale-now",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team will be taking its show on the road when it hosts Fairfield on Dec. 9 in Portland at the Portland Expo. Tip-off is set for 6 p.m. and tickets are on sale now.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/alvarez-action-2.png",
+      "published": "Wed, 21 Oct 2026 15:01:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -236,6 +245,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "PREVIEW: Men's basketball to hold open exhibition with Husson on Sunday afternoon",
+      "url": "https://goblackbears.com/news/2026/10/22/mens-basketball-preview-mens-basketball-to-hold-open-exhibition-with-husson-on-sunday-afternoon",
+      "summary": "The University of Maine men's basketball program is set to host Husson in an open exhibition on Sunday, Oct. 25 at 4:30 PM.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/Ace_Flagg_1.24.26_vs_Binghamton_21__1__vTdhr.jpg",
+      "published": "Thu, 22 Oct 2026 15:00:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
       "title": "Single game tickets for men's basketball are on sale",
       "url": "https://goblackbears.com/news/2026/9/29/mens-basketball-single-game-tickets-for-mens-basketball-are-on-sale",
       "summary": "Maine men's\u00a0basketball single game tickets are on sale now! All games in the 2026-27\u00a0season will take place at 'The Pit' inside Memorial Gymnasium on the campus of UMaine.",
@@ -317,6 +335,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "PREVIEW: Football hosts Campbell for Homecoming weekend",
+      "url": "https://goblackbears.com/news/2026/10/22/preview-football-hosts-campbell-for-homecoming-weekend",
+      "summary": "The University of Maine football program will play host to #13/16 Campbell on homecoming weekend in Orono on Saturday, Oct. 24.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/562A2679_RD4Si.jpg",
+      "published": "Thu, 22 Oct 2026 13:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
       "title": "\"All We Got. All We Need.\" Episode 2 \"Captains\"",
       "url": "https://goblackbears.com/news/2026/10/21/football-all-we-got-all-we-need-episode-2-captains",
       "summary": "Episode 2 of \"All We Got. All We Need.\" focuses of the captains of the 2026 Black Bear football program, Anthony Iliano and Kye Pressley, along with what it means to be a captain for the Maine football program.",
@@ -387,6 +414,16 @@
       "published": "Sat, 26 Sep 2026 17:17:00 EST",
       "sport": "Football",
       "source": "goblackbears"
+    },
+    {
+      "title": "UMaine goaltending duo pulls off rare feat with back-to-back shutouts",
+      "url": "https://www.bangordailynews.com/2026/10/27/sports/college-ice-hockey/umaine-mens-hockey-goalies-stumer-boija-colgate-shutouts/",
+      "summary": "It's just the third time in the program\u2019s 50-year history when the Black Bears swept a team with back-to-back shutouts with two different goalies.",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 16:07:47 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine goalie Wickstrom Stumer shuts out Colgate",
@@ -574,16 +611,6 @@
       "summary": "Graduate student left wing Owen Fowler was named UMaine's men\u2019s hockey captain, with senior centers Sully Scholle and Max Scott as assistants.",
       "image": "",
       "published": "Sun, 06 Sep 2026 18:19:55 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "New UMaine women\u2019s hockey coach has high expectations for the program",
-      "url": "https://www.bangordailynews.com/2026/07/29/sports/college-ice-hockey/umaine-womens-hockey-new-coach-alex-gettens/",
-      "summary": "Alex Gettens wants to turn the women's squad into an aggressive, in-your-face team.",
-      "image": "",
-      "published": "Wed, 29 Jul 2026 14:50:35 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
