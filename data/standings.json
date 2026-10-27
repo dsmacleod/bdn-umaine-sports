@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T17:54:06.506522+00:00",
+  "last_updated": "2026-10-27T07:23:27.553037+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -899,7 +899,7 @@
     },
     "wsoc": {
       "title": "2026 Women's Soccer Standings",
-      "notes": "x - clinched #AEWSOC Championship Berth<br />\r\nxy - clinched #AEWSOC Regular Season Championship",
+      "notes": "x - clinched #AEWSOC Championship berth<br />\r\ny - clinched #AEWSOC regular-season title",
       "teams": [
         {
           "school": "Binghamton -xy",
