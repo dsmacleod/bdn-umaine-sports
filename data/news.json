@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-29T08:06:37.801795+00:00",
+  "last_updated": "2026-10-29T17:46:18.912238+00:00",
   "articles": [
+    {
+      "title": "Preview: Football heads to Rhode Island for CAA matchup",
+      "url": "https://goblackbears.com/news/2026/10/29/preview-football-heads-to-rhode-island-for-caa-matchup",
+      "summary": "The University of Maine football program heads on the road for the first time in October as they take on Rhode Island on Saturday, Oct. 31.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/28/562A2950.jpg",
+      "published": "Thu, 29 Oct 2026 12:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Women's soccer wraps up regular season at UMBC",
       "url": "https://goblackbears.com/news/2026/10/27/womens-soccer-preview-womens-soccer-wraps-up-regular-season-at-umbc",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/23/IMG_5994.jpg",
       "published": "Fri, 23 Oct 2026 22:15:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Field Hockey falls to UMass Lowell in conference action",
-      "url": "https://goblackbears.com/news/2026/10/23/field-hockey-falls-to-umass-lowell-in-conference-action",
-      "summary": "The University of Maine field hockey program fell to UMass Lowell by a score of 4-1 on Friday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/9/DSC02552.jpg",
-      "published": "Fri, 23 Oct 2026 16:37:00 EST",
-      "sport": "Field Hockey",
       "source": "goblackbears"
     },
     {
@@ -407,13 +407,14 @@
       "source": "goblackbears"
     },
     {
-      "title": "Football falls at Elon",
-      "url": "https://goblackbears.com/news/2026/9/26/football-falls-at-elon",
-      "summary": "Elon, N.C. \u2013 The University of Maine football team (1-4, 1-1) dropped a 43-17 decision at Elon (4-1, 2-1) on Saturday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/26/Marshall-highlights.png",
-      "published": "Sat, 26 Sep 2026 17:17:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
+      "title": "UMaine men\u2019s hockey looking for its 1st win in 8 years at Boston\u00a0University",
+      "url": "https://www.bangordailynews.com/2026/10/29/sports/college-ice-hockey/umaine-mens-hockey-boston-university-agganis-arena-preview/",
+      "summary": "BU has won its last eight meetings with the Black Bears at Agganis Arena.",
+      "image": "",
+      "published": "Thu, 29 Oct 2026 17:36:36 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine goaltending duo pulls off rare feat with back-to-back shutouts",
@@ -601,16 +602,6 @@
       "summary": "The women\u2019s team, under first-year head coach Alex Gettens, was chosen to finish eighth in the 10-team league.",
       "image": "",
       "published": "Thu, 17 Sep 2026 19:01:49 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Fowler named UMaine hockey captain",
-      "url": "https://www.bangordailynews.com/2026/09/06/sports/college-ice-hockey/owen-fowler-umaine-hockey-captain/",
-      "summary": "Graduate student left wing Owen Fowler was named UMaine's men\u2019s hockey captain, with senior centers Sully Scholle and Max Scott as assistants.",
-      "image": "",
-      "published": "Sun, 06 Sep 2026 18:19:55 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
