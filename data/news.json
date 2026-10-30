@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-10-29T17:46:18.912238+00:00",
+  "last_updated": "2026-10-30T08:09:35.571657+00:00",
   "articles": [
+    {
+      "title": "Field Hockey Announces Ticket Information for America East Tournament",
+      "url": "https://goblackbears.com/news/2026/10/29/field-hockey-announces-ticket-information-for-america-east-tournament",
+      "summary": "The University of Maine field hockey team will host an America East semifinal matchup on Tuesday, November 3 at 3 p.m. at the UMaine Field Hockey Complex.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/9/DSC02552.jpg",
+      "published": "Thu, 29 Oct 2026 20:15:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine beats Vermont in shootout on senior day",
+      "url": "https://goblackbears.com/news/2026/10/29/field-hockey-maine-beats-vermont-in-shootout-on-senior-day",
+      "summary": "The University of Maine field hockey team defeated Vermont, 2-1, in a shootout victory on Thursday afternoon at the UMaine Field Hockey Complex.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/29/562A6818.jpg",
+      "published": "Thu, 29 Oct 2026 19:57:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Jack Cosgrove (\u201878, \u201881G) to be inducted into UMaine Football Ring of Honor, Nov. 21",
+      "url": "https://goblackbears.com/news/2026/10/29/jack-cosgrove-78-81g-to-be-inducted-into-umaine-football-ring-of-honor-nov-21",
+      "summary": "ORONO, Maine \u2013 The University of Maine will officially induct former head coach Jack Cosgrove ('78, '81G) into its prestigious Football Ring of Honor on Saturday, Nov. 21 when the Black Bears host New Hampshire at 1 p.m.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/29/Jack_Cosgrove_1433_1_-web-walk.png",
+      "published": "Thu, 29 Oct 2026 15:53:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
     {
       "title": "Preview: Football heads to Rhode Island for CAA matchup",
       "url": "https://goblackbears.com/news/2026/10/29/preview-football-heads-to-rhode-island-for-caa-matchup",
@@ -71,15 +98,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/24/IMG_9552.jpeg",
       "published": "Sat, 24 Oct 2026 22:22:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football falls to #13/16 Campbell on Saturday afternoon",
-      "url": "https://goblackbears.com/news/2026/10/24/football-falls-to-13-16-campbell-on-saturday-afternoon",
-      "summary": "The University of Maine football program fell to #13/16 Campbell on Saturday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/24/0Z8_9657.jpg",
-      "published": "Sat, 24 Oct 2026 16:53:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -335,6 +353,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "Football falls to #13/16 Campbell on Saturday afternoon",
+      "url": "https://goblackbears.com/news/2026/10/24/football-falls-to-13-16-campbell-on-saturday-afternoon",
+      "summary": "The University of Maine football program fell to #13/16 Campbell on Saturday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/24/0Z8_9657.jpg",
+      "published": "Sat, 24 Oct 2026 16:53:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
       "title": "PREVIEW: Football hosts Campbell for Homecoming weekend",
       "url": "https://goblackbears.com/news/2026/10/22/preview-football-hosts-campbell-for-homecoming-weekend",
       "summary": "The University of Maine football program will play host to #13/16 Campbell on homecoming weekend in Orono on Saturday, Oct. 24.",
@@ -398,13 +425,14 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Black Bears host Sacred Heart in CAA matchup",
-      "url": "https://goblackbears.com/news/2026/10/1/football-preview-black-bears-host-sacred-heart-in-caa-matchup",
-      "summary": "The University of Maine football program is set to host Sacred Heart on Saturday, Oct. 3 as part of Friends and Family weekend at UMaine.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/30/562A3635.jpg",
-      "published": "Thu, 1 Oct 2026 15:30:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
+      "title": "UMaine men\u2019s hockey defenseman has already outscored last season\u2019s goal\u00a0total",
+      "url": "https://www.bangordailynews.com/2026/10/29/sports/college-ice-hockey/loic-usereau-umaine-hockey-goals/",
+      "summary": "As a freshman defenseman, Loic Usereau scored two goals in 29 games. In UMaine's first six games, he already has three.",
+      "image": "",
+      "published": "Thu, 29 Oct 2026 18:38:58 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine men\u2019s hockey looking for its 1st win in 8 years at Boston\u00a0University",
@@ -592,16 +620,6 @@
       "summary": "The bears vs. bears game will benefit first responders, mill workers, families and others impacted by the Robbins Lumber mill explosion and fire.",
       "image": "",
       "published": "Fri, 18 Sep 2026 20:36:10 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine men\u2019s hockey picked 7th in Hockey East preseason coaches poll",
-      "url": "https://www.bangordailynews.com/2026/09/17/sports/college-ice-hockey/umaine-hockey-east-preseason-coaches-poll/",
-      "summary": "The women\u2019s team, under first-year head coach Alex Gettens, was chosen to finish eighth in the 10-team league.",
-      "image": "",
-      "published": "Thu, 17 Sep 2026 19:01:49 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
@@ -932,16 +950,6 @@
       "summary": "The Fighting Camels pummeled the Black Bears 35-6 to expand the home team's losing streak to seven games.",
       "image": "",
       "published": "Sat, 24 Oct 2026 22:43:58 +0000",
-      "sport": "Sports",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Bryant deals UMaine football a sixth straight loss",
-      "url": "https://www.bangordailynews.com/2026/10/17/sports/umaine-sports/bryant-deals-umaine-football-a-sixth-straight-loss/",
-      "summary": "UMaine is ranked last in the Coastal Athletic Association with averages of 14.5 points and 270.2 total yards per game.",
-      "image": "",
-      "published": "Sat, 17 Oct 2026 22:49:06 +0000",
       "sport": "Sports",
       "source": "bdn",
       "author": "Larry Mahoney"
