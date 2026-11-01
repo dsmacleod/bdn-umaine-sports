@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-01T08:48:48.774879+00:00",
+  "last_updated": "2026-11-01T17:24:03.229385+00:00",
   "articles": [
+    {
+      "title": "Women's Swimming & Diving falls at Vermont, 179-119",
+      "url": "https://goblackbears.com/news/2026/11/1/womens-swimming-and-diving-womens-swimming-diving-falls-at-vermont-179-119",
+      "summary": "BURLINGTON, Vt. \u2014 The University of Maine women's swimming and diving team earned three individual event wins Saturday in a 179\u2013119 loss to Vermont.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/1/Obszarny-web.png",
+      "published": "Sun, 1 Nov 2026 06:17:00 EST",
+      "sport": "Women's Swimming and Diving",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine Men's Swimming & Diving defeats Saint Michael's, 190-43",
+      "url": "https://goblackbears.com/news/2026/11/1/mens-swimming-and-diving-maine-mens-swimming-diving-defeats-saint-michaels-190-43",
+      "summary": "COLCHESTER, Vt. \u2014 The University of Maine men's swimming and diving team won all 13 events in a 190\u201343 victory over Saint Michael's College on Saturday, Oct. 31.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/1/Matos_2_-web.png",
+      "published": "Sun, 1 Nov 2026 06:05:00 EST",
+      "sport": "Men's Swimming and Diving",
+      "source": "goblackbears"
+    },
     {
       "title": "Men's hockey falls to #14/13 Boston University in OT",
       "url": "https://goblackbears.com/news/2026/10/31/mens-ice-hockey-terriers-sneak-past-black-bears-in-ot",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/30/wool-running-xc.png",
       "published": "Fri, 30 Oct 2026 11:36:00 EST",
       "sport": "Women's Cross Country",
-      "source": "goblackbears"
-    },
-    {
-      "title": "University of Maine announces promotions within student support services, student success, and compliance units",
-      "url": "https://goblackbears.com/news/2026/10/30/general-university-of-maine-announces-promotions-within-student-support-services-student-success-and-compliance-units",
-      "summary": "ORONO, Maine \u2013 Senior Associate Provost for Student Success and Innovation Scott Marzilli and Vice President and Director of Athletics Jude Killy have announced promotions within the University of Maine Athletics student support services, student success unit, and compliance.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/5/19/OakTree-26829637784_529f32a89a_k-1648x960.jpg",
-      "published": "Fri, 30 Oct 2026 11:20:00 EST",
-      "sport": "General",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Field hockey announces ticket information for America East Tournament",
-      "url": "https://goblackbears.com/news/2026/10/29/field-hockey-announces-ticket-information-for-america-east-tournament",
-      "summary": "The University of Maine field hockey team will host an America East semifinal match-up on Tuesday, November 3 at 3 p.m. at the UMaine Field Hockey Complex.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/9/DSC02552.jpg",
-      "published": "Thu, 29 Oct 2026 20:15:00 EST",
-      "sport": "Field Hockey",
       "source": "goblackbears"
     },
     {
@@ -425,6 +425,16 @@
       "source": "goblackbears"
     },
     {
+      "title": "BU men\u2019s hockey rallies with 3 unanswered goals to beat UMaine in OT",
+      "url": "https://www.bangordailynews.com/2026/11/01/sports/college-ice-hockey/boston-university-hockey-beat-umaine-saturday/",
+      "summary": "Boston University extended its home winning streak over the Black Bears to 10 games after defeating UMaine on Saturday night.",
+      "image": "",
+      "published": "Sun, 01 Nov 2026 11:31:10 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "BU hockey scores three goals in first 1:31, breezes to easy 7-2 win over UMaine",
       "url": "https://www.bangordailynews.com/2026/10/30/sports/college-ice-hockey/boston-university-hockey-beats-umaine/",
       "summary": "The teams will play again Saturday at 6 p.m.",
@@ -610,16 +620,6 @@
       "summary": "Boija lost his staring position last season and is now competing with two newcomers to UMaine for the starting goalie job this season.",
       "image": "",
       "published": "Thu, 24 Sep 2026 05:00:00 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine men\u2019s hockey will enter the season outside top 20 in national poll",
-      "url": "https://www.bangordailynews.com/2026/09/21/sports/college-ice-hockey/umaine-mens-hockey-national-poll/",
-      "summary": "The Black Bears posted a 18-14-3 overall record last season, going 12-11-1 in Hockey East.",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 21:10:11 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
