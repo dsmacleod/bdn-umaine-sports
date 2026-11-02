@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-01T17:24:03.229385+00:00",
+  "last_updated": "2026-11-02T08:57:14.505247+00:00",
   "articles": [
+    {
+      "title": "Preview: Men's Basketball opens up 2026-27 season at Providence on Monday night",
+      "url": "https://goblackbears.com/news/2026/11/1/preview-mens-basketball-opens-up-2026-27-season-at-providence-on-monday-night",
+      "summary": "The University of Maine men's basketball program will begin the 2026-27 season on Monday night as they travel to Providence.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/18/Caleb_Crawford_1.24.26_vs_Binghamton_2.jpg",
+      "published": "Sun, 1 Nov 2026 16:00:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's soccer tops UMBC in regular season finale",
+      "url": "https://goblackbears.com/news/2026/11/1/womens-soccer-womens-soccer-tops-umbc-in-regular-season-finale",
+      "summary": "With the win, Maine clinched a spot in the America East Championship.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/1/_PEV8592.jpg",
+      "published": "Sun, 1 Nov 2026 15:16:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
     {
       "title": "Women's Swimming & Diving falls at Vermont, 179-119",
       "url": "https://goblackbears.com/news/2026/11/1/womens-swimming-and-diving-womens-swimming-diving-falls-at-vermont-179-119",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/30/DSC07183.jpeg",
       "published": "Fri, 30 Oct 2026 20:38:00 EST",
       "sport": "Women's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's Cross Country fifth at America East Championships",
-      "url": "https://goblackbears.com/news/2026/10/30/mens-cross-country-fifth-at-america-east-championships",
-      "summary": "ALBANY, N.Y. -- The University of Maine men's cross country team placed fifth with 154 points at the 2026 America East Cross Country Championships. UMass Lowell won the event with 49 points.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/30/ethan-keller-webpng.png",
-      "published": "Fri, 30 Oct 2026 13:12:00 EST",
-      "sport": "Men's Cross Country",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's Cross Country runners-up at America East Championships",
-      "url": "https://goblackbears.com/news/2026/10/30/womens-cross-country-runners-up-at-america-east-championships",
-      "summary": "ALBANY, N.Y. -- The University of Maine women's cross country team placed second at the 2026 America East Championships with 69 points. The Black Bears finished just eight points shy of repeating as America East Champions, with Vermont capturing the title at 61 points.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/30/wool-running-xc.png",
-      "published": "Fri, 30 Oct 2026 11:36:00 EST",
-      "sport": "Women's Cross Country",
       "source": "goblackbears"
     },
     {
@@ -332,15 +332,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/2/1/Chris_Mantis_11_04_Duke_12.jpg",
       "published": "Wed, 1 Jul 2026 09:00:00 EST",
       "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Support the Black Bears on today's Maine Day of Giving!",
-      "url": "https://goblackbears.com/news/2026/4/29/alfond-fund-support-the-black-bears-on-todays-maine-day-of-giving",
-      "summary": "Maine Athletics thanks you in advance for your contributions to today's annual Maine Day of Giving!",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/MDOG-splash-2026-website.png",
-      "published": "Wed, 29 Apr 2026 00:00:00 EST",
-      "sport": "Baseball, Field Hockey, Football, Men's Basketball, Men's Cross Country, Men's Ice Hockey, Men's Swimming and Diving, Men's Track and Field, Softball, Women's Basketball, Women's Cross Country, Women's Ice Hockey, Women's Soccer, Women's Swimming and Diving, Women's Track and Field, Alfond Fund",
       "source": "goblackbears"
     },
     {
@@ -931,6 +922,16 @@
       "image": "",
       "published": "Sat, 19 Sep 2026 23:07:38 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Former UMaine quarterback Joe Fagnano makes NFL debut for Ravens",
+      "url": "https://www.bangordailynews.com/2026/11/01/sports/professional-football/former-umaine-quarterback-joe-fagnano-nfl-debut-ravens/",
+      "summary": "Lamar Jackson suffered a thumb injury on his first throw, and backup Tyler Huntley sustained a toe injury early in the second quarter.",
+      "image": "",
+      "published": "Mon, 02 Nov 2026 00:12:49 +0000",
+      "sport": "Professional Football",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
