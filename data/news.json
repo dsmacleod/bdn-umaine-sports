@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-11-04T08:41:59.030658+00:00",
+  "last_updated": "2026-11-04T19:03:57.154603+00:00",
   "articles": [
+    {
+      "title": "Reinwald named America East Midfielder of the Year, four other Black Bears honored",
+      "url": "https://goblackbears.com/news/2026/11/4/womens-soccer-reinwald-named-america-east-midfielder-of-the-year-four-other-black-bears-honored",
+      "summary": "Luise Reinwald was named the America East Midfielder of the Year and was joined on the First Team by three others.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/3/_PEV9126.jpg",
+      "published": "Wed, 4 Nov 2026 12:00:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Women's Basketball hosts Siena in season opener",
       "url": "https://goblackbears.com/news/2026/11/3/preview-womens-basketball-hosts-siena-in-season-opener",
@@ -80,15 +89,6 @@
       "image": "",
       "published": "Sun, 1 Nov 2026 22:31:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Preview: Men's Basketball opens up 2026-27 season at Providence on Monday night",
-      "url": "https://goblackbears.com/news/2026/11/1/preview-mens-basketball-opens-up-2026-27-season-at-providence-on-monday-night",
-      "summary": "The University of Maine men's basketball program will begin the 2026-27 season on Monday night as they travel to Providence.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/18/Caleb_Crawford_1.24.26_vs_Binghamton_2.jpg",
-      "published": "Sun, 1 Nov 2026 16:00:00 EST",
-      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -233,6 +233,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/30/streams-dribble-BU.png",
       "published": "Wed, 22 Jul 2026 12:06:00 EST",
       "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Preview: Men's Basketball opens up 2026-27 season at Providence on Monday night",
+      "url": "https://goblackbears.com/news/2026/11/1/preview-mens-basketball-opens-up-2026-27-season-at-providence-on-monday-night",
+      "summary": "The University of Maine men's basketball program will begin the 2026-27 season on Monday night as they travel to Providence.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/18/Caleb_Crawford_1.24.26_vs_Binghamton_2.jpg",
+      "published": "Sun, 1 Nov 2026 16:00:00 EST",
+      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -598,6 +607,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "UMaine\u2019s Spanish point guard looking forward to season after impactful freshman campaign",
+      "url": "https://www.bangordailynews.com/2026/11/04/sports/college-basketball/umaine-point-guard-olivia-alvarez/",
+      "summary": "Olivia Alvarez is taking the position held by Asta Blauenfeldt, who has moved to shooting guard.",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 15:00:00 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "Providence men\u2019s basketball pulls away from UMaine for season-opening win",
       "url": "https://www.bangordailynews.com/2026/11/03/sports/college-basketball/providence-mens-basketball-umaine/",
       "summary": "Freshman guard Hudson Franz led UMaine and netted a team-high 13 points to go with three rebounds.",
@@ -746,16 +765,6 @@
       "sport": "College Basketball",
       "source": "bdn",
       "author": "Larry Mahoney"
-    },
-    {
-      "title": "Here\u2019s what UMaine\u2019s basketball court will look like in new $80 million arena",
-      "url": "https://www.bangordailynews.com/2026/04/03/sports/college/umaine-basketball-80-million-remodel/",
-      "summary": "The facility is expected to be completed and in use during the 2027-28 basketball season. Construction began this past fall.",
-      "image": "",
-      "published": "Fri, 03 Apr 2026 21:33:28 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Matt Junker"
     },
     {
       "title": "Blocked extra point in OT proves costly as UMaine football loses 8th-straight",
@@ -918,6 +927,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "Albany rallies to edge UMaine field hockey in America East semifinal shootout",
+      "url": "https://www.bangordailynews.com/2026/11/04/sports/college-field-hockey/umaine-field-hockey-albany-semifinal-america-east/",
+      "summary": "Albany, 11-6, will host 14-5 Vermont in the title game at 2 p.m. Friday.",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 18:37:06 +0000",
+      "sport": "College Field Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "Cyr\u2019s 2 goals rally Fort Kent boys soccer to C North title game win over Orono",
       "url": "https://www.bangordailynews.com/2026/11/03/sports/high-school-soccer/fort-kent-boys-soccer-c-north-title-game-win-over-orono/",
       "summary": "Fort Kent, now 10-6-1, will take on 16-1 Hall-Dale of Farmingdale in Saturday\u2019s Class C state championship game in Lewiston.",
@@ -954,26 +973,6 @@
       "image": "",
       "published": "Mon, 02 Nov 2026 00:12:49 +0000",
       "sport": "Professional Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine blanks Colgate 3-0 again\u00a0to complete weekend hockey sweep",
-      "url": "https://www.bangordailynews.com/2026/10/24/sports/umaine-blanks-colgate-3-0-again-to-complete-weekend-hockey-sweep/",
-      "summary": "Senior goalie Albin Boija made 17 saves to complete the weekend sweep of Colgate.",
-      "image": "",
-      "published": "Sun, 25 Oct 2026 01:48:58 +0000",
-      "sport": "Sports",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Campbell routs UMaine 35-6, ending Black Bears\u2019 9-game homecoming\u00a0win streak",
-      "url": "https://www.bangordailynews.com/2026/10/24/sports/campbell-routs-umaine-homecoming-game-orono/",
-      "summary": "The Fighting Camels pummeled the Black Bears 35-6 to expand the home team's losing streak to seven games.",
-      "image": "",
-      "published": "Sat, 24 Oct 2026 22:43:58 +0000",
-      "sport": "Sports",
       "source": "bdn",
       "author": "Larry Mahoney"
     }

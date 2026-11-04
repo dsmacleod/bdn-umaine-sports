@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T08:41:59.030658+00:00",
+  "last_updated": "2026-11-04T19:03:57.154603+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -845,9 +845,9 @@
           "school": "UMass Lowell",
           "conference": "4-1",
           "conference_pct": ".800",
-          "overall": "10-8",
+          "overall": "10-9",
           "pct": ".800",
-          "streak": "L1",
+          "streak": "L2",
           "is_umaine": false
         },
         {
@@ -881,9 +881,9 @@
           "school": "Vermont",
           "conference": "2-3",
           "conference_pct": ".400",
-          "overall": "13-5",
+          "overall": "14-5",
           "pct": ".400",
-          "streak": "W2",
+          "streak": "W3",
           "is_umaine": false
         },
         {
