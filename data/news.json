@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-03T18:48:40.503330+00:00",
+  "last_updated": "2026-11-04T08:41:59.030658+00:00",
   "articles": [
+    {
+      "title": "PREVIEW: Women's Basketball hosts Siena in season opener",
+      "url": "https://goblackbears.com/news/2026/11/3/preview-womens-basketball-hosts-siena-in-season-opener",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team begins its\u00a063rd season of competition on Thursday evening at 6 p.m. when it hosts Siena in the first meeting between the two teams since 2012.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/4/gruber-pass.png",
+      "published": "Tue, 3 Nov 2026 23:26:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Field Hockey falls to UAlbany in semifinal shootout",
+      "url": "https://goblackbears.com/news/2026/11/3/field-hockey-falls-to-ualbany-in-semifinal-shootout",
+      "summary": "ORONO, Maine -- The No. 2 seeded University of Maine field hockey team dropped a 2-1 decision to No. 3 UAlbany, following a 2-1 edge in a shootout by the Great Danes, in the America East semifinal round on Tuesday at the Maine Field Hockey Complex.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/3/Chisolm-semifinal.png",
+      "published": "Tue, 3 Nov 2026 21:42:00 EST",
+      "sport": "Field Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Women's Basketball 2026-27 promotional scheduled announced",
       "url": "https://goblackbears.com/news/2026/11/2/womens-basketball-2026-27-promotional-scheduled-announced",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/18/Caleb_Crawford_1.24.26_vs_Binghamton_2.jpg",
       "published": "Sun, 1 Nov 2026 16:00:00 EST",
       "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's soccer tops UMBC in regular season finale",
-      "url": "https://goblackbears.com/news/2026/11/1/womens-soccer-womens-soccer-tops-umbc-in-regular-season-finale",
-      "summary": "With the win, Maine clinched a spot in the America East Championship.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/1/_PEV8592.jpg",
-      "published": "Sun, 1 Nov 2026 15:16:00 EST",
-      "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's Swimming & Diving falls at Vermont, 179-119",
-      "url": "https://goblackbears.com/news/2026/11/1/womens-swimming-and-diving-womens-swimming-diving-falls-at-vermont-179-119",
-      "summary": "BURLINGTON, Vt. \u2014 The University of Maine women's swimming and diving team earned three individual event wins Saturday in a 179\u2013119 loss to Vermont.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/1/Obszarny-web.png",
-      "published": "Sun, 1 Nov 2026 06:17:00 EST",
-      "sport": "Women's Swimming and Diving",
       "source": "goblackbears"
     },
     {
@@ -232,15 +232,6 @@
       "summary": "ORONO, Maine -- The University of Maine women's basketball team announced its non-conference schedule on Wednesday. The Black Bears will host seven non-conference games, including one in Portland, Maine, and officially tip-off the 2026-27 season on Nov. 5 in Orono.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/30/streams-dribble-BU.png",
       "published": "Wed, 22 Jul 2026 12:06:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's Basketball tabbed 7th in WBCA Academic Top 25 Team Honor Roll",
-      "url": "https://goblackbears.com/news/2026/7/21/womens-basketball-tabbed-7th-in-wbca-academic-top-25-team-honor-roll",
-      "summary": "ORONO, Maine -- The University of Maine women's basketball team checked in seventh in the 2025-26 Women's Basketball Coaches Association Academic Top 25 Team Honor Rolls, as announced by the WBCA on Tuesday, July 21. The Black Bears finished seventh among NCAA Division I members with a 3.777 cumulative team grade point average.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/27/wbb-huddle-stonehill.png",
-      "published": "Tue, 21 Jul 2026 13:38:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
     },
@@ -405,6 +396,16 @@
       "published": "Fri, 9 Oct 2026 10:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
+    },
+    {
+      "title": "UMaine hockey\u2019s performance in OT loss was encouraging after Friday\u2019s embarrassment",
+      "url": "https://www.bangordailynews.com/2026/11/03/sports/college-ice-hockey/umaine-hockey-performance-ot-loss-encouraging-friday-embarrassment/",
+      "summary": "\"You hadn\u2019t even cracked open a beer or unscrewed the cap to your soda and the University of Maine\u2019s hockey team was trailing Boston University 3-0.\"",
+      "image": "",
+      "published": "Tue, 03 Nov 2026 19:37:40 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "Former UMaine hockey goaltender Sean Romeo dies at age 31",
@@ -597,12 +598,12 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "New coach, UMaine women\u2019s ice hockey team hosting Quinnipiac this weekend",
-      "url": "https://www.bangordailynews.com/2026/09/24/sports/college-ice-hockey/new-coach-umaine-womens-ice-hockey-quinnipiac/",
-      "summary": "Alex Gettens will make his official head coaching debut in a pair of games at Alfond Arena in Orono.",
+      "title": "Providence men\u2019s basketball pulls away from UMaine for season-opening win",
+      "url": "https://www.bangordailynews.com/2026/11/03/sports/college-basketball/providence-mens-basketball-umaine/",
+      "summary": "Freshman guard Hudson Franz led UMaine and netted a team-high 13 points to go with three rebounds.",
       "image": "",
-      "published": "Thu, 24 Sep 2026 19:13:15 +0000",
-      "sport": "College Ice Hockey",
+      "published": "Tue, 03 Nov 2026 19:24:18 +0000",
+      "sport": "College Basketball",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
@@ -913,6 +914,16 @@
       "image": "",
       "published": "Sat, 19 Sep 2026 23:07:38 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Cyr\u2019s 2 goals rally Fort Kent boys soccer to C North title game win over Orono",
+      "url": "https://www.bangordailynews.com/2026/11/03/sports/high-school-soccer/fort-kent-boys-soccer-c-north-title-game-win-over-orono/",
+      "summary": "Fort Kent, now 10-6-1, will take on 16-1 Hall-Dale of Farmingdale in Saturday\u2019s Class C state championship game in Lewiston.",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 02:15:38 +0000",
+      "sport": "High School Soccer",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
