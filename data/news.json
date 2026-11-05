@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-11-05T09:01:48.063137+00:00",
+  "last_updated": "2026-11-05T19:14:06.337261+00:00",
   "articles": [
+    {
+      "title": "PREVIEW: Men's Basketball takes on Sacred Heart in the America East-Metro Challenge",
+      "url": "https://goblackbears.com/news/2026/11/4/preview-mens-basketball-takes-on-sacred-heart-in-the-america-east-metro-challenge",
+      "summary": "The University of Maine men's basketball program heads to Sacred Heart on Thursday night as part of the America East-Metro Challenge.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/5/562A5092.jpg",
+      "published": "Wed, 4 Nov 2026 16:00:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Maine heads to Boston University for Hockey East action",
       "url": "https://goblackbears.com/news/2026/11/4/womens-ice-hockey-preview-maine-heads-to-boston-university-for-hockey-east-action",
@@ -95,7 +104,7 @@
       "title": "PREVIEW: Men's hockey hosts UMass for two-game Hockey East set",
       "url": "https://goblackbears.com/news/2026/11/1/mens-ice-hockey-preview-mens-hockey-hosts-umass-for-two-game-set",
       "summary": "Maine and UMass will meet at Alfond Arena on Friday, Nov. 6 and Saturday, Nov. 7.",
-      "image": "",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/31/IMG_5082.jpg",
       "published": "Sun, 1 Nov 2026 22:31:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
@@ -314,15 +323,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/13/drone-summer-2026.png",
       "published": "Mon, 13 Jul 2026 13:24:00 EST",
       "sport": "Football, Men's Basketball, Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's Basketball to take on Sacred Heart, Manhattan in Inaugural America East \u2013 Metro Challenge",
-      "url": "https://goblackbears.com/news/2026/7/1/mens-basketball-to-take-on-sacred-heart-manhattan-in-inaugural-america-east-metro-challenge",
-      "summary": "ORONO, Maine -- The America East Conference and Metro Conference announced the participating schools and the full schedule of games for the inaugural America East \u2013 Metro Basketball Challenge, set for the start of the 2026 men's basketball seasons.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/26/Ace_Flagg_1_3_26_vs_Bryant_3.jpg",
-      "published": "Wed, 1 Jul 2026 09:54:00 EST",
-      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
