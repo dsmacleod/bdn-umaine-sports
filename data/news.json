@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-06T08:58:07.988163+00:00",
+  "last_updated": "2026-11-06T18:40:27.283292+00:00",
   "articles": [
+    {
+      "title": "PREVIEW: Women's soccer set to battle Bryant in America East semifinal",
+      "url": "https://goblackbears.com/news/2026/11/6/womens-soccer-preview-womens-soccer-set-to-battle-bryant-in-america-east-semifinal",
+      "summary": "Maine and Bryant will meet Sunday afternoon in Rhode Island.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/562A8399.jpg",
+      "published": "Fri, 6 Nov 2026 12:06:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Men's basketball announces 2026-27 promotional schedule",
+      "url": "https://goblackbears.com/news/2026/11/6/mens-basketball-mens-basketball-announces-2026-27-promotional-schedule",
+      "summary": "The University of Maine men's basketball program has announced their 2026-27 promotional schedule.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/5/562A5337.jpg",
+      "published": "Fri, 6 Nov 2026 09:00:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "Women\u2019s soccer defeats UAlbany, advances to America East semifinal",
       "url": "https://goblackbears.com/news/2026/11/5/womens-soccer-womens-soccer-defeats-ualbany-advances-to-america-east-semifinal",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/3/Chisolm-semifinal.png",
       "published": "Tue, 3 Nov 2026 21:42:00 EST",
       "sport": "Field Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's Basketball 2026-27 promotional scheduled announced",
-      "url": "https://goblackbears.com/news/2026/11/2/womens-basketball-2026-27-promotional-scheduled-announced",
-      "summary": "ORONO, Maine -- University of Maine athletics has announced the 2026-27 women's basketball promotional schedule.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/bench-excitemet-wbb.png",
-      "published": "Mon, 2 Nov 2026 23:18:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's basketball falls in season opener at Providence on Monday night",
-      "url": "https://goblackbears.com/news/2026/11/2/mens-basketball-mens-basketball-falls-in-season-opener-at-providence-on-monday-night",
-      "summary": "The University of Maine men's basketball program was defeated by Providence College on opening night.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/DSC07378.jpg",
-      "published": "Mon, 2 Nov 2026 21:16:00 EST",
-      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -182,6 +182,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "Women's Basketball 2026-27 promotional scheduled announced",
+      "url": "https://goblackbears.com/news/2026/11/2/womens-basketball-2026-27-promotional-scheduled-announced",
+      "summary": "ORONO, Maine -- University of Maine athletics has announced the 2026-27 women's basketball promotional schedule.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/bench-excitemet-wbb.png",
+      "published": "Mon, 2 Nov 2026 23:18:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
       "title": "Women's Basketball to host Fairfield in Portland, tickets on sale now",
       "url": "https://goblackbears.com/news/2026/10/21/womens-basketball-to-host-fairfield-in-portland-tickets-on-sale-now",
       "summary": "ORONO, Maine -- The University of Maine women's basketball team will be taking its show on the road when it hosts Fairfield on Dec. 9 in Portland at the Portland Expo. Tip-off is set for 6 p.m. and tickets are on sale now.",
@@ -245,6 +254,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "Men's basketball falls in season opener at Providence on Monday night",
+      "url": "https://goblackbears.com/news/2026/11/2/mens-basketball-mens-basketball-falls-in-season-opener-at-providence-on-monday-night",
+      "summary": "The University of Maine men's basketball program was defeated by Providence College on opening night.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/DSC07378.jpg",
+      "published": "Mon, 2 Nov 2026 21:16:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
       "title": "Preview: Men's Basketball opens up 2026-27 season at Providence on Monday night",
       "url": "https://goblackbears.com/news/2026/11/1/preview-mens-basketball-opens-up-2026-27-season-at-providence-on-monday-night",
       "summary": "The University of Maine men's basketball program will begin the 2026-27 season on Monday night as they travel to Providence.",
@@ -295,15 +313,6 @@
       "summary": "The University of Maine men's basketball program has announced their 2026-27 non-conference schedule. The Black Bears will play 16 games, which includes six home games to all be played on Skip Chappelle Court at Memorial Gym.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/29/Maine_Men_s_Basketball_-_2026-27_Non-Conference_Schedule.png",
       "published": "Wed, 29 Jul 2026 13:00:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's Basketball Season Tickets on Sale",
-      "url": "https://goblackbears.com/news/2026/7/20/mens-basketball-season-tickets-on-sale",
-      "summary": "Season tickets for the 2026-27 Maine men's basketball season are\u00a0on sale now.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/2/Ace_Flagg_1.24.26_vs_Binghamton_21_WRovH.jpg",
-      "published": "Mon, 20 Jul 2026 10:00:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
     },
