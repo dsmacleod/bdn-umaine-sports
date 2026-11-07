@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-06T18:40:27.283292+00:00",
+  "last_updated": "2026-11-07T08:25:37.133740+00:00",
   "articles": [
+    {
+      "title": "#19 Minutemen sneak past men's hockey, 2-1",
+      "url": "https://goblackbears.com/news/2026/11/6/mens-ice-hockey-19-umass-sneaks-past-mens-hockey-2-1",
+      "summary": "Jaden Lipinski scored his first goal of the season in the loss.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/IMG_9810.jpg",
+      "published": "Fri, 6 Nov 2026 22:20:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine and Boston University tie 1-1",
+      "url": "https://goblackbears.com/news/2026/11/6/womens-ice-hockey-maine-and-boston-university-tie-1-1",
+      "summary": "The University of Maine women's hockey program would tie Boston University 1-1 on Friday night at Walter Brown Arena.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/DSC07124.jpg",
+      "published": "Fri, 6 Nov 2026 20:00:00 EST",
+      "sport": "Women's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Women's soccer set to battle Bryant in America East semifinal",
       "url": "https://goblackbears.com/news/2026/11/6/womens-soccer-preview-womens-soccer-set-to-battle-bryant-in-america-east-semifinal",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/3/_PEV9126.jpg",
       "published": "Wed, 4 Nov 2026 12:00:00 EST",
       "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Women's Basketball hosts Siena in season opener",
-      "url": "https://goblackbears.com/news/2026/11/3/preview-womens-basketball-hosts-siena-in-season-opener",
-      "summary": "ORONO, Maine -- The University of Maine women's basketball team begins its\u00a063rd season of competition on Thursday evening at 6 p.m. when it hosts Siena in the first meeting between the two teams since 2012.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/4/gruber-pass.png",
-      "published": "Tue, 3 Nov 2026 23:26:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Field Hockey falls to UAlbany in semifinal shootout",
-      "url": "https://goblackbears.com/news/2026/11/3/field-hockey-falls-to-ualbany-in-semifinal-shootout",
-      "summary": "ORONO, Maine -- The No. 2 seeded University of Maine field hockey team dropped a 2-1 decision to No. 3 UAlbany, following a 2-1 edge in a shootout by the Great Danes, in the America East semifinal round on Tuesday at the Maine Field Hockey Complex.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/3/Chisolm-semifinal.png",
-      "published": "Tue, 3 Nov 2026 21:42:00 EST",
-      "sport": "Field Hockey",
       "source": "goblackbears"
     },
     {
@@ -173,12 +173,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "Hockey East announces first-half NESN slate for 2026-27",
-      "url": "https://goblackbears.com/news/2026/10/14/mens-ice-hockey-hockey-east-announces-first-half-nesn-slate-of-2026-27",
-      "summary": "Maine men's and women's hockey will appear a combined six times in the first half.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/21/MIH_Crowd3.png",
-      "published": "Wed, 14 Oct 2026 11:00:00 EST",
-      "sport": "Men's Ice Hockey, Women's Ice Hockey",
+      "title": "PREVIEW: Women's Basketball hosts Siena in season opener",
+      "url": "https://goblackbears.com/news/2026/11/3/preview-womens-basketball-hosts-siena-in-season-opener",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team begins its\u00a063rd season of competition on Thursday evening at 6 p.m. when it hosts Siena in the first meeting between the two teams since 2012.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/4/gruber-pass.png",
+      "published": "Tue, 3 Nov 2026 23:26:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -407,6 +407,16 @@
       "source": "goblackbears"
     },
     {
+      "title": "UMass hockey edges UMaine",
+      "url": "https://www.bangordailynews.com/2026/11/06/sports/college-ice-hockey/umass-hockey-edges-umaine/",
+      "summary": "The teams will play again Saturday at 7 p.m.",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 02:45:19 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "UMaine men\u2019s hockey looking to bounce back against visiting UMass\u00a0this weekend",
       "url": "https://www.bangordailynews.com/2026/11/05/sports/college-ice-hockey/umaine-mens-hockey-vs-umass/",
       "summary": "Both teams are looking to jumpstart .500 seasons in the two-game series in Orono.",
@@ -592,16 +602,6 @@
       "summary": "A dramatic late rally by the University of Maine men\u2019s hockey team went for nought on Saturday night.",
       "image": "",
       "published": "Sun, 04 Oct 2026 02:44:39 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine men\u2019s hockey opens 50th season with win over Holy Cross",
-      "url": "https://www.bangordailynews.com/2026/10/03/sports/college-ice-hockey/umaine-mens-hockey-opens-50th-season-win-over-holy-cross/",
-      "summary": "The University of Maine\u2019s men\u2019s hockey team earned a 4-1 victory Friday, with the two teams set to play again Saturday night in Worcester, Mass.",
-      "image": "",
-      "published": "Sat, 03 Oct 2026 14:08:11 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
