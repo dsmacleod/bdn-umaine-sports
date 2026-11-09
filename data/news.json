@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-11-08T17:23:20.327292+00:00",
+  "last_updated": "2026-11-09T09:15:01.696076+00:00",
   "articles": [
+    {
+      "title": "Women's soccer season ends in America East semifinal",
+      "url": "https://goblackbears.com/news/2026/11/8/womens-soccer-womens-soccer-season-ends-in-america-east-semifinal",
+      "summary": "The Black Bears were playing in a fifth consecutive semifinal.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/_PEV9881.jpg",
+      "published": "Sun, 8 Nov 2026 19:02:00 EST",
+      "sport": "Women's Soccer",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Men's basketball falls in home opener on Sunday afternoon",
+      "url": "https://goblackbears.com/news/2026/11/8/mens-basketball-mens-basketball-falls-in-home-opener-on-sunday-afternoon",
+      "summary": "The University of Maine men's basketball program was defeated by Manhattan on Sunday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/DSC07455.jpg",
+      "published": "Sun, 8 Nov 2026 18:39:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's Basketball moves to 2-0 with win at Merrimack",
+      "url": "https://goblackbears.com/news/2026/11/8/womens-basketball-moves-to-2-0-with-win-at-merrimack",
+      "summary": "NORTH ANDOVER, Mass. --\u00a0Five Black Bears scored in double figures as the University of Maine women's basketball team rolled to an 87-62 victory over Merrimack on Sunday afternoon at Lawler Arena. Maine improved to 2-0 for the first time since 2020 behind a balanced offensive effort that produced 12 three-pointers and 19 assists.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/lala-merrimack.png",
+      "published": "Sun, 8 Nov 2026 15:41:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "Men's hockey blanks UMass, 2-0, in Hockey East action",
       "url": "https://goblackbears.com/news/2026/11/7/mens-ice-hockey-mens-hockey-blanks-umass-2-0-in-hockey-east-action",
@@ -62,33 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/562A8399.jpg",
       "published": "Fri, 6 Nov 2026 12:06:00 EST",
       "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's basketball announces 2026-27 promotional schedule",
-      "url": "https://goblackbears.com/news/2026/11/6/mens-basketball-mens-basketball-announces-2026-27-promotional-schedule",
-      "summary": "The University of Maine men's basketball program has announced their 2026-27 promotional schedule.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/5/562A5337.jpg",
-      "published": "Fri, 6 Nov 2026 09:00:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women\u2019s soccer defeats UAlbany, advances to America East semifinal",
-      "url": "https://goblackbears.com/news/2026/11/5/womens-soccer-womens-soccer-defeats-ualbany-advances-to-america-east-semifinal",
-      "summary": "The Black Bears earned a 2-0 win on Thursday night in Orono.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/5/DSC06783.jpeg",
-      "published": "Thu, 5 Nov 2026 22:21:00 EST",
-      "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Alvarez's bucket with 2.7 remaining lifts Maine over Siena, 70-68",
-      "url": "https://goblackbears.com/news/2026/11/5/womens-basketball-alvarezs-bucket-with-2-7-remaining-lifts-maine-over-siena-70-68",
-      "summary": "ORONO, Maine --\u00a0Olivia Alvarez's bucket with 2.7 seconds remaining helped lift the\u00a0University of Maine women's basketball team to a 70-68 victory over Siena in its season opener Thursday evening at Skip Chappelle Court in the America East-Metro Challenge.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/5/Gruber-screen-Fitzpatrick.png",
-      "published": "Thu, 5 Nov 2026 21:32:00 EST",
-      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -164,6 +164,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "Alvarez's bucket with 2.7 remaining lifts Maine over Siena, 70-68",
+      "url": "https://goblackbears.com/news/2026/11/5/womens-basketball-alvarezs-bucket-with-2-7-remaining-lifts-maine-over-siena-70-68",
+      "summary": "ORONO, Maine --\u00a0Olivia Alvarez's bucket with 2.7 seconds remaining helped lift the\u00a0University of Maine women's basketball team to a 70-68 victory over Siena in its season opener Thursday evening at Skip Chappelle Court in the America East-Metro Challenge.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/5/Gruber-screen-Fitzpatrick.png",
+      "published": "Thu, 5 Nov 2026 21:32:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
       "title": "PREVIEW: Women's Basketball hosts Siena in season opener",
       "url": "https://goblackbears.com/news/2026/11/3/preview-womens-basketball-hosts-siena-in-season-opener",
       "summary": "ORONO, Maine -- The University of Maine women's basketball team begins its\u00a063rd season of competition on Thursday evening at 6 p.m. when it hosts Siena in the first meeting between the two teams since 2012.",
@@ -227,12 +236,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "Women's Basketball announces America East conference dates, full schedule",
-      "url": "https://goblackbears.com/news/2026/8/18/womens-basketball-announces-conference-dates-full-schedule",
-      "summary": "ORONO, Maine -- The University of Maine women's basketball team announced its 2026-27 schedule on Tuesday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/alvarez-action-2.png",
-      "published": "Tue, 18 Aug 2026 12:00:00 EST",
-      "sport": "Women's Basketball",
+      "title": "Men's basketball announces 2026-27 promotional schedule",
+      "url": "https://goblackbears.com/news/2026/11/6/mens-basketball-mens-basketball-announces-2026-27-promotional-schedule",
+      "summary": "The University of Maine men's basketball program has announced their 2026-27 promotional schedule.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/5/562A5337.jpg",
+      "published": "Fri, 6 Nov 2026 09:00:00 EST",
+      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -295,15 +304,6 @@
       "summary": "The America East announced the men's basketball preseason poll for the 2026-27 season on Monday morning.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/28/Killian_Gribben_3_15_Championships_7__1_.jpg",
       "published": "Mon, 28 Sep 2026 09:00:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's Basketball Announces Conference Schedule",
-      "url": "https://goblackbears.com/news/2026/8/18/mens-basketball-announces-conference-schedule",
-      "summary": "The America East Conference announced the 2026-27 schedule for league play on Tuesday afternoon. The University of Maine men's basketball program will begin America East action on January 2 and conclude the regular season on March 2.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/18/Caleb_Crawford_1.24.26_vs_Binghamton_2.jpg",
-      "published": "Tue, 18 Aug 2026 12:00:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
     },
@@ -953,16 +953,6 @@
       "summary": "Fort Kent, now 10-6-1, will take on 16-1 Hall-Dale of Farmingdale in Saturday\u2019s Class C state championship game in Lewiston.",
       "image": "",
       "published": "Wed, 04 Nov 2026 02:15:38 +0000",
-      "sport": "High School Soccer",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Maine high school soccer regional title games slated for Tuesday and Wednesday",
-      "url": "https://www.bangordailynews.com/2026/11/03/sports/high-school-soccer/maine-high-school-soccer-regional-title-games-joam40zk0w/",
-      "summary": "Orono, Fort Kent, Camden Hills, John Bapst and Wisdom High will have both their boys and girls teams seeking championships.",
-      "image": "",
-      "published": "Tue, 03 Nov 2026 06:00:00 +0000",
       "sport": "High School Soccer",
       "source": "bdn",
       "author": "Larry Mahoney"
