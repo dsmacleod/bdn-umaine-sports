@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-11-10T19:02:42.957320+00:00",
+  "last_updated": "2026-11-11T08:55:30.674314+00:00",
   "articles": [
+    {
+      "title": "Men's basketball battles hard against Rhode Island on Tuesday Night",
+      "url": "https://goblackbears.com/news/2026/11/10/mens-basketball-mens-basketball-battles-hard-against-rhode-island-on-tuesday-night",
+      "summary": "The University of Maine men's basketball program was defeated by Rhode Island on Tuesday night.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/562A9804.jpg",
+      "published": "Tue, 10 Nov 2026 21:09:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "Women's Basketball to host annual Military Appreciation Day, Nov. 15",
       "url": "https://goblackbears.com/news/2026/11/10/womens-basketball-to-host-annual-military-appreciation-day-nov-15",
@@ -83,15 +92,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Women's Basketball hits the road to meet Merrimack",
-      "url": "https://goblackbears.com/news/2026/11/7/preview-womens-basketball-hits-the-road-to-meet-merrimack",
-      "summary": "ORONO, Maine -- The Black Bears look to start the season 2-0 for the first time since 2020 as they go for the America East-Metro Challenge sweep on Sunday afternoon at Merrimack. Tip-off on ESPN+ is set for 1 p.m.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/7/sain-dribble-2026.png",
-      "published": "Sat, 7 Nov 2026 20:52:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "#19 Minutemen sneak past men's hockey, 2-1",
       "url": "https://goblackbears.com/news/2026/11/6/mens-ice-hockey-19-umass-sneaks-past-mens-hockey-2-1",
       "summary": "Jaden Lipinski scored his first goal of the season in the loss.",
@@ -161,6 +161,15 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/23/IMG_5994.jpg",
       "published": "Fri, 23 Oct 2026 22:15:00 EST",
       "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: Women's Basketball hits the road to meet Merrimack",
+      "url": "https://goblackbears.com/news/2026/11/7/preview-womens-basketball-hits-the-road-to-meet-merrimack",
+      "summary": "ORONO, Maine -- The Black Bears look to start the season 2-0 for the first time since 2020 as they go for the America East-Metro Challenge sweep on Sunday afternoon at Merrimack. Tip-off on ESPN+ is set for 1 p.m.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/7/sain-dribble-2026.png",
+      "published": "Sat, 7 Nov 2026 20:52:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -281,15 +290,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Single game tickets for men's basketball are on sale",
-      "url": "https://goblackbears.com/news/2026/9/29/mens-basketball-single-game-tickets-for-mens-basketball-are-on-sale",
-      "summary": "Maine men's\u00a0basketball single game tickets are on sale now! All games in the 2026-27\u00a0season will take place at 'The Pit' inside Memorial Gymnasium on the campus of UMaine.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/5/8/562A1990.jpg",
-      "published": "Tue, 29 Sep 2026 10:00:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "Football falls at Rhode Island in overtime on Saturday afternoon",
       "url": "https://goblackbears.com/news/2026/10/31/football-falls-at-rhode-island-in-overtime-on-saturday-afternoon",
       "summary": "The University of Maine football program fell at Rhode Island on Saturday afternoon in overtime, 14-13.",
@@ -378,6 +378,16 @@
       "published": "Fri, 9 Oct 2026 10:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
+    },
+    {
+      "title": "Analysis: UMass series epitomizes UMaine men\u2019s hockey\u2019s close, low-scoring season",
+      "url": "https://www.bangordailynews.com/2026/11/11/sports/college-ice-hockey/analysis-umass-series-epitomizes-umaine-mens-low-scoring-season-joam40zk0w/",
+      "summary": "It was certainly an encouraging weekend for UMaine when considering how the Black Bears dominated puck possession and offensive zone time.",
+      "image": "",
+      "published": "Wed, 11 Nov 2026 06:00:00 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "Fowler scores early to lead UMaine hockey to win over UMass",
@@ -565,16 +575,6 @@
       "summary": "The program has been among the nation\u2019s elite, and one of the people who put it on the map was former coach Jay Leach.",
       "image": "",
       "published": "Wed, 07 Oct 2026 19:41:29 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Strong effort brings mixed results for UMaine men\u2019s hockey in opening weekend",
-      "url": "https://www.bangordailynews.com/2026/10/06/sports/college-ice-hockey/umaine-mens-hockey-opening-weekend/",
-      "summary": "The Black Bears play their home-opening series this weekend against what is likely the best team on their schedule: the sixth-ranked Quinnipiac University Bobcats.",
-      "image": "",
-      "published": "Tue, 06 Oct 2026 18:15:41 +0000",
       "sport": "College Ice Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
@@ -926,26 +926,6 @@
       "image": "",
       "published": "Fri, 06 Nov 2026 03:06:57 +0000",
       "sport": "College Soccer",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Reigning 3-time America East women\u2019s soccer champ UMaine hosts Albany for quarterfinal",
-      "url": "https://www.bangordailynews.com/2026/11/04/sports/college-soccer/isabella-meadows-umaine-soccer-hosts-albany/",
-      "summary": "Isabella Meadows leads the Black Bears in goals heading into Thursday\u2019s matchup.",
-      "image": "",
-      "published": "Wed, 04 Nov 2026 19:58:05 +0000",
-      "sport": "College Soccer",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Albany rallies to edge UMaine field hockey in America East semifinal shootout",
-      "url": "https://www.bangordailynews.com/2026/11/04/sports/college-field-hockey/umaine-field-hockey-albany-semifinal-america-east/",
-      "summary": "Albany, 11-6, will host 14-5 Vermont in the title game at 2 p.m. Friday.",
-      "image": "",
-      "published": "Wed, 04 Nov 2026 18:37:06 +0000",
-      "sport": "College Field Hockey",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
