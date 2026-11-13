@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-11-13T09:09:46.861299+00:00",
+  "last_updated": "2026-11-13T18:55:51.960497+00:00",
   "articles": [
+    {
+      "title": "PREVIEW: Men's basketball hosts Drexel on Saturday afternoon",
+      "url": "https://goblackbears.com/news/2026/11/13/mens-basketball-preview-mens-basketball-hosts-drexel-on-saturday-afternoon",
+      "summary": "The University of Maine men's basketball program hosts Drexel on Saturday afternoon in Orono.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/562A9908.jpg",
+      "published": "Fri, 13 Nov 2026 13:00:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Women's Basketball to host Oregon, Red Panda",
       "url": "https://goblackbears.com/news/2026/11/12/preview-womens-basketball-to-host-oregon-red-panda",
@@ -80,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/MADDIE-fitzpatrick-shot.png",
       "published": "Mon, 9 Nov 2026 11:00:00 EST",
       "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Men's basketball heads to Rhode Island to face the Rams",
-      "url": "https://goblackbears.com/news/2026/11/9/mens-basketball-preview-mens-basketball-heads-to-rhode-island-to-face-the-rams",
-      "summary": "The University of Maine men's basketball program heads to Rhode Island to face the Rams on Tuesday night.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/562A9580.jpg",
-      "published": "Mon, 9 Nov 2026 10:00:00 EST",
-      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -245,6 +245,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "PREVIEW: Men's basketball heads to Rhode Island to face the Rams",
+      "url": "https://goblackbears.com/news/2026/11/9/mens-basketball-preview-mens-basketball-heads-to-rhode-island-to-face-the-rams",
+      "summary": "The University of Maine men's basketball program heads to Rhode Island to face the Rams on Tuesday night.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/562A9580.jpg",
+      "published": "Mon, 9 Nov 2026 10:00:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
       "title": "Men's basketball falls in home opener on Sunday afternoon",
       "url": "https://goblackbears.com/news/2026/11/8/mens-basketball-mens-basketball-falls-in-home-opener-on-sunday-afternoon",
       "summary": "The University of Maine men's basketball program was defeated by Manhattan on Sunday afternoon.",
@@ -304,15 +313,6 @@
       "summary": "The University of Maine men's basketball program will begin the 2026-27 season on Monday night as they travel to Providence.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/18/Caleb_Crawford_1.24.26_vs_Binghamton_2.jpg",
       "published": "Sun, 1 Nov 2026 16:00:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Men's basketball to hold open exhibition with Husson on Sunday afternoon",
-      "url": "https://goblackbears.com/news/2026/10/22/mens-basketball-preview-mens-basketball-to-hold-open-exhibition-with-husson-on-sunday-afternoon",
-      "summary": "The University of Maine men's basketball program is set to host Husson in an open exhibition on Sunday, Oct. 25 at 4:30 PM.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/Ace_Flagg_1.24.26_vs_Binghamton_21__1__vTdhr.jpg",
-      "published": "Thu, 22 Oct 2026 15:00:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
     },
