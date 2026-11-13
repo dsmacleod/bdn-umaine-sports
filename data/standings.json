@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T19:18:17.150025+00:00",
+  "last_updated": "2026-11-13T09:09:46.861299+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -411,24 +411,24 @@
           "school": "New Hampshire",
           "rank": null,
           "conference": {
-            "gp": 6,
+            "gp": 7,
             "pts": 7,
             "w": 2,
-            "l": 3,
+            "l": 4,
             "t": 1,
             "ow": 0,
             "ol": 0,
             "sw": 0,
-            "gf": 16,
-            "ga": 18
+            "gf": 18,
+            "ga": 23
           },
           "overall": {
-            "gp": 14,
+            "gp": 15,
             "w": 7,
-            "l": 6,
+            "l": 7,
             "t": 1,
-            "gf": 41,
-            "ga": 34
+            "gf": 43,
+            "ga": 39
           },
           "is_umaine": false
         },
@@ -483,8 +483,33 @@
           "is_umaine": false
         },
         {
-          "school": "Holy Cross",
+          "school": "Vermont",
           "rank": 9,
+          "conference": {
+            "gp": 5,
+            "pts": 5,
+            "w": 1,
+            "l": 3,
+            "t": 1,
+            "ow": 0,
+            "ol": 0,
+            "sw": 1,
+            "gf": 12,
+            "ga": 14
+          },
+          "overall": {
+            "gp": 11,
+            "w": 4,
+            "l": 6,
+            "t": 1,
+            "gf": 25,
+            "ga": 22
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Holy Cross",
+          "rank": 10,
           "conference": {
             "gp": 6,
             "pts": 4,
@@ -504,31 +529,6 @@
             "t": 4,
             "gf": 19,
             "ga": 29
-          },
-          "is_umaine": false
-        },
-        {
-          "school": "Vermont",
-          "rank": 10,
-          "conference": {
-            "gp": 4,
-            "pts": 2,
-            "w": 0,
-            "l": 3,
-            "t": 1,
-            "ow": 0,
-            "ol": 0,
-            "sw": 1,
-            "gf": 7,
-            "ga": 12
-          },
-          "overall": {
-            "gp": 10,
-            "w": 3,
-            "l": 6,
-            "t": 1,
-            "gf": 20,
-            "ga": 20
           },
           "is_umaine": false
         }
@@ -578,9 +578,9 @@
           "school": "UMBC",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "1-2",
+          "overall": "2-2",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "W2",
           "is_umaine": false
         },
         {

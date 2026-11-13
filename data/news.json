@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-12T19:18:17.150025+00:00",
+  "last_updated": "2026-11-13T09:09:46.861299+00:00",
   "articles": [
+    {
+      "title": "PREVIEW: Women's Basketball to host Oregon, Red Panda",
+      "url": "https://goblackbears.com/news/2026/11/12/preview-womens-basketball-to-host-oregon-red-panda",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team looks for its first 3-0 start since 2020 when they take on Big Ten opponent Oregon in the first-ever meeting between the two programs on Friday evening at 7 p.m. Limited tickets for this game are available by visiting GoBlackBears.com/Tickets.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/wood-action-siena.png",
+      "published": "Thu, 12 Nov 2026 14:39:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: Cross Country to compete in NCAA Regionals",
+      "url": "https://goblackbears.com/news/2026/11/12/womens-cross-country-preview-cross-country-to-compete-in-ncaa-regionals",
+      "summary": "The University of Maine men's and women's cross country programs are set to compete at the 2026 NCAA Northeast Regional Cross Country Championships on Friday, Nov. 13, at Bethpage State Park in Farmingdale, New York.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/19/WXC_TeamWinMSM.JPG",
+      "published": "Thu, 12 Nov 2026 14:35:00 EST",
+      "sport": "Men's Cross Country, Women's Cross Country",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Football heads to UAlbany for final road trip of the season",
       "url": "https://goblackbears.com/news/2026/11/12/preview-football-heads-to-ualbany-for-final-road-trip-of-the-season",
@@ -70,24 +88,6 @@
       "summary": "The University of Maine men's basketball program heads to Rhode Island to face the Rams on Tuesday night.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/562A9580.jpg",
       "published": "Mon, 9 Nov 2026 10:00:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's soccer season ends in America East semifinal",
-      "url": "https://goblackbears.com/news/2026/11/8/womens-soccer-womens-soccer-season-ends-in-america-east-semifinal",
-      "summary": "The Black Bears were playing in a fifth consecutive semifinal.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/_PEV9881.jpg",
-      "published": "Sun, 8 Nov 2026 19:02:00 EST",
-      "sport": "Women's Soccer",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's basketball falls in home opener on Sunday afternoon",
-      "url": "https://goblackbears.com/news/2026/11/8/mens-basketball-mens-basketball-falls-in-home-opener-on-sunday-afternoon",
-      "summary": "The University of Maine men's basketball program was defeated by Manhattan on Sunday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/DSC07455.jpg",
-      "published": "Sun, 8 Nov 2026 18:39:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
     },
@@ -245,12 +245,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "Women's Basketball to host Oregon, tickets on sale now",
-      "url": "https://goblackbears.com/news/2026/10/12/womens-basketball-to-host-oregon-tickets-on-sale-now",
-      "summary": "Orono, Maine -- For the first time in the history of the program, the University of Maine women's basketball team is set to host Big Ten member Oregon at Skip Chappelle Court inside Memorial Gymnasium on Friday, Nov. 13. Tip-off for this premier event is set for 7 p.m.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2024/9/17/opener-crowd.png",
-      "published": "Mon, 12 Oct 2026 11:06:00 EST",
-      "sport": "Women's Basketball",
+      "title": "Men's basketball falls in home opener on Sunday afternoon",
+      "url": "https://goblackbears.com/news/2026/11/8/mens-basketball-mens-basketball-falls-in-home-opener-on-sunday-afternoon",
+      "summary": "The University of Maine men's basketball program was defeated by Manhattan on Sunday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/DSC07455.jpg",
+      "published": "Sun, 8 Nov 2026 18:39:00 EST",
+      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -387,6 +387,16 @@
       "published": "Thu, 15 Oct 2026 13:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
+    },
+    {
+      "title": "UMaine hockey\u2019s Lipinski making significant strides after \u2018tough end\u2019 to freshman season",
+      "url": "https://www.bangordailynews.com/2026/11/12/sports/college-ice-hockey/umaine-hockey-jaden-lipinski/",
+      "summary": "The sophomore forward enters this weekend\u2019s series against Vermont on a three-game points streak after going scoreless in his first seven games.",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 20:19:47 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "Analysis: UMass series epitomizes UMaine men\u2019s hockey\u2019s close, low-scoring season",
@@ -579,12 +589,12 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "Jay Leach remembered as an architect of UMaine hockey\u2019s rise to prominence",
-      "url": "https://www.bangordailynews.com/2026/10/07/sports/college-ice-hockey/jay-leach-remembered-umaine-hockey/",
-      "summary": "The program has been among the nation\u2019s elite, and one of the people who put it on the map was former coach Jay Leach.",
+      "title": "Maddie Fitzpatrick off to great start for UMaine women\u2019s basketball in new prominent role",
+      "url": "https://www.bangordailynews.com/2026/11/12/sports/college-basketball/maddie-fitzpatrick-umaine-womens-basketball/",
+      "summary": "Fitzpatrick had 14 and 19 points in her first two games and was named the America East Player of the Week.",
       "image": "",
-      "published": "Wed, 07 Oct 2026 19:41:29 +0000",
-      "sport": "College Ice Hockey",
+      "published": "Thu, 12 Nov 2026 20:08:32 +0000",
+      "sport": "College Basketball",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
