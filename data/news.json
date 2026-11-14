@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-11-13T18:55:51.960497+00:00",
+  "last_updated": "2026-11-14T08:40:28.721003+00:00",
   "articles": [
+    {
+      "title": "Boija, Black Bears battle to scoreless tie at #20/18 Vermont",
+      "url": "https://goblackbears.com/news/2026/11/13/mens-ice-hockey-boija-black-bears-battle-to-scoreless-tie-at-20-18-vermont",
+      "summary": "Boija made 20 saves for the shutout.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/13/_PEV9876.jpg",
+      "published": "Fri, 13 Nov 2026 23:03:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Women's Basketball pushes Oregon before falling, 79-72",
+      "url": "https://goblackbears.com/news/2026/11/13/womens-basketball-pushes-oregon-before-falling-79-72",
+      "summary": "ORONO, Maine \u2014 The University of Maine women's basketball team led Big Ten opponent Oregon for much of Friday night's game at Memorial Gymnasium, but the Ducks pulled away in the fourth quarter for a 79\u201372 win in front of a sold out crowd of 1,507.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/13/fitzpatrick-orwgon.png",
+      "published": "Fri, 13 Nov 2026 22:04:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Fetch tallies four assists in 4-1 win",
+      "url": "https://goblackbears.com/news/2026/11/13/womens-ice-hockey-fetch-tallies-four-assists-in-4-1-win",
+      "summary": "The University of Maine women's hockey program defeated Holy Cross 4-1 on Friday night at Alfond Arena.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/7/DSC08043.jpg",
+      "published": "Fri, 13 Nov 2026 20:15:00 EST",
+      "sport": "Women's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Men's basketball hosts Drexel on Saturday afternoon",
       "url": "https://goblackbears.com/news/2026/11/13/mens-basketball-preview-mens-basketball-hosts-drexel-on-saturday-afternoon",
@@ -62,33 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/562A9804.jpg",
       "published": "Tue, 10 Nov 2026 21:09:00 EST",
       "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's Basketball to host annual Military Appreciation Day, Nov. 15",
-      "url": "https://goblackbears.com/news/2026/11/10/womens-basketball-to-host-annual-military-appreciation-day-nov-15",
-      "summary": "ORONO, Maine -- The University of Maine athletics department is proud to once again bring to our service men and women its Military Appreciation Series, presented by General Dynamics Bath Iron Works. The series, in its 11th year, provides the opportunity for the Black Bears to honor our military men and women at select athletic events over the course of the 2026-27 season.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/streams-siena.png",
-      "published": "Tue, 10 Nov 2026 11:24:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Lahtinen tabbed Hockey East goaltender of the week",
-      "url": "https://goblackbears.com/news/2026/11/9/womens-ice-hockey-lahtinen-tabbed-hockey-east-goaltender-of-the-week",
-      "summary": "Kiia Lahtinen of the University of Maine women's hockey program has been named this week's Hockey East Stop It Goaltender of the Week, the conference announced Tuesday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/DSC07079.JPG",
-      "published": "Mon, 9 Nov 2026 13:00:00 EST",
-      "sport": "Women's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Fitzpatrick named America East Player of the Week",
-      "url": "https://goblackbears.com/news/2026/11/9/womens-basketball-fitzpatrick-named-america-east-player-of-the-week",
-      "summary": "ORONO, Maine -- University of Maine women's basketball forward Maddie Fitzpatrick has been named the America East Player of the Week, as announced by the league\u00a0on Monday morning.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/MADDIE-fitzpatrick-shot.png",
-      "published": "Mon, 9 Nov 2026 11:00:00 EST",
-      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -173,12 +173,21 @@
       "source": "goblackbears"
     },
     {
-      "title": "Men's hockey, Wickstr\u00f6m Stumer blank Colgate",
-      "url": "https://goblackbears.com/news/2026/10/23/mens-ice-hockey-mens-hockey-wickstr-m-stumer-blank-colgate",
-      "summary": "Wickstr&ouml;m Stumer made 24 saves as the Black Bears topped Colgate, 3-0.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/23/IMG_5994.jpg",
-      "published": "Fri, 23 Oct 2026 22:15:00 EST",
-      "sport": "Men's Ice Hockey",
+      "title": "Women's Basketball to host annual Military Appreciation Day, Nov. 15",
+      "url": "https://goblackbears.com/news/2026/11/10/womens-basketball-to-host-annual-military-appreciation-day-nov-15",
+      "summary": "ORONO, Maine -- The University of Maine athletics department is proud to once again bring to our service men and women its Military Appreciation Series, presented by General Dynamics Bath Iron Works. The series, in its 11th year, provides the opportunity for the Black Bears to honor our military men and women at select athletic events over the course of the 2026-27 season.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/streams-siena.png",
+      "published": "Tue, 10 Nov 2026 11:24:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Fitzpatrick named America East Player of the Week",
+      "url": "https://goblackbears.com/news/2026/11/9/womens-basketball-fitzpatrick-named-america-east-player-of-the-week",
+      "summary": "ORONO, Maine -- University of Maine women's basketball forward Maddie Fitzpatrick has been named the America East Player of the Week, as announced by the league\u00a0on Monday morning.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/MADDIE-fitzpatrick-shot.png",
+      "published": "Mon, 9 Nov 2026 11:00:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -233,15 +242,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/7/alvarez-action-2.png",
       "published": "Wed, 21 Oct 2026 15:01:00 EST",
       "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Hall of Fame Profile: Defensive prowess set the tone for Spaniard Blanca Millan\u2019s Hall of Fame UMaine basketball career",
-      "url": "https://goblackbears.com/news/2026/10/16/hall-of-fame-profile-defensive-prowess-set-the-tone-for-spaniard-blanca-millans-hall-of-fame-umaine-basketball-career",
-      "summary": "ORONO, Maine -- Blanca Millan Modia knew she needed to play college basketball in the United States to prepare herself for a professional career in Europe. But she wasn't overly excited about the prospect.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2019/1/12/Millan_UAlbany.jpg",
-      "published": "Fri, 16 Oct 2026 10:55:00 EST",
-      "sport": "Women's Basketball, Hall of Fame",
       "source": "goblackbears"
     },
     {
@@ -387,6 +387,16 @@
       "published": "Thu, 15 Oct 2026 13:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
+    },
+    {
+      "title": "Boija posts second straight shutout, UMaine hockey skates to 0-0 tie at UVM",
+      "url": "https://www.bangordailynews.com/2026/11/13/sports/college-ice-hockey/umaine-hockey-ties-uvm/",
+      "summary": "The teams will conclude their series on Saturday at 5 p.m.",
+      "image": "",
+      "published": "Sat, 14 Nov 2026 03:06:21 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine hockey\u2019s Lipinski making significant strides after \u2018tough end\u2019 to freshman season",
@@ -579,14 +589,14 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine men\u2019s hockey prepares for challenging test in home opener against Quinnipiac",
-      "url": "https://www.bangordailynews.com/2026/10/08/sports/college-ice-hockey/umaine-mens-hockey-home-opener-against-quinnipiac/",
-      "summary": "The Bobcats, perennial NCAA national championship contenders, are coming off a 10-2 thrashing of New Hampshire.",
+      "title": "UMaine women\u2019s basketball hangs tough, falls to Oregon 79-72",
+      "url": "https://www.bangordailynews.com/2026/11/13/sports/college-basketball/umaine-womens-basketball-loses-to-oregon/",
+      "summary": "The Black Bears have a quick turnaround, staying at home for a Nov. 15 matchup vs. Brown.",
       "image": "",
-      "published": "Thu, 08 Oct 2026 20:01:50 +0000",
-      "sport": "College Ice Hockey",
+      "published": "Sat, 14 Nov 2026 03:02:11 +0000",
+      "sport": "College Basketball",
       "source": "bdn",
-      "author": "Larry Mahoney"
+      "author": "Trey Stewart"
     },
     {
       "title": "Maddie Fitzpatrick off to great start for UMaine women\u2019s basketball in new prominent role",
@@ -759,12 +769,12 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine men\u2019s basketball guard transfers to Saint Joseph\u2019s University",
-      "url": "https://www.bangordailynews.com/2026/04/20/sports/college-basketball/logan-carey-umaine-basketball-transfer-saint-josephs/",
-      "summary": "Logan Carey announced on Friday that he is transferring to the Philadelphia school for his final season.",
+      "title": "UMaine football travels to Albany for CAA contest; MMA hosts Husson",
+      "url": "https://www.bangordailynews.com/2026/11/13/sports/college-football/umaine-football-albany-mma-husson/",
+      "summary": "The Black Bears have won seven of their last eight meetings with Albany. Husson has won four of its last five games.",
       "image": "",
-      "published": "Mon, 20 Apr 2026 19:06:16 +0000",
-      "sport": "College Basketball",
+      "published": "Fri, 13 Nov 2026 20:04:59 +0000",
+      "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
@@ -919,16 +929,6 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine football rallies but Boston College hangs on for win",
-      "url": "https://www.bangordailynews.com/2026/09/19/sports/college-football/umaine-football-rallies-but-boston-college-hangs-on-for-win/",
-      "summary": "The Black Bears fell behind 16- but pulled within 22-16 with 4:34 remaining when quarterback Eddie Buehler threw his second touchdown pass.",
-      "image": "",
-      "published": "Sat, 19 Sep 2026 23:07:38 +0000",
-      "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "During a crisis, Orono\u2019s football coach gave players his best. Then they gave him theirs.",
       "url": "https://www.bangordailynews.com/2026/11/12/sports/high-school-football/orono-maine-red-riots-championship-run-bob-sinclair/",
       "summary": "Bob Sinclair's Red Riots now sit one game away from capturing a state title.",
@@ -944,16 +944,6 @@
       "summary": "UMaine finished the season at 8-6-4 and scored only seven goals in nine road games.",
       "image": "",
       "published": "Mon, 09 Nov 2026 22:28:43 +0000",
-      "sport": "College Soccer",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine women\u2019s soccer advances to America East semis with win over Albany",
-      "url": "https://www.bangordailynews.com/2026/11/05/sports/college-soccer/umaine-womens-soccer-win-albany/",
-      "summary": "Third seed UMaine, now 8-5-4, will travel to take on second seed Bryant, 6-6-4, in Sunday\u2019s 4:30 semifinal.",
-      "image": "",
-      "published": "Fri, 06 Nov 2026 03:06:57 +0000",
       "sport": "College Soccer",
       "source": "bdn",
       "author": "Larry Mahoney"
