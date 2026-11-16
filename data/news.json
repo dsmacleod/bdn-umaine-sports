@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-11-15T18:12:36.303525+00:00",
+  "last_updated": "2026-11-16T09:04:38.544720+00:00",
   "articles": [
+    {
+      "title": "Fitzpatrick's double-double lifts Maine over Brown, 53-48",
+      "url": "https://goblackbears.com/news/2026/11/15/womens-basketball-fitzpatricks-double-double-lifts-maine-over-brown-53-48",
+      "summary": "ORONO, Maine \u2014 Maddie Fitzpatrick posted a career-high 20 points and 11 rebounds as the University of Maine women's basketball team defeated Brown, 53-48, Sunday afternoon at Skip Chappelle Court. The Black Bears improved to 3-1 with the win.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/15/fitzpatrick-brown.png",
+      "published": "Sun, 15 Nov 2026 15:45:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "Jebouskov\u00e1 scores twice, Maine beats Holy Cross 3-0",
       "url": "https://goblackbears.com/news/2026/11/14/womens-ice-hockey-jebouskov-scores-twice-maine-beats-holy-cross-3-0",
@@ -83,15 +92,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Women's Basketball to host Oregon, Red Panda",
-      "url": "https://goblackbears.com/news/2026/11/12/preview-womens-basketball-to-host-oregon-red-panda",
-      "summary": "ORONO, Maine -- The University of Maine women's basketball team looks for its first 3-0 start since 2020 when they take on Big Ten opponent Oregon in the first-ever meeting between the two programs on Friday evening at 7 p.m. Limited tickets for this game are available by visiting GoBlackBears.com/Tickets.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/wood-action-siena.png",
-      "published": "Thu, 12 Nov 2026 14:39:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "PREVIEW: Men's hockey heads to #20/18 Vermont for two-game series",
       "url": "https://goblackbears.com/news/2026/11/8/mens-ice-hockey-preview-mens-hockey-heads-to-vermont-for-two-game-series",
       "summary": "The Black Bears and Catamounts will meet on Friday and Saturday at Gutterson Fieldhouse.",
@@ -164,6 +164,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "PREVIEW: Women's Basketball to host Oregon, Red Panda",
+      "url": "https://goblackbears.com/news/2026/11/12/preview-womens-basketball-to-host-oregon-red-panda",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team looks for its first 3-0 start since 2020 when they take on Big Ten opponent Oregon in the first-ever meeting between the two programs on Friday evening at 7 p.m. Limited tickets for this game are available by visiting GoBlackBears.com/Tickets.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/wood-action-siena.png",
+      "published": "Thu, 12 Nov 2026 14:39:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
       "title": "Women's Basketball to host annual Military Appreciation Day, Nov. 15",
       "url": "https://goblackbears.com/news/2026/11/10/womens-basketball-to-host-annual-military-appreciation-day-nov-15",
       "summary": "ORONO, Maine -- The University of Maine athletics department is proud to once again bring to our service men and women its Military Appreciation Series, presented by General Dynamics Bath Iron Works. The series, in its 11th year, provides the opportunity for the Black Bears to honor our military men and women at select athletic events over the course of the 2026-27 season.",
@@ -214,15 +223,6 @@
       "summary": "ORONO, Maine -- The University of Maine women's basketball team begins its\u00a063rd season of competition on Thursday evening at 6 p.m. when it hosts Siena in the first meeting between the two teams since 2012.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/4/gruber-pass.png",
       "published": "Tue, 3 Nov 2026 23:26:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's Basketball 2026-27 promotional scheduled announced",
-      "url": "https://goblackbears.com/news/2026/11/2/womens-basketball-2026-27-promotional-scheduled-announced",
-      "summary": "ORONO, Maine -- University of Maine athletics has announced the 2026-27 women's basketball promotional schedule.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/bench-excitemet-wbb.png",
-      "published": "Mon, 2 Nov 2026 23:18:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
     },
@@ -916,6 +916,16 @@
       "image": "",
       "published": "Fri, 25 Sep 2026 18:09:15 +0000",
       "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Fitzpatrick, Gruber lead UMaine women\u2019s basketball to win over Brown",
+      "url": "https://www.bangordailynews.com/2026/11/15/sports/fitzpatrick-gruber-lead-umaine-womens-basketball-to-win-over-brown/",
+      "summary": "Maddie Fitzpatrick hit a 3-pointer with less than two minutes remaining to break a 44-44 tie.",
+      "image": "",
+      "published": "Sun, 15 Nov 2026 21:35:31 +0000",
+      "sport": "Sports",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
