@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-17T10:16:30.719186+00:00",
+  "last_updated": "2026-11-17T20:13:08.186546+00:00",
   "articles": [
+    {
+      "title": "Simon French joins 2026 Spengler Cup staff",
+      "url": "https://goblackbears.com/news/2026/11/17/general-simon-french-joins-2026-spengler-cup-staff",
+      "summary": "Positions include 10 people representing five conferences and independents.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/21/MIH_Crowd3.png",
+      "published": "Tue, 17 Nov 2026 15:00:00 EST",
+      "sport": "General",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Maine, New Hampshire December 4 start time moved",
+      "url": "https://goblackbears.com/news/2026/11/17/womens-ice-hockey-maine-new-hampshire-december-4-start-time-moved",
+      "summary": "The University of Maine women's hockey game against New Hampshire on Friday Dec. 4 has been pushed back to a 6:30 p.m. puck drop instead of the original 6 p.m. time.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/23/IMG_4497_EafmE.jpg",
+      "published": "Tue, 17 Nov 2026 12:00:00 EST",
+      "sport": "Women's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Albin Boija named Hockey East Stop It Goaltending Goaltender of the Week",
       "url": "https://goblackbears.com/news/2026/11/16/mens-ice-hockey-albin-boija-named-hockey-east-stop-it-goaltending-goaltender-of-the-week",
@@ -71,24 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/13/_PEV0366.jpg",
       "published": "Sat, 14 Nov 2026 20:20:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's basketball comes up short in late comeback effort against Drexel",
-      "url": "https://goblackbears.com/news/2026/11/14/mens-basketball-mens-basketball-comes-up-short-in-late-comeback-effort-against-drexel",
-      "summary": "The University of Maine men's basketball program was defeated by Drexel on Saturday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/DSC09556.jpg",
-      "published": "Sat, 14 Nov 2026 15:04:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football falls at #25/RV UAlbany on Saturday afternoon",
-      "url": "https://goblackbears.com/news/2026/11/14/football-falls-at-25-rv-ualbany-on-saturday-afternoon",
-      "summary": "The University of Maine football program was defeated by #25/RV UAlbany on Saturday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/DSC08845.jpg",
-      "published": "Sat, 14 Nov 2026 14:57:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -227,6 +227,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "Men's basketball comes up short in late comeback effort against Drexel",
+      "url": "https://goblackbears.com/news/2026/11/14/mens-basketball-mens-basketball-comes-up-short-in-late-comeback-effort-against-drexel",
+      "summary": "The University of Maine men's basketball program was defeated by Drexel on Saturday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/DSC09556.jpg",
+      "published": "Sat, 14 Nov 2026 15:04:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
       "title": "PREVIEW: Men's basketball hosts Drexel on Saturday afternoon",
       "url": "https://goblackbears.com/news/2026/11/13/mens-basketball-preview-mens-basketball-hosts-drexel-on-saturday-afternoon",
       "summary": "The University of Maine men's basketball program hosts Drexel on Saturday afternoon in Orono.",
@@ -308,6 +317,15 @@
       "source": "goblackbears"
     },
     {
+      "title": "Football falls at #25/RV UAlbany on Saturday afternoon",
+      "url": "https://goblackbears.com/news/2026/11/14/football-falls-at-25-rv-ualbany-on-saturday-afternoon",
+      "summary": "The University of Maine football program was defeated by #25/RV UAlbany on Saturday afternoon.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/DSC08845.jpg",
+      "published": "Sat, 14 Nov 2026 14:57:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
       "title": "PREVIEW: Football heads to UAlbany for final road trip of the season",
       "url": "https://goblackbears.com/news/2026/11/12/preview-football-heads-to-ualbany-for-final-road-trip-of-the-season",
       "summary": "The University of Maine football program heads to UAlbany for their final road trip of the season on Saturday, Nov. 14.",
@@ -338,7 +356,7 @@
       "title": "Jack Cosgrove (\u201878, \u201881G) to be inducted into UMaine Football Ring of Honor, Nov. 21",
       "url": "https://goblackbears.com/news/2026/10/29/jack-cosgrove-78-81g-to-be-inducted-into-umaine-football-ring-of-honor-nov-21",
       "summary": "ORONO, Maine \u2013 The University of Maine will officially induct former head coach Jack Cosgrove ('78, '81G) into its prestigious Football Ring of Honor on Saturday, Nov. 21 when the Black Bears host New Hampshire at 1 p.m.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/29/Jack_Cosgrove_1433_1_-web-walk.png",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/17/Cosgrove_HockeyVB-website.png",
       "published": "Thu, 29 Oct 2026 15:53:00 EST",
       "sport": "Football",
       "source": "goblackbears"
@@ -387,6 +405,16 @@
       "published": "Sat, 17 Oct 2026 18:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
+    },
+    {
+      "title": "Analysis: Team defense and goaltending put UMaine men\u2019s hockey on positive path",
+      "url": "https://www.bangordailynews.com/2026/11/17/sports/college-ice-hockey/umaine-black-bears-mens-hockey-defense-goaltending-analysis/",
+      "summary": "But goal scoring is still an issue for the Black Bears.",
+      "image": "",
+      "published": "Tue, 17 Nov 2026 18:29:13 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "Boija posts second straight shutout, UMaine hockey skates to 0-0 tie at UVM",
@@ -579,16 +607,6 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "Hockey defenseman Isa Parekh finds early success after transferring to UMaine",
-      "url": "https://www.bangordailynews.com/2026/10/09/sports/college-ice-hockey/umaine-mens-hockey-isa-parekh-defenseman-transfer/",
-      "summary": "The defenseman is tied for the lead scorer for the Black Bears.",
-      "image": "",
-      "published": "Fri, 09 Oct 2026 14:34:30 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "Drexel men\u2019s basketball uses late free throws to hold off UMaine",
       "url": "https://www.bangordailynews.com/2026/11/16/sports/college-basketball/orono-maine-umaine-men-basketball-loss-home-drexel/",
       "summary": "It was UMaine\u2019s third straight loss, all of which came by six points or less.",
@@ -765,6 +783,16 @@
       "image": "",
       "published": "Mon, 04 May 2026 20:07:25 +0000",
       "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "Analysis: UMaine football seeking to salvage forgettable season with win over rival UNH",
+      "url": "https://www.bangordailynews.com/2026/11/17/sports/college-football/umaine-football-vs-unh-preview/",
+      "summary": "Maine is in danger of setting the school record for losses in a season, dating back to 1892.",
+      "image": "",
+      "published": "Tue, 17 Nov 2026 19:48:22 +0000",
+      "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
