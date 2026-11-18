@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-11-18T09:48:02.605778+00:00",
+  "last_updated": "2026-11-18T19:44:34.621306+00:00",
   "articles": [
+    {
+      "title": "Albin Boija added to United States Collegiate Select Roster for 2026 Spengler Cup",
+      "url": "https://goblackbears.com/news/2026/11/18/mens-ice-hockey-albin-boija-added-to-united-states-collegiate-select-roster-for-2026-spengler-cup",
+      "summary": "The U.S. Collegiate Selects roster features 25 student-athletes representing all six NCAA Division I conferences.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/18/IMG_0722.jpg",
+      "published": "Wed, 18 Nov 2026 14:10:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: Men's basketball begins five-game road trip on Thursday night at Quinnipiac",
+      "url": "https://goblackbears.com/news/2026/11/18/mens-basketball-preview-mens-basketball-begins-five-game-road-trip-on-thursday-night-at-quinnipiac",
+      "summary": "The University of Maine men's basketball program heads to Quinnipiac on Thursday night to begin a five-game road trip.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/18/562A1544.jpg",
+      "published": "Wed, 18 Nov 2026 09:30:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "\"All We Got. All We Need.\" | Episode 3 \"Max\"",
+      "url": "https://goblackbears.com/news/2026/11/18/football-all-we-got-all-we-need-episode-3-max",
+      "summary": "Episode 3 of \"All We Got. All We Need.\" focuses on Max Gregor, who is seen by his teammates and his coaches as the \"Glue Guy\" and one of the most positive and impactful players in the program.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/9/Screenshot_2026-10-09_at_7.37.42_AM.png",
+      "published": "Wed, 18 Nov 2026 09:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Men's hockey hosts Boston College in Hockey East action",
       "url": "https://goblackbears.com/news/2026/11/17/mens-ice-hockey-preview-mens-hockey-hosts-boston-college-in-hockey-east-action",
@@ -56,15 +83,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Men's hockey Teddy Bear Toss set for Friday, Nov. 20",
-      "url": "https://goblackbears.com/news/2026/11/16/mens-ice-hockey-mens-hockey-teddy-bear-toss-set-for-friday-nov-20",
-      "summary": "Fans are encouraged to bring teddy bears and other stuffed toys to be thrown on the ice during the first intermission.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/14/teddy-bear-toss-web.png",
-      "published": "Mon, 16 Nov 2026 11:00:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
       "title": "Fitzpatrick collects second America East Player of the Week accolade",
       "url": "https://goblackbears.com/news/2026/11/16/womens-basketball-fitzpatrick-collects-second-america-east-player-of-the-week-accolade",
       "summary": "ORONO, Maine -- For the second consecutive week, Maddie Fitzpatrick has been named the America East Player of the Week as announced by the league on Monday morning.",
@@ -74,21 +92,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "Fitzpatrick's double-double lifts Maine over Brown, 53-48",
-      "url": "https://goblackbears.com/news/2026/11/15/womens-basketball-fitzpatricks-double-double-lifts-maine-over-brown-53-48",
-      "summary": "ORONO, Maine \u2014 Maddie Fitzpatrick posted a career-high 20 points and 11 rebounds as the University of Maine women's basketball team defeated Brown, 53-48, Sunday afternoon at Skip Chappelle Court. The Black Bears improved to 3-1 with the win.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/15/fitzpatrick-brown.png",
-      "published": "Sun, 15 Nov 2026 15:45:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Jebouskov\u00e1 scores twice, Maine beats Holy Cross 3-0",
-      "url": "https://goblackbears.com/news/2026/11/14/womens-ice-hockey-jebouskov-scores-twice-maine-beats-holy-cross-3-0",
-      "summary": "The University of Maine women's hockey program completed a sweep of Holy Cross with a 3-0 victory on Saturday afternoon at Alfond Arena.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/15/DSC07942.jpg",
-      "published": "Sat, 14 Nov 2026 23:51:00 EST",
-      "sport": "Women's Ice Hockey",
+      "title": "Men's hockey Teddy Bear Toss set for Friday, Nov. 20",
+      "url": "https://goblackbears.com/news/2026/11/16/mens-ice-hockey-mens-hockey-teddy-bear-toss-set-for-friday-nov-20",
+      "summary": "Fans are encouraged to bring teddy bears and other stuffed toys to be thrown on the ice during the first intermission.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/14/teddy-bear-toss-web.png",
+      "published": "Mon, 16 Nov 2026 11:00:00 EST",
+      "sport": "Men's Ice Hockey",
       "source": "goblackbears"
     },
     {
@@ -146,12 +155,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Men's hockey hosts UMass for two-game Hockey East set",
-      "url": "https://goblackbears.com/news/2026/11/1/mens-ice-hockey-preview-mens-hockey-hosts-umass-for-two-game-set",
-      "summary": "Maine and UMass will meet at Alfond Arena on Friday, Nov. 6 and Saturday, Nov. 7.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/31/IMG_5082.jpg",
-      "published": "Sun, 1 Nov 2026 22:31:00 EST",
-      "sport": "Men's Ice Hockey",
+      "title": "Fitzpatrick's double-double lifts Maine over Brown, 53-48",
+      "url": "https://goblackbears.com/news/2026/11/15/womens-basketball-fitzpatricks-double-double-lifts-maine-over-brown-53-48",
+      "summary": "ORONO, Maine \u2014 Maddie Fitzpatrick posted a career-high 20 points and 11 rebounds as the University of Maine women's basketball team defeated Brown, 53-48, Sunday afternoon at Skip Chappelle Court. The Black Bears improved to 3-1 with the win.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/15/fitzpatrick-brown.png",
+      "published": "Sun, 15 Nov 2026 15:45:00 EST",
+      "sport": "Women's Basketball",
       "source": "goblackbears"
     },
     {
@@ -308,15 +317,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Men's basketball falls in season opener at Providence on Monday night",
-      "url": "https://goblackbears.com/news/2026/11/2/mens-basketball-mens-basketball-falls-in-season-opener-at-providence-on-monday-night",
-      "summary": "The University of Maine men's basketball program was defeated by Providence College on opening night.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/DSC07378.jpg",
-      "published": "Mon, 2 Nov 2026 21:16:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "Football falls at #25/RV UAlbany on Saturday afternoon",
       "url": "https://goblackbears.com/news/2026/11/14/football-falls-at-25-rv-ualbany-on-saturday-afternoon",
       "summary": "The University of Maine football program was defeated by #25/RV UAlbany on Saturday afternoon.",
@@ -353,9 +353,9 @@
       "source": "goblackbears"
     },
     {
-      "title": "Jack Cosgrove (\u201878, \u201881G) to be inducted into UMaine Football Ring of Honor, Nov. 21",
+      "title": "Jack Cosgrove (\u201878, \u201884G) to be inducted into UMaine Football Ring of Honor, Nov. 21",
       "url": "https://goblackbears.com/news/2026/10/29/jack-cosgrove-78-81g-to-be-inducted-into-umaine-football-ring-of-honor-nov-21",
-      "summary": "ORONO, Maine \u2013 The University of Maine will officially induct former head coach Jack Cosgrove ('78, '81G) into its prestigious Football Ring of Honor on Saturday, Nov. 21 when the Black Bears host New Hampshire at 1 p.m.",
+      "summary": "ORONO, Maine \u2013 The University of Maine will officially induct former head coach Jack Cosgrove ('78, '84G) into its prestigious Football Ring of Honor on Saturday, Nov. 21 when the Black Bears host New Hampshire at 1 p.m.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/17/Cosgrove_HockeyVB-website.png",
       "published": "Thu, 29 Oct 2026 15:53:00 EST",
       "sport": "Football",
@@ -394,15 +394,6 @@
       "summary": "Episode 2 of \"All We Got. All We Need.\" focuses of the captains of the 2026 Black Bear football program, Anthony Iliano and Kye Pressley, along with what it means to be a captain for the Maine football program.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/9/Screenshot_2026-10-09_at_7.37.42_AM.png",
       "published": "Wed, 21 Oct 2026 09:00:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Football falls against Bryant on Saturday afternoon",
-      "url": "https://goblackbears.com/news/2026/10/17/football-falls-against-bryant-on-saturday-afternoon",
-      "summary": "The University of Maine football program was defeated by Bryant on Saturday afternoon, 17-14.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/19/562A3275_9qsiT.jpg",
-      "published": "Sat, 17 Oct 2026 18:00:00 EST",
       "sport": "Football",
       "source": "goblackbears"
     },
