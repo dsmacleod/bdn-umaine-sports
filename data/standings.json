@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T20:13:08.186546+00:00",
+  "last_updated": "2026-11-18T09:48:02.605778+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -542,9 +542,9 @@
           "school": "UMass Lowell",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "3-1",
+          "overall": "4-1",
           "pct": ".000",
-          "streak": "L1",
+          "streak": "W1",
           "is_umaine": false
         },
         {
@@ -596,9 +596,9 @@
           "school": "Bryant",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "1-4",
+          "overall": "2-4",
           "pct": ".000",
-          "streak": "L4",
+          "streak": "W1",
           "is_umaine": false
         },
         {
