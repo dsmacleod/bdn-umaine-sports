@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T19:44:34.621306+00:00",
+  "last_updated": "2026-11-19T09:56:36.207406+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -69,12 +69,12 @@
             "ga": 15
           },
           "overall": {
-            "gp": 11,
+            "gp": 12,
             "w": 7,
             "l": 4,
-            "t": 0,
-            "gf": 40,
-            "ga": 29
+            "t": 1,
+            "gf": 42,
+            "ga": 31
           },
           "is_umaine": false
         },
@@ -548,21 +548,12 @@
           "is_umaine": false
         },
         {
-          "school": "Binghamton",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "3-2",
-          "pct": ".000",
-          "streak": "L1",
-          "is_umaine": false
-        },
-        {
           "school": "New Hampshire",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "3-2",
+          "overall": "4-2",
           "pct": ".000",
-          "streak": "L1",
+          "streak": "W1",
           "is_umaine": false
         },
         {
@@ -572,6 +563,15 @@
           "overall": "3-2",
           "pct": ".000",
           "streak": "W1",
+          "is_umaine": false
+        },
+        {
+          "school": "Binghamton",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "3-3",
+          "pct": ".000",
+          "streak": "L2",
           "is_umaine": false
         },
         {
@@ -587,9 +587,9 @@
           "school": "Vermont",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "2-2",
+          "overall": "2-3",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "L1",
           "is_umaine": false
         },
         {
@@ -614,9 +614,9 @@
           "school": "NJIT",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "1-5",
+          "overall": "1-6",
           "pct": ".000",
-          "streak": "L3",
+          "streak": "L4",
           "is_umaine": false
         }
       ]
@@ -638,9 +638,9 @@
           "school": "NJIT",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "4-1",
+          "overall": "5-1",
           "pct": ".000",
-          "streak": "L1",
+          "streak": "W1",
           "is_umaine": false
         },
         {
@@ -651,6 +651,15 @@
           "pct": ".000",
           "streak": "W1",
           "is_umaine": true
+        },
+        {
+          "school": "New Hampshire",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "4-2",
+          "pct": ".000",
+          "streak": "W2",
+          "is_umaine": false
         },
         {
           "school": "UAlbany",
@@ -671,24 +680,6 @@
           "is_umaine": false
         },
         {
-          "school": "Binghamton",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "3-2",
-          "pct": ".000",
-          "streak": "W3",
-          "is_umaine": false
-        },
-        {
-          "school": "New Hampshire",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "3-2",
-          "pct": ".000",
-          "streak": "W1",
-          "is_umaine": false
-        },
-        {
           "school": "Vermont",
           "conference": "0-0",
           "conference_pct": ".000",
@@ -698,12 +689,21 @@
           "is_umaine": false
         },
         {
+          "school": "Binghamton",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "3-3",
+          "pct": ".000",
+          "streak": "L1",
+          "is_umaine": false
+        },
+        {
           "school": "UMass Lowell",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "2-3",
+          "overall": "2-4",
           "pct": ".000",
-          "streak": "L3",
+          "streak": "L4",
           "is_umaine": false
         }
       ]
