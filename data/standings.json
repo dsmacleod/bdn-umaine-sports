@@ -1,11 +1,36 @@
 {
-  "last_updated": "2026-11-19T19:44:42.735038+00:00",
+  "last_updated": "2026-11-20T09:44:25.633360+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
         {
-          "school": "Vermont",
+          "school": "Providence",
           "rank": 1,
+          "conference": {
+            "gp": 7,
+            "pts": 18,
+            "w": 6,
+            "l": 1,
+            "t": 0,
+            "ow": 0,
+            "ol": 0,
+            "sw": 0,
+            "gf": 34,
+            "ga": 13
+          },
+          "overall": {
+            "gp": 11,
+            "w": 9,
+            "l": 2,
+            "t": 0,
+            "gf": 48,
+            "ga": 22
+          },
+          "is_umaine": false
+        },
+        {
+          "school": "Vermont",
+          "rank": 2,
           "conference": {
             "gp": 8,
             "pts": 16,
@@ -25,31 +50,6 @@
             "t": 2,
             "gf": 22,
             "ga": 22
-          },
-          "is_umaine": false
-        },
-        {
-          "school": "Providence",
-          "rank": 2,
-          "conference": {
-            "gp": 6,
-            "pts": 15,
-            "w": 5,
-            "l": 1,
-            "t": 0,
-            "ow": 0,
-            "ol": 0,
-            "sw": 0,
-            "gf": 30,
-            "ga": 11
-          },
-          "overall": {
-            "gp": 10,
-            "w": 8,
-            "l": 2,
-            "t": 0,
-            "gf": 44,
-            "ga": 20
           },
           "is_umaine": false
         },
@@ -104,8 +104,33 @@
           "is_umaine": false
         },
         {
+          "school": "New Hampshire",
+          "rank": null,
+          "conference": {
+            "gp": 6,
+            "pts": 10,
+            "w": 3,
+            "l": 2,
+            "t": 1,
+            "ow": 1,
+            "ol": 1,
+            "sw": 0,
+            "gf": 21,
+            "ga": 16
+          },
+          "overall": {
+            "gp": 13,
+            "w": 7,
+            "l": 5,
+            "t": 1,
+            "gf": 38,
+            "ga": 38
+          },
+          "is_umaine": false
+        },
+        {
           "school": "Northeastern",
-          "rank": 5,
+          "rank": 6,
           "conference": {
             "gp": 5,
             "pts": 8,
@@ -119,12 +144,12 @@
             "ga": 14
           },
           "overall": {
-            "gp": 8,
-            "w": 6,
+            "gp": 9,
+            "w": 7,
             "l": 2,
             "t": 0,
-            "gf": 29,
-            "ga": 17
+            "gf": 37,
+            "ga": 19
           },
           "is_umaine": false
         },
@@ -157,49 +182,24 @@
           "school": "UConn",
           "rank": null,
           "conference": {
-            "gp": 8,
+            "gp": 9,
             "pts": 8,
             "w": 2,
-            "l": 5,
+            "l": 6,
             "t": 1,
             "ow": 1,
             "ol": 1,
             "sw": 1,
-            "gf": 28,
-            "ga": 41
+            "gf": 31,
+            "ga": 47
           },
           "overall": {
-            "gp": 12,
+            "gp": 13,
             "w": 4,
-            "l": 7,
+            "l": 8,
             "t": 1,
-            "gf": 37,
-            "ga": 53
-          },
-          "is_umaine": false
-        },
-        {
-          "school": "New Hampshire",
-          "rank": 8,
-          "conference": {
-            "gp": 5,
-            "pts": 7,
-            "w": 2,
-            "l": 2,
-            "t": 1,
-            "ow": 1,
-            "ol": 1,
-            "sw": 0,
-            "gf": 15,
-            "ga": 13
-          },
-          "overall": {
-            "gp": 12,
-            "w": 6,
-            "l": 5,
-            "t": 1,
-            "gf": 32,
-            "ga": 35
+            "gf": 40,
+            "ga": 59
           },
           "is_umaine": false
         },
@@ -207,24 +207,24 @@
           "school": "Massachusetts",
           "rank": 9,
           "conference": {
-            "gp": 5,
+            "gp": 6,
             "pts": 6,
             "w": 2,
-            "l": 3,
+            "l": 4,
             "t": 0,
             "ow": 0,
             "ol": 0,
             "sw": 0,
-            "gf": 9,
-            "ga": 11
+            "gf": 11,
+            "ga": 15
           },
           "overall": {
-            "gp": 13,
+            "gp": 14,
             "w": 5,
-            "l": 7,
+            "l": 8,
             "t": 1,
-            "gf": 28,
-            "ga": 33
+            "gf": 30,
+            "ga": 37
           },
           "is_umaine": false
         },
@@ -286,24 +286,24 @@
           "school": "Northeastern",
           "rank": 1,
           "conference": {
-            "gp": 8,
-            "pts": 22,
-            "w": 7,
+            "gp": 9,
+            "pts": 25,
+            "w": 8,
             "l": 0,
             "t": 1,
             "ow": 0,
             "ol": 0,
             "sw": 0,
-            "gf": 35,
-            "ga": 15
+            "gf": 39,
+            "ga": 16
           },
           "overall": {
-            "gp": 13,
-            "w": 10,
+            "gp": 14,
+            "w": 11,
             "l": 1,
             "t": 2,
-            "gf": 56,
-            "ga": 21
+            "gf": 60,
+            "ga": 22
           },
           "is_umaine": false
         },
@@ -361,55 +361,55 @@
           "school": "Maine",
           "rank": 4,
           "conference": {
-            "gp": 6,
+            "gp": 7,
             "pts": 13,
             "w": 4,
-            "l": 1,
+            "l": 2,
             "t": 1,
             "ow": 0,
             "ol": 0,
             "sw": 0,
-            "gf": 15,
-            "ga": 6
+            "gf": 16,
+            "ga": 10
           },
           "overall": {
-            "gp": 14,
+            "gp": 15,
             "w": 7,
-            "l": 6,
+            "l": 7,
             "t": 1,
-            "gf": 30,
-            "ga": 30
+            "gf": 31,
+            "ga": 34
           },
           "is_umaine": true
         },
         {
           "school": "New Hampshire",
-          "rank": 5,
+          "rank": null,
           "conference": {
-            "gp": 8,
-            "pts": 10,
-            "w": 3,
+            "gp": 9,
+            "pts": 13,
+            "w": 4,
             "l": 4,
             "t": 1,
             "ow": 0,
             "ol": 0,
             "sw": 0,
-            "gf": 22,
-            "ga": 26
+            "gf": 25,
+            "ga": 28
           },
           "overall": {
-            "gp": 16,
-            "w": 8,
+            "gp": 17,
+            "w": 9,
             "l": 7,
             "t": 1,
-            "gf": 47,
-            "ga": 42
+            "gf": 50,
+            "ga": 44
           },
           "is_umaine": false
         },
         {
           "school": "Boston University",
-          "rank": null,
+          "rank": 6,
           "conference": {
             "gp": 8,
             "pts": 10,
@@ -511,24 +511,24 @@
           "school": "Holy Cross",
           "rank": 10,
           "conference": {
-            "gp": 8,
+            "gp": 9,
             "pts": 4,
             "w": 1,
-            "l": 6,
+            "l": 7,
             "t": 1,
             "ow": 0,
             "ol": 0,
             "sw": 0,
-            "gf": 6,
-            "ga": 17
+            "gf": 8,
+            "ga": 20
           },
           "overall": {
-            "gp": 15,
+            "gp": 16,
             "w": 3,
-            "l": 8,
+            "l": 9,
             "t": 4,
-            "gf": 20,
-            "ga": 36
+            "gf": 22,
+            "ga": 39
           },
           "is_umaine": false
         }
@@ -578,9 +578,9 @@
           "school": "UMBC",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "3-3",
+          "overall": "3-4",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "L1",
           "is_umaine": false
         },
         {
@@ -605,9 +605,9 @@
           "school": "Maine",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "1-4",
+          "overall": "2-4",
           "pct": ".000",
-          "streak": "L3",
+          "streak": "W1",
           "is_umaine": true
         },
         {
@@ -647,9 +647,9 @@
           "school": "Maine",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "3-1",
+          "overall": "4-1",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "W2",
           "is_umaine": true
         },
         {
@@ -683,9 +683,9 @@
           "school": "Vermont",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "3-2",
+          "overall": "4-2",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "W2",
           "is_umaine": false
         },
         {
