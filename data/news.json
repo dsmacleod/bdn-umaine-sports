@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-21T18:27:36.686308+00:00",
+  "last_updated": "2026-11-22T09:25:58.059757+00:00",
   "articles": [
+    {
+      "title": "Men's hockey comeback falls short in loss to Boston College",
+      "url": "https://goblackbears.com/news/2026/11/21/mens-ice-hockey-fleece-scores-first-career-goal-as-bc-edges-mens-hockey-4-3",
+      "summary": "Masun Fleece scored his first career goal.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/21/LindseyPellett-6712.jpg",
+      "published": "Sat, 21 Nov 2026 22:40:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Men's basketball falls at UMass on Saturday night",
+      "url": "https://goblackbears.com/news/2026/11/21/mens-basketball-mens-basketball-falls-at-umass-on-saturday-night",
+      "summary": "The University of Maine men's basketball program was defeated by UMass on Saturday night.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/21/DSC00508.jpg",
+      "published": "Sat, 21 Nov 2026 20:06:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Football drops season finale against New Hampshire on Saturday afternoon",
+      "url": "https://goblackbears.com/news/2026/11/21/football-drops-season-finale-against-new-hampshire-on-saturday-afternoon",
+      "summary": "The University of Maine football program had their season come to an end on Saturday after a loss against New Hampshire, 24-21.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/21/562A3652.jpg",
+      "published": "Sat, 21 Nov 2026 17:53:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
+      "title": "PREVIEW: Women's Basketball closes out four-game homestand Sunday",
+      "url": "https://goblackbears.com/news/2026/11/21/preview-womens-basketball-closes-out-four-game-homestand-sunday",
+      "summary": "ORONO, Maine -- The University of Maine women's basketball team concludes its four-game homestand by hosting Penn at 11:30 a.m. on Sunday live on NESN and ESPN+. Tickets remain available and can be purchased by visiting GoBlackBears.com/Tickets.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/30/streams-dribble-BU.png",
+      "published": "Sat, 21 Nov 2026 14:57:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "Maine Athletics announce plans for Jack Cosgrove (\u201878, \u201884) Football Wing at Morse Arena",
       "url": "https://goblackbears.com/news/2026/11/21/maine-athletics-announce-plans-for-jack-cosgrove-78-84-football-wing-at-morse-arena",
@@ -53,42 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/13/DSC07283.jpg",
       "published": "Fri, 20 Nov 2026 10:15:00 EST",
       "sport": "Men's Track and Field, Women's Track and Field",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Men's basketball continues road trip on Saturday at UMass",
-      "url": "https://goblackbears.com/news/2026/11/20/mens-basketball-preview-mens-basketball-continues-road-trip-on-saturday-at-umass",
-      "summary": "The University of Maine men's basketball program continues their road trip with a stop at UMass on Saturday night.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/20/562A1815.jpg",
-      "published": "Fri, 20 Nov 2026 09:00:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's Swim & Dive competes at Harold Anderson Invitational",
-      "url": "https://goblackbears.com/news/2026/11/19/mens-swimming-and-diving-mens-swim-dive-competes-at-harold-anderson-invitational",
-      "summary": "KINGSTON, R.I. -- The University of Maine men's swimming & diving team sits in fourth place with 94 points following day one of competition at the Harold Anderson Invitational.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/23/M_Bendoraitis_1__RsBwP.jpg",
-      "published": "Thu, 19 Nov 2026 23:08:00 EST",
-      "sport": "Men's Swimming and Diving",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's Swimming concludes day one of Harold Anderson Invitational",
-      "url": "https://goblackbears.com/news/2026/11/19/womens-swimming-and-diving-womens-swimming-concludes-day-one-of-harold-anderson-invitational",
-      "summary": "KINGSTON, R.I. -- The University of Maine women's swimming and diving team currently sit in sixth place with 68 points following day one of the Harold Anderson Invitational.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/19/Cadigan-action.png",
-      "published": "Thu, 19 Nov 2026 22:49:00 EST",
-      "sport": "Women's Swimming and Diving",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's basketball grabs second win of the season behind 22 points from Hudson Franz",
-      "url": "https://goblackbears.com/news/2026/11/19/mens-basketball-mens-basketball-grabs-second-win-of-the-season-behind-22-points-from-hudson-franz",
-      "summary": "The University of Maine men's basketball program picked up their second win of the season as they took down Quinnipiac on Thursday night.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/19/562A4909.jpg",
-      "published": "Thu, 19 Nov 2026 22:08:00 EST",
-      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -160,15 +160,6 @@
       "summary": "Jaden Lipinski scored his first goal of the season in the loss.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/IMG_9810.jpg",
       "published": "Fri, 6 Nov 2026 22:20:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "WATCH: Season 5, Episode 2 of Journey North - Breakthrough",
-      "url": "https://goblackbears.com/news/2026/11/2/mens-ice-hockey-watch-season-5-episode-2-of-journey-north-breakthrough",
-      "summary": "Go inside and behind the scenes of Maine men's ice hockey with 'Journey North'",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/1/JN_S5_EP2_Thumbnail.jpg",
-      "published": "Mon, 2 Nov 2026 10:00:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
     },
@@ -254,12 +245,21 @@
       "source": "goblackbears"
     },
     {
-      "title": "Fitzpatrick named America East Player of the Week",
-      "url": "https://goblackbears.com/news/2026/11/9/womens-basketball-fitzpatrick-named-america-east-player-of-the-week",
-      "summary": "ORONO, Maine -- University of Maine women's basketball forward Maddie Fitzpatrick has been named the America East Player of the Week, as announced by the league\u00a0on Monday morning.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/MADDIE-fitzpatrick-shot.png",
-      "published": "Mon, 9 Nov 2026 11:00:00 EST",
-      "sport": "Women's Basketball",
+      "title": "PREVIEW: Men's basketball continues road trip on Saturday at UMass",
+      "url": "https://goblackbears.com/news/2026/11/20/mens-basketball-preview-mens-basketball-continues-road-trip-on-saturday-at-umass",
+      "summary": "The University of Maine men's basketball program continues their road trip with a stop at UMass on Saturday night.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/20/562A1815.jpg",
+      "published": "Fri, 20 Nov 2026 09:00:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Men's basketball grabs second win of the season behind 22 points from Hudson Franz",
+      "url": "https://goblackbears.com/news/2026/11/19/mens-basketball-mens-basketball-grabs-second-win-of-the-season-behind-22-points-from-hudson-franz",
+      "summary": "The University of Maine men's basketball program picked up their second win of the season as they took down Quinnipiac on Thursday night.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/19/562A4909.jpg",
+      "published": "Thu, 19 Nov 2026 22:08:00 EST",
+      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -322,15 +322,6 @@
       "summary": "The University of Maine men's basketball program will host Manhattan in their home opener on Sunday, Nov. 8. The game is the final contest for both teams in the America East-Metro Basketball Challenge.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/7/562A4898.jpg",
       "published": "Sat, 7 Nov 2026 11:00:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's basketball announces 2026-27 promotional schedule",
-      "url": "https://goblackbears.com/news/2026/11/6/mens-basketball-mens-basketball-announces-2026-27-promotional-schedule",
-      "summary": "The University of Maine men's basketball program has announced their 2026-27 promotional schedule.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/5/562A5337.jpg",
-      "published": "Fri, 6 Nov 2026 09:00:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
     },
@@ -407,13 +398,14 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Football hosts Campbell for Homecoming weekend",
-      "url": "https://goblackbears.com/news/2026/10/22/preview-football-hosts-campbell-for-homecoming-weekend",
-      "summary": "The University of Maine football program will play host to #13/16 Campbell on homecoming weekend in Orono on Saturday, Oct. 24.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/562A2679_RD4Si.jpg",
-      "published": "Thu, 22 Oct 2026 13:00:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
+      "title": "BC men\u2019s hockey hangs on for win over UMaine",
+      "url": "https://www.bangordailynews.com/2026/11/21/sports/college-ice-hockey/bc-mens-hockey-hangs-on-for-win-over-umaine/",
+      "summary": "The Eagles scored goals just 13 seconds apart late in the first period and hung on for a 4-3 victory over the Black Bears.",
+      "image": "",
+      "published": "Sun, 22 Nov 2026 02:52:56 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "UMaine hockey\u2019s Siciliano has work ethic handed down from his immigrant family",
@@ -606,16 +598,6 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine men\u2019s hockey hosting Colgate on Homecoming weekend",
-      "url": "https://www.bangordailynews.com/2026/10/22/sports/college-ice-hockey/umaine-mens-hockey-homecoming-colgate-two-game-series/",
-      "summary": "This will be the third time in four years the Black Bears and Raiders will be meeting for a two-game set in Orono.",
-      "image": "",
-      "published": "Thu, 22 Oct 2026 17:05:55 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "Kaliyah Sain\u2019s 15 overtime points lead UMaine women\u2019s basketball to win over VCU",
       "url": "https://www.bangordailynews.com/2026/11/20/sports/college-basketball/umaine-womens-basketball-virginia-commonwealth-university-overtime-win-kaliyah-sain/",
       "summary": "She scored six unanswered points in overtime to give UMaine a lead it would never relinquish.",
@@ -786,6 +768,16 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "UMaine football ends miserable season with loss to UNH",
+      "url": "https://www.bangordailynews.com/2026/11/21/sports/college-football/umaine-football-ends-miserable-season-with-loss-to-unh/",
+      "summary": "UMaine finished with a school-record number of losses, and its 10-game losing streak is the longest single-season skid in school history.",
+      "image": "",
+      "published": "Sat, 21 Nov 2026 21:28:05 +0000",
+      "sport": "College Football",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "Former UMaine football coach Jack Cosgrove reflects on career before Ring of Honor induction",
       "url": "https://www.bangordailynews.com/2026/11/18/sports/college-football/umaine-football-coach-jack-cosgrove-ring-of-honor/",
       "summary": "Cosgrove, who amassed 129 victories in 23 years at UMaine, is the program\u2019s all-time winningest coach.",
@@ -946,32 +938,12 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine football visits Elon in a must-win game for both teams",
-      "url": "https://www.bangordailynews.com/2026/09/25/sports/college-football/umaine-football-vs-elon-must-win-game-joam40zk0w/",
-      "summary": "The Black Bears are 1-3 overall, and a loss would probably force them to win their last six games to be considered for a playoff berth.",
-      "image": "",
-      "published": "Sat, 26 Sep 2026 03:06:40 +0000",
-      "sport": "College Football",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "Fitzpatrick, Gruber lead UMaine women\u2019s basketball to win over Brown",
       "url": "https://www.bangordailynews.com/2026/11/15/sports/fitzpatrick-gruber-lead-umaine-womens-basketball-to-win-over-brown/",
       "summary": "Maddie Fitzpatrick hit a 3-pointer with less than two minutes remaining to break a 44-44 tie.",
       "image": "",
       "published": "Sun, 15 Nov 2026 21:35:31 +0000",
       "sport": "Sports",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "Jaden Lipinski goal lifts UMaine hockey to win at Vermont",
-      "url": "https://www.bangordailynews.com/2026/11/14/sports/umaine-sports/jaden-lipinski-goal-lifts-umaine-hockey-to-win-at-vermont/",
-      "summary": "University of Maine sophomore center Jaden Lipinski broke a 1-1 tie with a wraparound goal in the third period.",
-      "image": "",
-      "published": "Sun, 15 Nov 2026 03:10:31 +0000",
-      "sport": "University of Maine Black Bear Sports",
       "source": "bdn",
       "author": "Larry Mahoney"
     }
