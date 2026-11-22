@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-11-22T09:25:58.059757+00:00",
+  "last_updated": "2026-11-22T18:50:01.633142+00:00",
   "articles": [
+    {
+      "title": "PREVIEW: Men's hockey, Cornell set for Saturday showdown at MSG",
+      "url": "https://goblackbears.com/news/2026/11/22/mens-ice-hockey-preview-mens-hockey-cornell-set-for-saturday-showdown-at-msg",
+      "summary": "Maine takes on the Cornell in the Frozen Apple at Madison Square Garden on Saturday, Nov. 28.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/22/IMG_9682.jpg",
+      "published": "Sun, 22 Nov 2026 11:55:00 EST",
+      "sport": "Men's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Men's hockey comeback falls short in loss to Boston College",
       "url": "https://goblackbears.com/news/2026/11/21/mens-ice-hockey-fleece-scores-first-career-goal-as-bc-edges-mens-hockey-4-3",
@@ -83,15 +92,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "Track and Field announces indoor schedule",
-      "url": "https://goblackbears.com/news/2026/11/20/mens-track-and-field-track-and-field-announces-indoor-schedule",
-      "summary": "The University of Maine track and field program announced the indoor portion of their schedule on Friday.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/13/DSC07283.jpg",
-      "published": "Fri, 20 Nov 2026 10:15:00 EST",
-      "sport": "Men's Track and Field, Women's Track and Field",
-      "source": "goblackbears"
-    },
-    {
       "title": "PREVIEW: Men's hockey hosts Boston College in Hockey East action",
       "url": "https://goblackbears.com/news/2026/11/17/mens-ice-hockey-preview-mens-hockey-hosts-boston-college-in-hockey-east-action",
       "summary": "Maine will host BC on Friday and Saturday at Alfond Arena.",
@@ -151,15 +151,6 @@
       "summary": "Owen Fowler and Tanner Klimpke scored in the 2-0 win while Albin Boija made 16 saves.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/7/IMG_0571.jpg",
       "published": "Sat, 7 Nov 2026 22:22:00 EST",
-      "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "#19 Minutemen sneak past men's hockey, 2-1",
-      "url": "https://goblackbears.com/news/2026/11/6/mens-ice-hockey-19-umass-sneaks-past-mens-hockey-2-1",
-      "summary": "Jaden Lipinski scored his first goal of the season in the loss.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/IMG_9810.jpg",
-      "published": "Fri, 6 Nov 2026 22:20:00 EST",
       "sport": "Men's Ice Hockey",
       "source": "goblackbears"
     },

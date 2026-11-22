@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T09:25:58.059757+00:00",
+  "last_updated": "2026-11-22T18:50:01.633142+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -638,9 +638,9 @@
           "school": "Maine",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "4-1",
+          "overall": "4-2",
           "pct": ".000",
-          "streak": "W2",
+          "streak": "L1",
           "is_umaine": true
         },
         {
