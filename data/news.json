@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-11-22T18:50:01.633142+00:00",
+  "last_updated": "2026-11-23T10:22:41.301883+00:00",
   "articles": [
+    {
+      "title": "Men's Swim & Dive places fourth at Harold Anderson Invitational",
+      "url": "https://goblackbears.com/news/2026/11/22/mens-swimming-and-diving-mens-swim-dive-places-fourth-at-harold-anderson-invitational",
+      "summary": "KINGSTON, R.I. --\u00a0Henry Schattle's third-place finish in the 1,650-yard freestyle led the Maine men's swimming team on the final day of the Harold Anderson Invitational on Sunday. Schattle finished in 16:19.42 as the Black Bears closed the four-day meet in fourth place with 500 points.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/1/Matos_2_-web.png",
+      "published": "Sun, 22 Nov 2026 22:30:00 EST",
+      "sport": "Men's Swimming and Diving",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Volpe wins 200-yard breaststroke to close out Harold Anderson Invitational",
+      "url": "https://goblackbears.com/news/2026/11/22/womens-swimming-and-diving-volpe-wins-200-yard-breaststroke-to-close-out-harold-anderson-invitational",
+      "summary": "KINGSTON, R.I. -- Gabi Volpe won the 200-yard breaststroke to lead the Maine women's swimming team on the final day of the Harold Anderson Invitational on Sunday. Volpe touched in 2:18.29, edging Rhode Island's Logan Norrid by six hundredths of a second for the title.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/22/Volpe-action.png",
+      "published": "Sun, 22 Nov 2026 22:23:00 EST",
+      "sport": "Women's Swimming and Diving",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Sain posts 19 points in loss to Penn",
+      "url": "https://goblackbears.com/news/2026/11/22/womens-basketball-sain-posts-19-points-in-loss-to-penn",
+      "summary": "ORONO, Maine -- Kaliyah Sain scored a team-high 19 points, but the University of Maine women's basketball team fell to Penn, 77-50, Sunday at Memorial Gymnasium.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/22/sain-shot-penn.png",
+      "published": "Sun, 22 Nov 2026 13:47:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Men's hockey, Cornell set for Saturday showdown at MSG",
       "url": "https://goblackbears.com/news/2026/11/22/mens-ice-hockey-preview-mens-hockey-cornell-set-for-saturday-showdown-at-msg",
@@ -62,33 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/20/LindseyPellett-5238.jpg",
       "published": "Fri, 20 Nov 2026 23:27:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Miller wins 1m dive on day two of Harold Anderson Invitational",
-      "url": "https://goblackbears.com/news/2026/11/20/mens-swimming-and-diving-miller-wins-1m-dive-on-day-two-of-harold-anderson-invitational",
-      "summary": "KINGSTON, R.I. \u2014 Gray Miller won the one-meter diving event with 295.00 points on day two of the Harold Anderson Invitational. After two days of competition, the Black Bears sit in fourth place with 203 points.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/23/Miller_1__j0R4J.jpg",
-      "published": "Fri, 20 Nov 2026 23:08:00 EST",
-      "sport": "Men's Swimming and Diving",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Esme Abbadi Macintosh wins 3m dive on day two of Harold Anderson Invitational",
-      "url": "https://goblackbears.com/news/2026/11/20/womens-swimming-and-diving-esme-abbadi-macintosh-wins-3m-dive-on-day-two-of-harold-anderson-invitational",
-      "summary": "KINGSTON, R.I. \u2014 Esme Abbadi Macintosh won the three-meter diving event to lead the University of Maine women during Friday's finals at the Harold Anderson Invitational. The Black Bears stand in fourth place with 180 points after two days of competition.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/20/Abbadi-MacIntosh_2_-dive.png",
-      "published": "Fri, 20 Nov 2026 22:55:00 EST",
-      "sport": "Women's Swimming and Diving",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Maine falls to #5 Northeastern",
-      "url": "https://goblackbears.com/news/2026/11/20/womens-ice-hockey-maine-falls-to-5-northeastern",
-      "summary": "The University of Maine women's hockey program fell in regulation to #5 Northeastern 3-0 Friday night at Bentley Arena.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/20/JIM11131.jpg",
-      "published": "Fri, 20 Nov 2026 21:23:00 EST",
-      "sport": "Women's Ice Hockey",
       "source": "goblackbears"
     },
     {
@@ -223,15 +223,6 @@
       "summary": "ORONO, Maine -- The University of Maine women's basketball team looks for its first 3-0 start since 2020 when they take on Big Ten opponent Oregon in the first-ever meeting between the two programs on Friday evening at 7 p.m. Limited tickets for this game are available by visiting GoBlackBears.com/Tickets.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/wood-action-siena.png",
       "published": "Thu, 12 Nov 2026 14:39:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Women's Basketball to host annual Military Appreciation Day, Nov. 15",
-      "url": "https://goblackbears.com/news/2026/11/10/womens-basketball-to-host-annual-military-appreciation-day-nov-15",
-      "summary": "ORONO, Maine -- The University of Maine athletics department is proud to once again bring to our service men and women its Military Appreciation Series, presented by General Dynamics Bath Iron Works. The series, in its 11th year, provides the opportunity for the Black Bears to honor our military men and women at select athletic events over the course of the 2026-27 season.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/streams-siena.png",
-      "published": "Tue, 10 Nov 2026 11:24:00 EST",
       "sport": "Women's Basketball",
       "source": "goblackbears"
     },
