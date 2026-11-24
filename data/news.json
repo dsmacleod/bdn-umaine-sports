@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-24T12:03:37.198617+00:00",
+  "last_updated": "2026-11-24T21:42:56.356977+00:00",
   "articles": [
+    {
+      "title": "CAA announces 2026 All-Conference Teams",
+      "url": "https://goblackbears.com/news/2026/11/24/football-caa-annoucnes-2026-all-conference-teams",
+      "summary": "The CAA announced on Tuesday afternoon that nine Black Bears on the University of Maine football program earned a spot on an All-Conference Team or were an Honorable Mention.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/FB_2026.png",
+      "published": "Tue, 24 Nov 2026 16:00:00 EST",
+      "sport": "Football",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Holiday Ticket Deals Available Across Maine Athletics",
+      "url": "https://goblackbears.com/news/2026/11/24/womens-ice-hockey-holiday-ticket-deals-available-across-maine-athletics",
+      "summary": "ORONO, Maine -- Black Bear Nation can secure seats to a selection of upcoming games with several holiday ticket offers and opportunities across three sports. All deals begin on Black Friday, Nov. 27 and will run through Cyber Monday on Nov. 30.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/landscape.jpg",
+      "published": "Tue, 24 Nov 2026 15:51:00 EST",
+      "sport": "Men's Basketball, Women's Basketball, Women's Ice Hockey",
+      "source": "goblackbears"
+    },
     {
       "title": "Men's Swim & Dive places fourth at Harold Anderson Invitational",
       "url": "https://goblackbears.com/news/2026/11/22/mens-swimming-and-diving-mens-swim-dive-places-fourth-at-harold-anderson-invitational",
@@ -71,15 +89,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/30/streams-dribble-BU.png",
       "published": "Sat, 21 Nov 2026 14:57:00 EST",
       "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Maine Athletics announce plans for Jack Cosgrove (\u201878, \u201884) Football Wing at Morse Arena",
-      "url": "https://goblackbears.com/news/2026/11/21/maine-athletics-announce-plans-for-jack-cosgrove-78-84-football-wing-at-morse-arena",
-      "summary": "ORONO, Maine \u2014 The University of Maine announced plans to name the football operations footprint within Morse Arena for Jack Cosgrove, former quarterback and 23-year head football coach.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/21/Cosgrove-Family-Rink.png",
-      "published": "Sat, 21 Nov 2026 09:01:00 EST",
-      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -218,15 +227,6 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Women's Basketball to host Oregon, Red Panda",
-      "url": "https://goblackbears.com/news/2026/11/12/preview-womens-basketball-to-host-oregon-red-panda",
-      "summary": "ORONO, Maine -- The University of Maine women's basketball team looks for its first 3-0 start since 2020 when they take on Big Ten opponent Oregon in the first-ever meeting between the two programs on Friday evening at 7 p.m. Limited tickets for this game are available by visiting GoBlackBears.com/Tickets.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/wood-action-siena.png",
-      "published": "Thu, 12 Nov 2026 14:39:00 EST",
-      "sport": "Women's Basketball",
-      "source": "goblackbears"
-    },
-    {
       "title": "PREVIEW: Men's basketball continues road trip on Saturday at UMass",
       "url": "https://goblackbears.com/news/2026/11/20/mens-basketball-preview-mens-basketball-continues-road-trip-on-saturday-at-umass",
       "summary": "The University of Maine men's basketball program continues their road trip with a stop at UMass on Saturday night.",
@@ -299,12 +299,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Men's basketball hosts Manhattan in home opener",
-      "url": "https://goblackbears.com/news/2026/11/7/mens-basketball-preview-mens-basketball-hosts-manhattan-in-home-opener",
-      "summary": "The University of Maine men's basketball program will host Manhattan in their home opener on Sunday, Nov. 8. The game is the final contest for both teams in the America East-Metro Basketball Challenge.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/7/562A4898.jpg",
-      "published": "Sat, 7 Nov 2026 11:00:00 EST",
-      "sport": "Men's Basketball",
+      "title": "Maine Athletics announce plans for Jack Cosgrove (\u201878, \u201884) Football Wing at Morse Arena",
+      "url": "https://goblackbears.com/news/2026/11/21/maine-athletics-announce-plans-for-jack-cosgrove-78-84-football-wing-at-morse-arena",
+      "summary": "ORONO, Maine \u2014 The University of Maine announced plans to name the football operations footprint within Morse Arena for Jack Cosgrove, former quarterback and 23-year head football coach.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/21/Cosgrove-Family-Rink.png",
+      "published": "Sat, 21 Nov 2026 09:01:00 EST",
+      "sport": "Football",
       "source": "goblackbears"
     },
     {
@@ -371,13 +371,14 @@
       "source": "goblackbears"
     },
     {
-      "title": "Football falls to #13/16 Campbell on Saturday afternoon",
-      "url": "https://goblackbears.com/news/2026/10/24/football-falls-to-13-16-campbell-on-saturday-afternoon",
-      "summary": "The University of Maine football program fell to #13/16 Campbell on Saturday afternoon.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/24/0Z8_9657.jpg",
-      "published": "Sat, 24 Oct 2026 16:53:00 EST",
-      "sport": "Football",
-      "source": "goblackbears"
+      "title": "Analysis: UMaine hockey needs more production from veteran forwards",
+      "url": "https://www.bangordailynews.com/2026/11/24/sports/college-ice-hockey/umaine-hockey-veteran-forwards-stuggles/",
+      "summary": "UMaine sixth-year hockey coach Ben Barr might as well give more ice time to the newcomers while hoping the struggling veterans can find their game.",
+      "image": "",
+      "published": "Tue, 24 Nov 2026 18:01:46 +0000",
+      "sport": "College Ice Hockey",
+      "source": "bdn",
+      "author": "Larry Mahoney"
     },
     {
       "title": "BC men\u2019s hockey hangs on for win over UMaine",
@@ -570,16 +571,6 @@
       "author": "Larry Mahoney"
     },
     {
-      "title": "UMaine goalie Wickstrom Stumer shuts out Colgate",
-      "url": "https://www.bangordailynews.com/2026/10/23/sports/college-ice-hockey/umaine-goalie-wickstrom-stumer-shuts-out-colgate/",
-      "summary": "It was the second career shutout for the Canisius University transfer from Stockholm, Sweden.",
-      "image": "",
-      "published": "Sat, 24 Oct 2026 01:41:33 +0000",
-      "sport": "College Ice Hockey",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
       "title": "Kaliyah Sain\u2019s 15 overtime points lead UMaine women\u2019s basketball to win over VCU",
       "url": "https://www.bangordailynews.com/2026/11/20/sports/college-basketball/umaine-womens-basketball-virginia-commonwealth-university-overtime-win-kaliyah-sain/",
       "summary": "She scored six unanswered points in overtime to give UMaine a lead it would never relinquish.",
@@ -746,6 +737,16 @@
       "image": "",
       "published": "Sat, 16 May 2026 05:00:00 +0000",
       "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine football coach Jordan Stevens will return after one\u00a0of the program\u2019s worst\u00a0seasons",
+      "url": "https://www.bangordailynews.com/2026/11/24/sports/college-football/umaine-football-coach-jordan-stevens-will-return-after-bad-season/",
+      "summary": "The Black Bears set program records for most losses in a season and longest losing streak in one campaign.",
+      "image": "",
+      "published": "Tue, 24 Nov 2026 21:32:19 +0000",
+      "sport": "College Football",
       "source": "bdn",
       "author": "Larry Mahoney"
     },
