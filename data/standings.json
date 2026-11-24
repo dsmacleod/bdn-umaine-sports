@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T23:03:25.379878+00:00",
+  "last_updated": "2026-11-24T12:03:37.198617+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -683,9 +683,9 @@
           "school": "Binghamton",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "4-3",
+          "overall": "5-3",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "W2",
           "is_umaine": false
         },
         {
