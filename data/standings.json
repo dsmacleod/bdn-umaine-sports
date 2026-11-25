@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T10:55:25.309708+00:00",
+  "last_updated": "2026-11-25T20:50:37.086178+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -638,9 +638,18 @@
           "school": "NJIT",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "5-2",
+          "overall": "6-2",
           "pct": ".000",
-          "streak": "L1",
+          "streak": "W1",
+          "is_umaine": false
+        },
+        {
+          "school": "Vermont",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "6-2",
+          "pct": ".000",
+          "streak": "W4",
           "is_umaine": false
         },
         {
@@ -650,15 +659,6 @@
           "overall": "5-2",
           "pct": ".000",
           "streak": "W2",
-          "is_umaine": false
-        },
-        {
-          "school": "Vermont",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "5-2",
-          "pct": ".000",
-          "streak": "W3",
           "is_umaine": false
         },
         {
