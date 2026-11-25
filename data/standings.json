@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T21:42:56.356977+00:00",
+  "last_updated": "2026-11-25T10:55:25.309708+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -194,12 +194,12 @@
             "ga": 14
           },
           "overall": {
-            "gp": 10,
-            "w": 7,
+            "gp": 11,
+            "w": 8,
             "l": 3,
             "t": 0,
-            "gf": 37,
-            "ga": 23
+            "gf": 42,
+            "ga": 26
           },
           "is_umaine": false
         },
@@ -551,18 +551,18 @@
           "school": "Binghamton",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "4-3",
+          "overall": "5-3",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "W2",
           "is_umaine": false
         },
         {
           "school": "New Hampshire",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "4-3",
+          "overall": "4-4",
           "pct": ".000",
-          "streak": "L1",
+          "streak": "L2",
           "is_umaine": false
         },
         {
@@ -578,27 +578,27 @@
           "school": "UMBC",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "4-4",
+          "overall": "4-5",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "L1",
           "is_umaine": false
         },
         {
           "school": "Vermont",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "3-3",
+          "overall": "3-4",
           "pct": ".000",
-          "streak": "W1",
+          "streak": "L1",
           "is_umaine": false
         },
         {
           "school": "Bryant",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "3-4",
+          "overall": "3-5",
           "pct": ".000",
-          "streak": "W2",
+          "streak": "L1",
           "is_umaine": false
         },
         {
@@ -629,18 +629,9 @@
           "school": "Bryant",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "6-0",
+          "overall": "6-1",
           "pct": ".000",
-          "streak": "W6",
-          "is_umaine": false
-        },
-        {
-          "school": "New Hampshire",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "5-2",
-          "pct": ".000",
-          "streak": "W3",
+          "streak": "L1",
           "is_umaine": false
         },
         {
@@ -686,6 +677,15 @@
           "overall": "5-3",
           "pct": ".000",
           "streak": "W2",
+          "is_umaine": false
+        },
+        {
+          "school": "New Hampshire",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "5-3",
+          "pct": ".000",
+          "streak": "L1",
           "is_umaine": false
         },
         {
