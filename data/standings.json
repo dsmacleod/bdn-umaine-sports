@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T20:50:37.086178+00:00",
+  "last_updated": "2026-11-26T10:30:46.386503+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -569,9 +569,9 @@
           "school": "UAlbany",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "4-4",
+          "overall": "4-5",
           "pct": ".000",
-          "streak": "L2",
+          "streak": "L3",
           "is_umaine": false
         },
         {
@@ -614,9 +614,9 @@
           "school": "NJIT",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "1-7",
+          "overall": "1-8",
           "pct": ".000",
-          "streak": "L5",
+          "streak": "L6",
           "is_umaine": false
         }
       ]
@@ -644,21 +644,21 @@
           "is_umaine": false
         },
         {
+          "school": "UAlbany",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "6-2",
+          "pct": ".000",
+          "streak": "W3",
+          "is_umaine": false
+        },
+        {
           "school": "Vermont",
           "conference": "0-0",
           "conference_pct": ".000",
           "overall": "6-2",
           "pct": ".000",
           "streak": "W4",
-          "is_umaine": false
-        },
-        {
-          "school": "UAlbany",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "5-2",
-          "pct": ".000",
-          "streak": "W2",
           "is_umaine": false
         },
         {
