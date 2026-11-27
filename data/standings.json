@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T10:34:48.641640+00:00",
+  "last_updated": "2026-11-27T20:27:58.221360+00:00",
   "conferences": {
     "mhockey": {
       "teams": [
@@ -19,12 +19,12 @@
             "ga": 16
           },
           "overall": {
-            "gp": 12,
-            "w": 10,
+            "gp": 13,
+            "w": 11,
             "l": 2,
             "t": 0,
-            "gf": 57,
-            "ga": 25
+            "gf": 61,
+            "ga": 26
           },
           "is_umaine": false
         },
@@ -473,12 +473,12 @@
             "ga": 22
           },
           "overall": {
-            "gp": 14,
+            "gp": 15,
             "w": 6,
-            "l": 8,
+            "l": 9,
             "t": 0,
-            "gf": 34,
-            "ga": 33
+            "gf": 37,
+            "ga": 39
           },
           "is_umaine": false
         },
@@ -542,9 +542,9 @@
           "school": "UMass Lowell",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "4-2",
+          "overall": "5-2",
           "pct": ".000",
-          "streak": "L1",
+          "streak": "W1",
           "is_umaine": false
         },
         {
@@ -584,21 +584,21 @@
           "is_umaine": false
         },
         {
-          "school": "Vermont",
-          "conference": "0-0",
-          "conference_pct": ".000",
-          "overall": "3-4",
-          "pct": ".000",
-          "streak": "L1",
-          "is_umaine": false
-        },
-        {
           "school": "Bryant",
           "conference": "0-0",
           "conference_pct": ".000",
           "overall": "3-5",
           "pct": ".000",
           "streak": "L1",
+          "is_umaine": false
+        },
+        {
+          "school": "Vermont",
+          "conference": "0-0",
+          "conference_pct": ".000",
+          "overall": "3-5",
+          "pct": ".000",
+          "streak": "L2",
           "is_umaine": false
         },
         {
@@ -653,21 +653,21 @@
           "is_umaine": false
         },
         {
-          "school": "Vermont",
+          "school": "Binghamton",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "6-2",
+          "overall": "7-3",
           "pct": ".000",
           "streak": "W4",
           "is_umaine": false
         },
         {
-          "school": "Binghamton",
+          "school": "Vermont",
           "conference": "0-0",
           "conference_pct": ".000",
           "overall": "6-3",
           "pct": ".000",
-          "streak": "W3",
+          "streak": "L1",
           "is_umaine": false
         },
         {
@@ -692,9 +692,9 @@
           "school": "UMBC",
           "conference": "0-0",
           "conference_pct": ".000",
-          "overall": "4-3",
+          "overall": "5-3",
           "pct": ".000",
-          "streak": "L3",
+          "streak": "W1",
           "is_umaine": false
         },
         {
