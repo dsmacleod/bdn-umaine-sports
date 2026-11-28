@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-27T20:27:58.221360+00:00",
+  "last_updated": "2026-11-28T09:52:01.130522+00:00",
   "articles": [
+    {
+      "title": "Black Bears drop opening game of Daytona Beach Classic to #11 Kentucky",
+      "url": "https://goblackbears.com/news/2026/11/27/womens-basketball-black-bears-drop-opening-game-of-daytona-beach-classic-to-kentucky",
+      "summary": "DAYTONA BEACH, Fla. \u2014\u00a0The University of Maine women's basketball fell to undefeated Kentucky, 74\u201328, Friday at the Daytona Beach Classic.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/27/gruber-kentucky.png",
+      "published": "Fri, 27 Nov 2026 19:45:00 EST",
+      "sport": "Women's Basketball",
+      "source": "goblackbears"
+    },
+    {
+      "title": "Men's basketball takes down Le Moyne in the opening game of the Lafayette Classic",
+      "url": "https://goblackbears.com/news/2026/11/27/mens-basketball-mens-basketball-takes-down-le-moyne-in-the-opening-game-of-the-lafayette-classic",
+      "summary": "The University of Maine men's basketball program picked up the win in the opening game of the Lafayette Classic over Le Moyne in overtime, 90-86.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/27/DSC00362.JPG",
+      "published": "Fri, 27 Nov 2026 16:45:00 EST",
+      "sport": "Men's Basketball",
+      "source": "goblackbears"
+    },
     {
       "title": "PREVIEW: Men's basketball set to compete in Lafayette Classic",
       "url": "https://goblackbears.com/news/2026/11/25/mens-basketball-preview-mens-basketball-set-to-compete-in-lafayette-classic",
@@ -80,15 +98,6 @@
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/21/LindseyPellett-6712.jpg",
       "published": "Sat, 21 Nov 2026 22:40:00 EST",
       "sport": "Men's Ice Hockey",
-      "source": "goblackbears"
-    },
-    {
-      "title": "Men's basketball falls at UMass on Saturday night",
-      "url": "https://goblackbears.com/news/2026/11/21/mens-basketball-mens-basketball-falls-at-umass-on-saturday-night",
-      "summary": "The University of Maine men's basketball program was defeated by UMass on Saturday night.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/21/DSC00508.jpg",
-      "published": "Sat, 21 Nov 2026 20:06:00 EST",
-      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -218,12 +227,12 @@
       "source": "goblackbears"
     },
     {
-      "title": "PREVIEW: Women's Basketball welcomes Brown on Military Appreciation Day",
-      "url": "https://goblackbears.com/news/2026/11/14/preview-womens-basketball-welcomes-brown-on-military-appreciation-day",
-      "summary": "ORONO, Maine -- The University of Maine women's basketball team hosts Brown on Military Appreciation Day, presented by General Dynamics Bath Iron Works this Sunday, Nov. 15, at 1 p.m. Limited tickets for this game are available by visiting GoBlackBears.com/Ticket.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/huddle-oregon.png",
-      "published": "Sat, 14 Nov 2026 14:09:00 EST",
-      "sport": "Women's Basketball",
+      "title": "Men's basketball falls at UMass on Saturday night",
+      "url": "https://goblackbears.com/news/2026/11/21/mens-basketball-mens-basketball-falls-at-umass-on-saturday-night",
+      "summary": "The University of Maine men's basketball program was defeated by UMass on Saturday night.",
+      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/21/DSC00508.jpg",
+      "published": "Sat, 21 Nov 2026 20:06:00 EST",
+      "sport": "Men's Basketball",
       "source": "goblackbears"
     },
     {
@@ -277,15 +286,6 @@
       "summary": "The University of Maine men's basketball program was defeated by Rhode Island on Tuesday night.",
       "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/562A9804.jpg",
       "published": "Tue, 10 Nov 2026 21:09:00 EST",
-      "sport": "Men's Basketball",
-      "source": "goblackbears"
-    },
-    {
-      "title": "PREVIEW: Men's basketball heads to Rhode Island to face the Rams",
-      "url": "https://goblackbears.com/news/2026/11/9/mens-basketball-preview-mens-basketball-heads-to-rhode-island-to-face-the-rams",
-      "summary": "The University of Maine men's basketball program heads to Rhode Island to face the Rams on Tuesday night.",
-      "image": "https://goblackbears.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/562A9580.jpg",
-      "published": "Mon, 9 Nov 2026 10:00:00 EST",
       "sport": "Men's Basketball",
       "source": "goblackbears"
     },
@@ -571,6 +571,26 @@
       "author": "Larry Mahoney"
     },
     {
+      "title": "Nationally ranked Kentucky women\u2019s basketball routs UMaine",
+      "url": "https://www.bangordailynews.com/2026/11/27/sports/college-basketball/kentucky-womens-basketball-routs-umaine/",
+      "summary": "The Black Bears will take on Tulane from Louisiana on Saturday at 11 a.m. in their final Daytona Beach Classic game.",
+      "image": "",
+      "published": "Sat, 28 Nov 2026 02:13:05 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
+      "title": "UMaine men\u2019s basketball edges Le Moyne in overtime behind Franz\u2019s late heroics",
+      "url": "https://www.bangordailynews.com/2026/11/27/sports/college-basketball/umaine-mens-basketball-beats-le-moyne/",
+      "summary": "The Black Bears will play Lafayette on Saturday at 4:30 and Niagara on Sunday at noon.",
+      "image": "",
+      "published": "Sat, 28 Nov 2026 00:01:37 +0000",
+      "sport": "College Basketball",
+      "source": "bdn",
+      "author": "Larry Mahoney"
+    },
+    {
       "title": "Kaliyah Sain\u2019s 15 overtime points lead UMaine women\u2019s basketball to win over VCU",
       "url": "https://www.bangordailynews.com/2026/11/20/sports/college-basketball/umaine-womens-basketball-virginia-commonwealth-university-overtime-win-kaliyah-sain/",
       "summary": "She scored six unanswered points in overtime to give UMaine a lead it would never relinquish.",
@@ -716,26 +736,6 @@
       "summary": "Game times have not been determined yet, as they will be established by the host schools.",
       "image": "",
       "published": "Fri, 03 Jul 2026 05:00:00 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine women\u2019s basketball adds guard from Arizona Christian",
-      "url": "https://www.bangordailynews.com/2026/06/11/sports/college-basketball/umaine-womens-basketball-adds-guard-from-arizona-christian/",
-      "summary": "Taylor Schwab, who will be a junior, was the Firestorm\u2019s second-leading scorer this past season.",
-      "image": "",
-      "published": "Thu, 11 Jun 2026 20:45:03 +0000",
-      "sport": "College Basketball",
-      "source": "bdn",
-      "author": "Larry Mahoney"
-    },
-    {
-      "title": "UMaine basketball coaches support NCAA tourney expansion but unsure of its impact",
-      "url": "https://www.bangordailynews.com/2026/05/16/sports/college-basketball/umaine-basketball-coaches-support-ncaa-tourney-expansion-unsure-of-impact-joam40zk0w/",
-      "summary": "Under the old format, there were four First Four games, and the winners moved on to the 64-team tournament field. With the new format, there will be 12 games involving 24 teams with six games after Selection Sunday.",
-      "image": "",
-      "published": "Sat, 16 May 2026 05:00:00 +0000",
       "sport": "College Basketball",
       "source": "bdn",
       "author": "Larry Mahoney"
